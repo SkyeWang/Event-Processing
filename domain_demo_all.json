@@ -1,0 +1,186 @@
+{
+  "kind": "6G/BCI领域文本演示汇总；无人工金标准，不计入测试指标",
+  "count": 6,
+  "items": [
+    {
+      "text": "我期待6G网络带来更稳定的连接，但也担心隐私风险。",
+      "sentiment": {
+        "label": 1,
+        "name": "正向",
+        "probabilities": {
+          "负向": 0.4632849135733148,
+          "正向": 0.5367150864266852
+        }
+      },
+      "objects": [
+        "6G网络",
+        "隐私风险"
+      ],
+      "opinions": [
+        "期待",
+        "更稳定",
+        "担心"
+      ],
+      "action": "带来",
+      "element_policy": "domain_rules",
+      "raw_model_elements": {
+        "objects": [
+          "G网络",
+          "担心",
+          "私风"
+        ],
+        "opinions": [
+          "更",
+          "稳定的连"
+        ]
+      },
+      "element_note": "领域词表规则校正展示；原模型输出保留供核对，不计入测试集指标"
+    },
+    {
+      "text": "6G网络的低时延能力让远程控制更可靠，但网络安全问题仍然令人担忧。",
+      "sentiment": {
+        "label": 0,
+        "name": "负向",
+        "probabilities": {
+          "负向": 0.5493988767483489,
+          "正向": 0.45060112325165114
+        }
+      },
+      "objects": [
+        "6G网络"
+      ],
+      "opinions": [
+        "担忧"
+      ],
+      "action": "控制",
+      "element_policy": "domain_rules",
+      "raw_model_elements": {
+        "objects": [
+          "G网络",
+          "网络安全"
+        ],
+        "opinions": [
+          "令人担忧"
+        ]
+      },
+      "element_note": "领域词表规则校正展示；原模型输出保留供核对，不计入测试集指标"
+    },
+    {
+      "text": "我期待6G降低通信延迟并提升连接稳定性，同时希望它更加节能。",
+      "sentiment": {
+        "label": 1,
+        "name": "正向",
+        "probabilities": {
+          "负向": 0.49708513463975823,
+          "正向": 0.5029148653602418
+        }
+      },
+      "objects": [
+        "6G"
+      ],
+      "opinions": [
+        "期待",
+        "稳定"
+      ],
+      "action": "降低",
+      "element_policy": "domain_rules",
+      "raw_model_elements": {
+        "objects": [
+          "G降",
+          "延迟"
+        ],
+        "opinions": [
+          "稳定",
+          "节"
+        ]
+      },
+      "element_note": "领域词表规则校正展示；原模型输出保留供核对，不计入测试集指标"
+    },
+    {
+      "text": "脑机接口帮助患者控制机械臂令人振奋，但脑信号隐私保护必须加强。",
+      "sentiment": {
+        "label": 0,
+        "name": "负向",
+        "probabilities": {
+          "负向": 0.5074433495461192,
+          "正向": 0.49255665045388075
+        }
+      },
+      "objects": [
+        "脑机接口",
+        "脑信号"
+      ],
+      "opinions": [
+        "令人振奋"
+      ],
+      "action": "帮助",
+      "element_policy": "domain_rules",
+      "raw_model_elements": {
+        "objects": [
+          "脑",
+          "保护"
+        ],
+        "opinions": [
+          "必须加强"
+        ]
+      },
+      "element_note": "领域词表规则校正展示；原模型输出保留供核对，不计入测试集指标"
+    },
+    {
+      "text": "脑机接口的应用前景很好，不过数据泄露风险让我感到担忧。",
+      "sentiment": {
+        "label": 0,
+        "name": "负向",
+        "probabilities": {
+          "负向": 0.5122977761129489,
+          "正向": 0.4877022238870511
+        }
+      },
+      "objects": [
+        "脑机接口"
+      ],
+      "opinions": [
+        "担忧"
+      ],
+      "action": "接口",
+      "element_policy": "domain_rules",
+      "raw_model_elements": {
+        "objects": [
+          "脑机",
+          "露"
+        ],
+        "opinions": [
+          "很好"
+        ]
+      },
+      "element_note": "领域词表规则校正展示；原模型输出保留供核对，不计入测试集指标"
+    },
+    {
+      "text": "6G与脑机接口结合后可能改善辅助设备体验，但安全边界需要明确。",
+      "sentiment": {
+        "label": 0,
+        "name": "负向",
+        "probabilities": {
+          "负向": 0.5541864038421607,
+          "正向": 0.4458135961578393
+        }
+      },
+      "objects": [
+        "6G",
+        "脑机接口",
+        "辅助设备"
+      ],
+      "opinions": [],
+      "action": "改善",
+      "element_policy": "domain_rules",
+      "raw_model_elements": {
+        "objects": [
+          "G与脑机",
+          "安全"
+        ],
+        "opinions": []
+      },
+      "element_note": "领域词表规则校正展示；原模型输出保留供核对，不计入测试集指标"
+    }
+  ]
+}\n

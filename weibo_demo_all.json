@@ -1,0 +1,244 @@
+{
+  "kind": "微博独立测试集案例汇总",
+  "source": "data/processed/emotion_test.csv",
+  "note": "样本来自固定测试集；gold_label 是数据标签，prediction 是模型输出；用于案例分析，不替代总体指标。",
+  "count": 10,
+  "items": [
+    {
+      "text": "哈哈，因为穷。//@面痴高文麒: 午饭、晚饭都不吃了！",
+      "gold_label": 0,
+      "gold_name": "负向",
+      "prediction": {
+        "text": "哈哈，因为穷。//@面痴高文麒: 午饭、晚饭都不吃了！",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.40519138750762296,
+            "正向": 0.594808612492377
+          }
+        },
+        "objects": [
+          "哈哈"
+        ],
+        "opinions": [
+          "不"
+        ],
+        "action": "不吃",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "@维维酱丶你支持不//@吸血鬼日?官?:?烈支持 CK 在一起！！！",
+      "gold_label": 0,
+      "gold_name": "负向",
+      "prediction": {
+        "text": "@维维酱丶你支持不//@吸血鬼日?官?:?烈支持 CK 在一起！！！",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.441751697258117,
+            "正向": 0.558248302741883
+          }
+        },
+        "objects": [],
+        "opinions": [],
+        "action": "支持",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "我不开心不开心不开心不开心不开心不开心不开心不开心不开心不开心，谁都别理我！",
+      "gold_label": 0,
+      "gold_name": "负向",
+      "prediction": {
+        "text": "我不开心不开心不开心不开心不开心不开心不开心不开心不开心不开心，谁都别理我！",
+        "sentiment": {
+          "label": 0,
+          "name": "负向",
+          "probabilities": {
+            "负向": 0.5333444328658825,
+            "正向": 0.46665556713411754
+          }
+        },
+        "objects": [],
+        "opinions": [
+          "不开",
+          "不"
+        ],
+        "action": "开心",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "有一种痛叫“你不放手，我也不会放手” 右边的你为毛笑那么开心。。。不疼么你个熊孩子，，，",
+      "gold_label": 0,
+      "gold_name": "负向",
+      "prediction": {
+        "text": "有一种痛叫“你不放手，我也不会放手” 右边的你为毛笑那么开心。。。不疼么你个熊孩子，，，",
+        "sentiment": {
+          "label": 0,
+          "name": "负向",
+          "probabilities": {
+            "负向": 0.6843653506853558,
+            "正向": 0.3156346493146442
+          }
+        },
+        "objects": [
+          "毛笑"
+        ],
+        "opinions": [
+          "种",
+          "不会放",
+          "不"
+        ],
+        "action": "开心",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "亲爱滴，我滴小裙子和长毛衣好喜欢 小姨好无辜被我们拉来居然买了件长貂 我也好想要 @Freja宫凡",
+      "gold_label": 0,
+      "gold_name": "负向",
+      "prediction": {
+        "text": "亲爱滴，我滴小裙子和长毛衣好喜欢 小姨好无辜被我们拉来居然买了件长貂 我也好想要 @Freja宫凡",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.46753437986743096,
+            "正向": 0.532465620132569
+          }
+        },
+        "objects": [
+          "毛衣"
+        ],
+        "opinions": [
+          "好喜欢"
+        ],
+        "action": "喜欢",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "哈哈小家伙真可爱",
+      "gold_label": 1,
+      "gold_name": "正向",
+      "prediction": {
+        "text": "哈哈小家伙真可爱",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.3204406313310739,
+            "正向": 0.6795593686689261
+          }
+        },
+        "objects": [
+          "哈哈小"
+        ],
+        "opinions": [
+          "真可爱"
+        ],
+        "action": "可爱",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "期待 @张译 @朱斌",
+      "gold_label": 1,
+      "gold_name": "正向",
+      "prediction": {
+        "text": "期待 @张译 @朱斌",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.286425775776016,
+            "正向": 0.713574224223984
+          }
+        },
+        "objects": [
+          "@",
+          "@朱斌"
+        ],
+        "opinions": [],
+        "action": "期待",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "期待更多老北京的作品吧！",
+      "gold_label": 1,
+      "gold_name": "正向",
+      "prediction": {
+        "text": "期待更多老北京的作品吧！",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.413627789713472,
+            "正向": 0.586372210286528
+          }
+        },
+        "objects": [
+          "品吧！"
+        ],
+        "opinions": [],
+        "action": "期待",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "哈哈 大姐你能再逗一些吗？",
+      "gold_label": 1,
+      "gold_name": "正向",
+      "prediction": {
+        "text": "哈哈 大姐你能再逗一些吗？",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.37952914400582316,
+            "正向": 0.6204708559941768
+          }
+        },
+        "objects": [
+          "哈哈 "
+        ],
+        "opinions": [
+          "再"
+        ],
+        "action": "<none>",
+        "element_policy": "model"
+      }
+    },
+    {
+      "text": "很早啊！！今天也期待你的微博~~",
+      "gold_label": 1,
+      "gold_name": "正向",
+      "prediction": {
+        "text": "很早啊！！今天也期待你的微博~~",
+        "sentiment": {
+          "label": 1,
+          "name": "正向",
+          "probabilities": {
+            "负向": 0.44038087982002905,
+            "正向": 0.559619120179971
+          }
+        },
+        "objects": [
+          "！",
+          "~~"
+        ],
+        "opinions": [
+          "很早",
+          "待你"
+        ],
+        "action": "期待",
+        "element_policy": "model"
+      }
+    }
+  ]
+}

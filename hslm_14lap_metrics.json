@@ -1,0 +1,10 @@
+{
+  "dev_best_f1": 0.2808,
+  "dev_best_pair_f1": 0.3755,
+  "dev_best_aspect_f1": 0.6917,
+  "test_precision": 0.2578,
+  "test_recall": 0.4088,
+  "test_f1": 0.3162,
+  "test_aspect_opinion_f1": 0.4009,
+  "test_aspect_f1": 0.6806
+}
