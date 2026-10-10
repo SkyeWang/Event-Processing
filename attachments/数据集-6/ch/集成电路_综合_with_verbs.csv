@@ -1,0 +1,12 @@
+entity1,relation,entity2,source_text,source_type
+Intel,量产,High NA EUV晶圆,Intel和ASML宣布量产100万片High NA EUV晶圆。,baidu_news
+ASML,推进,High NA EUV大规模量产,ASML宣布High NA EUV光刻机迈向大规模量产时代。,baidu_news
+中国科学院微电子所,实现,GAA晶体管技术突破,中科院微电子所有了新突破，可以在DUV光刻下，实现GAA晶体管技术的CMOS集成先导工艺。,baidu_news
+中国科学院,研发,新型GAA晶体管架构,中国科学院公布了一种新型全环绕栅极晶体管架构，在DUV光刻机上实现了开关比超过50万倍的性能表现。,baidu_news
+ASML,交付,High NA EUV光刻机,阿斯麦公司宣布，英特尔代工已在其18Å工艺的部分图层上，使用数值孔径为0.55的High NA EUV光刻机进入高量产阶段。,baidu_news
+三星,引入,High NA EUV技术,Samsung plans to introduce ASML's High NA EUV lithography technology into high-volume manufacturing.,bing_academic
+中科院微电子所,完成,CMOS器件研发,可以在DUV光刻下，实现GAA晶体管技术的CMOS集成先导工艺，并且已经完成了CMOS器件研发。,baidu_news
+GAA晶体管技术,解锁,3纳米先进工艺,理论上为我国通过DUV光刻解锁3纳米及以下先进工艺打开了一个'理论窗口'。,baidu_news
+Intel,合作,ASML,Intel Foundry and ASML Collaborate to Accelerate Industry Readiness for High-NA EUV.,baidu_news
+台积电,支持,ASML更大掩模方案,TSMC backs ASML's plan for bigger masks so its newest machines can print AI's biggest chips.,bing_academic
+Imec,推进,CAR光刻胶至22nm间距,Imec pushes CAR resists to 22nm pitch.,bing_academic

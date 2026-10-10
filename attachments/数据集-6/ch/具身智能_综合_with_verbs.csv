@@ -1,0 +1,14 @@
+entity1,relation,entity2,source_text,source_type
+Figure公司,发布,神经网络模型Helix 2.5,人形机器人公司Figure发布其研发的神经网络模型Helix 2.5，能让机器人自主操作家务。,baidu_news
+宇树科技,发布,通用人形机器人基础模型,宇树科技发布全新一代通用人形机器人基础模型UnifoLM-WLA-1.0并宣布开源。,baidu_news
+松延动力,发布,具身智能模型HERON-World Model,松延动力于9月8日对外发布首个自研具身智能模型'HERRON-World Model'。,baidu_news
+小鹏机器人,启用,人形机器人生产线,9月9日，小鹏机器人生产线正式启用，全球首位高阶通用人形机器人完成自动化总装并自主走下产线亮相。,baidu_news
+特斯拉,改造,Optimus专用产线,特斯拉正式停产Model S和Model X，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台。,baidu_news
+北京人形机器人创新中心,发布,慧思开物Agent,北京人形机器人创新中心发布了'慧思开物Agent'。,baidu_news
+他山科技,启用,机器人强化学习实验场,北京他山科技有限公司与图灵奖得主理查德·萨顿团队Openmind联合共建的机器人强化学习实验场正式启用。,baidu_news
+光轮智能,发布,人类行为数据集EgoSuite,全球首个物理AI/具身数据赛道独角兽光轮智能发布10万小时级全模态开源人类行为数据集EgoSuite。,baidu_news
+Figure 03机器人,完成,自主作业,搭载Helix 2.5的Figure 03人形机器人可以在陌生环境进行自主作业，穿过狭小的空间，整理客厅和床铺。,baidu_news
+优必选,落地,AI双循环体系,优必选已落地'群脑网络2.0+Co-Agent'组成的AI双循环体系，在真实工厂环境中可完成多台人形机器人的群体协同实训。,baidu_news
+银河通用,研发,智能规控算法LATENT,北京银河通用机器人团队自研的智能规控算法'LATENT'，为机器人装上'运动小脑'。,baidu_news
+Figure,发布,神经网络模型,Figure发布其最新研发的神经网络模型Helix 2.5，使用更少的专用数据实现更强的泛化性。,baidu_news
+宇树科技,展示,机器人日常任务执行,宇树科技展示了机器人自主执行收纳工具箱、叠毛巾、向洗衣机投放衣物等日常任务。,baidu_news

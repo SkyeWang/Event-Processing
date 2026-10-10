@@ -1,0 +1,8 @@
+entity1,relation,entity2,source_text,source_type
+Intel,achieve,High NA EUV volume production,Intel Foundry and ASML highlighted continued progress in bringing High NA EUV into volume production.,bbc
+ASML,collaborate,with Samsung on next-gen manufacturing,Samsung and ASML team up on next-generation semiconductor manufacturing technology.,bbc
+TSMC,adopt,High NA EUV by 2030,TSMC intends to use High NA in high-volume manufacturing at advanced nodes from 2030.,bbc
+ASML,develop,larger mask sizes,"ASML plans to transition to larger mask sizes, allowing High NA machines to produce data center chips.",cnn
+Samsung,introduce,High NA EUV for DRAM,Samsung plans to introduce ASML's High NA EUV lithography technology into high-volume manufacturing of DRAM by 2028.,bbc
+Intel Foundry,produce,Panther Lake processors,"Volume production on select layers for a subset of Intel Core Ultra Series 3 processors, code-named Panther Lake.",cnn
+Imec,present,22nm pitch results,The results were presented at the 2026 SPIE Photomask Technology + EUV Lithography Conference.,youtube_title

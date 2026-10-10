@@ -1,0 +1,10 @@
+entity1,relation,entity2,source_text,source_type
+HRL实验室,制造,硅基量子处理器单元,HRL实验室制造出了一个可编码18个纯交换类型比特的高度集成化硅基量子处理器单元。,baidu_news
+硅基量子芯片,执行,基本运算,《自然》杂志发表了两组独立研究，报告了基于硅的量子计算芯片，已能执行对实现量子计算至关重要的基本运算。,baidu_news
+Quantinuum,发布,98量子比特处理器,Quantinuum Helios，a 98-qubit trapped-ion quantum processor based on the quantum charge-coupled device architecture.,bing_academic
+Helios处理器,实现,全连接量子操作,Helios features all-to-all connectivity enabled by a rotatable ion storage ring.,bing_academic
+微软,发布,Majorana 2量子芯片,"Microsoft has unveiled Majorana 2, a next-generation topological quantum chip.",baidu_news
+MIT,设计,新型量子比特架构,Researchers from MIT have designed a new qubit architecture that enables qubits to interact with each other much more quickly.,baidu_news
+Helios处理器,达到,99.92%双量子比特门保真度,"Helios uses barium ions as the qubits, achieving 99.92% two-qubit gate fidelity.",bing_academic
+硅基量子处理器,集成,控制硬件,该量子处理单元将控制硬件集成在低温恒温器内部，并配备了一块由商业代工厂制造的、可数字编程的定制芯片。,baidu_news
+imec,实现,八硅MOS自旋量子比特相干操作,First coherent operation of eight silicon MOS spin qubits fabricated in a 300mm platform.,bing_academic

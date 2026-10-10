@@ -1,0 +1,8 @@
+entity1,relation,entity2,source_text,source_type
+Quantinuum,report,98-qubit trapped-ion processor,"We report on Quantinuum Helios, a 98-qubit trapped-ion quantum processor.",youtube_title
+Helios,achieve,all-to-all connectivity,Helios features all-to-all connectivity enabled by a rotatable ion storage ring.,youtube_title
+HRL Laboratories,fabricate,silicon quantum processor,HRL Laboratories fabricated a highly integrated silicon quantum processor unit encoding 18 exchange-only qubits.,bbc
+Silicon quantum chips,execute,basic operations,Two independent studies report silicon-based quantum computing chips that can execute basic operations.,bbc
+Microsoft,unveil,Majorana 2 quantum chip,"Microsoft has unveiled Majorana 2, a next-generation topological quantum chip with 1,000-fold qubit reliability improvement.",twitter
+MIT,design,new qubit architecture,MIT researchers designed a new qubit architecture enabling faster and more stable qubit interactions.,youtube_title
+Helios,demonstrate,quantum advantage,"Helios operates well beyond the reach of classical simulation, establishing a new frontier of fidelity and complexity.",youtube_title
