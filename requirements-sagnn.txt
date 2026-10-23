@@ -1,0 +1,9 @@
+# SAGNN environment (Python 3.9, CUDA 12.4 wheels)
+# Install torch with the CUDA index matching your driver, e.g.:
+#   pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torch_geometric==2.6.1
+numpy
+scipy
+networkx
+matplotlib

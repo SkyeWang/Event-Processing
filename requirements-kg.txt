@@ -1,0 +1,11 @@
+# KG-Extraction environment (Python 3.10, CUDA 12.6 wheels)
+# Install torch with the CUDA index matching your driver, e.g.:
+#   pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu126
+torch==2.6.0
+transformers==4.40.0
+peft==0.10.0
+datasets==3.6.0
+accelerate==1.7.0
+flask==3.1.3
+modelscope
+sentencepiece
