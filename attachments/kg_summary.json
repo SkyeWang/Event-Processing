@@ -1,0 +1,38 @@
+{
+  "batches": [
+    {
+      "index": 0,
+      "lang": "ch",
+      "batch": "batch_1",
+      "train_samples": 6,
+      "val_samples": 2,
+      "train_loss": 2.677543560663859,
+      "val_loss": 3.6386559009552,
+      "fisher_params": 336,
+      "lora_dir": "output\\smoke\\lora_ch_batch_1"
+    },
+    {
+      "index": 1,
+      "lang": "ch",
+      "batch": "batch_2",
+      "train_samples": 8,
+      "val_samples": 2,
+      "train_loss": 2.288855870564779,
+      "val_loss": 3.17560076713562,
+      "fisher_params": 336,
+      "lora_dir": "output\\smoke\\lora_ch_batch_2"
+    },
+    {
+      "index": 3,
+      "lang": "en",
+      "batch": "batch_1",
+      "train_samples": 9,
+      "val_samples": 2,
+      "train_loss": 2.3739589850107827,
+      "val_loss": 2.669863224029541,
+      "fisher_params": 336,
+      "lora_dir": "output\\smoke\\lora_en_batch_1"
+    }
+  ],
+  "model": "models\\Qwen2.5-0.5B-Instruct"
+}

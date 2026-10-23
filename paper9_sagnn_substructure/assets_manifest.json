@@ -1,0 +1,47 @@
+{
+  "description": "MUTAG/ZINC 数据与 checkpoint 不随仓库提交；从原工作目录按清单复制并校验。",
+  "files": [
+    {
+      "component": "mutag",
+      "source": "thesis-review/repro/sagnn/data/MUTAG/MUTAG/processed/data.pt",
+      "target": "data/MUTAG/MUTAG/processed/data.pt",
+      "bytes": 341124,
+      "sha256": "2bf9595907a46f3e604d0d36b580fd3010592121a2ffde4b27b836fbce0e3a8d"
+    },
+    {
+      "component": "zinc",
+      "source": "thesis-review/repro/sagnn/ZINC_hf/train.jsonl",
+      "target": "data/ZINC_hf/train.jsonl",
+      "bytes": 7183958,
+      "sha256": "8cdd8d1dcbccfae5c12a81934d92ab97d68407916418eec4e5632261adfb3ed0"
+    },
+    {
+      "component": "zinc",
+      "source": "thesis-review/repro/sagnn/ZINC_hf/val.jsonl",
+      "target": "data/ZINC_hf/val.jsonl",
+      "bytes": 720375,
+      "sha256": "e2b9c1e32cf0fe02176fc5dc2a581e3ad45baa97b360eff1dcc3e907ae33d4f6"
+    },
+    {
+      "component": "zinc",
+      "source": "thesis-review/repro/sagnn/ZINC_hf/test.jsonl",
+      "target": "data/ZINC_hf/test.jsonl",
+      "bytes": 719007,
+      "sha256": "8ddce9d5231eda613f6224de78fe4ec488c6b154ef7576f7f7ce87e1b9d69377"
+    },
+    {
+      "component": "checkpoint",
+      "source": "thesis-review/repro/sagnn/results/mutag_best_seed0.pt",
+      "target": "results/mutag_best_seed0.pt",
+      "bytes": 13399595,
+      "sha256": "e32430ee0838fd79db9b081195b997e070721262e15d36ea5b3209adcea937c0"
+    },
+    {
+      "component": "checkpoint",
+      "source": "thesis-review/repro/sagnn/results/zinc_best.pt",
+      "target": "results/zinc_best.pt",
+      "bytes": 51983738,
+      "sha256": "5bc1c96032e0a23b2cd2f43ce3f284f42e62959dd87c68fbadd0576f9e7f5bf4"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+dataset: EXP  # 更新数据集名称
+model:
+  num_layers: 6  # 根据EXP数据集的特点调整层数，如果需要
+  mini_layers: 1  # 根据EXP的特定需求调整
+  embs_combine_mode: 'concat'  # 根据EXP的特定需求可能需要调整
+  pool: add  # 根据EXP的任务需求调整池化方式
+  fullgraph_pos_enc_dim: 20  # 如果EXP数据集使用位置编码，根据实际维度调整
+  egograph_pos_enc_dim: 16  # 同上
+  cutgraph_pos_enc_dim: 16  # 同上
+  hidden_size: 256  # 可能需要根据EXP的复杂度调整隐藏层大小
+  pos_enc_dim: 24  # 如果EXP使用位置编码，根据实际情况调整
+subgraph:
+  hops: 2  # 根据EXP数据集的特性调整子图范围
+train:
+  epochs: 450  # 根据EXP数据集大小和训练需求调整
+  lr_patience: 50  # 可能根据EXP的训练表现调整早停条件
+  lr: 1e-3  # 根据EXP的训练表现调整学习率

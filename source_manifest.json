@@ -3549,9 +3549,687 @@
       "submitted": "paper8_event_causality/reference_inputs/regex_pairs.jsonl",
       "source_sha256": "3c96dc6a86356c202908ede188770aad1be690e96089d38ff9238314e467f917",
       "submitted_sha256": "3c96dc6a86356c202908ede188770aad1be690e96089d38ff9238314e467f917"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/assets_manifest.json",
+      "source_sha256": "4a25ff067992e52d99f6a0e518b4da51c2da75139b6a905de3fd40ba482a4c30",
+      "submitted_sha256": "4a25ff067992e52d99f6a0e518b4da51c2da75139b6a905de3fd40ba482a4c30"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/download_zinc.py",
+      "source_sha256": "5831ecc36d1d6e4157b0bc77a543e0ee6e3853f9329cbe2ec80d15fa5c4fd8ad",
+      "submitted_sha256": "5831ecc36d1d6e4157b0bc77a543e0ee6e3853f9329cbe2ec80d15fa5c4fd8ad"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/prepare_assets.py",
+      "source_sha256": "e36d909b99f62bf9f7e0269bdfa8f8c6855897c3e59805e61964755bcc1ab546",
+      "submitted_sha256": "e36d909b99f62bf9f7e0269bdfa8f8c6855897c3e59805e61964755bcc1ab546"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/README.md",
+      "source_sha256": "79eb1cfdb8c19253e72d09ba76e044dce441eb3be3b3b5150ec8358aec96edc2",
+      "submitted_sha256": "79eb1cfdb8c19253e72d09ba76e044dce441eb3be3b3b5150ec8358aec96edc2"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/train_mutag.py",
+      "source_sha256": "c4c6b2e23ea276cc95d47ae49d8fdcaeb8dada69cda8a830e30cec78ec3efe04",
+      "submitted_sha256": "c4c6b2e23ea276cc95d47ae49d8fdcaeb8dada69cda8a830e30cec78ec3efe04"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/train_mutag_cv.py",
+      "source_sha256": "b05b92eb211c342f1b9d70465220c077530e4c987b9b18d5294faf65b905096c",
+      "submitted_sha256": "b05b92eb211c342f1b9d70465220c077530e4c987b9b18d5294faf65b905096c"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/train_zinc.py",
+      "source_sha256": "e47d6e892bae079086648a36aa3d21a5f34ba19c9f7c573e8928a8653cd29c5f",
+      "submitted_sha256": "e47d6e892bae079086648a36aa3d21a5f34ba19c9f7c573e8928a8653cd29c5f"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/VALIDATION.md",
+      "source_sha256": "6cd2fb197be2732d576699127e035efc20c915b1d3de7c15036238fef3316990",
+      "submitted_sha256": "6cd2fb197be2732d576699127e035efc20c915b1d3de7c15036238fef3316990"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/configs/EXP.yaml",
+      "source_sha256": "b7083db28b0c1a2bd9badf8603548d6f20135de3e4cfb3c5a7c14b556352d502",
+      "submitted_sha256": "b7083db28b0c1a2bd9badf8603548d6f20135de3e4cfb3c5a7c14b556352d502"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/configs/zinc.yaml",
+      "source_sha256": "2a8f2fff2e3cb20eadd198874caf62c18dc059dc1854394698a90278ffdfcddb",
+      "submitted_sha256": "2a8f2fff2e3cb20eadd198874caf62c18dc059dc1854394698a90278ffdfcddb"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/config.py",
+      "submitted": "paper9_sagnn_substructure/core/config.py",
+      "source_sha256": "8c808f20d39ce6fb1d07bdb758bff62ea23641c76b3459ab608faa4ec8be5f8d",
+      "submitted_sha256": "8c808f20d39ce6fb1d07bdb758bff62ea23641c76b3459ab608faa4ec8be5f8d"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/EXP.py",
+      "submitted": "paper9_sagnn_substructure/core/EXP.py",
+      "source_sha256": "d2a18a57e362bb0207d525529583d9f1c27cb8a899ffb837a5470b223f4df37a",
+      "submitted_sha256": "d2a18a57e362bb0207d525529583d9f1c27cb8a899ffb837a5470b223f4df37a"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/log.py",
+      "submitted": "paper9_sagnn_substructure/core/log.py",
+      "source_sha256": "555a8f76381fb35ad038309d10b88abb7f3b4eb19dca6f54e37086dc6eadb069",
+      "submitted_sha256": "555a8f76381fb35ad038309d10b88abb7f3b4eb19dca6f54e37086dc6eadb069"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/model.py",
+      "submitted": "paper9_sagnn_substructure/core/model.py",
+      "source_sha256": "9aa9a1dde3ae6ca8f4614dd74cd34c4893da99a82d2e97a73099d615127ee2cf",
+      "submitted_sha256": "d0a6fab94c0082d80a66c644797c568f38caf465448c32e3f0ca62d320041289"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/PE_init.py",
+      "submitted": "paper9_sagnn_substructure/core/PE_init.py",
+      "source_sha256": "0ea6677807ed02265d305c075d71538961dbcb962525a416c7a60aa032ea8d6e",
+      "submitted_sha256": "2e41c4a5ee0500a47daff79c7277952f99c68bbf06178ece646db52557d05df3"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/core/simple_graph.py",
+      "source_sha256": "2ffb9ea70066bddad95a03b6bbafa27ecbebc488b8580c030f7c99c4fc62d11f",
+      "submitted_sha256": "2ffb9ea70066bddad95a03b6bbafa27ecbebc488b8580c030f7c99c4fc62d11f"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/train_helper.py",
+      "submitted": "paper9_sagnn_substructure/core/train_helper.py",
+      "source_sha256": "0f6cc678b18dcef4b7f2c65d8b437bf8841877c7498450da1da5000ae16ef386",
+      "submitted_sha256": "0f6cc678b18dcef4b7f2c65d8b437bf8841877c7498450da1da5000ae16ef386"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/transform.py",
+      "submitted": "paper9_sagnn_substructure/core/transform.py",
+      "source_sha256": "8034999e7437600162fcf43dafdfe37aacadbf155cd758ea1e480084d969f08a",
+      "submitted_sha256": "47c0f34a644ae5005cb60148f28337958144eae7e891bcd560a17fc7e258eda7"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/triple.py",
+      "submitted": "paper9_sagnn_substructure/core/triple.py",
+      "source_sha256": "502879ec09697c0279eb8fbbd01b5dfdb004ee061e098d7187070dac9f81a13f",
+      "submitted_sha256": "502879ec09697c0279eb8fbbd01b5dfdb004ee061e098d7187070dac9f81a13f"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/utils.py",
+      "submitted": "paper9_sagnn_substructure/core/utils.py",
+      "source_sha256": "2144769962098009f8babfd6af49cb4e56c3dcd478b38745806df7c67f5fc601",
+      "submitted_sha256": "2144769962098009f8babfd6af49cb4e56c3dcd478b38745806df7c67f5fc601"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/__init__.py",
+      "submitted": "paper9_sagnn_substructure/core/__init__.py",
+      "source_sha256": "d98664fedc2389ea5c65e8bfd3615e34a93fd7942d915f4566332ec9608ce7cf",
+      "submitted_sha256": "d98664fedc2389ea5c65e8bfd3615e34a93fd7942d915f4566332ec9608ce7cf"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/model_utils/elements.py",
+      "submitted": "paper9_sagnn_substructure/core/model_utils/elements.py",
+      "source_sha256": "88e34a1f1856b2da508590b38366f6d24afa766d6b881b9c239da96155bee59d",
+      "submitted_sha256": "88e34a1f1856b2da508590b38366f6d24afa766d6b881b9c239da96155bee59d"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/model_utils/ppgn.py",
+      "submitted": "paper9_sagnn_substructure/core/model_utils/ppgn.py",
+      "source_sha256": "829bab3b0ea5674f5864832456a821c57364d314c5b0292f79dddef4eeaecb84",
+      "submitted_sha256": "829bab3b0ea5674f5864832456a821c57364d314c5b0292f79dddef4eeaecb84"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/model_utils/pyg_gnn_wrapper.py",
+      "submitted": "paper9_sagnn_substructure/core/model_utils/pyg_gnn_wrapper.py",
+      "source_sha256": "913c9181c744da3e46320e1f923cc73dd67cc1fadd56804ca20e3d2a606f8ca4",
+      "submitted_sha256": "9057e1bb7f0275241d3c371f594c074d67ad0fad62bb1a5967e29f22377dcd39"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/model_utils/__init__.py",
+      "submitted": "paper9_sagnn_substructure/core/model_utils/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "submitted_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/transform_utils/sampling.py",
+      "submitted": "paper9_sagnn_substructure/core/transform_utils/sampling.py",
+      "source_sha256": "ffd13aad8d7dfc06bf32d3a2a0d557ee6c0e3c3f0afe73eebee38b474a530ea5",
+      "submitted_sha256": "ffd13aad8d7dfc06bf32d3a2a0d557ee6c0e3c3f0afe73eebee38b474a530ea5"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/transform_utils/subgraph_extractors.py",
+      "submitted": "paper9_sagnn_substructure/core/transform_utils/subgraph_extractors.py",
+      "source_sha256": "f88d3aa341c18fb7ec50dc04ef6cdc13ce98a18bd9e8cce0bde89dec97b258e9",
+      "submitted_sha256": "ad854b186217e3cf04196368759903ef73cb76cd111f7e2f411dba2c812bc616"
+    },
+    {
+      "source": "附录/Code/sagnn_createdataset/core/transform_utils/__init__.py",
+      "submitted": "paper9_sagnn_substructure/core/transform_utils/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "submitted_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/dgl_repro/PE_init_dgl22.py",
+      "source_sha256": "ac24e1a95843e42bae88e0e5a964c68b21115d8d3034f235e32384f731425e2c",
+      "submitted_sha256": "ac24e1a95843e42bae88e0e5a964c68b21115d8d3034f235e32384f731425e2c"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/dgl_repro/README.md",
+      "source_sha256": "f8018ffd4b262f8c8d3fc7beaaf66557226ced11bab95dd6a3265eb52c3b7801",
+      "submitted_sha256": "f8018ffd4b262f8c8d3fc7beaaf66557226ced11bab95dd6a3265eb52c3b7801"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/dgl_repro/run_mutag_dgl.py",
+      "source_sha256": "e4c882826af4564fe592ecad1859344811ceb154f3af6d4213955f7ee93c682a",
+      "submitted_sha256": "e4c882826af4564fe592ecad1859344811ceb154f3af6d4213955f7ee93c682a"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/dgl_repro/run_zinc_dgl.py",
+      "source_sha256": "cb83ddc11a0f274f8c9e9078ccc6829333a536ad3b2205bdd567695bf680963a",
+      "submitted_sha256": "cb83ddc11a0f274f8c9e9078ccc6829333a536ad3b2205bdd567695bf680963a"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/CEXP.py",
+      "source_sha256": "9ede3de35f6788b992e2870d56eee063faaec1d25a23aba1996155df1ca98f61",
+      "submitted_sha256": "9ede3de35f6788b992e2870d56eee063faaec1d25a23aba1996155df1ca98f61"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/draw.py",
+      "source_sha256": "aa3dd3dc79a4777c736e928ada672578c306454aed90de8aa2121112544232e9",
+      "submitted_sha256": "aa3dd3dc79a4777c736e928ada672578c306454aed90de8aa2121112544232e9"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/exp_new.py",
+      "source_sha256": "909b691660306aad8773db69c62c3f793b2e6eb138858ae0979a9ecd6d3274c5",
+      "submitted_sha256": "909b691660306aad8773db69c62c3f793b2e6eb138858ae0979a9ecd6d3274c5"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/log1.txt",
+      "source_sha256": "1b79c6bbe75c9859ab1f711a6e2d65d85e20f2e69b36ca0e0abbaacaca2d49ad",
+      "submitted_sha256": "1b79c6bbe75c9859ab1f711a6e2d65d85e20f2e69b36ca0e0abbaacaca2d49ad"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/main.py",
+      "source_sha256": "02f944c20be5b25317bd260c063c1c132ad36484436abc853cbbcf8f5c77c783",
+      "submitted_sha256": "02f944c20be5b25317bd260c063c1c132ad36484436abc853cbbcf8f5c77c783"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/MUTAG.py",
+      "source_sha256": "63a1186e46ed6e9d7d7ecc4e04a1f5ff743a04377e5bb546413a4056381ff13c",
+      "submitted_sha256": "63a1186e46ed6e9d7d7ecc4e04a1f5ff743a04377e5bb546413a4056381ff13c"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/pkl.py",
+      "source_sha256": "b7463935ffe098895b08ab59d5910556fb41fe4f5979ef9e4d1e8ec478d13d9c",
+      "submitted_sha256": "b7463935ffe098895b08ab59d5910556fb41fe4f5979ef9e4d1e8ec478d13d9c"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/PROTEINS.py",
+      "source_sha256": "e23833868eb45244195d220f9675d57cfc170c1ab3931d05a3fe51d72baffd67",
+      "submitted_sha256": "e23833868eb45244195d220f9675d57cfc170c1ab3931d05a3fe51d72baffd67"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/PROTEINS_DATA.py",
+      "source_sha256": "80d3352a08d0ca7eafe1f2af95907b07a32bbf34390b9afc93511c1398b31e82",
+      "submitted_sha256": "80d3352a08d0ca7eafe1f2af95907b07a32bbf34390b9afc93511c1398b31e82"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/PTC.py",
+      "source_sha256": "75b27eeb3831d57f7c676b5f52bf0e3f7ab3b083de8082f296289e97e2c220c4",
+      "submitted_sha256": "75b27eeb3831d57f7c676b5f52bf0e3f7ab3b083de8082f296289e97e2c220c4"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/temp.py",
+      "source_sha256": "eb84cdf17e510165436d4620917c240c8d63898076518c3ea367d408ec81609d",
+      "submitted_sha256": "eb84cdf17e510165436d4620917c240c8d63898076518c3ea367d408ec81609d"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/test.py",
+      "source_sha256": "a8e1d48254b088f205c10b185a743619673588817fb6c99099bfef6f0744909b",
+      "submitted_sha256": "a8e1d48254b088f205c10b185a743619673588817fb6c99099bfef6f0744909b"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/triple.py",
+      "source_sha256": "a9c07a9d6d0e562c0c97e7f9134c52091265c6593298bc8c9b16fc6dc44dfa4d",
+      "submitted_sha256": "a9c07a9d6d0e562c0c97e7f9134c52091265c6593298bc8c9b16fc6dc44dfa4d"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper9_sagnn_substructure/legacy/zinc.py",
+      "source_sha256": "3b2818ff8de3f3f442207c3f704fd25fb09c6456178c452b5f3fc760468fd171",
+      "submitted_sha256": "3b2818ff8de3f3f442207c3f704fd25fb09c6456178c452b5f3fc760468fd171"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/assets_manifest.json",
+      "source_sha256": "6fa303fabf497412d947f265b72537df9099d0cf8088917d3837dbfdd2b7d563",
+      "submitted_sha256": "6fa303fabf497412d947f265b72537df9099d0cf8088917d3837dbfdd2b7d563"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/prepare_assets.py",
+      "source_sha256": "e36d909b99f62bf9f7e0269bdfa8f8c6855897c3e59805e61964755bcc1ab546",
+      "submitted_sha256": "e36d909b99f62bf9f7e0269bdfa8f8c6855897c3e59805e61964755bcc1ab546"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/README.md",
+      "source_sha256": "41864697754040521469e265c89b7daa818f6ffb05f7862f590b79581158175f",
+      "submitted_sha256": "41864697754040521469e265c89b7daa818f6ffb05f7862f590b79581158175f"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/VALIDATION.md",
+      "source_sha256": "051ece5209e5a386e5dd93666cf601e76bacc1c5085ce2a3b0af2b9fb1128079",
+      "submitted_sha256": "051ece5209e5a386e5dd93666cf601e76bacc1c5085ce2a3b0af2b9fb1128079"
+    },
+    {
+      "source": "附录/A/附件/第一次标注代码/annotate_to_mysql.py",
+      "submitted": "paper10_domain_kg_extraction/annotation/v1/annotate_to_mysql.py",
+      "source_sha256": "bd11ce0128c7ed29cdabd5d403d5f82ed812a3e8cddf8bd52b992548fe0f44d6",
+      "submitted_sha256": "82a979e5131a7c98aeb6e8f2f4b92794e134a7bcdbe7ea6823dbfef1edda85cb"
+    },
+    {
+      "source": "附录/A/附件/第一次标注代码/check_db.py",
+      "submitted": "paper10_domain_kg_extraction/annotation/v1/check_db.py",
+      "source_sha256": "ffd986d361e6e4a2c5f8234ecb07ed02010437387ec8d67518a9946f60e36574",
+      "submitted_sha256": "ffd986d361e6e4a2c5f8234ecb07ed02010437387ec8d67518a9946f60e36574"
+    },
+    {
+      "source": "附录/A/附件/第一次标注代码/check_status.py",
+      "submitted": "paper10_domain_kg_extraction/annotation/v1/check_status.py",
+      "source_sha256": "6d0d8552e9f487bd0205bbbf13fdf505d9dbd00d972adf85cbf563a145ab78a1",
+      "submitted_sha256": "ef0a9e6b25555ce42ca6ed39c401ba0a8756d9f4b3b5cd8a61d5912da4279b9c"
+    },
+    {
+      "source": "附录/A/附件/第一次标注代码/export_data.py",
+      "submitted": "paper10_domain_kg_extraction/annotation/v1/export_data.py",
+      "source_sha256": "3a46d647dba695b660159b033bcedc3539bffc6f017f6333b1b5ec56488f37e4",
+      "submitted_sha256": "346457ff9e151e44904ce1e4b0b9cfef8c1887e7e5f30f4d282bc6932a14c3b2"
+    },
+    {
+      "source": "附录/A/附件/第一次标注代码/标注拆分实现文档.md",
+      "submitted": "paper10_domain_kg_extraction/annotation/v1/标注拆分实现文档.md",
+      "source_sha256": "12002a6df0bf6e7c607f7fdce87e787da99024bf68701a4c2ab61784167f1d56",
+      "submitted_sha256": "12002a6df0bf6e7c607f7fdce87e787da99024bf68701a4c2ab61784167f1d56"
+    },
+    {
+      "source": "附录/A/附件/第二次标注代码/annotate_to_mysql_en.py",
+      "submitted": "paper10_domain_kg_extraction/annotation/v2/annotate_to_mysql_en.py",
+      "source_sha256": "e8747e2225a3adad64286c7750c2ed1e70cdd00e87108d8d5b7cc5587f11acc7",
+      "submitted_sha256": "2c2e0e6c2aa4b048b2678e54bd138d0431f4cdc14cdb1fb891c719433710b00d"
+    },
+    {
+      "source": "附录/A/附件/第二次标注代码/annotate_to_mysql_v2.py",
+      "submitted": "paper10_domain_kg_extraction/annotation/v2/annotate_to_mysql_v2.py",
+      "source_sha256": "3b6741afbb8701a15eab8808e5930066c6d589c6b276290056956f551c025908",
+      "submitted_sha256": "c1be57c6c909615dcfa5d1cccf2152ea0d7767c11d1810b6c2080bee152a89a7"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/README.md",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/README.md",
+      "source_sha256": "f9369f9de6c4df731ce74603633b41ab85967f35df8608b4cee156cd853b721d",
+      "submitted_sha256": "f9369f9de6c4df731ce74603633b41ab85967f35df8608b4cee156cd853b721d"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/bbc/bbc_bio.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/bbc/bbc_bio.csv",
+      "source_sha256": "9cb99c4e1b8f3018ca9b20855f0f366ca1be97efcd056522a75cb2f0d91cb6ba",
+      "submitted_sha256": "9cb99c4e1b8f3018ca9b20855f0f366ca1be97efcd056522a75cb2f0d91cb6ba"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/bbc/bbc_news_crawler.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/bbc/bbc_news_crawler.py",
+      "source_sha256": "451b7befd6f802660817e39d556469d9a1ab8da4d3be21e3db87e5cab27bb182",
+      "submitted_sha256": "451b7befd6f802660817e39d556469d9a1ab8da4d3be21e3db87e5cab27bb182"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/bbc/biomanufacturing_keywords.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/bbc/biomanufacturing_keywords.txt",
+      "source_sha256": "033c5fc80e83c97f373de3104682427a139ab91a478bb05ddeee701e12b6573a",
+      "submitted_sha256": "033c5fc80e83c97f373de3104682427a139ab91a478bb05ddeee701e12b6573a"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/cnn/cnn_quantum.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/cnn/cnn_quantum.csv",
+      "source_sha256": "9085a7165a17e2698a5c7f6d7995f771de074a7c9ba057d5d7ee7422320ab8a9",
+      "submitted_sha256": "9085a7165a17e2698a5c7f6d7995f771de074a7c9ba057d5d7ee7422320ab8a9"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/cnn/cnn_quantum_crawler.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/cnn/cnn_quantum_crawler.py",
+      "source_sha256": "bd122cba7032477c9906ba2f0a656d7190868dedf6534e39bbbd17b5d9ef13f1",
+      "submitted_sha256": "bd122cba7032477c9906ba2f0a656d7190868dedf6534e39bbbd17b5d9ef13f1"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/cnn/quantum_keywords_english.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/cnn/quantum_keywords_english.txt",
+      "source_sha256": "f7273de6eb4fe2ba6b208a5f4a7f011b9e887f402ff0b985203da8664260530c",
+      "submitted_sha256": "f7273de6eb4fe2ba6b208a5f4a7f011b9e887f402ff0b985203da8664260530c"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/推特/keywords.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/推特/keywords.txt",
+      "source_sha256": "0104c0a6ce69aefc77e2c3640fc72908ba0d118281e273a747a70b7f675151b7",
+      "submitted_sha256": "0104c0a6ce69aefc77e2c3640fc72908ba0d118281e273a747a70b7f675151b7"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/推特/readme.md",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/推特/readme.md",
+      "source_sha256": "77a643b6e3a9865a72c6ec66b7f3d38b266894d77b8f914cd8c8b64292858d7d",
+      "submitted_sha256": "77a643b6e3a9865a72c6ec66b7f3d38b266894d77b8f914cd8c8b64292858d7d"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/推特/spider_fast.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/推特/spider_fast.py",
+      "source_sha256": "1b6279b9bff2acc6f76f29377cb4c493c2c617427ef4e925408333d5827479af",
+      "submitted_sha256": "1b6279b9bff2acc6f76f29377cb4c493c2c617427ef4e925408333d5827479af"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/油管/biomanufacturing_keywords.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/油管/biomanufacturing_keywords.txt",
+      "source_sha256": "033c5fc80e83c97f373de3104682427a139ab91a478bb05ddeee701e12b6573a",
+      "submitted_sha256": "033c5fc80e83c97f373de3104682427a139ab91a478bb05ddeee701e12b6573a"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/油管/youtubebio.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/油管/youtubebio.csv",
+      "source_sha256": "50a66e447857d2473a1afbe1622f0ab3e55c5b934c42a06d41f7d59015c9a014",
+      "submitted_sha256": "50a66e447857d2473a1afbe1622f0ab3e55c5b934c42a06d41f7d59015c9a014"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/英文爬虫/油管/youtube_scraper_chrome.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/en/油管/youtube_scraper_chrome.py",
+      "source_sha256": "171f9996c898701514db7fe5b4074152af4497174033791f7322ef8c4eed435a",
+      "submitted_sha256": "171f9996c898701514db7fe5b4074152af4497174033791f7322ef8c4eed435a"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/bing学术/bing_academic_crawler.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/bing学术/bing_academic_crawler.py",
+      "source_sha256": "447972a11682ae14f485b8abe4cdb9aa28bb105ac217420b747a1a071f3a1b22",
+      "submitted_sha256": "447972a11682ae14f485b8abe4cdb9aa28bb105ac217420b747a1a071f3a1b22"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/bing学术/README.md",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/bing学术/README.md",
+      "source_sha256": "23f3d6b7099585f1321470ec4d565f04c8404ab334cd0bb2b976ff867a3d5bb2",
+      "submitted_sha256": "23f3d6b7099585f1321470ec4d565f04c8404ab334cd0bb2b976ff867a3d5bb2"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/bing学术/requirements.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/bing学术/requirements.txt",
+      "source_sha256": "45c1500208fdbb10b2576dc15f01f54ddb4d99e2f0cb3c71765463bdf300e97a",
+      "submitted_sha256": "45c1500208fdbb10b2576dc15f01f54ddb4d99e2f0cb3c71765463bdf300e97a"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/bing学术/keywords/keyword-示例.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/bing学术/keywords/keyword-示例.txt",
+      "source_sha256": "60dcb10c38a68a28e4c40663bfb2ab60f857625daaad6aa7317a3c75833d7ca8",
+      "submitted_sha256": "60dcb10c38a68a28e4c40663bfb2ab60f857625daaad6aa7317a3c75833d7ca8"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/README.md",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/README.md",
+      "source_sha256": "54d87046685c6e3545f4a3cc40c8058f5a2ecc6455cae43e76e17af1298e6833",
+      "submitted_sha256": "54d87046685c6e3545f4a3cc40c8058f5a2ecc6455cae43e76e17af1298e6833"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/标题/bilibili_bio_manufacturing.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/标题/bilibili_bio_manufacturing.csv",
+      "source_sha256": "d4d4022754f3f151fcdf5fa3b61c127f29bb8ea937629929f91e3b55b5d43f1d",
+      "submitted_sha256": "d4d4022754f3f151fcdf5fa3b61c127f29bb8ea937629929f91e3b55b5d43f1d"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/标题/bilibili_bio_manufacturing.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/标题/bilibili_bio_manufacturing.py",
+      "source_sha256": "0c52d6d2edc5518079e9f5017ceb5072727872e9c847393550f7bca99094770f",
+      "submitted_sha256": "0c52d6d2edc5518079e9f5017ceb5072727872e9c847393550f7bca99094770f"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/标题/bio_manufacturing_keywords.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/标题/bio_manufacturing_keywords.py",
+      "source_sha256": "8bc22ac0220beddc6928d936cb3fae26bf784c58498b81b010a97784e47f425b",
+      "submitted_sha256": "8bc22ac0220beddc6928d936cb3fae26bf784c58498b81b010a97784e47f425b"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/评论/bilibili_bio_comments.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/评论/bilibili_bio_comments.csv",
+      "source_sha256": "e930eb6dc7b57096420085d73ab27b1366e63f3057614107b2aadcabf1983281",
+      "submitted_sha256": "e930eb6dc7b57096420085d73ab27b1366e63f3057614107b2aadcabf1983281"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/评论/bilibili_bio_comments_crawler.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/评论/bilibili_bio_comments_crawler.py",
+      "source_sha256": "0005aac946d64f316fd6c42f24bfc00aa8ff7fe059e9f63c8582f1bbf01df5ee",
+      "submitted_sha256": "0005aac946d64f316fd6c42f24bfc00aa8ff7fe059e9f63c8582f1bbf01df5ee"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/哔哩哔哩/评论/bilibili_bio_manufacturing.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/评论/bilibili_bio_manufacturing.csv",
+      "source_sha256": "d4d4022754f3f151fcdf5fa3b61c127f29bb8ea937629929f91e3b55b5d43f1d",
+      "submitted_sha256": "d4d4022754f3f151fcdf5fa3b61c127f29bb8ea937629929f91e3b55b5d43f1d"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/app.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/app.py",
+      "source_sha256": "7c8535ec92038554b5422fd72284fc94188ecbfb0e06cce3495bb2d41e9ef37d",
+      "submitted_sha256": "7c8535ec92038554b5422fd72284fc94188ecbfb0e06cce3495bb2d41e9ef37d"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/clean_data.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/clean_data.py",
+      "source_sha256": "3db42f65643dccf56445b33e75f44716594c25d02d7acfbcb847dde8dcf6ec37",
+      "submitted_sha256": "3db42f65643dccf56445b33e75f44716594c25d02d7acfbcb847dde8dcf6ec37"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/README.md",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/README.md",
+      "source_sha256": "70382cdb30e8dcaabd37a49ff60f0e7ab4a6c7127c28a5eaaa1c5ae32485fa45",
+      "submitted_sha256": "70382cdb30e8dcaabd37a49ff60f0e7ab4a6c7127c28a5eaaa1c5ae32485fa45"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/requirements.txt",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/requirements.txt",
+      "source_sha256": "b28837bc9eed9e2f07f8bb11deddb74ace06cae75641a6b0609fc911621b4b69",
+      "submitted_sha256": "b28837bc9eed9e2f07f8bb11deddb74ace06cae75641a6b0609fc911621b4b69"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/cleaned_data/all_cleaned_data.csv",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/cleaned_data/all_cleaned_data.csv",
+      "source_sha256": "14440dd6a3d399a0ed766b7a81737c9d4a3e7a2557bf8421d182b89b90d33317",
+      "submitted_sha256": "14440dd6a3d399a0ed766b7a81737c9d4a3e7a2557bf8421d182b89b90d33317"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/crawler/8.xlsx",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/8.xlsx",
+      "source_sha256": "9408e4ee5f116616e752893034c97763eafa83af70ea69dd68a9123e88a5115e",
+      "submitted_sha256": "9408e4ee5f116616e752893034c97763eafa83af70ea69dd68a9123e88a5115e"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/crawler/baidu_news_spider.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/baidu_news_spider.py",
+      "source_sha256": "0107b1a4d3be81d586288eeed25182b98039993c75801074549a3856e7a3600e",
+      "submitted_sha256": "0107b1a4d3be81d586288eeed25182b98039993c75801074549a3856e7a3600e"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/crawler/spider.py",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/spider.py",
+      "source_sha256": "ddc394c3c5362291dec57037e35ce0c5d788edf4a0d9caebb7f764a48645a167",
+      "submitted_sha256": "ddc394c3c5362291dec57037e35ce0c5d788edf4a0d9caebb7f764a48645a167"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/crawler/untitled",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/untitled",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "submitted_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "附录/A/附件/爬虫代码/中文爬虫/百度新闻/templates/index.html",
+      "submitted": "paper10_domain_kg_extraction/crawlers/zh/百度新闻/templates/index.html",
+      "source_sha256": "cf9934a2bc151d9eee280c5c43cff3152ad7719b5d45c4154f153570ac823146",
+      "submitted_sha256": "cf9934a2bc151d9eee280c5c43cff3152ad7719b5d45c4154f153570ac823146"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/make_sample_data.py",
+      "source_sha256": "88f27cad21c694cd6ec67f147a90ae148c6d602bd07b33c84530044d141383d0",
+      "submitted_sha256": "88f27cad21c694cd6ec67f147a90ae148c6d602bd07b33c84530044d141383d0"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/train_data/ch/batch_1/train.jsonl",
+      "source_sha256": "f6df64655c66702215848c17ac5a198aa2cae4185461270ab412bab947f20c17",
+      "submitted_sha256": "f6df64655c66702215848c17ac5a198aa2cae4185461270ab412bab947f20c17"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/train_data/ch/batch_1/val.jsonl",
+      "source_sha256": "840a617fb2900ca2bbcae3c9320600fdcd4eb3eceb39742501ee4ee93ccc0b52",
+      "submitted_sha256": "840a617fb2900ca2bbcae3c9320600fdcd4eb3eceb39742501ee4ee93ccc0b52"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/train_data/ch/batch_2/train.jsonl",
+      "source_sha256": "bbe8af9749a860ea45620fa2b57340a81736f0ef280e0459dd02b93da2e80ca4",
+      "submitted_sha256": "bbe8af9749a860ea45620fa2b57340a81736f0ef280e0459dd02b93da2e80ca4"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/train_data/ch/batch_2/val.jsonl",
+      "source_sha256": "6e69a301c5eb946a8d182d4b9f4910847afb285d89e2a93af42c0d02ff76f7ee",
+      "submitted_sha256": "6e69a301c5eb946a8d182d4b9f4910847afb285d89e2a93af42c0d02ff76f7ee"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/train_data/en/batch_1/train.jsonl",
+      "source_sha256": "06c7797f21046f8015d04ad2e970a2c80cfca56dfd5ec16e03448d4ddde29707",
+      "submitted_sha256": "06c7797f21046f8015d04ad2e970a2c80cfca56dfd5ec16e03448d4ddde29707"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/data/train_data/en/batch_1/val.jsonl",
+      "source_sha256": "6c1f14ce3462d648762c736e40739ca52d520a0abd821a73ba63d4ab752c886c",
+      "submitted_sha256": "6c1f14ce3462d648762c736e40739ca52d520a0abd821a73ba63d4ab752c886c"
+    },
+    {
+      "source": "附录/A/附件/训练代码/flask/app.py",
+      "submitted": "paper10_domain_kg_extraction/flask/app.py",
+      "source_sha256": "0bde1a2c466729c8239073069762f02528707d3dbc4a75ebf0a39c6ae0eed853",
+      "submitted_sha256": "440cb4f0c938418c3b58928faefba38d4270e7da4f9745d3632f2705bd4062bd"
+    },
+    {
+      "source": "附录/A/附件/训练代码/flask/README.md",
+      "submitted": "paper10_domain_kg_extraction/flask/README.md",
+      "source_sha256": "0470f6baab15a80aa840ec993642cdf9eda955baa970b917558411c58fabf360",
+      "submitted_sha256": "0470f6baab15a80aa840ec993642cdf9eda955baa970b917558411c58fabf360"
+    },
+    {
+      "source": "附录/A/附件/训练代码/flask/requirements.txt",
+      "submitted": "paper10_domain_kg_extraction/flask/requirements.txt",
+      "source_sha256": "8ea1ad784a4f2a2ff3f6b268476ae8b9ae3bda01e0f7a1110aebca403c28df3c",
+      "submitted_sha256": "8ea1ad784a4f2a2ff3f6b268476ae8b9ae3bda01e0f7a1110aebca403c28df3c"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/flask/test_client.py",
+      "source_sha256": "17df2b1e3411fa8ca2b2eedf34fa838be40242b984fb03081401a39fc02cfd73",
+      "submitted_sha256": "17df2b1e3411fa8ca2b2eedf34fa838be40242b984fb03081401a39fc02cfd73"
+    },
+    {
+      "source": "附录/A/附件/训练代码/flask/templates/index.html",
+      "submitted": "paper10_domain_kg_extraction/flask/templates/index.html",
+      "source_sha256": "76dc13108c078ab93152337bc88fc763045d1fa0134fc695d78226007593744e",
+      "submitted_sha256": "76dc13108c078ab93152337bc88fc763045d1fa0134fc695d78226007593744e"
+    },
+    {
+      "source": "附录/A/附件/训练代码/测试/analyze_multi_batch.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/tests/analyze_multi_batch.py",
+      "source_sha256": "f004b74934cfe9a97ec861fddb6471e574ac19de9ce8983b9927c4b39f21d009",
+      "submitted_sha256": "f004b74934cfe9a97ec861fddb6471e574ac19de9ce8983b9927c4b39f21d009"
+    },
+    {
+      "source": "附录/A/附件/训练代码/测试/batch_inference.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/tests/batch_inference.py",
+      "source_sha256": "e6a665bddd8b4ab6d4868f9b43f683a7b5f31ac58d5bebb1eeccd16fde57b2b7",
+      "submitted_sha256": "e6a665bddd8b4ab6d4868f9b43f683a7b5f31ac58d5bebb1eeccd16fde57b2b7"
+    },
+    {
+      "source": "附录/A/附件/训练代码/测试/eval_kg_quality.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/tests/eval_kg_quality.py",
+      "source_sha256": "2d2676c044bbb87874aeeb4febf25b43ad78f6614f96573f83190844c91d8212",
+      "submitted_sha256": "2d2676c044bbb87874aeeb4febf25b43ad78f6614f96573f83190844c91d8212"
+    },
+    {
+      "source": "附录/A/附件/训练代码/第一次训练/merge_and_test.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/train_v1/merge_and_test.py",
+      "source_sha256": "f5f61248bd0c3a0f5ec8e479939f303b172e96433ed67f9599f96b5d61d4baca",
+      "submitted_sha256": "f5f61248bd0c3a0f5ec8e479939f303b172e96433ed67f9599f96b5d61d4baca"
+    },
+    {
+      "source": "附录/A/附件/训练代码/第一次训练/prepare_data.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/train_v1/prepare_data.py",
+      "source_sha256": "6c93ef3226de5adf30d9c6894cb5d51f193c12958d22cc7edd48eb05f82b0793",
+      "submitted_sha256": "6c93ef3226de5adf30d9c6894cb5d51f193c12958d22cc7edd48eb05f82b0793"
+    },
+    {
+      "source": "附录/A/附件/训练代码/第一次训练/train_lora.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/train_v1/train_lora.py",
+      "source_sha256": "2a86c4310dbc7bdb11c1e1487b05b7d6cf8df2f9ae7bc63992a32c73ed6ed2f0",
+      "submitted_sha256": "2a86c4310dbc7bdb11c1e1487b05b7d6cf8df2f9ae7bc63992a32c73ed6ed2f0"
+    },
+    {
+      "source": "附录/A/附件/训练代码/第二次训练/merge_and_test_v2.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/train_v2/merge_and_test_v2.py",
+      "source_sha256": "baf66ddafef0319e662f05bd3720ae52d8fb820f03c548dfb32ae211d0bb730a",
+      "submitted_sha256": "baf66ddafef0319e662f05bd3720ae52d8fb820f03c548dfb32ae211d0bb730a"
+    },
+    {
+      "source": "附录/A/附件/训练代码/第二次训练/prepare_data_v2.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/train_v2/prepare_data_v2.py",
+      "source_sha256": "9fdaacc04b2045c038365384c42f17bbaa1ae264d30b8d3ac40a71ec6e40965e",
+      "submitted_sha256": "9fdaacc04b2045c038365384c42f17bbaa1ae264d30b8d3ac40a71ec6e40965e"
+    },
+    {
+      "source": "附录/A/附件/训练代码/第二次训练/train_lora_v2.py",
+      "submitted": "paper10_domain_kg_extraction/legacy/train_v2/train_lora_v2.py",
+      "source_sha256": "29c7ae31f501ba7d3a71f5c5b70e7d4cd10409827c327f980dfc84b8307f28ee",
+      "submitted_sha256": "29c7ae31f501ba7d3a71f5c5b70e7d4cd10409827c327f980dfc84b8307f28ee"
+    },
+    {
+      "source": "新增",
+      "submitted": "paper10_domain_kg_extraction/training/train_smoke.py",
+      "source_sha256": "05c96fb040083e66302a1e2d268e825393b0cebd1b3d1e0b14cef5d171d837fb",
+      "submitted_sha256": "05c96fb040083e66302a1e2d268e825393b0cebd1b3d1e0b14cef5d171d837fb"
     }
   ],
-  "note": "提交版增加中文注释、正则默认路径迁移、首次日志目录创建、无 Git 的 AMR 启动及 Unix 脚本换行规范化；legacy Cookie 已移除。大资源按各论文 assets_manifest.json 另行准备。",
+  "note": "提交版增加中文注释、正则默认路径迁移、首次日志目录创建、无 Git 的 AMR 启动及 Unix 脚本换行规范化；legacy Cookie 已移除。大资源按各论文 assets_manifest.json 另行准备。 补充 paper9/paper10 的源码、报告与附件。",
   "delivery_sha256": {
     ".gitignore": "fa7c0e595ba79f8af75f6c57552ab0ef120b9fa81451ac81d14d0424ceaf67c8",
     "attachments/amr_camr_jamr_first100_lines_114_graphs.txt": "f2fec527cc9e1158ba7e043dd0c6c161aab59d4bdd7aaa7e756759cae5a6303e",
@@ -4163,8 +4841,127 @@
     "paper8_event_causality/reference_inputs/bert_pairs.jsonl": "d9a344a50d57889770de4a9fbb5fecd11bb56ba7b250e38d4145f3fe781df581",
     "paper8_event_causality/reference_inputs/regex_pairs.jsonl": "3c96dc6a86356c202908ede188770aad1be690e96089d38ff9238314e467f917",
     "paper8_event_causality/VALIDATION.md": "b6d9a82e719f99ee3a677e28dd3c7477138046a5888b40a1c0e038848bcccc96",
-    "README.md": "75d69693f51ae3d78ff30b7c57933685ada7a1e5ba260251853dd1d892ac4cb4",
+    "README.md": "1b131777fc38aa82948ed2671bbc3ae2e8b2d84fc21146833ddd42548a0f9bf4",
     "report7-8_lzc.md": "b46d0c91cfc69564921a13a31cae9e043848303f7b7fbd64d4612bbc5aa9a079",
-    "verify_submission.py": "5cdee895b13bed18f6ecd2da2458a0b5f8670c8121381f8c07f688a919a7092d"
+    "verify_submission.py": "5cdee895b13bed18f6ecd2da2458a0b5f8670c8121381f8c07f688a919a7092d",
+    "paper9_sagnn_substructure/assets_manifest.json": "4a25ff067992e52d99f6a0e518b4da51c2da75139b6a905de3fd40ba482a4c30",
+    "paper9_sagnn_substructure/download_zinc.py": "5831ecc36d1d6e4157b0bc77a543e0ee6e3853f9329cbe2ec80d15fa5c4fd8ad",
+    "paper9_sagnn_substructure/prepare_assets.py": "e36d909b99f62bf9f7e0269bdfa8f8c6855897c3e59805e61964755bcc1ab546",
+    "paper9_sagnn_substructure/README.md": "79eb1cfdb8c19253e72d09ba76e044dce441eb3be3b3b5150ec8358aec96edc2",
+    "paper9_sagnn_substructure/train_mutag.py": "c4c6b2e23ea276cc95d47ae49d8fdcaeb8dada69cda8a830e30cec78ec3efe04",
+    "paper9_sagnn_substructure/train_mutag_cv.py": "b05b92eb211c342f1b9d70465220c077530e4c987b9b18d5294faf65b905096c",
+    "paper9_sagnn_substructure/train_zinc.py": "e47d6e892bae079086648a36aa3d21a5f34ba19c9f7c573e8928a8653cd29c5f",
+    "paper9_sagnn_substructure/VALIDATION.md": "6cd2fb197be2732d576699127e035efc20c915b1d3de7c15036238fef3316990",
+    "paper9_sagnn_substructure/configs/EXP.yaml": "b7083db28b0c1a2bd9badf8603548d6f20135de3e4cfb3c5a7c14b556352d502",
+    "paper9_sagnn_substructure/configs/zinc.yaml": "2a8f2fff2e3cb20eadd198874caf62c18dc059dc1854394698a90278ffdfcddb",
+    "paper9_sagnn_substructure/core/config.py": "8c808f20d39ce6fb1d07bdb758bff62ea23641c76b3459ab608faa4ec8be5f8d",
+    "paper9_sagnn_substructure/core/EXP.py": "d2a18a57e362bb0207d525529583d9f1c27cb8a899ffb837a5470b223f4df37a",
+    "paper9_sagnn_substructure/core/log.py": "555a8f76381fb35ad038309d10b88abb7f3b4eb19dca6f54e37086dc6eadb069",
+    "paper9_sagnn_substructure/core/model.py": "d0a6fab94c0082d80a66c644797c568f38caf465448c32e3f0ca62d320041289",
+    "paper9_sagnn_substructure/core/PE_init.py": "2e41c4a5ee0500a47daff79c7277952f99c68bbf06178ece646db52557d05df3",
+    "paper9_sagnn_substructure/core/simple_graph.py": "2ffb9ea70066bddad95a03b6bbafa27ecbebc488b8580c030f7c99c4fc62d11f",
+    "paper9_sagnn_substructure/core/train_helper.py": "0f6cc678b18dcef4b7f2c65d8b437bf8841877c7498450da1da5000ae16ef386",
+    "paper9_sagnn_substructure/core/transform.py": "47c0f34a644ae5005cb60148f28337958144eae7e891bcd560a17fc7e258eda7",
+    "paper9_sagnn_substructure/core/triple.py": "502879ec09697c0279eb8fbbd01b5dfdb004ee061e098d7187070dac9f81a13f",
+    "paper9_sagnn_substructure/core/utils.py": "2144769962098009f8babfd6af49cb4e56c3dcd478b38745806df7c67f5fc601",
+    "paper9_sagnn_substructure/core/__init__.py": "d98664fedc2389ea5c65e8bfd3615e34a93fd7942d915f4566332ec9608ce7cf",
+    "paper9_sagnn_substructure/core/model_utils/elements.py": "88e34a1f1856b2da508590b38366f6d24afa766d6b881b9c239da96155bee59d",
+    "paper9_sagnn_substructure/core/model_utils/ppgn.py": "829bab3b0ea5674f5864832456a821c57364d314c5b0292f79dddef4eeaecb84",
+    "paper9_sagnn_substructure/core/model_utils/pyg_gnn_wrapper.py": "9057e1bb7f0275241d3c371f594c074d67ad0fad62bb1a5967e29f22377dcd39",
+    "paper9_sagnn_substructure/core/model_utils/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "paper9_sagnn_substructure/core/transform_utils/sampling.py": "ffd13aad8d7dfc06bf32d3a2a0d557ee6c0e3c3f0afe73eebee38b474a530ea5",
+    "paper9_sagnn_substructure/core/transform_utils/subgraph_extractors.py": "ad854b186217e3cf04196368759903ef73cb76cd111f7e2f411dba2c812bc616",
+    "paper9_sagnn_substructure/core/transform_utils/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "paper9_sagnn_substructure/dgl_repro/PE_init_dgl22.py": "ac24e1a95843e42bae88e0e5a964c68b21115d8d3034f235e32384f731425e2c",
+    "paper9_sagnn_substructure/dgl_repro/README.md": "f8018ffd4b262f8c8d3fc7beaaf66557226ced11bab95dd6a3265eb52c3b7801",
+    "paper9_sagnn_substructure/dgl_repro/run_mutag_dgl.py": "e4c882826af4564fe592ecad1859344811ceb154f3af6d4213955f7ee93c682a",
+    "paper9_sagnn_substructure/dgl_repro/run_zinc_dgl.py": "cb83ddc11a0f274f8c9e9078ccc6829333a536ad3b2205bdd567695bf680963a",
+    "paper9_sagnn_substructure/legacy/CEXP.py": "9ede3de35f6788b992e2870d56eee063faaec1d25a23aba1996155df1ca98f61",
+    "paper9_sagnn_substructure/legacy/draw.py": "aa3dd3dc79a4777c736e928ada672578c306454aed90de8aa2121112544232e9",
+    "paper9_sagnn_substructure/legacy/exp_new.py": "909b691660306aad8773db69c62c3f793b2e6eb138858ae0979a9ecd6d3274c5",
+    "paper9_sagnn_substructure/legacy/log1.txt": "1b79c6bbe75c9859ab1f711a6e2d65d85e20f2e69b36ca0e0abbaacaca2d49ad",
+    "paper9_sagnn_substructure/legacy/main.py": "02f944c20be5b25317bd260c063c1c132ad36484436abc853cbbcf8f5c77c783",
+    "paper9_sagnn_substructure/legacy/MUTAG.py": "63a1186e46ed6e9d7d7ecc4e04a1f5ff743a04377e5bb546413a4056381ff13c",
+    "paper9_sagnn_substructure/legacy/pkl.py": "b7463935ffe098895b08ab59d5910556fb41fe4f5979ef9e4d1e8ec478d13d9c",
+    "paper9_sagnn_substructure/legacy/PROTEINS.py": "e23833868eb45244195d220f9675d57cfc170c1ab3931d05a3fe51d72baffd67",
+    "paper9_sagnn_substructure/legacy/PROTEINS_DATA.py": "80d3352a08d0ca7eafe1f2af95907b07a32bbf34390b9afc93511c1398b31e82",
+    "paper9_sagnn_substructure/legacy/PTC.py": "75b27eeb3831d57f7c676b5f52bf0e3f7ab3b083de8082f296289e97e2c220c4",
+    "paper9_sagnn_substructure/legacy/temp.py": "eb84cdf17e510165436d4620917c240c8d63898076518c3ea367d408ec81609d",
+    "paper9_sagnn_substructure/legacy/test.py": "a8e1d48254b088f205c10b185a743619673588817fb6c99099bfef6f0744909b",
+    "paper9_sagnn_substructure/legacy/triple.py": "a9c07a9d6d0e562c0c97e7f9134c52091265c6593298bc8c9b16fc6dc44dfa4d",
+    "paper9_sagnn_substructure/legacy/zinc.py": "3b2818ff8de3f3f442207c3f704fd25fb09c6456178c452b5f3fc760468fd171",
+    "paper10_domain_kg_extraction/assets_manifest.json": "6fa303fabf497412d947f265b72537df9099d0cf8088917d3837dbfdd2b7d563",
+    "paper10_domain_kg_extraction/prepare_assets.py": "e36d909b99f62bf9f7e0269bdfa8f8c6855897c3e59805e61964755bcc1ab546",
+    "paper10_domain_kg_extraction/README.md": "41864697754040521469e265c89b7daa818f6ffb05f7862f590b79581158175f",
+    "paper10_domain_kg_extraction/VALIDATION.md": "051ece5209e5a386e5dd93666cf601e76bacc1c5085ce2a3b0af2b9fb1128079",
+    "paper10_domain_kg_extraction/annotation/v1/annotate_to_mysql.py": "82a979e5131a7c98aeb6e8f2f4b92794e134a7bcdbe7ea6823dbfef1edda85cb",
+    "paper10_domain_kg_extraction/annotation/v1/check_db.py": "ffd986d361e6e4a2c5f8234ecb07ed02010437387ec8d67518a9946f60e36574",
+    "paper10_domain_kg_extraction/annotation/v1/check_status.py": "ef0a9e6b25555ce42ca6ed39c401ba0a8756d9f4b3b5cd8a61d5912da4279b9c",
+    "paper10_domain_kg_extraction/annotation/v1/export_data.py": "346457ff9e151e44904ce1e4b0b9cfef8c1887e7e5f30f4d282bc6932a14c3b2",
+    "paper10_domain_kg_extraction/annotation/v1/标注拆分实现文档.md": "12002a6df0bf6e7c607f7fdce87e787da99024bf68701a4c2ab61784167f1d56",
+    "paper10_domain_kg_extraction/annotation/v2/annotate_to_mysql_en.py": "2c2e0e6c2aa4b048b2678e54bd138d0431f4cdc14cdb1fb891c719433710b00d",
+    "paper10_domain_kg_extraction/annotation/v2/annotate_to_mysql_v2.py": "c1be57c6c909615dcfa5d1cccf2152ea0d7767c11d1810b6c2080bee152a89a7",
+    "paper10_domain_kg_extraction/crawlers/en/README.md": "f9369f9de6c4df731ce74603633b41ab85967f35df8608b4cee156cd853b721d",
+    "paper10_domain_kg_extraction/crawlers/en/bbc/bbc_bio.csv": "9cb99c4e1b8f3018ca9b20855f0f366ca1be97efcd056522a75cb2f0d91cb6ba",
+    "paper10_domain_kg_extraction/crawlers/en/bbc/bbc_news_crawler.py": "451b7befd6f802660817e39d556469d9a1ab8da4d3be21e3db87e5cab27bb182",
+    "paper10_domain_kg_extraction/crawlers/en/bbc/biomanufacturing_keywords.txt": "033c5fc80e83c97f373de3104682427a139ab91a478bb05ddeee701e12b6573a",
+    "paper10_domain_kg_extraction/crawlers/en/cnn/cnn_quantum.csv": "9085a7165a17e2698a5c7f6d7995f771de074a7c9ba057d5d7ee7422320ab8a9",
+    "paper10_domain_kg_extraction/crawlers/en/cnn/cnn_quantum_crawler.py": "bd122cba7032477c9906ba2f0a656d7190868dedf6534e39bbbd17b5d9ef13f1",
+    "paper10_domain_kg_extraction/crawlers/en/cnn/quantum_keywords_english.txt": "f7273de6eb4fe2ba6b208a5f4a7f011b9e887f402ff0b985203da8664260530c",
+    "paper10_domain_kg_extraction/crawlers/en/推特/keywords.txt": "0104c0a6ce69aefc77e2c3640fc72908ba0d118281e273a747a70b7f675151b7",
+    "paper10_domain_kg_extraction/crawlers/en/推特/readme.md": "77a643b6e3a9865a72c6ec66b7f3d38b266894d77b8f914cd8c8b64292858d7d",
+    "paper10_domain_kg_extraction/crawlers/en/推特/spider_fast.py": "1b6279b9bff2acc6f76f29377cb4c493c2c617427ef4e925408333d5827479af",
+    "paper10_domain_kg_extraction/crawlers/en/油管/biomanufacturing_keywords.txt": "033c5fc80e83c97f373de3104682427a139ab91a478bb05ddeee701e12b6573a",
+    "paper10_domain_kg_extraction/crawlers/en/油管/youtubebio.csv": "50a66e447857d2473a1afbe1622f0ab3e55c5b934c42a06d41f7d59015c9a014",
+    "paper10_domain_kg_extraction/crawlers/en/油管/youtube_scraper_chrome.py": "171f9996c898701514db7fe5b4074152af4497174033791f7322ef8c4eed435a",
+    "paper10_domain_kg_extraction/crawlers/zh/bing学术/bing_academic_crawler.py": "447972a11682ae14f485b8abe4cdb9aa28bb105ac217420b747a1a071f3a1b22",
+    "paper10_domain_kg_extraction/crawlers/zh/bing学术/README.md": "23f3d6b7099585f1321470ec4d565f04c8404ab334cd0bb2b976ff867a3d5bb2",
+    "paper10_domain_kg_extraction/crawlers/zh/bing学术/requirements.txt": "45c1500208fdbb10b2576dc15f01f54ddb4d99e2f0cb3c71765463bdf300e97a",
+    "paper10_domain_kg_extraction/crawlers/zh/bing学术/keywords/keyword-示例.txt": "60dcb10c38a68a28e4c40663bfb2ab60f857625daaad6aa7317a3c75833d7ca8",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/README.md": "54d87046685c6e3545f4a3cc40c8058f5a2ecc6455cae43e76e17af1298e6833",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/标题/bilibili_bio_manufacturing.csv": "d4d4022754f3f151fcdf5fa3b61c127f29bb8ea937629929f91e3b55b5d43f1d",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/标题/bilibili_bio_manufacturing.py": "0c52d6d2edc5518079e9f5017ceb5072727872e9c847393550f7bca99094770f",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/标题/bio_manufacturing_keywords.py": "8bc22ac0220beddc6928d936cb3fae26bf784c58498b81b010a97784e47f425b",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/评论/bilibili_bio_comments.csv": "e930eb6dc7b57096420085d73ab27b1366e63f3057614107b2aadcabf1983281",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/评论/bilibili_bio_comments_crawler.py": "0005aac946d64f316fd6c42f24bfc00aa8ff7fe059e9f63c8582f1bbf01df5ee",
+    "paper10_domain_kg_extraction/crawlers/zh/哔哩哔哩/评论/bilibili_bio_manufacturing.csv": "d4d4022754f3f151fcdf5fa3b61c127f29bb8ea937629929f91e3b55b5d43f1d",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/app.py": "7c8535ec92038554b5422fd72284fc94188ecbfb0e06cce3495bb2d41e9ef37d",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/clean_data.py": "3db42f65643dccf56445b33e75f44716594c25d02d7acfbcb847dde8dcf6ec37",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/README.md": "70382cdb30e8dcaabd37a49ff60f0e7ab4a6c7127c28a5eaaa1c5ae32485fa45",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/requirements.txt": "b28837bc9eed9e2f07f8bb11deddb74ace06cae75641a6b0609fc911621b4b69",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/cleaned_data/all_cleaned_data.csv": "14440dd6a3d399a0ed766b7a81737c9d4a3e7a2557bf8421d182b89b90d33317",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/8.xlsx": "9408e4ee5f116616e752893034c97763eafa83af70ea69dd68a9123e88a5115e",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/baidu_news_spider.py": "0107b1a4d3be81d586288eeed25182b98039993c75801074549a3856e7a3600e",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/spider.py": "ddc394c3c5362291dec57037e35ce0c5d788edf4a0d9caebb7f764a48645a167",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/crawler/untitled": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "paper10_domain_kg_extraction/crawlers/zh/百度新闻/templates/index.html": "cf9934a2bc151d9eee280c5c43cff3152ad7719b5d45c4154f153570ac823146",
+    "paper10_domain_kg_extraction/data/make_sample_data.py": "88f27cad21c694cd6ec67f147a90ae148c6d602bd07b33c84530044d141383d0",
+    "paper10_domain_kg_extraction/data/train_data/ch/batch_1/train.jsonl": "f6df64655c66702215848c17ac5a198aa2cae4185461270ab412bab947f20c17",
+    "paper10_domain_kg_extraction/data/train_data/ch/batch_1/val.jsonl": "840a617fb2900ca2bbcae3c9320600fdcd4eb3eceb39742501ee4ee93ccc0b52",
+    "paper10_domain_kg_extraction/data/train_data/ch/batch_2/train.jsonl": "bbe8af9749a860ea45620fa2b57340a81736f0ef280e0459dd02b93da2e80ca4",
+    "paper10_domain_kg_extraction/data/train_data/ch/batch_2/val.jsonl": "6e69a301c5eb946a8d182d4b9f4910847afb285d89e2a93af42c0d02ff76f7ee",
+    "paper10_domain_kg_extraction/data/train_data/en/batch_1/train.jsonl": "06c7797f21046f8015d04ad2e970a2c80cfca56dfd5ec16e03448d4ddde29707",
+    "paper10_domain_kg_extraction/data/train_data/en/batch_1/val.jsonl": "6c1f14ce3462d648762c736e40739ca52d520a0abd821a73ba63d4ab752c886c",
+    "paper10_domain_kg_extraction/flask/app.py": "440cb4f0c938418c3b58928faefba38d4270e7da4f9745d3632f2705bd4062bd",
+    "paper10_domain_kg_extraction/flask/README.md": "0470f6baab15a80aa840ec993642cdf9eda955baa970b917558411c58fabf360",
+    "paper10_domain_kg_extraction/flask/requirements.txt": "8ea1ad784a4f2a2ff3f6b268476ae8b9ae3bda01e0f7a1110aebca403c28df3c",
+    "paper10_domain_kg_extraction/flask/test_client.py": "17df2b1e3411fa8ca2b2eedf34fa838be40242b984fb03081401a39fc02cfd73",
+    "paper10_domain_kg_extraction/flask/templates/index.html": "76dc13108c078ab93152337bc88fc763045d1fa0134fc695d78226007593744e",
+    "paper10_domain_kg_extraction/legacy/tests/analyze_multi_batch.py": "f004b74934cfe9a97ec861fddb6471e574ac19de9ce8983b9927c4b39f21d009",
+    "paper10_domain_kg_extraction/legacy/tests/batch_inference.py": "e6a665bddd8b4ab6d4868f9b43f683a7b5f31ac58d5bebb1eeccd16fde57b2b7",
+    "paper10_domain_kg_extraction/legacy/tests/eval_kg_quality.py": "2d2676c044bbb87874aeeb4febf25b43ad78f6614f96573f83190844c91d8212",
+    "paper10_domain_kg_extraction/legacy/train_v1/merge_and_test.py": "f5f61248bd0c3a0f5ec8e479939f303b172e96433ed67f9599f96b5d61d4baca",
+    "paper10_domain_kg_extraction/legacy/train_v1/prepare_data.py": "6c93ef3226de5adf30d9c6894cb5d51f193c12958d22cc7edd48eb05f82b0793",
+    "paper10_domain_kg_extraction/legacy/train_v1/train_lora.py": "2a86c4310dbc7bdb11c1e1487b05b7d6cf8df2f9ae7bc63992a32c73ed6ed2f0",
+    "paper10_domain_kg_extraction/legacy/train_v2/merge_and_test_v2.py": "baf66ddafef0319e662f05bd3720ae52d8fb820f03c548dfb32ae211d0bb730a",
+    "paper10_domain_kg_extraction/legacy/train_v2/prepare_data_v2.py": "9fdaacc04b2045c038365384c42f17bbaa1ae264d30b8d3ac40a71ec6e40965e",
+    "paper10_domain_kg_extraction/legacy/train_v2/train_lora_v2.py": "29c7ae31f501ba7d3a71f5c5b70e7d4cd10409827c327f980dfc84b8307f28ee",
+    "paper10_domain_kg_extraction/training/train_smoke.py": "05c96fb040083e66302a1e2d268e825393b0cebd1b3d1e0b14cef5d171d837fb",
+    "attachments/flask_response.json": "47352ae0c581f99761ec9122d481b22a2dce5651fcd149f23939f94ce75f9557",
+    "attachments/kg_summary.json": "354bf083712cfffabb781885ed4b5e7e0215f123777f00053d3e3c1fcb1a9741",
+    "attachments/mutag_10fold_dgl.csv": "8015636931b7045e0eb4d5eb55588905821fccf5cc75b4f03ea4c01f2fd114af",
+    "attachments/mutag_10fold_pyg.csv": "5f6aca8cf4e4cca809d6aca5e7718c5267a9baef3e60d28b149c7fbbe7953350",
+    "attachments/zinc_sagnn.csv": "1b43830b6c7a799f7252ca98591be792dc1762b008e5dce06d2b3adb2f953fc9",
+    "report9-10_fy.md": "5a2e765023d879e2cfa2baed8ea773468cd8e44c52b3b105fa2ccb8e04ac42e6"
   }
 }

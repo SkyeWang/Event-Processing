@@ -18,3 +18,10 @@ paper7_event_attributes/AMR/jamr/jamr/sbt-launch.jar
 paper8_event_causality/ECE_MAIN/data/
 paper8_event_causality/ECE_MAIN/res/
 paper8_event_causality/ECE_MAIN/log/
+
+# paper9/paper10 assets and outputs
+paper9_sagnn_substructure/data/
+paper9_sagnn_substructure/results/*.pt
+paper10_domain_kg_extraction/models/
+paper10_domain_kg_extraction/output/
+paper10_domain_kg_extraction/data/.cache/

@@ -1,0 +1,55 @@
+[
+  {
+    "status": 200,
+    "lang": "zh",
+    "text": "2025年3月，OpenAI发布GPT-4.5模型，该模型具备多模态推理能力。",
+    "response": {
+      "input_text": "2025年3月，OpenAI发布GPT-4.5模型，该模型具备多模态推理能力。",
+      "language": "zh",
+      "result": {
+        "knowledge_type": "科技新闻",
+        "triples": [
+          {
+            "entity1": "OpenAI",
+            "entity2": "GPT-4.5模型",
+            "hierarchy_level": "1",
+            "relation": "发布",
+            "relation_type": "技术"
+          },
+          {
+            "entity1": "GPT-4.5模型",
+            "entity2": "多模态推理能力",
+            "hierarchy_level": "1",
+            "relation": "具备",
+            "relation_type": "功能"
+          }
+        ],
+        "year": "2025"
+      },
+      "success": true
+    }
+  },
+  {
+    "status": 200,
+    "lang": "en",
+    "text": "In 2025, NVIDIA released the Blackwell B200 GPU for AI training.",
+    "response": {
+      "input_text": "In 2025, NVIDIA released the Blackwell B200 GPU for AI training.",
+      "language": "en",
+      "result": {
+        "knowledge_type": "release",
+        "triples": [
+          {
+            "entity1": "NVIDIA",
+            "entity2": "Blackwell B200 GPU",
+            "hierarchy_level": "1",
+            "relation": "released",
+            "relation_type": "release"
+          }
+        ],
+        "year": "2025"
+      },
+      "success": true
+    }
+  }
+]

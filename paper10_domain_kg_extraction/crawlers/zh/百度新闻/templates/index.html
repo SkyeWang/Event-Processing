@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>新闻爬虫数据可视化平台</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- DataTables CSS -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">新闻爬虫可视化平台</a>
+    </div>
+  </nav>
+
+  <div class="container my-4">
+    <!-- Control Card -->
+    <div class="card mb-4 shadow-sm">
+      <div class="card-header bg-secondary text-white">
+        <h5 class="card-title mb-0">参数设置</h5>
+      </div>
+      <div class="card-body">
+        <!-- 数据源选择 -->
+        <div class="row mb-3">
+          <div class="col-md-12">
+            <div class="btn-group" role="group">
+              <input type="radio" class="btn-check" name="source" id="source-twitter" value="twitter" checked>
+              <label class="btn btn-outline-primary" for="source-twitter">Twitter爬虫</label>
+              
+              <input type="radio" class="btn-check" name="source" id="source-baidu" value="baidu">
+              <label class="btn btn-outline-success" for="source-baidu">百度新闻爬虫</label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Twitter参数 -->
+        <form id="twitterForm" class="row g-3">
+          <div class="col-md-3">
+            <label for="twitter-kw" class="form-label">关键词（逗号分隔）</label>
+            <input type="text" class="form-control" id="twitter-kw" placeholder="5g">
+          </div>
+          <div class="col-md-3">
+            <label for="twitter-start" class="form-label">开始日期</label>
+            <input type="date" class="form-control" id="twitter-start">
+          </div>
+          <div class="col-md-3">
+            <label for="twitter-end" class="form-label">结束日期</label>
+            <input type="date" class="form-control" id="twitter-end">
+          </div>
+          <div class="col-md-3">
+            <label for="twitter-user" class="form-label">Twitter 用户名</label>
+            <input type="text" class="form-control" id="twitter-user" placeholder="用户名">
+          </div>
+          <div class="col-md-3">
+            <label for="twitter-pwd" class="form-label">Twitter 密码</label>
+            <input type="password" class="form-control" id="twitter-pwd" placeholder="密码">
+          </div>
+        </form>
+
+        <!-- 百度新闻参数 -->
+        <form id="baiduForm" class="row g-3" style="display: none;">
+          <div class="col-md-3">
+            <label for="baidu-kw" class="form-label">关键词（逗号分隔）</label>
+            <input type="text" class="form-control" id="baidu-kw" placeholder="人工智能" required>
+          </div>
+          <div class="col-md-3">
+            <label for="baidu-max" class="form-label">最大爬取数量</label>
+            <input type="number" class="form-control" id="baidu-max" value="100" min="1" max="1000">
+          </div>
+          <div class="col-md-3">
+            <label for="clearData" class="form-label">清除原有数据</label>
+            <div class="form-check mt-2">
+              <input class="form-check-input" type="checkbox" id="clearData" checked>
+              <label class="form-check-label" for="clearData">
+                是（删除baidunews.csv）
+              </label>
+            </div>
+          </div>
+        </form>
+
+        <!-- 控制按钮 -->
+        <div class="row mt-3">
+          <div class="col-md-12">
+            <div id="statusAlert" class="alert alert-info d-none" role="alert">
+              <span id="statusText">准备爬取...</span>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <button type="button" class="btn btn-primary w-100" id="startBtn" onclick="startCrawler()">开始爬取</button>
+          </div>
+          <div class="col-md-2">
+            <button type="button" class="btn btn-danger w-100" id="stopBtn" onclick="stopCrawler()" disabled>停止爬虫</button>
+          </div>
+          <div class="col-md-2">
+            <button type="button" class="btn btn-warning w-100" onclick="clearData()">清除数据</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 完整内容显示模态框 -->
+    <div class="modal fade" id="contentModal" tabindex="-1">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header bg-info text-white">
+            <h5 class="modal-title">新闻完整内容</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          </div>
+          <div class="modal-body">
+            <div id="fullContentText" style="white-space: pre-wrap; max-height: 500px; overflow-y: auto;"></div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">关闭</button>
+            <button type="button" class="btn btn-primary" onclick="copyContent()">复制内容</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 验证码处理模态框 -->
+    <div class="modal fade" id="captchaModal" tabindex="-1">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header bg-warning">
+            <h5 class="modal-title">验证码处理</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          </div>
+          <div class="modal-body">
+            <p>检测到验证码，请在浏览器中完成验证后点击"继续"按钮。</p>
+            <div class="alert alert-info">
+              <i class="bi bi-info-circle"></i> 验证码处理完成后，爬虫将自动继续工作。
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">取消</button>
+            <button type="button" class="btn btn-primary" onclick="resumeAfterCaptcha()">继续爬取</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Real-time Data -->
+    <section id="streamSection" class="mb-5">
+      <div class="card shadow-sm">
+        <div class="card-header bg-info text-white">
+          <h5 class="card-title mb-0">实时爬取数据</h5>
+        </div>
+        <div class="card-body">
+          <!-- Twitter数据表格 -->
+          <table id="twitterTable" class="table table-striped" style="width:100%">
+            <thead>
+              <tr><th>Tweet 文本</th><th>匹配关键词</th></tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+          
+          <!-- 百度新闻数据表格 -->
+          <table id="baiduTable" class="table table-striped" style="width:100%; display: none;">
+            <thead>
+              <tr>
+                <th>标题</th>
+                <th>链接</th>
+                <th>摘要</th>
+                <th>来源时间</th>
+                <th>匹配关键词</th>
+                <th>内容</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Chart Section -->
+    <section id="chartSection">
+      <div class="card shadow-sm">
+        <div class="card-header bg-info text-white">
+          <h5 class="card-title mb-0">关键词匹配频次</h5>
+        </div>
+        <div class="card-body">
+          <canvas id="barChart" height="100"></canvas>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <footer class="bg-light text-center py-3">
+    <small>&copy; 2025 新闻爬虫可视化平台</small>
+  </footer>
+
+  <!-- JS 依赖 -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
+
+  <script>
+    let chart;
+    let twitterTable;
+    let baiduTable;
+    let eventSource;
+    let countMap = {};
+    let captchaModal;
+    let contentModal;
+
+    $(document).ready(function() {
+      // 初始化数据表格
+      twitterTable = $('#twitterTable').DataTable({ pageLength: 5 });
+      baiduTable = $('#baiduTable').DataTable({ 
+        pageLength: 5,
+        columns: [
+          { data: 'title' },
+          { data: 'url', render: function(data) { 
+            return `<a href="${data}" target="_blank">${data.length > 30 ? data.substring(0,30)+'...' : data}</a>`; 
+          }},
+          { data: 'summary' },
+          { data: 'source_time' },
+          { data: 'matched_keywords' },
+          { data: 'content', render: function(data, type, row) { 
+            if (type === 'display') {
+              // 显示截断的内容和查看完整内容的按钮
+              const truncated = data.length > 150 ? data.substring(0,150)+'...' : data;
+              const fullContent = data.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+              return `<div class="content-cell">
+                        <div class="content-preview">${truncated}</div>
+                        ${data.length > 150 ? `<button class="btn btn-sm btn-outline-primary mt-1" onclick="showFullContent('${fullContent}')">查看完整内容</button>` : ''}
+                      </div>`;
+            }
+            return data; // 对于排序和过滤，返回完整内容
+          }}
+        ]
+      });
+
+      // 初始化模态框
+      captchaModal = new bootstrap.Modal(document.getElementById('captchaModal'));
+      contentModal = new bootstrap.Modal(document.getElementById('contentModal'));
+
+      // 数据源切换
+      $('input[name="source"]').change(function() {
+        const source = $(this).val();
+        if (source === 'twitter') {
+          $('#twitterForm').show();
+          $('#baiduForm').hide();
+          $('#twitterTable').show();
+          $('#baiduTable').hide();
+        } else {
+          $('#twitterForm').hide();
+          $('#baiduForm').show();
+          $('#twitterTable').hide();
+          $('#baiduTable').show();
+        }
+      });
+    });
+
+    function startCrawler() {
+      const source = $('input[name="source"]:checked').val();
+      
+      if (source === 'twitter') {
+        return startTwitterCrawler();
+      } else {
+        return startBaiduCrawler();
+      }
+    }
+
+    function startTwitterCrawler() {
+      const kw = $('#twitter-kw').val().trim();
+      const start = $('#twitter-start').val();
+      const end = $('#twitter-end').val() || new Date().toISOString().slice(0,10);
+      const user = $('#twitter-user').val().trim();
+      const pwd = $('#twitter-pwd').val();
+      
+      if (!kw || !start || !user || !pwd) {
+        alert('请完整填写关键词、日期、用户名和密码');
+        return;
+      }
+
+      setupCrawlerState();
+      
+      const url = `/stream?source=twitter&kw=${encodeURIComponent(kw)}&start=${start}&end=${end}` +
+                  `&user=${encodeURIComponent(user)}&pwd=${encodeURIComponent(pwd)}`;
+      
+      startEventSource(url, handleTwitterData);
+    }
+
+    function startBaiduCrawler() {
+      const kw = $('#baidu-kw').val().trim();
+      const max = $('#baidu-max').val();
+      const clearData = $('#clearData').is(':checked');
+      
+      if (!kw) {
+        alert('请输入关键词');
+        return;
+      }
+
+      // 询问是否清除数据
+      if (clearData && !confirm('确定要删除原有的baidunews.csv文件吗？')) {
+        return;
+      }
+
+      setupCrawlerState();
+      
+      const url = `/stream?source=baidu&kw=${encodeURIComponent(kw)}&max_results=${max}&clear_data=${clearData}`;
+      
+      startEventSource(url, handleBaiduData);
+    }
+
+    function setupCrawlerState() {
+      $('#statusText').text('爬取中...');
+      $('#statusAlert').removeClass('d-none');
+      $('#startBtn').prop('disabled', true);
+      $('#stopBtn').prop('disabled', false);
+      countMap = {};
+      chart?.destroy();
+      
+      const source = $('input[name="source"]:checked').val();
+      if (source === 'twitter') {
+        twitterTable.clear().draw();
+      } else {
+        baiduTable.clear().draw();
+      }
+    }
+
+    function startEventSource(url, dataHandler) {
+      eventSource = new EventSource(url);
+      
+      eventSource.onmessage = function(e) {
+        const item = JSON.parse(e.data);
+        dataHandler(item);
+      };
+      
+      eventSource.addEventListener('error', function(e) {
+        const data = JSON.parse(e.data);
+        if (data.error) {
+          $('#statusText').text(`错误: ${data.error}`);
+          $('#statusAlert').removeClass('alert-info').addClass('alert-danger');
+        }
+      });
+      
+      eventSource.addEventListener('end', function() {
+        $('#statusText').text('爬取完成');
+        $('#statusAlert').removeClass('alert-info').addClass('alert-success');
+        $('#startBtn').prop('disabled', false);
+        $('#stopBtn').prop('disabled', true);
+        eventSource.close();
+      });
+      
+      eventSource.onerror = function() {
+        if (eventSource.readyState === EventSource.CLOSED) {
+          $('#statusText').text('爬取完成');
+          $('#statusAlert').removeClass('alert-info').addClass('alert-success');
+          $('#startBtn').prop('disabled', false);
+          $('#stopBtn').prop('disabled', true);
+          eventSource.close();
+        }
+      };
+    }
+
+    function handleTwitterData(item) {
+      // 更新表格
+      twitterTable.row.add([item.text, item.matched]).draw(false);
+      
+      // 更新频次和图表
+      updateChart(item.matched);
+    }
+
+    function handleBaiduData(item) {
+      // 更新表格
+      baiduTable.row.add(item).draw(false);
+      
+      // 更新频次和图表
+      updateChart(item.matched_keywords);
+    }
+
+    function updateChart(matchedKeywords) {
+      if (!matchedKeywords) return;
+      
+      matchedKeywords.split(', ').forEach(k => {
+        countMap[k] = (countMap[k] || 0) + 1;
+      });
+      
+      const labels = Object.keys(countMap);
+      const values = labels.map(l => countMap[l]);
+      const ctx = document.getElementById('barChart').getContext('2d');
+      
+      if (!chart) {
+        chart = new Chart(ctx, {
+          type: 'bar',
+          data: { 
+            labels, 
+            datasets: [{ 
+              label: '匹配次数', 
+              data: values,
+              backgroundColor: 'rgba(54, 162, 235, 0.6)',
+              borderColor: 'rgba(54, 162, 235, 1)',
+              borderWidth: 1
+            }] 
+          },
+          options: { 
+            responsive: true,
+            scales: {
+              y: {
+                beginAtZero: true,
+                ticks: {
+                  stepSize: 1
+                }
+              }
+            }
+          }
+        });
+      } else {
+        chart.data.labels = labels;
+        chart.data.datasets[0].data = values;
+        chart.update();
+      }
+    }
+
+    function stopCrawler() {
+      if (eventSource) {
+        eventSource.close();
+      }
+      
+      $.get('/stop_crawler', function(response) {
+        if (response.success) {
+          $('#statusText').text('爬虫已停止');
+          $('#statusAlert').removeClass('alert-info').addClass('alert-warning');
+        } else {
+          alert(`停止失败: ${response.error}`);
+        }
+      }).fail(function() {
+        alert('停止请求失败');
+      });
+      
+      $('#startBtn').prop('disabled', false);
+      $('#stopBtn').prop('disabled', true);
+    }
+
+    function clearData() {
+      if (confirm('确定要清除所有数据文件吗？')) {
+        $.get('/clear_data', function(response) {
+          if (response.success) {
+            alert('数据已清除');
+            twitterTable.clear().draw();
+            baiduTable.clear().draw();
+            countMap = {};
+            chart?.destroy();
+          } else {
+            alert(`清除失败: ${response.error}`);
+          }
+        }).fail(function() {
+          alert('清除请求失败');
+        });
+      }
+    }
+
+    function resumeAfterCaptcha() {
+      captchaModal.hide();
+      // 这里可以添加验证码处理后的逻辑
+      $('#statusText').text('验证码处理完成，继续爬取...');
+    }
+
+    // 定期检查验证码（可选）
+    setInterval(function() {
+      if (eventSource && eventSource.readyState === EventSource.OPEN) {
+        $.get('/check_captcha', function(response) {
+          if (response.captcha_required) {
+            captchaModal.show();
+          }
+        });
+      }
+    }, 10000); // 每10秒检查一次
+
+    function showFullContent(content) {
+      // 显示完整内容
+      document.getElementById('fullContentText').textContent = content;
+      contentModal.show();
+    }
+
+    function copyContent() {
+      // 复制内容到剪贴板
+      const content = document.getElementById('fullContentText').textContent;
+      navigator.clipboard.writeText(content).then(function() {
+        // 显示复制成功提示
+        const copyBtn = document.querySelector('#contentModal .btn-primary');
+        const originalText = copyBtn.textContent;
+        copyBtn.textContent = '已复制！';
+        copyBtn.classList.remove('btn-primary');
+        copyBtn.classList.add('btn-success');
+        
+        setTimeout(function() {
+          copyBtn.textContent = originalText;
+          copyBtn.classList.remove('btn-success');
+          copyBtn.classList.add('btn-primary');
+        }, 2000);
+      }).catch(function(err) {
+        console.error('复制失败:', err);
+        alert('复制失败，请手动选择内容复制');
+      });
+    }
+  </script>
+</body>
+</html>
