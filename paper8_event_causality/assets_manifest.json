@@ -1,0 +1,250 @@
+{
+  "description": "大文件资源不随代码重复提交；可从原工作目录按此清单复制并校验。",
+  "files": [
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/raw_data.txt",
+      "target": "ECE_MAIN/data/raw_data.txt",
+      "bytes": 4136526,
+      "sha256": "33df92371b0907ea9496c431f45e22991be936e0ca220cb9b7bba4621a5fb93a"
+    },
+    {
+      "component": "bert",
+      "source": "ECE/ECE_MAIN/data/bert-base-zh/config.json",
+      "target": "ECE_MAIN/data/bert-base-zh/config.json",
+      "bytes": 624,
+      "sha256": "88af762cfb15fa9ce183c84dcbfdc9d635196ba635dfe81f265fdd21d67f4c4c"
+    },
+    {
+      "component": "bert",
+      "source": "ECE/ECE_MAIN/data/bert-base-zh/model.safetensors",
+      "target": "ECE_MAIN/data/bert-base-zh/model.safetensors",
+      "bytes": 411553788,
+      "sha256": "3404a1ffd8da507042e8161013ba2a4fc49858b4e3f8fbf5ce5724f94883aec3"
+    },
+    {
+      "component": "bert",
+      "source": "ECE/ECE_MAIN/data/bert-base-zh/tokenizer.json",
+      "target": "ECE_MAIN/data/bert-base-zh/tokenizer.json",
+      "bytes": 268943,
+      "sha256": "55c5edcfb8936895e019b2d8f97dcb547734f25b29f95009155f4c8c15649aae"
+    },
+    {
+      "component": "bert",
+      "source": "ECE/ECE_MAIN/data/bert-base-zh/tokenizer_config.json",
+      "target": "ECE_MAIN/data/bert-base-zh/tokenizer_config.json",
+      "bytes": 49,
+      "sha256": "0f6d13e6f4da6f9e24f22ada6bc3be571123d858d7c0c05a8a7cd55a9c23c2e8"
+    },
+    {
+      "component": "bert",
+      "source": "ECE/ECE_MAIN/data/bert-base-zh/vocab.txt",
+      "target": "ECE_MAIN/data/bert-base-zh/vocab.txt",
+      "bytes": 109540,
+      "sha256": "45bbac6b341c319adc98a532532882e91a9cefc0329aa57bac9ae761c27b291c"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/processed_data/dev.pickle",
+      "target": "ECE_MAIN/data/processed_data/dev.pickle",
+      "bytes": 1770173,
+      "sha256": "6ff0826e3bf55fafdd3d3e012df1c03f890a530e171be0c08c6ef3bba7833190"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/processed_data/test.pickle",
+      "target": "ECE_MAIN/data/processed_data/test.pickle",
+      "bytes": 1770230,
+      "sha256": "d4772a09045d18a09aef250d766ed46e5ca5669bb3a340e88a6963e0475622e4"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/processed_data/train.pickle",
+      "target": "ECE_MAIN/data/processed_data/train.pickle",
+      "bytes": 14920917,
+      "sha256": "f696bd2a85a365f48899d49062ee0c42fc5686d9fdddbdc979bb2ed9e49ead21"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/split_data/dev.json",
+      "target": "ECE_MAIN/data/split_data/dev.json",
+      "bytes": 1484407,
+      "sha256": "52a225251a2fb007fd7f77985d1f72ba490494dd167bbb4bed64246a62071dd4"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/split_data/dev_ids.txt",
+      "target": "ECE_MAIN/data/split_data/dev_ids.txt",
+      "bytes": 6245,
+      "sha256": "c7af3ba0e093a6fd0493d49f0ecceed2034aeb1d0b0510527e4616192628c9c4"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/split_data/test.json",
+      "target": "ECE_MAIN/data/split_data/test.json",
+      "bytes": 1493842,
+      "sha256": "7d42ec46b9a459a98ae81037abbd3b96559a18afab4819abad2f07223ecafde8"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/split_data/test_ids.txt",
+      "target": "ECE_MAIN/data/split_data/test_ids.txt",
+      "bytes": 6242,
+      "sha256": "2a524cbc7320b535d32af26a59ef2b65b988fad905ba4699d01ab9ce8ec79851"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/split_data/train.json",
+      "target": "ECE_MAIN/data/split_data/train.json",
+      "bytes": 12025690,
+      "sha256": "b656364dbf3d6d9008e57b2a56d491f509e35432099c440cc79425896745d087"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/split_data/train_ids.txt",
+      "target": "ECE_MAIN/data/split_data/train_ids.txt",
+      "bytes": 49969,
+      "sha256": "63251db23f3aa5774ffb3f27d91cdf40bbcbf71d5c5dd2d96d4261da87ce098d"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/manifest.json",
+      "target": "ECE_MAIN/data/subsets/full7000/manifest.json",
+      "bytes": 438,
+      "sha256": "9f55bbb5fd6e8e5e75b5cf777685f291bc8a02b89cbb1354616818142efeacd2"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/raw_data.txt",
+      "target": "ECE_MAIN/data/subsets/full7000/raw_data.txt",
+      "bytes": 4136528,
+      "sha256": "a803c4db224b752e5cf72f0efd4eb53ca209efaf7be4b3b66b2178c13546fa92"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/processed_data/dev.pickle",
+      "target": "ECE_MAIN/data/subsets/full7000/processed_data/dev.pickle",
+      "bytes": 1752245,
+      "sha256": "80da06f0121aedf6b76eae383da94a25e1a1fcfed6353dfc4b359f10fddc6313"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/processed_data/test.pickle",
+      "target": "ECE_MAIN/data/subsets/full7000/processed_data/test.pickle",
+      "bytes": 1752302,
+      "sha256": "2c913f6403f052e783aa508070b4354e844c3d075b52b5bd5302e1e619d1afe0"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/processed_data/train.pickle",
+      "target": "ECE_MAIN/data/subsets/full7000/processed_data/train.pickle",
+      "bytes": 14519861,
+      "sha256": "3d335bad38e28358a86a96b192099a37bdffa0c8a84f4bfa63e3bf62502dfbac"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/split_data/dev_ids.txt",
+      "target": "ECE_MAIN/data/subsets/full7000/split_data/dev_ids.txt",
+      "bytes": 6247,
+      "sha256": "6f2bf00a5ecaf7d9ca36d59b3460ea63671cafd06cb65d2d09a4a5301e366696"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/split_data/test_ids.txt",
+      "target": "ECE_MAIN/data/subsets/full7000/split_data/test_ids.txt",
+      "bytes": 6244,
+      "sha256": "473e5281f054f155fe35e45fa4cdda2272e992da4c58d934f718d7bbcc9c7ffe"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/full7000/split_data/train_ids.txt",
+      "target": "ECE_MAIN/data/subsets/full7000/split_data/train_ids.txt",
+      "bytes": 49971,
+      "sha256": "630b58318be6b4ff4350faa4cc451c6051f1710b70a18e8bbd439ab7c169f7ec"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/manifest.json",
+      "target": "ECE_MAIN/data/subsets/sample700/manifest.json",
+      "bytes": 435,
+      "sha256": "bcb8a2fd32bada2fc6f0eff4e818a28ae84c6d5a321c012ad31c9a194208db6a"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/raw_data.txt",
+      "target": "ECE_MAIN/data/subsets/sample700/raw_data.txt",
+      "bytes": 403904,
+      "sha256": "6c1b660d4ba5e12140ceb2dd1c0b6254cb553d486aa3a712649fee895b4f12c5"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/processed_data/dev.pickle",
+      "target": "ECE_MAIN/data/subsets/sample700/processed_data/dev.pickle",
+      "bytes": 175068,
+      "sha256": "fdbedc15c08d7fd4135a7b0928c82896585aa0aff269702ecface10ff99af0c6"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/processed_data/test.pickle",
+      "target": "ECE_MAIN/data/subsets/sample700/processed_data/test.pickle",
+      "bytes": 175157,
+      "sha256": "1c26f17bd4bab8b08411431de72d70fa78da681da671857d1d67d8ed500bcdc2"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/processed_data/train.pickle",
+      "target": "ECE_MAIN/data/subsets/sample700/processed_data/train.pickle",
+      "bytes": 1449685,
+      "sha256": "6e360b9d6ac793e5cacb1328b07b5304626ec132b10fa091ad56b51e174207c5"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/split_data/dev_ids.txt",
+      "target": "ECE_MAIN/data/subsets/sample700/split_data/dev_ids.txt",
+      "bytes": 624,
+      "sha256": "291437bd3bcdd5cd93427a088d8728c2eb457cddf581607c742c6fb255ca3639"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/split_data/test_ids.txt",
+      "target": "ECE_MAIN/data/subsets/sample700/split_data/test_ids.txt",
+      "bytes": 623,
+      "sha256": "00a2d5213754efde25c7ec1f400f046fb709cf371a004d1cb63b0ed2ef664cb8"
+    },
+    {
+      "component": "ece-data",
+      "source": "ECE/ECE_MAIN/data/subsets/sample700/split_data/train_ids.txt",
+      "target": "ECE_MAIN/data/subsets/sample700/split_data/train_ids.txt",
+      "bytes": 5005,
+      "sha256": "38f8c114b28e0b8dc1b65484ab2f23279434364854491062aa05a011a961df2f"
+    },
+    {
+      "component": "checkpoint",
+      "source": "ECE/ECE_MAIN/models/ece_full_author_lr_run1/best.json",
+      "target": "ECE_MAIN/models/ece_full_author_lr_run1/best.json",
+      "bytes": 65,
+      "sha256": "0c61970397baea122bd518280a7832db4b3b8eb702bb1292c3b0e674e8864f5a"
+    },
+    {
+      "component": "checkpoint",
+      "source": "ECE/ECE_MAIN/models/ece_full_author_lr_run1/best.pickle",
+      "target": "ECE_MAIN/models/ece_full_author_lr_run1/best.pickle",
+      "bytes": 428136395,
+      "sha256": "6b4ead96fd0c436adb2e9f727a3a6c1c9210343b11f39ef00ba466efdc6c91a8"
+    },
+    {
+      "component": "checkpoint",
+      "source": "ECE/ECE_MAIN/models/ece_full_lr5e5_100ep_run1/best.json",
+      "target": "ECE_MAIN/models/ece_full_lr5e5_100ep_run1/best.json",
+      "bytes": 66,
+      "sha256": "7dd6ac624f30b019ca1bdc85fe750e77443aa37c366f54b463a8ebac1578f4db"
+    },
+    {
+      "component": "checkpoint",
+      "source": "ECE/ECE_MAIN/models/ece_full_lr5e5_100ep_run1/best.pickle",
+      "target": "ECE_MAIN/models/ece_full_lr5e5_100ep_run1/best.pickle",
+      "bytes": 428136395,
+      "sha256": "e3513d207627f33483e85dc3d3cab53da85107d641f44fc74dfa94a8c4b33d17"
+    }
+  ]
+}

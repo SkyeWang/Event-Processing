@@ -1,0 +1,37 @@
+- Tune prec, recall (boost precision)
+- Feature: was the word seen before
+- Feature: length for date entities, and for named entities
+- Better cost?
+- Debug dev reporting
+- Try JAMR old weights on new data
+- Ask about ISI result
+- Retrain relation ID
+
+Tues May 26
+- Add regularizer
+- Train relation id w/ automatic concepts
+
+Wed May 27
+- Correct normalization when checking spans (will matter for dates especially)
+- Cost func shouldn't care about entity type
+- Boost recall / play with reg
+- Cost function should be this: if you can predict the correct concept, the predict it, otherwise predicting anything is better than nothing (this cost func depends on the output set!)
+
+- WordNet pass through and POS
+- log(Count) of the word (or log(Pr(produce something)))
+- Add lists for NE, and unigrams for NE, does it start with capital
+- WordNet pass through and log(count) of the word
+- Syntactic context with concept (for sense)
+- Is the concept a -NN (and w/ POS)
+- run SRL to help event concept id
+- parsed OntoNotes examples? look at possible roles and syntactic context 
+
+
+Wed June 10
+- Fix ordering of NEs
+- Train stage2 w/ output of stage1 (w/ folds? or without)
+
+Thurs June 11
+- Add regularizer
+- Try regular ramp (compare to infinite ramp)
+

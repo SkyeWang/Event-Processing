@@ -1,0 +1,1770 @@
+communication network,wireless access network*,base station master equipment<cp>
+communication networks,wireless access networks*,base station core components<cp>
+communication network,wireless access network*,5g private network
+communication network,wireless core network*,5g core network cloud<js>
+5g industry structure,access network*,base station main equipment
+5g industry structure,access network*,base station core components
+5g industry structure,access network*,private network solutions
+8g industry structure,transmission network*,optical communication equipment
+5g industry structure,transmission network*,fiber optic cable
+5g industry structure,transmission network*,optical devices
+5g industry structure,telecom operators*,china mobile<gs>
+5g industry structure,telecom operators*,china unicom<gs>
+5g industry structure,telecom operators*,china telecom<gs>
+5g industry structure,telecom operators*,china broadcasting<gs>
+5g industry structure,5g application ecology *,application connectivity support<ly>
+5g industry structure,5g application ecology *,cell phone terminal electronics<ly>
+5g industry structure,5g application ecology *,telematics<ly>
+5g industry structure,5g application ecology *,vr/ar<ly>
+5g industry structure,5g application ecology *,smart industry<ly>
+5g industry structure,5g application ecology *,ultra hd video/live streaming<ly>
+5g industry structure,5g application ecology *,smart power<ly>
+5g industry structure,5g application ecology *,smart healthcare<ly>
+5g industry structure,industry services*,industry media
+5g industry structure,industry services*,research and consulting
+5g industry structure,industry services*,alliances and associations
+5g industry structure,core network*,sdn virtualization platform
+5g industry structure,core network*,nfv virtualization platform
+5g industry structure,core network*,related equipment
+5g industry structure,network supporting service provider*,network planning and design
+5g industry structure,network supporting service provider*,network engineering optimization
+5g industry structure,network supporting service provider*,network operation support
+5g industry structure,network level*,5g base stations reached 1.159 million
+5g industry structure,application level*,consumer side
+5g industry structure,user level*,5g cell phone terminal
+5g industry structure,user level*,5g industry application commercialization
+5g industry structure,product level*,5g smartphone<cp>
+5g industry structure,product level*,5g industry routers<cp>
+5g industry structure,product level*,5g fixed access cpe<cp>
+5g industry structure,product level*,vr/ar headsets<cp>
+5g industry structure,product level*,glasses<cp>
+5g industry structure,product level*,in-vehicle terminal<cp>
+5g industry structure,global*,5g commercial network
+5g industry structure,global*,5g base stations<cp>
+5g industry structure,global*,number of users
+5g industry structure,global*,5g tob projects
+three application scenarios,embb (enhanced mobile broadband)*,3d/ultra hd video and other high traffic enhanced mobile broadband services
+three application scenarios,mmtc (massive machine type communication)*,large-scale iot business
+three application scenarios,urllc (ultra-reliable low-latency communication)*,driverless/industrial automation and other services that require low latency/high reliability connections
+5g communication operators,china mobile<gs>*,mobile customers
+5g communication operators,china mobile<gs>*,5g network sharing
+5g communication operator,china unicom<gs>*,5g network
+5g communication operators,china unicom<gs>*,5g package users
+5g communication operator,china unicom<gs>*,3.5g+2.1g dual-band 5g strategy
+5g communication operator,china unicom<gs>*,digital transformation of industrial enterprises
+5g communication operator,china telecom<gs>*,5g package users
+5g communication operator,china telecom<gs>*,shares blockchain scheduling platform
+5g communication operator,china radio and television<gs>*,5g network sharing
+5g communications operators,global operators*,72 countries/regions
+5g communications operators,global operators*,137 countries/regions
+5g communications operators,global operators*,number of commercial 5g devices
+5g network support services,network planning and design*,base station site selection
+5g network support services,network planning and design*,wireless parameter planning
+5g network support services,network planning and design*,construction plan design
+5g network support services,network engineering optimization*,access network engineering
+5g network support services,network engineering optimization*,transmission network engineering
+5g network support services,network engineering optimization*,core network engineering
+5g network support services,network engineering optimization*,communication tower engineering
+5g network support services,network operation support*,network maintenance
+5g network support services,network operation support*,operation optimization
+5g network support services,service providers*,traditional service providers
+5g network support services,service providers*,telecom equipment vendors
+5g network support services,service providers*,private companies
+5g application ecology,overview*,5g+industrial internet
+5g application ecology,application connectivity support*,5g end-side chip
+5g application ecology,application connectivity support*,5g connectivity platform
+5g application ecology,application connectivity support*,5g modules
+5g application ecology,application connectivity support*,end-side communication devices
+5g application ecology,cell phone terminals and electronic devices*,5g cell phone integration
+5g application ecology,cell phone terminals and electronic devices*,5g cell phone antenna<cp>
+5g application ecology,cell phone terminals and electronic devices*,5g rf front-end<cp>
+5g application ecology,telematics*,smart driving
+5g application ecology,telematics*,smart car terminal
+5g application ecology,telematics*,telematics application platform
+5g industry services,three sections*,alliances and associations
+5g industry services,three sections*,research and consulting services
+5g industry services,three sections*,industry media
+wireless access network,base station master equipment<cp>*,macro base station<cp>
+wireless access network,base station master equipment<cp>*,small base station<cp>
+wireless access network,base station master equipment<cp>*,base station chip<cp>
+wireless access network,base station master equipment<cp>*,base station tower/station site<cp>
+wireless access network,base station main equipment<cp>*,base station supporting equipment<cp>
+wireless access network,base station core components<cp>*,base station antenna<cp>
+wireless access network,base station core components<cp>*,network optimization equipment<cp>
+wireless access networks,base station core components<cp>*,smart cards<cp>
+wireless access network,base station core components<cp>*,pcb<cp>
+wireless access network,base station core components<cp>*,rf front-end<cp>
+wireless access network,5g private network*,5g technology
+wireless access network,5g private network*,private network
+wireless transmission network,network architecture*,backbone layer
+wireless transmission network,network architecture*,aggregation layer
+wireless transmission network,network architecture*,access layer
+wireless transmission network,equipment composition*,optical communication equipment<cp>
+wireless transmission network,equipment composition*,fiber optic cable<cp>
+wireless transmission network,equipment composition*,optical devices<cp>
+wireless core network,infrastructure*,idc (data center)
+wireless core network,communication service architecture*,sba (service based architecture)
+wireless core network,key technology*,sdn (software defined network)<js>
+wireless core network,key technology*,nfv (network function virtualization)<js>
+wireless core network,global mobile core network market*,overseas communication service provider (csp)
+wireless core network,global mobile core network market*,china telecom operators
+wireless core network,global mobile core network market*,japanese carriers
+wireless core network,global mobile core network market*,asia pacific
+wireless core network,related companies*,fiberhome communications<gs>
+wireless core network,related companies*,huawei<gs>
+wireless core network,related companies*,lenovo understands communication<gs>
+wireless core network,related companies*,riseconda<gs>
+wireless core network,related companies*,starnet<gs>
+wireless core network,related companies*,zte corporation<gs>
+network level,coverage*,prefecture-level cities
+network level,coverage*,county urban areas
+network level,coverage*,township townships
+application level,consumer side*,new multimedia such as uhd and immersive<ly>
+application level,consumer side*,5g+ultra hd video playback<ly>
+application level,consumer side*,5g+vr virtual reality experience<ly>
+user level,5g mobile terminals*,number of connections
+user level,5g mobile terminals*,global 5g users
+user level,5g cell phone terminals*,5g package users
+user level,5g industry application commercialization*,industry
+user level,5g industry application commercialization*,innovative projects
+china mobile<gs>,around*,18 segments
+china mobile<gs>,build*,5g demonstration project
+china mobile<gs>,landing*,5g application scenario
+china mobile<gs>,cumulative opening*,5g base stations
+china mobile<gs>,mobile customers*,5g meal customers
+china mobile<gs>,achieving rapid growth*,home market
+china mobile<gs>,achieving rapid growth*,government and enterprise market
+china mobile<gs>,achieving rapid growth*,emerging markets
+china unicom<gs>,build*,5g lighthouse project
+china unicom<gs>,achieve*,commercialization of quality applications
+china unicom<gs>,cumulative opening*,5g base stations
+china unicom<gs>,3.5g+2.1g dual-band 5g strategy*,tdd (200m) and fdd (2x40m) spectrum co-innovation
+china unicom<gs>,digital transformation for industrial enterprises*,commercial aviation customer
+china unicom<gs>,completed*,5g industry virtual network
+china telecom<gs>,formation*,industry solutions
+china telecom<gs>,5g investment*,3.5ghz equipment
+china telecom<gs>,5g investment*,2.1ghz equipment
+china telecom<gs>,in use*,5g base station
+china telecom<gs>,promote*,5g applications
+china broadcasting<gs>,service scenario*,ultra hd video<ly>
+china broadcast<gs>,service scenario*,smart manufacturing<ly>
+china broadcasting<gs>,service scenario*,electricity<ly>
+china broadcast<gs>,service scenario*,port<ly>
+china broadcast<gs>,service scenario*,mine<ly>
+china broadband<gs>,landing solution*,5g coverage solution for qingdao qianwan port container terminal
+global operators,driving*,5g construction
+global operators,72 countries*,176 operators
+global operators,72 countries*,34 countries/regions
+global operators,137 countries*,461 operators
+network planning and design,providing*,network construction services
+network planning and design,involving capabilities*,service awareness and identification
+network planning and design,involving capabilities*,user experience evaluation
+network planning and design,involving competencies*,gap analysis
+network planning and design,involving capabilities*,planning simulation
+network planning and design,planning process*,network requirements analysis
+network planning and design,planning process*,network size assessment
+network planning and design,planning process*,base station site planning
+network planning and design,planning process*,wireless deployment parameters planning
+network planning and design,planning process*,network simulation
+network planning and design,network planning and design enterprise*,5g telecom carrier design institute
+network planning and design,network planning and design enterprises*,state-owned enterprises / central enterprises design institutes
+network planning and design,network planning and design enterprise*,private enterprise design institute
+network planning and design,network planning and design companies*,local university-held design institutes in china
+network planning and design,related companies*,china communication service<gs>
+network planning and design,related companies*,national pulse technology<gs>
+network planning and design,related companies*,china mobile design institute<gs>
+network planning and design,related companies*,jidai communications<gs>
+network engineering optimization,access network engineering*,base station site selection
+network engineering optimization,access network engineering*,room division system site selection
+network engineering optimization,access network engineering*,supporting equipment site selection
+network engineering optimization,transmission network engineering*,provincial city backbone network construction
+network engineering optimization,transmission network engineering*,power supply supporting equipment installation
+network engineering optimization,core network engineering*,server installation
+network engineering optimization,core network engineering*,supporting software installation
+network engineering optimization,core network engineering*,equipment installation
+network engineering optimization,communication tower engineering*,infrastructure installation and commissioning
+network engineering optimization,enterprise*,china communication services<gs>
+network engineering optimization,enterprise*,yitong century<gs>
+network engineering optimization,enterprise*,3d communication<gs>
+network engineering optimization,enterprise*,suna co.
+network operation support,network maintenance*,infrastructure maintenance services
+network operation support,network maintenance*,emergency handling and troubleshooting services
+network operation support,related companies*,orient guoxin<gs>
+network operation support,related companies*,neusoft<gs>
+network operation support,related companies*,huawei<gs>
+network operation support,related companies*,strange<gs>
+network operation support,related companies*,asim technology
+application connectivity support,5g end-side chip*,5g baseband chip<cp>
+application connectivity support,5g end-side chip*,5g rf chip<cp>
+application connectivity support,5g end-side chip*,cellular baseband chip<cp>
+application connectivity support,end-side communication devices*,519 5g terminals
+cell phone terminals and electronic devices,including*,equipment market
+cell phone terminals and electronic devices,including*,5g related components market
+telematics,smart driving*,smart camera<js>
+telematics,smart driving*,millimeter wave radar<js>
+telematics,smart driving*,lidar<js>
+telematics,smart driving*,c-v2x<js>
+telematics,core key*,road network intelligent infrastructure construction
+telematics,intelligent car terminal*,car t-box<cp>
+telematics,smart car terminal*,front-loading t-box<cp>
+telematics,intelligent car terminal*,intelligent car rearview mirror<cp>
+telematics,intelligent vehicle terminal*,rear obd<cp>
+virtual reality (vr)/augmented reality (ar),technology*,embb<js>
+virtual reality (vr)/augmented reality (ar),application areas*,gaming and entertainment<ly>
+virtual reality (vr)/augmented reality (ar),application areas*,education<ly>
+virtual reality (vr)/augmented reality (ar),applications*,medical<ly>
+virtual reality (vr)/augmented reality (ar),application areas*,production<ly>
+virtual reality (vr)/augmented reality (ar),application areas*,car navigation<ly>
+virtual reality (vr) / augmented reality (ar),b-side application market*,training<ly>
+virtual reality (vr) / augmented reality (ar),b-side application market*,industrial maintenance<ly>
+virtual reality (vr)/augmented reality (ar),b-side application marketplace*,retail display<ly>
+virtual reality (vr)/augmented reality (ar),c-side applications*,vr games<ly>
+virtual reality (vr)/augmented reality (ar),c-suite applications*,vr video/feature viewing<ly>
+virtual reality (vr)/augmented reality (ar),c-side applications*,ar games<ly>
+virtual reality (vr)/augmented reality (ar),industry chain link*,hardware equipment
+virtual reality (vr)/augmented reality (ar),industry chain link*,content application
+virtual reality (vr)/augmented reality (ar),vr/ar software ecology*,system developers
+virtual reality (vr)/augmented reality (ar),vr/ar software ecology*,platform builder
+smart industry,field*,smart factory
+smart industry,domain*,smart port
+smart industry,fields*,smart mining
+smart security,background technology*,5g<js>
+smart security,background technology*,artificial intelligence<js>
+smart security,background technology*,big data<js>
+smart security,background technology*,cloud computing<js>
+smart security,application areas*,drone patrol<ly>
+smart security,application areas*,vr/ar device monitoring<ly>
+smart security,application areas*,patrol robot<ly>
+smart security,application areas*,ultra hd video surveillance<ly>
+intelligent security,core hub nodes*,various intelligent terminals
+smart security,market structure*,security engineering
+smart security,market structure*,security products
+smart security,market structure*,o&m services
+smart security,related companies*,dahua<gs>
+smart security,related companies*,hikvision<gs>
+smart security,related companies*,yuvision<gs>
+smart education,core technology*,big data<js>
+smart education,core technology*,artificial intelligence<js>
+smart education,core technology*,cloud computing<js>
+smart education,core technology*,internet of things<js>
+smart education,traditional carrier network*,campus wired network
+smart education,legacy carrier network*,wireless wi-fi network
+smart education,legacy carrier network*,bluetooth
+smart education,legacy bearer networks*,zigbee
+smart education,potential application scenarios*,vr experimental environment<ly>
+smart education,potential application scenario*,virtual reality control environment<ly>
+smart education,potential application scenarios*,remote exam monitoring<ly>
+smart education,potential application scenario*,intelligent experiment system<ly>
+smart education,related companies*,ovia<gs>
+smart education,related companies*,xunfei vision<gs>
+smart logistics,background technology*,big data<js>
+smart logistics,background technology*,cloud computing<js>
+smart logistics,background technology*,artificial intelligence<js>
+smart logistics,background technology*,blockchain<js>
+smart logistics,background technology*,5g<js>
+smart logistics,background technology*,internet of things<js>
+smart logistics,six basic links*,transportation
+intelligent logistics,six basic links*,warehousing
+intelligent logistics,six basic links*,packaging
+intelligent logistics,six basic links*,loading and unloading
+intelligent logistics,six basic links*,distribution and processing
+smart logistics,six basic links*,distribution
+intelligent logistics,six basic links*,information services
+smart logistics,related companies*,jingdong logistics<gs>
+smart logistics,related companies*,lingdong technology<gs>
+intelligent logistics,related companies*,blue core technology<gs>
+smart logistics,related companies*,shunfeng<gs>
+smart healthcare,background technology*,internet of things<js>
+smart healthcare,background technology*,big data<js>
+intelligent healthcare,background technology*,ai<js>
+smart healthcare,background technology*,5g<js>
+smart healthcare,service*,massive medical device connectivity<yw>
+smart healthcare,services*,local medical device edge intelligence data processing capabilities<yw>
+smart medical,service*,ultra hd medical image transmission<yw>
+smart health,services*,local and telemedicine<yw>
+smart medical,landing scenario*,smart medical service innovation
+intelligent medical,landing scenario*,emergency ambulance network construction
+smart healthcare,grounded scenarios*,public health data monitoring
+smart healthcare,market players*,operators
+smart healthcare,market players*,communication equipment vendors
+smart healthcare,market players*,smart solution providers
+smart medical,related companies*,shenzhen huada smart cloud imaging medical technology co.
+smart medical,related companies*,fourier intelligence<gs>
+smart medical,related companies*,uwi cloud imaging medical<gs>
+smart medical,related companies*,liangying medical<gs>
+smart medical,related companies*,lianxin mobile medical<gs>
+smart power,5g-enabled*,remote video monitoring<ly>
+smart power,5g-enabled*,power environment monitoring<ly>
+smart power,5g empowerment*,mobile robot power inspection<ly>
+smart power,market*,5g smart power patrol
+smart power,traditional power system link*,power generation
+smart power,traditional power system link*,power transmission
+smart power,traditional power system link*,substation
+smart power,traditional power system link*,power distribution
+smart power,traditional power system link*,electricity consumption
+smart power,application scenarios*,5g edge computing distribution automation<ly>
+smart power,application scenario*,power failure 5g precise load balancing<ly>
+smart power,application scenario*,5g low voltage power information high quality collection<ly>
+smart power,application scenario*,5g remote control of power inspection robot<ly>
+smart power,market players*,operators
+smart power,market player*,national power company
+smart power,market players*,equipment vendors
+smart power,related companies*,national grid<gs>
+smart power,related companies*,southern power grid<gs>
+smart power,related companies*,ihn<gs>
+base station core components<cp>,rf front-end<cp>*,filter<cp>
+base station core components<cp>,rf front-end<cp>*,rf switch<cp>
+base station core components<cp>,rf front-end<cp>*,power amplifier (pa)<cp>
+base station core components<cp>,rf front-end<cp>*,duplexer<cp>
+base station core components<cp>,rf front-end<cp>*,low noise amplifier (lna)<cp>
+5g private network,private network*,operator
+5g private network,private network*,service provider
+5g core network cloudization<js>,favorable*,5g ecological expansion
+5g core network clouding<js>,favorable*,network applications
+5g network sharing,signed*,5g sharing cooperation framework agreement
+5g network sharing,signed*,5g sharing supplementary agreement
+5g network sharing,cooperation object*,china radio and television
+5g network sharing,joint construction*,700mhz wireless network
+5g network,coverage*,urban areas above prefecture level
+5g network,coverage*,developed county core cities
+5g subscriptions,113 million*,37% penetration
+3.5g+2.1g dual-band 5g strategy,cooperation target*,china telecom<gs>
+digital transformation for industrial companies,commercial aircraft customers*,aerospace<ly>
+shared blockchain scheduling platform,joint object*,china unicom<gs>
+5g network sharing,cooperation object*,china mobile<ly>
+72 countries/territories,34 countries/territories*,3gpp standard 5g fwa or home broadband services
+communication tower engineering,infrastructure installation and commissioning*,battery
+communication tower projects,infrastructure installation and commissioning*,server rooms
+communication tower projects,infrastructure installation and commissioning*,air conditioning
+network maintenance,infrastructure maintenance services*,equipment for server rooms
+network maintenance,infrastructure equipment maintenance services*,wireless transmission equipment
+network maintenance,emergency response and troubleshooting services*,switching and routing
+network maintenance,emergency response and troubleshooting services*,base stations
+network maintenance,emergency response and troubleshooting services*,transmission networks
+5g+industrial internet,involved*,autonomous driving<js>
+5g+industrial internet,involved*,safe production<js>
+5g+industrial internet,involving*,hd video surveillance monitoring<js>
+5g+industrial internet,involving*,remote control<js>
+5g+industrial internet,application areas*,mining<ly>
+5g+industrial internet,application area*,port<ly>
+5g+industrial internet,application areas*,power<ly>
+5g end-side chip,mobile baseband chip<cp>*,soc chip<cp>
+5g end-side chip,domestic chip companies*,huawei heisi<gs>
+5g end-side chip,domestic chip company*,ziguang zhanrui<gs>
+5g end-side chip,domestic chip company*,oppo<gs>
+5g end-side chip,domestic chip company*,vivo<gs>
+5g connectivity platform,providing*,basic connectivity management<yw>
+5g connectivity platform,providing*,dedicated network operations<yw>
+5g connectivity platform,providing*,device management<yw>
+5g connectivity platform,implementation*,optimization
+5g connectivity platform,implementation*,terminal management
+5g connectivity platform,implementation*,maintenance
+5g connectivity platform,related companies*,telecom ctwing<gs>
+5g connectivity platform,related companies*,feicats intelligence<gs>
+5g connectivity platform,related companies*,unicom smartlink<gs>
+5g connectivity platform,related companies*,mobile onelink<gs>
+5g module,domestic module company*,td tech bridge<gs>
+5g module,domestic module company*,guanghe tong<gs>
+5g module,domestic module company*,unicom iot<gs>
+5g module,domestic module company*,megaphone<gs>
+5g module,domestic module company*,nikai smart<gs>
+5g module,domestic module enterprise*,mobile farms communication<gs>
+5g module,domestic module enterprise*,cmo<gs>
+end-side communication devices,519 5g terminals*,smartphones<cp>
+end-side communication equipment,section 519 5g terminal*,fixed access cpe<cp>
+end-side communication equipment,section 519 5g terminal*,5g fwa equipment<cp>
+end-side communication equipment,section 519 5g terminal*,5g gateway<cp>
+end-side communication equipment,section 519 5g terminal*,5g cpe<cp>
+end-side communication equipment,section 519 5g terminal*,5g dtu<cp>
+end-side communication equipment,section 519 5g terminal*,5g tsn switch<cp>
+end-side communication equipment,section 519 5g terminal*,module<cp>
+end-side communication equipment,519 5g terminals*,industry routers<cp>
+end-side communication device,519 models 5g terminal*,wireless hotspot<cp>
+end-side communication equipment,519 5g terminals*,notebook<cp>
+end-side communication equipment,519 models 5g terminals*,tablet<cp>
+end-side communication equipment,related companies*,fei-cat smart link<gs>
+end-side communication equipment,related companies*,shenzhen hongdian<gs>
+end-side communication equipment,related companies*,ihn<gs>
+end-side communication equipment,related companies*,with people networking<gs>
+end-side communication equipment,related companies*,smicp<gs>
+5g mobile phone integration,mobile phone integration manufacturer*,huawei<gs>
+5g mobile phone integration,mobile phone integration manufacturer*,oppo<gs>
+5g mobile phone integration,mobile phone integration manufacturer*,apple<gs>
+5g mobile phone integration,mobile phone integration manufacturer*,samsung<gs>
+5g mobile phone integration,mobile phone integration manufacturer*,vivo<gs>
+5g mobile phone integration,mobile phone integration manufacturer*,xiaomi<gs>
+5g mobile phone antenna<cp>,technology change*,millimeter wave antenna module<js>
+5g mobile phone antenna<cp>,5g antenna manufacturer*,lixin precision<gs>
+5g cell phone antenna<cp>,5g antenna manufacturer*,xinwei telecom<gs>
+5g rf front-end<cp>,bringing increased complexity and technical requirements*,5g
+5g rf front-end<cp>,bringing increased complexity and technical requirements*,wifi6 new standard
+5g rf front end<cp>,trends*,separated devices
+5g rf front-end<cp>,domestic*,separate devices
+5g rf front end<cp>,domestic rf front end supplier manufacturer*,zte<gs>
+5g rf front end<cp>,domestic rf front end supplier manufacturer*,jusheng micro<gs>
+5g rf front end<cp>,domestic rf front end supplier manufacturer*,huawei heisi<gs>
+5g rf front end<cp>,foreign rf front end module manufacturer*,broadcom<gs>
+5g rf front end<cp>,foreign rf front end module manufacturer*,skyworks<gs>
+5g rf front-end<cp>,foreign rf front-end module maker*,murata<gs>
+5g rf front end<cp>,foreign rf front end module manufacturer*,onr microelectronics<gs>
+intelligent driving,the two major paths to achieve*,single vehicle intelligence<js>
+intelligent driving,the two major paths to achieve*,vehicle-road cooperation<js>
+intelligent vehicle mounted terminal,related companies*,dexiawei<gs>
+intelligent vehicle mounted terminal,related companies*,gaoxinxing<gs>
+intelligent vehicle mounted terminal,related companies*,jingwei hengrun<gs>
+intelligent vehicle terminal,related companies*,kodak<gs>
+smart car terminal,related companies*,microsig<gs>
+intelligent vehicle mounted terminal,related companies*,wuhan data<gs>
+telematics application platform,related companies*,baidu<gs>
+telematics application platform,related companies*,lenovo understands communication<gs>
+telematics application platform,related companies*,siweituxin<gs>
+alliances and associations,major efforts*,coordinating participation in the development of 5g standards<yw>
+alliances and associations,major efforts*,publication and evaluation of 5g standards results<yw>
+alliances and associations,major efforts*,support for 5g project research programs<yw>
+alliances and associations,main activities*,5g industry forum<yw>
+alliances and associations,major efforts*,local 5g industry alliances<yw>
+alliances and associations,major efforts*,talent training and application competition<yw>
+alliances and associations,related alliances and associations*,3gpp<gs>
+alliances and associations,related alliances and associations*,5g industry promotion center<gs>
+alliances and associations,related alliances and associations*,5g deterministic networking industry alliance (5gdna)<gs>
+alliances and associations,related alliances and associations*,5g slicing industry alliance (5gsa)<gs>
+alliances and associations,related alliances and associations*,ieee<gs>
+alliances and associations,related alliances and associations*,oran alliance<gs>
+research and consulting services,related institutions*,sadie<gs>
+research and consulting services,related institutions*,china academy of information and communication research<gs>
+research and consulting services,related institutions*,best object aiot industry research institute<gs>
+industry media,related institutions*,iot think tank<gs>
+industry media,related organizations*,c114<gs>
+macro base station<cp>,supplier*,huawei<gs>
+macro base station<cp>,supplier*,zte<gs>
+macro base station<cp>,supplier*,ericsson<gs>
+macro base station<cp>,supplier*,datang mobile<gs>
+small base station<cp>,manufacturer*,huawei<gs>
+small base station<cp>,manufacturer*,zte<gs>
+small base station<cp>,manufacturer*,kyocera telecom<gs>
+small base station<cp>,manufacturer*,riseconda<gs>
+small base station<cp>,manufacturer*,setex<gs>
+small base station<cp>,manufacturer*,3d communication<gs>
+small base station<cp>,manufacturer*,tianyi co<gs>
+small base station<cp>,manufacturer*,xinhuasan<gs>
+small base station<cp>,can be combined with technology*,mec technology<js>
+base station chip<cp>,manufacturer*,huawei heisi<gs>
+base station chip<cp>,manufacturer*,zte microelectronics<gs>
+base station chip<cp>,technology*,asic chip<js>
+base station chip<cp>,technology*,fpga chip<js>
+base station tower/site<cp>,related companies*,china tower<gs>
+base station supporting equipment<cp>,related companies*,beijing power source<gs>
+base station supporting equipment<cp>,related companies*,imicon<gs>
+base station supporting equipment<cp>,related companies*,invicta<gs>
+base station supporting equipment<cp>,related companies*,zhongheng electric<gs>
+base station antenna<cp>,related companies*,kyosin telecom<gs>
+base station antenna<cp>,related companies*,mobi development<gs>
+base station antenna<cp>,related companies*,shenglu telecom<gs>
+base station antenna<cp>,related companies*,tong yu communication<gs>
+network optimization equipment<cp>,related companies*,bondsun technology<gs>
+net premium equipment<cp>,related companies*,huaxing venture<gs>
+network optimization equipment<cp>,related companies*,suna co.
+network optimization equipment<cp>,related companies*,3d communication<gs>
+smart card<cp>,related companies*,chengtianweiye<gs>
+smart card<cp>,related companies*,eastcom peace<gs>
+smart card<cp>,related companies*,hengbao<gs>
+smart card<cp>,related companies*,tian yu information<gs>
+pcb<cp>,related companies*,dongshan precision<gs>
+pcb<cp>,related companies*,huazheng new material<gs>
+pcb<cp>,related companies*,shennan electric road<gs>
+pcb<cp>,related companies*,sheng yi technology<gs>
+dedicated network,carrier*,china mobile<gs>
+dedicated network,carrier*,china telecom<gs>
+dedicated network,carrier*,china unicom<gs>
+private network,service provider*,kyocera telecom<gs>
+dedicated network,service provider*,lenovo understands communications<gs>
+dedicated network,service provider*,xinhuasan<gs>
+optical communication equipment<cp>,using*,optical wave transmission technology<js>
+optical communication equipment<cp>,application angle division*,digital communication equipment
+optical communication equipment<cp>,application angle division*,optical transmission equipment<cp>
+optical communication equipment<cp>,telecom equipment supplier*,huawei<gs>
+optical communication equipment<cp>,telecom equipment supplier*,nokia<gs>
+optical communication equipment<cp>,telecom equipment supplier*,ericsson<gs>
+optical communication equipment<cp>,telecom equipment supplier*,zte<gs>
+optical communication equipment<cp>,telecom equipment supplier*,cisco<gs>
+optical communication equipment<cp>,telecom equipment supplier*,ciena<gs>
+optical communication equipment<cp>,telecom equipment supplier*,samsung<gs>
+optical communication equipment<cp>,optical communication network master equipment vendor*,huawei<gs>
+optical communication equipment<cp>,optical communication network master equipment provider*,nokia<gs>
+optical communication equipment<cp>,optical communication network master equipment provider*,fiberhome communication<gs>
+optical communication equipment<cp>,optical communication network master equipment provider*,zte<gs>
+fiber optic cable<cp>,related companies*,changfei optical fiber<gs>
+fiber optic cable<cp>,related companies*,hengtong photoelectricity<gs>
+fiber optic cable<cp>,related companies*,zhongtian technology<gs>
+optical devices<cp>,mainly including*,optoelectronic chips<cp>
+optical components<cp>,mainly including*,optical modules<cp>
+optical devices<cp>,mainly including*,pcb<cp>
+optical components<cp>,mainly including*,optical components<cp>
+optical devices<cp>,by function*,laser chips<cp>
+optical devices<cp>,by function*,detector chips<cp>
+optical devices<cp>,by function*,modulator chips<cp>
+optical devices<cp>,leading countries in high-end optical devices market*,u.s.
+optical devices<cp>,leading countries in high-end optical devices market*,japan
+optical devices<cp>,related companies*,optical xpress<gs>
+optical devices<cp>,related companies*,huagong technology<gs>
+optical devices<cp>,related companies*,cambridge technology<gs>
+optical devices<cp>,related companies*,m.p. optoelectronics<gs>
+optical devices<cp>,related companies*,suzhou xutron<gs>
+optical devices<cp>,related companies*,t&s<gs>
+optical devices<cp>,related companies*,tianfu telecom<gs>
+optical devices<cp>,related companies*,xinyisheng<gs>
+sdn (software defined networking)<js>,core technology performance*,open network capabilities
+sdn (software defined networking)<js>,core technology performance*,centralized control logic
+sdn (software defined networking)<js>,facing issues*,network security issues
+sdn (software defined networking)<js>,facing problems*,data security issues
+sdn (software defined networking)<js>,facing problems*,not enough scalability
+nfv (network function virtualization)<js>,hardware appliance software*,x86 server<cp>
+nfv (network function virtualization)<js>,hardware device softwareization*,network virtualization technology<js>
+nfv (network function virtualization)<js>,replacement*,router<cp>
+nfv (network function virtualization)<js>,alternative*,load balancer<cp>
+nfv (network function virtualization)<js>,replacement*,firewall<js>
+overseas communication service providers (csp),slowdown*,5g sa
+china telecom operator,construction*,5g sa network
+fiberhome<gs>,coverage*,5g carrier network communication equipment<yw>
+beacon communications<gs>,overlay*,network security equipment<yw>
+fiberhome<gs>,coverage*,cable access network equipment<yw>
+beacon communications<gs>,development*,cloud<cp>
+beacon communications<gs>,development*,chip<cp>
+huawei<gs>,main business*,macro base station<cp>
+huawei<gs>,main business*,micro base station<cp>
+huawei<gs>,main business*,small base station<cp>
+huawei<gs>,main business*,switch<cp>
+huawei<gs>,main business*,router<cp>
+huawei<gs>,coverage area*,china
+huawei<gs>,coverage area*,usa
+huawei<gs>,coverage area*,uk
+huawei<gs>,coverage area*,france
+huawei<gs>,covering more than 170 countries and regions such as the field*,etc.
+lenovo understands communication<gs>,focusing on two major areas*,intelligent interactive devices<ly>
+lenovo understands communication<gs>,focusing on two major areas*,smart car connection<ly>
+lenovo understood communications<gs>,provider*,intelligent internet of things (aiot) services<cp>
+lenovo understands communications<gs>,building*,a global intelligent connectivity management platform for 5g
+lenovo understands communication<gs>,build*,thinkuem unified terminal management platform
+lenovo understood communications<gs>,typical solution*,5g virtual business sdn core network<cp>
+rescuecom (nyse:r),main business*,global telecommunications carrier<yw>
+rescuecom<gs>,main business*,broadcast operator<yw>
+riseconda<gs>,main business*,industry-specific network users<yw>
+riseconda<gs>,the main business*,provides access layer network solutions<yw>
+riseconda<gs>,a leading domestic company*,fiber optic communication access equipment<cp>
+starnet<gs>,main business and products*,network communications<yw>
+starnet<gs>,main business and products*,switches<cp>
+starnet<gs>,main business and products*,cloud computing terminal (thin client)<yw>
+starnet<gs>,main business and products*,payment terminal<yw>
+starnet<gs>,main business and products*,desktop cloud<yw>
+starnet<gs>,main business and products*,wireless access<yw>
+starnet<gs>,main business and products*,converged vision<yw>
+starnet<gs>,main business and products*,video information applications<yw>
+starnet<gs>,main business and products*,intelligent network<yw>
+starnet<gs>,main business and products*,smart cloud<yw>
+starnet<gs>,main business and products*,smart communication<yw>
+starnet<gs>,main business and products*,smart iot<yw>
+zte<gs>,operations business*,carrier network<yw>
+zte<gs>,operation business*,terminal<yw>
+zte<gs>,operation business*,telecom<yw>
+zte<gs>,core products*,wireless communication<cp>
+zte<gs>,core products*,telecom switching<cp>
+zte<gs>,core products*,access<cp>
+zte<gs>,core products*,optical transmission<cp>
+zte<gs>,core products*,data telecom equipment<cp>
+zte<gs>,core product*,mobile phone<cp>
+zte<gs>,core products*,telecom software<cp>
+zte<gs>,vas*,vod<cp>
+zte<gs>,vas*,streaming video<cp>
+commercial flight customer,aviation field<ly>*,80 smart manufacturing application scenarios
+5g industry virtual private network,belonging to the field*,intelligent manufacturing<ly>
+5g industry virtual private network,technology*,mec<js>
+5g industry virtual private network,technology*,5g sa network slicing<js>
+5g industry virtual network,realize*,paperless first inspection
+5g industry virtual private network,realization*,deployment verification of 5g video surveillance on production line
+5g base stations,coverage*,all counties
+5g base stations,coverage*,some developed towns
+176 operators,launch*,5g services
+461 operators,investment*,5g
+base station site planning,consideration of issues*,specific locations
+base station site planning,consider the problem*,antenna equipment hanging high tilt angle
+base station site planning,consideration of issues*,interference isolation issues
+national pulse technology<gs>,provide*,communication service solutions<yw>
+yoshida communication<gs>,main business*,specialized in the field of communication<yw>
+jida communication<gs>,main business*,planning for various scales<yw>
+ji da communication<gs>,main business*,feasibility study<yw>
+jida communications<gs>,main business*,appraisal<yw>
+jida communication<gs>,main business*,solution design<yw>
+ji da communication<gs>,main business*,project proposal<yw>
+jidai telecom<gs>,main business*,technical specification<yw>
+jida communication<gs>,main business*,survey<yw>
+jida communication<gs>,main business*,design<yw>
+jida communication<gs>,main business*,optimization<yw>
+jida communication<gs>,main business*,technical consulting<yw>
+jida communication<gs>,main business*,technology development<yw>
+yitong century<gs>,provides*,communication network technology services<yw>
+yitong century<gs>,provide*,system solution<yw>
+yitong century<gs>,main business*,communication network engineering construction
+yitong century<gs>,main business*,system solutions for it applications<yw>
+yitong century<gs>,main business*,integrated and comprehensive business support<yw>
+3d communication<gs>,main business*,wireless coverage<yw>
+3d communications<gs>,main business*,wireless security<yw>
+3d communication<gs>,main business*,wireless network<yw>
+3d communication<gs>,main business*,industrial internet of things<yw>
+three-dimensional communication<gs>,main business*,communication facilities leasing<yw>
+3d communication<gs>,main business*,satellite communication<yw>
+3d communications<gs>,main business*,internet content marketing business<yw>
+orient guoxin<gs>,service recipients*,carrier
+oriental guoxin<gs>,service area*,telecom
+oriental guoxin<gs>,provide*,software development
+oriental guoxin<gs>,business layout*,financial internet<ly>
+oriental guoxin<gs>,business layout*,government<ly>
+oriental guoxin<gs>,business layout*,industrial field<ly>
+neusoft corporation<gs>,main business*,telecom business operation support
+neusoft group<gs>,main business*,smart city
+neusoft corporation<gs>,main business*,healthcare
+neusoft corporation<gs>,main business*,smart car connectivity
+neusoft corporation<gs>,main business*,software products and services
+neusoft<gs>,provides*,bss business operation support platform
+neusoft group<gs>,provides*,operator business analysis system
+neusoft<gs>,providing*,a centralized solution for integrated business management
+strange<gs>,main business*,business support<yw>
+strange<gs>,main business*,smart city middle platform<yw>
+strange<gs>,main business*,digital economy service platform<yw>
+strange<gs>,main business*,smb cloud<yw>
+strange<gs>,main business*,smart service<yw>
+strange<gs>,main business*,smart manufacturing<yw>
+strange<gs>,main business*,industrial internet operation and support<yw>
+strange<gs>,main business*,ai-paas<yw>
+strange<gs>,main business*,cloud and big data integrated paas operating platform<yw>
+strange<gs>,service recipients*,telecom operators
+asiainfo,main business and products*,ai artificial intelligence platform<yw>
+asiainfo,main business and products*,aif paas platform<yw>
+asiainfo,main business and products*,billing products<yw>
+asiainfo,main business and products*,big data products<yw>
+asiainfo,main business and products*,customer relationship management products<yw>
+asiainfo,main business and products*,5g network intelligent products<yw>
+asiainfo,main business and products*,development of integrated o&m products<yw>
+asiainfo,main business and products*,database products<yw>
+aisware,main business and products*,complete aisware product system<yw>
+cell phone baseband chips<cp>,related companies*,qualcomm<gs>
+cell phone baseband chip<cp>,related companies*,mediatek<gs>
+cell phone baseband chip<cp>,related companies*,samsung<gs>
+mobile phone baseband chips<cp>,related companies*,ziguang zhanrui<gs>
+device market,players*,handset integration manufacturers
+5g related components market,players*,5g baseband chip vendors
+5g related components market,players*,mobile phone antenna manufacturers
+5g related components market,players*,rf front-end manufacturers
+c-v2x<js>,fusion*,single vehicle intelligence
+road network intelligent infrastructure construction,related companies*,jinyi technology<gs>
+road network intelligent infrastructure construction,related companies*,qianfang technology<gs>
+road network intelligent infrastructure construction,related companies*,qianxun spatial intelligence inc.<gs>
+front-loading t-box<cp>,domestic manufacturer*,huawei<gs>
+front-loading t-box<cp>,domestic manufacturer*,jingwei hengrun<gs>
+front-loading t-box<cp>,international manufacturer*,bosch<gs>
+front-mounted t-box<cp>,international manufacturer*,valeo<gs>
+smart car rearview mirror<cp>,integration*,driving safety assistance
+smart car rearview mirror<cp>,integration*,streaming
+smart car rearview mirror<cp>,integration*,car record
+hardware,components*,sensors<cp>
+hardware,components*,optical devices<cp>
+hardware,components*,chips<cp>
+hardware,components*,displays<cp>
+hardware,components*,somatosensory devices<cp>
+hardware,related companies*,lingwang technology<gs>
+hardware,related companies*,sony<gs>
+hardware,related companies*,microsoft<gs>
+content applications,cloud games*,sanjihub<gs>
+content applications,cloud games*,perfect world<gs>
+content applications,content ecology*,digital kingdom<gs>
+content applications,content ecology*,tencent<gs>
+content applications,content ecology*,valve<gs>
+smart factory,core role*,smart factory solution provider
+smart factory,core role*,component manufacturer
+smart factory,construction participants*,large industrial enterprises
+smart factory,construction players*,head industrial internet companies
+smart factory,construction participant*,operator
+smart factory,construction participant*,major network equipment vendor
+smart factory,related companies*,dongfang guoxin<gs>
+smart factory,related companies*,hengtong optoelectronics<gs>
+smart factory,related companies*,aerospace cloud<gs>
+smart factory,related companies*,intelligent cloud science<gs>
+smart port,landing scenario*,ai video surveillance<ly>
+smart port,landing scenario*,remote control bridge crane<ly>
+smart port,landing scenario*,remote control gantry crane<ly>
+smart port,landing scenario*,port unmanned<ly>
+smart port,landing scenario*,intelligent cargo handling<ly>
+smart port,market enabler*,port company
+smart port,market enabler*,operator
+smart ports,market enablers*,large equipment companies
+smart port,pilot*,shenzhen shekou ma wan smart port
+smart port,related companies*,wenjing information<gs>
+smart port,related companies*,zhenhua heavy industry<gs>
+intelligent mine,landing scenario*,underground real-time location service
+intelligent mine,landing scene*,ultra-high definition video real-time monitoring
+smart mine,landing scenario*,remote device control
+intelligent mining,landing scenarios*,5g alternative to traditional fiber optic communication methods
+smart mine,related companies*,china mobile<gs>
+intelligent mining,related companies*,huawei<gs>
+intelligent mining,related companies*,huaning electronics<gs>
+intelligent mining,related companies*,tadakatsu wisdom<gs>
+smart mine,pilot*,huayang group 5g unmanned mine solution
+dahua<gs>,core business*,city
+dahua corporation<gs>,core business*,enterprise
+dahua corporation<gs>,build*,aiot
+dahua<gs>,build*,iot digital intelligence platform capability
+dahua<gs>,provide*,one-stop intelligent iot services and solutions<yw>
+hikvision<gs>,provide*,intelligent iot solutions
+hikvision<gs>,provide*,big data service
+hikvision<gs>,main business*,integrated security<yw>
+hikvision<gs>,main business*,big data services<yw>
+hikvision<gs>,main business*,smart business<yw>
+hikvision<gs>,service users*,public service field users
+hikvision<gs>,service users*,enterprise and business users
+hikvision<gs>,service users*,sme users
+hikvision<gs>,dedicated to building*,smart city
+hikvision<gs>,dedicated to building*,digital enterprise
+yuvision<gs>,provide*,aiot products
+yuvision<gs>,provide*,solutions
+yuvision<gs>,provides*,full-stack capability
+yuvision<gs>,leader*,internet of things
+yuvision<gs>,leader*,artificial intelligence
+yuvision<gs>,leader*,big data
+yuvision<gs>,the leader*,cloud computing
+yuvision<gs>,r&d facilities in hangzhou*,china
+yuvision<gs>,r&d facilities in shenzhen*,china
+yuvision<gs>,r&d facilities*,xi'an
+yuvision<gs>,r&d organization distribution*,jinan
+yuvision<gs>,r&d facilities distribution*,tianjin
+yuvision<gs>,r & d organization distribution*,wuhan
+yuvision<gs>,built*,global intelligent manufacturing base
+ust<gs>,patent applications*,2
+aoweiya<gs>,main business*,research and development
+xunfei mirage<gs>,main business*,top-level design of virtual reality-based smart education<yw>
+xunfei mirage<gs>,main business*,product development<yw>
+xunfei mirage<gs>,main business*,total solution<yw>
+xunfei mirage<gs>,main business*,quality innovative content and products<yw>
+warehousing,application direction*,cloud-based robot<ly>
+warehousing,application direction*,agv<ly>
+warehousing,application direction*,hd surveillance<ly>
+jingdong logistics<gs>,establish*,storage network
+jingdong logistics<gs>,establish*,comprehensive transportation network
+jingdong logistics<gs>,establish*,distribution network
+jingdong logistics<gs>,establish*,large item network
+jingdong logistics<gs>,establish*,cold chain network
+jingdong logistics<gs>,establish*,cross-border network
+blue core technology<gs>,main business*,mobile robot<yw>
+bluechip<gs>,existing product*,amr3d vision sensor (with intelligent algorithm)<cp>
+blue core technology<gs>,available products*,intelligent handling robot<cp>
+blue core technology<gs>,existing products*,smt loading/unloading robot<cp>
+blue core technology<gs>,existing products*,printing machine loading/unloading robot<cp>
+blue core technology<gs>,existing products*,coater loading/unloading robot<cp>
+blue core technology<gs>,existing products*,compound robot<cp>
+blue core technology<gs>,existing products*,unmanned forklift<cp>
+sf<gs>,business field*,express<ly>
+shunfeng<gs>,business field*,cold shipping<ly>
+s.f.<gs>,business field*,same city<ly>
+shunfeng<gs>,business field*,supply chain<ly>
+sf<gs>,build*,integrated logistics service system
+emergency ambulance network construction,connection*,patients
+emergency ambulance network construction,connection*,medical equipment
+emergency ambulance network construction,connection*,vehicles
+emergency ambulance network construction,connection*,emergency command center
+emergency ambulance network construction,connecting*,medical institutions
+public health data monitoring,combined with technology*,ai<js>
+public health data monitoring,combined with technology*,internet of things<js>
+fourier intelligence<gs>,self-developed*,rehabilitation robot<cp>
+uwi cloud imaging medical<gs>,main business*,instruments and equipment<yw>
+uwi cloud imaging medical<gs>,main business*,reagent consumables<yw>
+huada smart cloud imaging medical<gs>,main business*,precision medicine<yw>
+uwi cloud imaging medical<gs>,main business*,precision agriculture<yw>
+uwi cloud imaging medical<gs>,main business*,precision health<yw>
+uwi cloud imaging medical<gs>,typical solution*,mgius-r3 remote ultrasound robotic diagnostic system<cp>
+united imaging medical<gs>,main business*,diagnostic and therapeutic imaging high-end medical products<yw>
+united imaging healthcare<gs>,main business*,healthcare information technology solutions<yw>
+lianxin mobile healthcare<gs>,main business*,medical grade intelligent hardware<yw>
+lianxin mobile healthcare<gs>,main business*,application software<yw>
+lianxin mobile healthcare<gs>,main business*,system platform<yw>
+lianxin mobile healthcare<gs>,main business*,in-hospital internet of things<yw>
+lianxin mobile healthcare<gs>,main business*,big data medical cloud<yw>
+5g edge computing distribution automation<ly>,technology*,5g edge intelligence technology<js>
+state grid<gs>,core business*,investment
+state grid<gs>,business operation area*,26 provinces (autonomous regions and municipalities directly under the central government)
+southern power grid<gs>,main business*,power transmission<yw>
+southern power grid<gs>,main business*,power substation<yw>
+southern power grid<gs>,main business*,power dispatch<yw>
+southern power grid<gs>,main business*,investment
+southern power grid<gs>,business operation area*,yunnan
+southern power grid<gs>,business operation area*,guizhou
+southern power grid<gs>,business operation area*,guangxi
+southern power grid<gs>,business operation area*,guangdong
+southern power grid<gs>,business operation area*,hainan
+ihn<gs>,main business*,industrial iot communication (m2m) products<cp>
+ihan<gs>,main business*,iot (internet of things) cloud+end total solutions<yw>
+ihn<gs>,covering industries*,power<ly>
+ihan<gs>,covering industries*,industrial automation<ly>
+ihn<gs>,covered industries*,transportation<ly>
+ihn<gs>,covering industries*,new retail<ly>
+ihn<gs>,covered industries*,healthcare<ly>
+ihn<gs>,covered industries*,agriculture<ly>
+ihg<gs>,covering industries*,environmental protection<ly>
+ihn<gs>,covering industry*,earthquake<ly>
+ihn<gs>,covered industries*,water<ly>
+ihg<gs>,covered industries*,oil & gas<ly>
+ihn<gs>,covering industries*,new energy<ly>
+ihg<gs>,market scope*,china
+ihg<gs>,market scope*,usa
+ihg<gs>,market scope*,germany
+ihg<gs>,market scope*,uk
+ihg<gs>,market scope*,italy
+i-han<gs>,typical solution*,5g industrial router ir1000<cp>
+5g industry alliance,example*,jiangsu province 5g industry alliance
+filter<cp>,related companies*,chunxing precision industry<gs>
+filter<cp>,related companies*,dongshan precision<gs>
+filter<cp>,related companies*,da fu technology<gs>
+filter<cp>,related companies*,wuhan fangu<gs>
+power amplifier (pa)<cp>,related companies*,geer<gs>
+power amplifier (pa)<cp>,related companies*,sanan optoelectronics<gs>
+power amplifier (pa)<cp>,related companies*,suzhou nengxun<gs>
+power amplifier (pa)<cp>,related companies*,joseph micro<gs>
+carrier,china unicom<gs>*,operation mode
+service provider,h3c<gs>*,end-to-end technology services<yw>
+intelligent industrial<ly>,industrial product system*,class 1 5g industrial gateway
+smart industry<ly>,industrial product system*,1 zhang 5g industrial network
+smart industry<ly>,industrial product system*,1 industrial internet platform
+smart industry<ly>,industrial product system*,n application solutions
+intelligent industrial<ly>,benchmark case*,5g+mec enterprise private network
+aerospace<ly>,80 smart manufacturing application scenarios*,cnc fully connected factory
+aerospace field<ly>,80 intelligent manufacturing application scenarios*,machine vision based composite material seam inspection system
+wuhu and quanjiao cement plants 5g application project,cooperation object*,conch group<gs>
+wuhu and quanjiao cement plants 5g application project,cooperation object*,huawei<gs>
+wuhu and quanjiao cement plants 5g application project,realize*,mine car driverless
+wuhu and quanjiao cement plants 5g application project,realize*,mine blasting drone inspection
+wuhu and quanjiao cement plants 5g application project,realize*,personnel safety behavior detection
+wuhu and quanjiao cement plants 5g application project,realize*,remote control of water pump
+ziguang zhanrui<gs>,mastered communication technology*,2g/3g/4g/5g<js>
+ziguang zhanrui<gs>,mastered communication technology*,wi-fi<js>
+ziguang zhanrui<gs>,mastered communication technology*,bluetooth<js>
+ziguang zhanrui<gs>,mastered communication technology*,tv fm<js>
+ziguang zhanrui<gs>,mastered communication technology*,satellite communication<js>
+zte<gs>,mastered communication technology*,large soc integration capability<js>
+zte<gs>,main products*,mobile communication central processing unit<cp>
+zte<gs>,main products*,baseband chips<cp>
+purple rays<gs>,main products*,ai chips<cp>
+zte<gs>,main products*,rf front-end chips<cp>
+purple rays<gs>,main products*,rf chips<cp>
+purple rays<gs>,typical products*,tangura t770<cp>
+basic connection management<yw>,main content*,sim card
+telecom ctwing<gs>,integrated capabilities*,china telecom cloud network convergence<yw>
+telecom ctwing<gs>,integrated capabilities*,5g full connectivity management<yw>
+telecommunications ctwing<gs>,integrated capabilities*,facility management<yw>
+telecom ctwing<gs>,integrated capabilities*,city sense<yw>
+telecom ctwing<gs>,integrated capabilities*,end-to-end security<yw>
+telecom ctwing<gs>,build*,skywing smart community industry application products<cp>
+fei-cat smart link<gs>,focus*,core technology of future digital economy industry
+fei-cat smart link<gs>,products*,4g/5g mobile communication products<cp>
+fei-cat smart link<gs>,product*,intelligent terminal device<cp>
+fei-cat smart link<gs>,application areas*,telematics<ly>
+fei-cat smart link<gs>,application areas*,smart city<ly>
+fei-cat smart link<gs>,application areas*,smart industry<ly>
+flylink<gs>,typical solution*,flylink platform<cp>
+mobile onelink<gs>,providing*,iot card connectivity management services<yw>
+mobile onelink<gs>,build*,iot industry ecology
+dingqiao<gs>,focus on*,wireless communication technology<js>
+td tech<gs>,business segment*,industry wireless<cp>
+td tech<gs>,business segment*,internet of things & 5g<cp>
+td tech<gs>,business segment*,terminal products<cp>
+kwt<gs>,global leading*,iot wireless communication solutions
+kwt<gs>,a global leading*,wireless communication module provider
+kwt<gs>,full product line covering*,5g<ly>
+gwt<gs>,full product line covering*,lte/lte-a<ly>
+gwt<gs>,full product line covers*,nb-iot/lte-m<ly>
+guanghe tong<gs>,the whole product line covers*,car front-loading<ly>
+guanghe tong<gs>,the whole product line covers*,android smart<ly>
+gwt<gs>,full product line covering*,wcdma/hspa(+)<ly>
+gsm/gprs<ly>,full product line covers*,gsm/gprs<ly>
+gwt<gs>,full product line covering*,wi-fi<ly>
+gnss<gs>,full product line covering*,gnss<ly>
+gwto<gs>,industry digital transformation*,cloud office<ly>
+guanghe tong<gs>,industry digital transformation*,smart retail<ly>
+guanghe tong<gs>,industry digital transformation*,c-v2x<ly>
+guanghe tong<gs>,industry digital transformation*,smart energy<ly>
+guanghe tong<gs>,industry digital transformation*,smart security<ly>
+guanghe tong<gs>,industry digital transformation*,industrial internet<ly>
+guanghe tong<gs>,industry digital transformation*,smart city<ly>
+guanghe tong<gs>,industry digital transformation*,smart agriculture<ly>
+guanghe tong<gs>,industry digital transformation*,smart home<ly>
+guanghe tong<gs>,industry digital transformation*,smart healthcare<ly>
+gwt<gs>,typical product*,5g sub6 ghz module fm160<cp>
+nikai smart<gs>,service recipients*,domestic and international telecom operators
+nikai smart<gs>,service recipients*,telecom master equipment provider
+nikkai intelligence<gs>,service recipients*,network integrator
+nikkai<gs>,supply*,communication network connectivity products<yw>
+nikkai<gs>,supply*,communication network distribution products<yw>
+nikkai<gs>,supply*,communication network protection products<yw>
+nikkai<gs>,provide*,total solution<yw>
+nikkai<gs>,business system*,5g small base station
+nikai intelligence<gs>,business system*,ai iot terminal
+nikai intelligence<gs>,business system*,ai iot grand central platform
+nikkai<gs>,business system*,ai edge computing device
+nikkai intelligence<gs>,business system*,intelligent communication equipment
+nikkai<gs>,business system*,related comprehensive solutions
+nikkai<gs>,business system*,engineering services
+yiyuan telecom<gs>,product line covers*,5g<ly>
+yiyuan telecom<gs>,product line covers*,lte/lte-a<ly>
+yiyuan telecom<gs>,product line covers*,nb-iot/lte-m<ly>
+yiyuan communication<gs>,product line covers*,vehicle front mount<ly>
+yiyuan communication<gs>,product line covers*,android smart<ly>
+yiyuan telecom<gs>,product line covers*,wcdma/hspa(+)<ly>
+yiyuan telecom<gs>,product line covers*,gsm/gprs<ly>
+mobile communication<gs>,product line covers*,gnss module<ly>
+yiyuan communication<gs>,supply*,cellular communication module<yw>
+yiyuan telecom<gs>,provide*,iot application solutions<yw>
+mobile communications<gs>,provide*,cloud platform management<yw>
+mobile telecommunication<gs>,application areas*,vehicle mounted transportation<ly>
+mobile telecommunication<gs>,application areas*,wireless payment<ly>
+mobile communications<gs>,application areas*,intelligent energy<ly>
+mobile communications<gs>,application areas*,smart city<ly>
+mobile communication<gs>,application areas*,wireless gateway<ly>
+mobile communications<gs>,application areas*,industrial applications<ly>
+mobile communications<gs>,application areas*,medical health<ly>
+mobile communication<gs>,application areas*,agricultural environment<ly>
+yiyuan telecom<gs>,typical products*,telemedicine terminal rm6<cp>
+feicat smartlink<gs>,typical products*,feicat smartlink 5g cpe fm10<cp>
+fei-cat smart link<gs>,typical products*,5g signal amplifier<cp>
+fei-cat smart link<gs>,typical product*,5g module box<cp>
+shenzhen hongdian<gs>,the world's leading*,iot wireless communication products provider<yw>
+shenzhen hongdian<gs>,the world's leading*,industry intelligent solutions provider<yw>
+shenzhen hongdian<gs>,technology line*,5g+ai+iot<js>
+shenzhen hongdian<gs>,announces*,5g iot communication terminal<cp>
+ihan<gs>,main business*,iot (internet of things) total solution
+ihan<gs>,application industries*,power<ly>
+ihan<gs>,application industries*,industrial<ly>
+ihan<gs>,application industries*,transportation<ly>
+ihn<gs>,application industry*,retail<ly>
+e-harmony<gs>,application industries*,medical<ly>
+ihan<gs>,application industries*,agriculture<ly>
+eharmony<gs>,application industries*,environmental protection<ly>
+ihn<gs>,application industry*,earthquake<ly>
+ihan<gs>,application industry*,water resources<ly>
+ihg<gs>,application industries*,oil & gas<ly>
+there are people networking<gs>,main business*,iot module<yw>
+there are people networking<gs>,main business*,communication terminal<yw>
+there are people networking<gs>,main business*,cloud platform<yw>
+there are people in the internet<gs>,main business*,internet of things solutions<yw>
+people networking<gs>,application areas*,smart factory<ly>
+there are people networking<gs>,application areas*,smart agriculture<ly>
+there are people networking<gs>,application areas*,intelligent building property<ly>
+there are people networking<gs>,application area*,new retail<ly>.
+there are people networking<gs>,typical solutions*,industrial internet-based smart factory data platform construction solutions
+zhongwei puye<gs>,main business*,signal detection and control<yw>
+zhongwei puye<gs>,main business*,information access and transmission<yw>
+zhongwei puye<gs>,main business*,automation equipment development<yw>
+zhongwei puye<gs>,main business*,customized solutions<yw>
+zhongwei puye<gs>,r&d field*,rf microwave<ly>
+zhongwei puye<gs>,r&d field*,light<ly>
+zhongwei puye<gs>,r&d field*,embedded<ly>
+zhongwei puye<gs>,r&d field*,mechanical design<ly>
+zhongwei puye<gs>,r&d field*,automation<ly>
+zhongwei puye<gs>,r&d field*,industrial design<ly>
+zhongwei puye<gs>,r&d field*,software<ly>
+zhongwei puye<gs>,r&d field*,communication<ly>
+huawei<gs>,main business*,mobile<cp>
+huawei<gs>,5g phone*,p40 pro<cp>
+oppo<gs>,main business*,smartphones<yw>
+oppo<gs>,main business*,high-end audio-visual equipment<yw>
+oppo<gs>,main business*,mobile internet products and services<yw>
+oppo<gs>,business coverage*,china
+oppo<gs>,business coverage*,united states
+oppo<gs>,business coverage*,russia
+oppo<gs>,business coverage*,europe
+oppo<gs>,covering more than 40 countries and regions*,etc.
+apple<gs>,main business*,consumer electronics<yw>
+apple<gs>,main business*,computer software<yw>
+apple<gs>,main business*,online services<yw>
+apple<gs>,main business*,personal computers<yw>
+apple<gs>,released*,iphone 12<cp>
+samsung<gs>,business field*,electronics<ly>
+samsung<gs>,business field*,finance<ly>
+samsung<gs>,business field*,machinery<ly>
+samsung<gs>,business field*,chemicals<ly>
+samsung<gs>,specific products*,cell phones<cp>
+samsung<gs>,specific products*,home appliance av<cp>
+samsung<gs>,specific products*,chip semiconductor<cp>
+vivo<gs>,dedicated*,smartphone products
+xiaomi<gs>,focus on*,smart hardware<ly>
+xiaomi<gs>,focus on*,electronic product development<ly>
+xiaomi<gs>,main business*,high-end smartphone<yw>
+xiaomi<gs>,main business*,internet tv<yw>
+xiaomi<gs>,main business*,smart home ecological chain construction<yw>
+xiaomi<gs>,announces*,5g phone<cp>
+lixin precision<gs>,a leading global company*,connector manufacturer
+lixin precision<gs>,r&d products*,connector<cp>
+lixin precision<gs>,r&d products*,connecting cable<cp>
+lixun precision<gs>,r&d products*,motor<cp>
+lixin precision<gs>,r&d products*,wireless charging<cp>
+lixun precision<gs>,r&d products*,fpc<cp>
+lixun precision<gs>,r&d products*,antenna<cp>
+lixun precision<gs>,r&d products*,acoustics<cp>
+lixun precision<gs>,r&d products*,electronic module<cp>
+lixin precision<gs>,application areas*,consumer electronics<ly>
+lixin precision<gs>,application areas*,communication<ly>
+lixin precision<gs>,application areas*,enterprise<ly>
+lixin precision<gs>,application areas*,automotive<ly>
+lixin precision<gs>,application areas*,medical<ly>
+xinwei telecom<gs>,main business and products*,pan-rf components<yw>
+xinwei telecom<gs>,main business and products*,related modules<yw>
+separated devices,steering*,integrated modules
+huawei heisi<gs>,main business*,heisi chip<yw>
+huawei heisi<gs>,main business*,pan-intelligent terminal chip solutions<yw>
+onr microelectronics<gs>,supplier*,rf front end chip<cp>
+onscreen microelectronics<gs>,supplier*,rf soc chips<cp>
+onr microelectronics<gs>,main business*,rf/analog ics<yw>
+onr microelectronics<gs>,main business*,soc system ics<yw>
+onr microelectronics<gs>,main business*,solution development and promotion<yw>
+communication chip<cp>,supplier*,huawei<gs>
+communication chip<cp>,supplier*,qualcomm<gs>
+communication chip<cp>,supplier*,datang<gs>
+communication chip<cp>,product*,4g+lte-v2x chip<cp>
+communication chip<cp>,product*,5g+lte-v2x chip<cp>
+desalvay<gs>,field of interest*,intelligent cockpit<ly>
+desalvay<gs>,field*,smart driving<ly>
+dickson westwood<gs>,field of expertise*,netlink services<ly>
+dexiawei<gs>,provide*,smart mobility solutions<yw>
+gaoxin<gs>,main business*,telematics<yw>
+gaoxin<gs>,main business*,public security law enforcement standardization<yw>
+gao xinxing<gs>,main business*,smart city services and product integration<yw>
+jingwei hengrun<gs>,main business*,electronic product development and production<yw>
+jingwei hengrun<gs>,main business*,engineering consulting<yw>
+jingwei hengrun<gs>,main business*,r&d tools<yw>
+jingwei hengrun<gs>,main business*,scenario-specific automated driving operation and maintenance service<yw>
+kodak<gs>,announces*,5g smart car terminal<cp>
+microsig<gs>,main business*,r&d
+microsig<gs>,typical solution*,5g driving safety monitoring system<cp>
+wuhan data<gs>,main business and products*,4g/5g cpe<cp>
+wuhan data<gs>,main business and products*,wireless router<cp>
+wuhan data<gs>,main business and products*,smb<cp>
+wuhan data<gs>,main business and products*,industrial gateway<cp>
+wuhan data<gs>,main business and products*,provide wireless access solutions<yw>
+4dg<gs>,business field*,navigation map<ly>
+4dg<gs>,business field*,navigation software<ly>
+4dg<gs>,business field*,dynamic traffic information<ly>
+4dg<gs>,business field*,location big data<ly>
+biztutuxin<gs>,business field*,customized telematics solutions for passenger cars and commercial vehicles<ly>
+biztuxin<gs>,main business*,autonomous driving<yw>
+siweituxin<gs>,main business*,telematics<yw>
+4dg<gs>,main business*,navigation<yw>
+5g+mec edge intelligence,problem solving*,data privacy security
+5g+mec edge intelligence,problem solving*,heterogeneous network convergence
+patent applications,covering dimensions*,optomechanical
+patent applications,covering dimensions*,image processing
+patent applications,covering dimensions*,machine vision
+patent application,covering dimension*,big data
+patent applications,covered dimensions*,cloud storage
+medical care for the elderly,connection*,health testing equipment
+medical care for the elderly,connectivity*,smart home
+medical care for the elderly,connect*,medical service robot
+medical care for the elderly,realize*,aging in place
+medical care for the elderly,achieve*,chronic disease monitoring and management
+medical care for the elderly,realize*,personal health emergency consultation
+remote ultrasound diagnosis solution,realizing*,5g remote medical imaging real-time diagnosis
+3gpp<gs>,responsible for developing*,end-to-end system specifications for wireless communications
+5g deterministic networking industry alliance (5gdna)<gs>,5g key technologies*,ultra performance heterogeneous mec<js>
+5g deterministic network industry alliance (5gdna)<gs>,5g key technologies*,dynamic intelligent network slicing<js>
+ieee<gs>,research field*,electrical<ly>
+ieee<gs>,research field*,electronics<ly>
+ieee<gs>,field of study*,computer engineering<ly>
+ieee<gs>,field of study*,science-related fields<ly>
+ieee<gs>,development*,industry standard
+oran consortium<gs>,dedicated to*,enhancing the openness and intelligence of radio access networks (rans)
+oran alliance<gs>,sponsor*,five operators
+sadie<gs>,main business*,government decision<yw>
+sadie<gs>,main business*,soft science research<yw>
+sadie<gs>,main business*,media and network services<yw>
+sadie<gs>,main business*,consulting and outsourcing services<yw>
+sadie<gs>,main business*,assessment and certification services<yw>
+sadie<gs>,main business*,software development and information technology services<yw>
+best object aiot industry research institute<gs>,research field*,internet of things<ly>
+zhiwu aiot industry research institute<gs>,research field*,industrial internet<ly>
+best object aiot industry research institute<gs>,research field*,5g<ly>
+zhiwu aiot industry research institute<gs>,research field*,smart home<ly>
+best object aiot industry research institute<gs>,providing*,professional and customized consulting services<yw>
+iot think tank<gs>,provide service*,media promotion<yw>
+iot think tank<gs>,provide services*,marketing activities<yw>
+internet of things think tank<gs>,providing services*,research and consulting<yw>
+iot think tank<gs>,provide service*,investment and financing matchmaking<yw>
+ericsson<gs>,core business*,network<yw>
+ericsson<gs>,core business*,telecom professional services<yw>
+ericsson<gs>,core business*,deploys 5g access network in the uk<yw>
+ericsson<gs>,core business*,multimedia<yw>
+datang mobile<gs>,main business*,tdd wireless communication technology<js>
+datang mobile<gs>,application areas*,mobile communications<ly>
+datang mobile<gs>,application areas*,industry information technology<ly>
+datang mobile<gs>,application areas*,internet of things<ly>
+datang mobile<gs>,application areas*,mobile internet<ly>
+huawei<gs>,wireless deep coverage solution<yw>*,lampsite<cp>
+kyosemi telecommunications<gs>,main business*,wireless communication solutions<yw>
+kyosin telecom<gs>,main business*,information application services<yw>
+saitex<gs>,core technology enabling new infrastructure*,new infrastructure
+saitex<gs>,provides*,software-defined communication solutions<yw>
+sets<gs>,announces*,5g cloud-enabled white box small base station<cp>
+tianyi<gs>,main business*,communication equipment related products<yw>
+tianyi corporation<gs>,main business*,home/enterprise broadband access<yw>
+tianyi corporation<gs>,main business*,intelligent networking equipment<yw>
+tianyi<gs>,main business*,deep mobile signal coverage<yw>
+tianyi corporation<gs>,main business*,intelligent vision equipment<yw>
+tianyi<gs>,main business*,optical fiber communication wiring<yw>
+tianyi<gs>,main business*,connection equipment<yw>
+xinhuasan<gs>,total digital infrastructure capabilities*,computing<ly>
+xinhuasan<gs>,total digital infrastructure capabilities*,storage<ly>
+xinhuasan<gs>,total digital infrastructure capabilities*,network<ly>
+xinhuasan<gs>,total digital infrastructure capabilities*,5g<ly>
+xinhuasan<gs>,total digital infrastructure capability*,security<ly>
+xinhuasan<gs>,one-stop digital solution*,cloud computing<ly>
+xinhuasan<gs>,one-stop digital solution*,big data<ly>
+xinhuasan<gs>,one-stop digital solution*,artificial intelligence<ly>
+xinhuasan<gs>,one-stop digital solution*,industrial internet<ly>
+xinhuasan<gs>,one-stop digital solution*,information security<ly>
+xinhuasan<gs>,one-stop digital solution*,intelligent connectivity<ly>
+new huasan<gs>,one-stop digital solution*,new security<ly>
+xinhuasan<gs>,one-stop digital solution*,edge computing<ly>
+xinhuasan<gs>,china exclusive provider*,hpe server<cp>
+xinhuasan<gs>,typical products*,xinhuasan 5g white boxed indoor small base station<cp>
+huawei haith<gs>,main business*,haith chip external sales<yw>
+huawei haise<gs>,the main business*,service and provide smart home<yw>
+huawei haise<gs>,main business*,smart city and smart mobility<yw>
+huawei heisi<gs>,typical product*,5g base station core chip<cp>
+zte microelectronics<gs>,main business*,communication chip development<yw>
+china tower<gs>,jointly funded*,china telecom<gs>
+china tower<gs>,jointly funded*,china mobile<gs>
+china tower<gs>,jointly funded*,china unicom<gs>
+china tower<gs>,main business*,tower construction<yw>
+china tower<gs>,main business*,tower maintenance<yw>
+china tower<gs>,main business*,tower operation<yw>
+china tower<gs>,main business*,base station equipment maintenance<yw>
+china tower<gs>,main business*,base station room
+china tower<gs>,main business*,indoor distribution system<yw>
+china tower<gs>,typical solution*,mobile network coverage integrated solution<cp>
+china tower<gs>,typical solution*,diversified room division product solutions with active and passive combination<cp>
+china tower<gs>,typical solution*,5g shared coverage trial<cp>
+china tower<gs>,typical solution*,chengdu shallow water peninsula project<cp>
+beijing power source<gs>,main business*,power electronics<yw>
+beijing power source<gs>,main business*,information technology related products<yw>
+beijing power source<gs>,main business*,green energy<yw>
+beijing power source<gs>,main business*,intelligent energy<yw>
+beijing power source<gs>,a wholly owned subsidiary*,beijing disaiqi zheng<gs>
+beijing power source<gs>,wholly owned subsidiary*,hong kong power source<gs>
+beijing power source<gs>,wholly owned subsidiary*,anhui power source<gs>
+beijing power source<gs>,a wholly-owned subsidiary*,and ten other subsidiaries
+imicon<gs>,main business*,refrigeration equipment<cp>
+imicon<gs>,main business*,air conditioners<cp>
+imicon<gs>,main business*,uninterruptible power supply<cp>
+imicon<gs>,main business*,battery<cp>
+imicon<gs>,supply enterprise*,precision machine room air conditioner<cp>
+imikon<gs>,typical products*,imikon base station pump energy-saving series unit<cp>
+invac<gs>,main business*,provides thermal management and environmental control products and solutions<yw>
+zhongheng electric<gs>,main business*,power grid<yw>
+zhongheng electric<gs>,main business*,power generation (including new energy)<yw>
+zhongheng electric<gs>,main business*,industrial enterprise<yw>
+zhongheng electric<gs>,main business*,communication power supply<yw>
+zhongheng electric<gs>,main business*,high voltage dc power supply (hvdc)<yw>
+zhongheng electric<gs>,main business*,power operation power supply<yw>
+zhongheng electric<gs>,main business*,new energy electric vehicle charging and switching system<yw>
+zhongheng electric<gs>,main business*,energy storage<yw>
+kyocera telecom<gs>,the main business*,covering more than 100 countries and regions
+kyosemi<gs>,typical solution*,5g wide area division innovative antenna solution
+jingxin telecom<gs>,typical solution*,high gain tunnel wall mount antenna<cp>
+mobi development<gs>,main business*,communication antenna
+mobi development<gs>,main business*,passive devices
+mobi development<gs>,main business*,mobile communication operation and mobile communication equipment manufacturing enterprise support
+mobi development<gs>,main products*,mobile communication base station
+mobi development<gs>,main products*,repeater antenna
+mobi development<gs>,main products*,microwave communication antenna
+mobi development<gs>,main products*,wireless spread spectrum antenna
+mobi development<gs>,main products*,mmds antenna
+mobi development<gs>,main products*,satellite communication antenna
+mobi development<gs>,main products*,splitter
+mobi development<gs>,main products*,combiners
+shenglu communication<gs>,china leading*,antenna<cp>
+shenglu communication<gs>,leading domestic*,rf products<cp>
+shenglu telecom<gs>,product business field*,mobile communications<ly>
+shenglu telecom<gs>,product business field*,car mobile internet<ly>
+shenglu telecom<gs>,product business field*,microwave hybrid ic<ly>
+tongyu communication<gs>,main business*,mobile communication antenna<cp>
+tongyu communication<gs>,main business*,movable medium antenna<cp>
+tong yu communication<gs>,main business*,rf devices<cp>
+tong yu communication<gs>,main business*,optical module<cp>
+tongue & groove<gs>,a certified global supplier of system equipment vendors*,huawei<gs>
+tongue & groove<gs>,certified global supplier for system equipment vendors*,zte<gs>
+tongue & groove<gs>,a certified global supplier of system equipment vendors*,nokia<gs>
+tongue & groove communications<gs>,a certified global supplier of system equipment vendors*,ericsson<gs>
+tongue & groove<gs>,certified global supplier for system equipment vendors*,datang<gs>
+bondsun technology<gs>,main business*,design
+bondsun technology<gs>,main business*,r&d
+huaxing venture<gs>,main business*,planning and design of mobile communication networks<yw>
+huaxing venture<gs>,main business*,engineering construction<yw>
+huaxing venture<gs>,main business*,room divider engineering<yw>
+huaxing venture<gs>,main business*,network infrastructure maintenance<yw>
+huaxing venture<gs>,main business*,network measurement and optimization<yw>
+huaxing venture<gs>,main business*,wireless test systems (compatible with 2g to 4g and nb-lot)<yw>
+huaxing venture<gs>,main business*,wireless test terminal for mobile communication<yw>
+huaxing venture<gs>,main business*,signaling acquisition platform<yw>
+huaxing venture<gs>,main business*,network analysis and optimization software based on network big data<yw>
+chengtianweiye<gs>,main business*,r&d
+chengtianweiye<gs>,product*,telecom card<cp>
+chengtianweiye<gs>,product*,financial ic card<cp>
+chengtianweiye<gs>,product*,id card<cp>
+chengtianweiye<gs>,downstream market segment*,mobile communication<ly>
+chengtianweiye<gs>,downstream market area*,financial payment<ly>
+chengtianweiye<gs>,downstream market area*,public utilities<ly>
+mobitai<gs>,top 5 fields*,communication<ly>
+mobitai peace<gs>,top 5 fields*,finance<ly>
+mobitai<gs>,five domains*,mobile payment<ly>
+mobitai peace<gs>,top 5 fields*,government utilities<ly>
+mobitai<gs>,five domains*,internet of things<ly>
+eastcom peace<gs>,five directions*,cards<yw>
+mobitai<gs>,five directions*,card service class<yw>
+higashinpac<gs>,five directions*,testing class<yw>
+mobitai<gs>,five directions*,terminal class<yw>
+mobitai<gs>,five directions*,application system solutions<yw>
+hengbao<gs>,main business*,financial technology<yw>
+hengbao<gs>,main business*,internet of things<yw>
+hengbao<gs>,main business*,digital security<yw>
+hengbao corporation<gs>,main business*,digital service<yw>
+hengbao<gs>,main business*,safety equipment<yw>
+hengbao corporation<gs>,main business*,payment security<yw>
+hengbao<gs>,main business*,identity and privacy protection<yw>
+hengbao<gs>,main business*,mobile payment solutions<yw>
+hengbao<gs>,main business*,cloud authentication access service<yw>
+hengbao<gs>,main business*,intelligent device remote management<yw>
+hengbao<gs>,main business*,data security<yw>
+hengbao<gs>,main business*,blockchain technology<yw>
+tian yu information<gs>,main business*,data security smart card<yw>
+tian yu information<gs>,main business*,financial terminal<yw>
+tian yu information<gs>,main business*,smart education<yw>
+tian yu information<gs>,main business*,tax service<yw>
+tian yu information<gs>,main business*,iot industry solutions<yw>
+tian yu information<gs>,smart card business products*,financial ic card<cp>
+tian yu information<gs>,smart card business products*,financial social security card<cp>
+tian yu information<gs>,smart card business products*,resident health card<cp>
+tian yu information<gs>,smart card business products*,communication smart cards (including m2m cards
+tian yu information<gs>,smart card business products*,intelligent transportation card<cp>
+tian yu information<gs>,smart card business products*,etc card<cp>
+tian yu information<gs>,smart card business products*,ese module<cp>
+dongshan precision<gs>,main business*,communication equipment<cp>
+dongshan precision<gs>,main business*,precision metal structure parts<cp>
+dongshan precision<gs>,main business*,led technology<js>
+dongshan precision<gs>,main business*,electronic circuits<cp>
+huazheng new material<gs>,r&d and production*,epoxy resin copper clad sheet<cp>
+shennan electric circuit<gs>,main business*,printed circuit board<yw>
+shennan electric road<gs>,main business*,packaging substrate<yw>
+shennan electric road<gs>,main business*,electronic assembly<yw>
+shennan electric road<gs>,strategic cooperation*,communication equipment manufacturer
+shennan electric road<gs>,strategic cooperation*,aerospace electronics manufacturer
+shennan electric road<gs>,strategic cooperation*,medical equipment manufacturer
+biofuel technology<gs>,main business*,high-end electronic materials<cp>
+biotech<gs>,product applications*,home appliances<ly>
+biotech<gs>,product applications*,mobile<ly>
+bio-technology<gs>,product applications*,automotive<ly>
+biotech<gs>,product applications*,computer<ly>
+china mobile<gs>,operation mode*,premium mode
+china mobile<gs>,operation mode*,exclusive mode
+china mobile<gs>,operation mode*,premium mode
+china mobile<gs>,main business*,mobile voice and data<yw>
+china mobile<gs>,main business*,wired broadband<yw>
+china mobile<gs>,main business*,information communication services<yw>
+china telecom<gs>,operation mode*,zhiyuan mode
+china telecom<gs>,operation mode*,thane mode
+china telecom<gs>,operation mode*,such as wing mode
+china telecom<gs>,business operations*,fixed communication services<yw>
+china telecom<gs>,business operations*,mobile communications business<yw>
+china telecom<gs>,business operations*,domestic and international communications facilities service business<yw>
+china telecom<gs>,business operations*,data communication services<yw>
+china telecom<gs>,business operations*,network access service<yw>
+china telecom<gs>,business operations*,all kinds of value-added telecom services<yw>
+china telecom<gs>,business operations*,system integration business related to communication information business<yw>
+china unicom<gs>,operation mode*,5g virtual private network
+china unicom<gs>,operation mode*,5g hybrid private network
+china unicom<gs>,operation mode*,5g independent private network
+lenovo understands communication<gs>,typical solution*,5g to b project<cp>
+xinhuasan<gs>,typical case*,5g iot private network solution<cp>
+nokia<gs>,main business*,mobile communications equipment manufacturing and related services<yw>
+nokia<gs>,its*,bell labs
+beacon communications<gs>,development*,cloud
+fiberhome<gs>,development*,chip
+changfei fiber<gs>,main business*,fiber optic preforms<cp>
+changfei optical fiber<gs>,main business*,optical fiber<cp>
+changfei optical fiber<gs>,main business*,optical fiber cable<cp>
+changfei optical fiber<gs>,main business*,rf coaxial cable<cp>
+changfei fiber<gs>,main business*,accessories<cp>
+henton optronics<gs>,offer products*,new generation green light bar<cp>
+henton optronics<gs>,offer products*,fiber optic<cp>
+hengtong photoelectric<gs>,provide products*,full series optical fiber cable<cp>
+henton optronics<gs>,offer products*,optical network products<cp>
+henton optronics<gs>,offer products*,edge data center<cp>
+henton optronics<gs>,offer products*,optical components<cp>
+henton optronics<gs>,offer products*,fiber optic sensing technology<cp>
+zhongtian technology<gs>,main business and products*,prefabricated rods<cp>
+zhongtian technology<gs>,main business and products*,optical fiber<cp>
+zhongtian technology<gs>,main business and products*,optical fiber cable<cp>
+zhongtian technology<gs>,main business and products*,odn<cp>
+zhongtian technology<gs>,main business and products*,antenna<cp>
+zhongtian technology<gs>,main business and products*,rf cable category<cp>
+zhongtian technology<gs>,main business and products*,active terminal<cp>
+zhongtian technology<gs>,main business and products*,optical transceiver<cp>
+zhongtian technology<gs>,main business and products*,data center<cp>
+zhongtian technology<gs>,main business and products*,high performance raw materials<cp>
+zhongtian technology<gs>,main business and products*,engineering consulting<yw>
+zhongtian technology<gs>,main business and products*,design<yw>
+zhongtian technology<gs>,main business and products*,construction<yw>
+zhongtian technology<gs>,main business and products*,integration service<yw>
+zhongtian technology<gs>,network construction infrastructure services*,cable<yw>
+zhongtian technology<gs>,network construction infrastructure services*,component<yw>
+zhongtian technology<gs>,network construction infrastructure services*,devices<yw>
+zhongtian technology<gs>,network construction infrastructure service*,antenna<yw>
+optical module<cp>,integrated module*,optical transceiver module<cp>
+optical module<cp>,integrated module*,optical amplifier<cp>
+optical module<cp>,integrated module*,performance monitoring module<cp>
+optical xpress<gs>,six core technology process platforms*,semiconductor material growth<js>
+optical xun technology<gs>,six core technology process platforms*,semiconductor process and planar optical waveguide technology<js>
+optical xun technology<gs>,six core technology process platforms*,optical design and high-density packaging technology<js>
+optical xun technology<gs>,six core technology process platforms*,thermal analysis and mechanical design technology<js>
+optical xun technology<gs>,six core technology process platforms*,high frequency simulation and design technology<js>
+optical xun technology<gs>,six core technology process platforms*,software control and subsystem development technology<js>
+optical xpress<gs>,vertical integration capability*,chip
+optotec<gs>,vertical integration capability*,devices
+optical xpress<gs>,vertical integration capability*,module
+optotec<gs>,vertical integration capability*,full range of subsystem products
+huagong technology<gs>,advantageous business*,laser equipment manufacturing<yw>
+huagong technology<gs>,advantageous business*,optical communication devices<yw>
+huagong technology<gs>,advantageous business*,laser holographic counterfeit<yw>
+huagong technology<gs>,advantageous business*,sensor<yw>
+huagong technology<gs>,advantageous business*,information traceability<yw>
+cambridge technology<gs>,providing*,odm for global ict industry
+cambridge technology<gs>,a global ict industry provider*,jdm
+cambridge technology<gs>,a provider of*,oem for the global ict industry
+cambridge technology<gs>,main business and products*,telecom broadband terminal<cp>
+cambridge technology<gs>,main business and products*,wireless network equipment<cp>
+cambridge technology<gs>,main business and products*,smart home gateway<cp>
+cambridge technology<gs>,main business and products*,data switches<cp>
+cambridge technology<gs>,main business and products*,industrial iot infrastructure hardware<cp>
+cambridge technology<gs>,main business and products*,high-speed optical components (core independent brand)<cp>
+cambridge technology<gs>,main business and products*,high-speed optical modules (customized for large customers)<cp>
+cambridge technology<gs>,main business and products*,small base stations for 4g/5g wireless networks<cp>
+cambridge technology<gs>,main business and products*,front passenger optical modules and components<cp>
+minpac<gs>,main business and products*,magnetic components<cp>
+minpac<gs>,main business and products*,optical communication components<cp>
+minpac<gs>,main business and products*,new energy power supply system<cp>
+minpac<gs>,main business and products*,consumer power<cp>
+m.p. magnetics<gs>,main business and products*,plastic molding<cp>
+minpac<gs>,main business and products*,hardware stamping products<cp>
+suzhou xutron<gs>,optical module development*,10g series optical module<cp>
+suzhou xutron<gs>,optical module development*,25g series optical module<cp>
+suzhou xutron<gs>,optical module development*,40g series optical module<cp>
+suzhou xutron<gs>,optical module development*,100g series optical module<cp>
+suzhou xutron<gs>,optical module development*,200g series optical module<cp>
+suzhou xutron<gs>,optical module development*,400g series optical module<cp>
+suzhou xutron<gs>,optical module solutions*,data communication<ly>
+suzhou xutron<gs>,optical module solution*,long distance transmission<ly>
+suzhou xutron<gs>,optical module solution*,wireless network<ly>
+suzhou xutron<gs>,optical module solutions*,large data center<ly>
+suzhou xutron<gs>,typical products*,400g qsfp-dd series products<cp>
+suzhou xutron<gs>,typical products*,100g single lambda products<cp>
+suzhou xutron<gs>,typical product*,200g qsfp-dd<cp>
+suzhou xutron<gs>,typical products*,50g qsfp28<cp>
+suzhou xutron<gs>,typical products*,25g sfp28<cp>
+t&s<gs>,main business*,optical communication devices<cp>
+t&s<gs>,main business*,integrated function module<cp>
+tianfu telecom<gs>,basic materials field*,ceramics<ly>
+tianfu telecom<gs>,basic materials field*,plastics<ly>
+tianfu telecom<gs>,basic material field*,metal<ly>
+tianfu telecom<gs>,basic materials field*,glass<ly>
+tianfu telecom<gs>,manufacturing process*,wdm coupling<js>
+teflon<gs>,manufacturing process*,fau fiber array design and manufacturing<js>
+tianfu telecom<gs>,manufacturing process*,to-can/box package<js>
+tianfu communication<gs>,manufacturing process*,parallel optical design and manufacturing<js>
+tianfu communication<gs>,manufacturing process*,micro-optical optical circuit simulation design assembly<js>
+tianfu communication<gs>,manufacturing process*,nanoscale precision mold design and manufacture<js>
+tianfu communication<gs>,manufacturing process*,micron-level manufacturing of metal materials<js>
+tianfu communication<gs>,manufacturing process*,ceramic material forming and sintering<js>
+xinyisheng<gs>,main business*,high performance optical module<cp>
+xinyisheng<gs>,main business*,high performance optical devices<cp>
+xinyisheng<gs>,application scenario*,data center<ly>
+new ess<gs>,application scenario*,telecom network (fttx
+xinyisheng<gs>,application scenario*,security monitoring<ly>
+xinyisheng<gs>,application scenario*,smart grid<ly>
+at&t<gs>,5g core network fully migrated to*,microsoft azure
+telef贸nica germany<gs>,cooperation*,ericsson<gs>
+telef贸nica germany<gs>,deployment*,5g tob service core network
+dish<js><gs>,collaboration*,nokia<gs>
+dish<js><gs>,deployment*,5g core network
+swisscom<gs>,migration*,5g core network
+swisscom<gs>,migration*,oss/bss
+nokia<gs>,collaboration*,google cloud
+nokia<gs>,collaboration*,aws
+ericsson<gs>,collaboration*,google cloud
+ericsson<gs>,offering*,5g and edge cloud solutions
+5g voip sdn core network<cp>,traditional core network build*,huawei<gs>
+5g voip sdn core network<cp>,legacy core network build*,ericsson<gs>
+5g voip sdn core network<cp>,legacy core network build*,cisco<gs>
+5g voip sdn core network<cp>,add core network unit*,upf
+5g voip sdn core network<cp>,add core network unit*,mec
+5g voip sdn core network<cp>,add core network unit*,spn
+5g voip sdn core network<cp>,adding new features*,network slicing services<js>
+5g virtual vendor sdn core network<cp>,add new features*,edge computing<js>
+5g voip sdn core network<cp>,add new features*,user interface
+5g services,3gpp compliant*,3gpp standards
+r15<js>,enhanced*,low latency high reliability scenario<ly>
+r15<js>,enhanced*,mobile broadband scenario<ly>
+r15<js>,complete*,new space interface non-standalone networking standard (nsa)<js>
+r15<js>,complete*,standalone networking standard (sa)<js>
+r16<js>,enhanced*,multi-antenna transmission<js>
+r16<js>,enhanced*,cellular positioning<js>
+r16<js>,enhanced*,terminal energy saving<js>
+r16<js>,enhanced*,dual connection/carrier aggregation<js>
+r16<js>,enhanced*,mobility enhancement<js>
+r16<js>,standardized design*,low latency high reliability scenario<ly>
+r16<js>,standardized design*,for industrial internet scenarios<ly>
+r16<js>,standardized design*,telematics application requirements<ly>
+r16<js>,detailed development*,industrial iot architecture<js>
+r16<js>,elaborated*,wired/wireless aggregation<js>
+r16<js>,elaborated*,non-public network<js>
+r16<js>,elaborated*,unlicensed band<js>
+r16<js>,main functions and technology direction*,industrial internet<ly>
+r16<js>,key features and technology directions*,vertical industry applications<ly>
+r16<js>,key features and technology directions*,network deployment and automation<ly>
+r16<js>,key features and technology directions*,embb device enhancement<ly>
+r17<js>,enhanced direction*,large connection low power massive machine class communication
+r17<js>,support*,iot application<ly>
+r17<js>,main functions and technology directions*,industrial internet<ly>
+r17<js>,main functions and technical directions*,vertical applications<ly>
+r17<js>,key features and technology directions*,network deployment and automation<ly>
+r17<js>,key features and technology directions*,embb device enhancement<ly>
+qualcomm<gs>,main business*,chip semiconductor<yw>
+qualcomm<gs>,main business*,technology licensing<yw>
+qualcomm inc<gs>,main business*,investment business<yw>
+qualcomm<gs>,specific products*,bluetooth<cp>
+qualcomm<gs>,specific products*,rf chips<cp>
+qualcomm<gs>,specific products*,processor<cp>
+qualcomm<gs>,specific products*,wi-fi<cp>
+qualcomm<gs>,specific product*,3rd generation 5g baseband chip x60<cp>
+mediatek<gs>,main business and products*,smart tv<cp>
+mediatek<gs>,main business and products*,voice assistant devices (vad)<cp>
+mediatek<gs>,main business and products*,android tablet<cp>
+mediatek<gs>,main business and products*,feature phone<cp>
+mediatek<gs>,main business and products*,optical and blu-ray dvd players<cp>
+samsung<gs>,main business field*,electronics<ly>
+samsung<gs>,main business field*,finance<ly>
+samsung<gs>,main business field*,machinery<ly>
+samsung<gs>,main business field*,chemical<ly>
+samsung<gs>,specific products*,cell phones<cp>
+samsung<gs>,specific products*,home appliance av<cp>
+samsung<gs>,specific products*,chip semiconductor<cp>
+samsung<gs>,specific product*,exynos 1080 5nm chip<cp>
+td tech wireless solutions for industry<cp>,application areas*,intelligent transportation<ly>
+td tech's wireless solutions for industry<cp>,application areas*,airports<ly>
+td tech's wireless solutions for industry<cp>,application areas*,ports<ly>
+td tech's wireless solutions for industry<cp>,application areas*,smart grid<ly>
+td tech wireless solutions for industry<cp>,application areas*,safe city<ly>
+module company,supply*,5g module
+jinyi technology<gs>,provider*,intelligent transportation
+jinyitek<gs>,provider*,iot core equipment
+jinyi technology<gs>,provider*,solutions
+jinyi technology<gs>,main business*,around the car
+jinyi technology<gs>,the main business*,provides end-to-end solutions<yw>
+qianfang technology<gs>,provider*,industry digital solutions<yw>
+qianfang technology<gs>,provider*,big data service<yw>
+qianfang technology<gs>,main business*,intelligent transportation industry<yw>
+thousand seek location<gs>,based on*,beidou satellite system (compatible with gps
+thousands of location<gs>,relying on*,ground-based augmentation station
+thousands of location<gs>,relying on*,star-based augmentation system
+thousands of location<gs>,relying on*,positioning algorithm
+location search<gs>,provide*,accurate location and extension service<yw>
+baidu intelligent vehicle division,main business*,l3 autonomous driving software services<yw>
+baidu smart car division,main business*,car networking solutions<yw>
+spiritual companion technology<gs>,focus on*,human-computer interaction technology<js>
+spiritual companion technology<gs>,focus on*,artificial intelligence software and hardware product development<yw>
+spiritual companion technology<gs>,products*,ar glasses<cp>
+spiritual companion technology<gs>,products*,smart speaker<cp>
+spiritual companion technology<gs>,core technology*,speech recognition<js>
+spiritual companion technology<gs>,core technology*,natural language processing<js>
+spiritual companion technology<gs>,core technology*,image recognition<js>
+spiritual companion technology<gs>,core technology*,optical display<js>
+spiritual companion technology<gs>,typical products*,rokidglass2<cp>
+microsoft<gs>,main business*,computer software services<yw>
+sanjihub<gs>,main business field*,film and tv<ly>
+sanjiu entertainment<gs>,main business field*,music<ly>
+sanchi entertainment<gs>,main business field*,talent agency<ly>
+sanjiu entertainment<gs>,main business field*,animation<ly>
+sanji mutual entertainment<gs>,main business field*,pan-cultural entertainment media<ly>
+sanjihub<gs>,main business field*,vr/ar<ly>
+sanjihub<gs>,main business field*,culture and health<ly>
+sanji mutual entertainment<gs>,main business field*,social and other cultural and entertainment fields<ly>
+perfect world<gs>,main business*,perfect world pictures<yw>
+perfect world<gs>,main business*,perfect world games<yw>
+perfect world<gs>,main business*,perfect world gaming<yw>
+digital kingdom<gs>,main business*,culture and entertainment industry<yw>
+digital kingdom<gs>,main business*,digital visual effects<yw>
+digital kingdom<gs>,main business*,co-production of films<yw>
+digital kingdom<gs>,main business*,property investment and development<yw>
+digital kingdom<gs>,main business*,trading<yw>
+valve<gs>,representative works*,half life<cp>
+valve<gs>,representative works*,counter-strike<cp>
+valve<gs>,representative works*,road to survival<cp>
+valve<gs>,representative works*,tower of swords 2<cp>
+valve<gs>,representative works*,legion fortress<cp>
+valve<gs>,launches*,vr device
+smart factory solution provider,provide*,industrial internet solution
+henton optronics<gs>,offer*,new generation green light bar<cp>
+henton optronics<gs>,provide*,fiber optic<cp>
+hengtong optoelectronics<gs>,provide*,full series of optical fiber cable<cp>
+henton optronics<gs>,provide*,optical network products<cp>
+henton optronics<gs>,provide*,edge data center<cp>
+henton optronics<gs>,supply*,optical components<cp>
+henton optronics<gs>,provide*,fiber optic sensing technology<cp>
+aisino cloud network<gs>,construct*,national industrial internet technology system
+aisino cloud<gs>,construct*,standard system
+aisino cloud<gs>,construct*,industry system
+intelligent cloud science<gs>,jointly funded*,shenyang machine tool<gs>
+intelligent cloud science<gs>,jointly funded*,digital china<gs>
+intelligent cloud science<gs>,jointly funded*,everbright financial holdings<gs>
+intelligent cloud science<gs>,focus field*,machining field<ly>
+intelligent cloud science<gs>,provide services*,equip the whole life cycle<yw>
+intelligent cloud science<gs>,provide services*,share equipment<yw>
+intelligent cloud science<gs>,provide service*,industrial app<yw>
+intelligent cloud science<gs>,provide services*,supply chain finance<yw>
+intelligent cloud science<gs>,provide service*,capacity trading<yw>
+wenjing information<gs>,main business*,information construction in the field of intelligent logistics<yw>
+wenjing information<gs>,main business*,one-stop intelligent logistics information solution<yw>
+wenjing information<gs>,software product series*,multimodal transportation
+wenjing information<gs>,software product series*,smart port
+wenjing information<gs>,software product series*,smart land port
+wenjing information<gs>,typical case*,smart port solution
+wenjing information<gs>,typical case*,5g+harbor machine remote control solution
+wenjing information<gs>,typical case*,5g+smart goods management solution
+zhenhua heavy industry<gs>,main business*,large container machinery for ports<yw>
+zhenhua heavy industry<gs>,main business*,bulk cargo handling machinery for ore and coal<yw>
+zhenhua heavy industry<gs>,main business*,ocean heavy industry<yw>
+zhenhua heavy industry<gs>,main business*,marine transportation and installation<yw>
+zhenhua heavy industry<gs>,main business*,system integration and general engineering contracting<yw>
+huaning electronics<gs>,main business*,underground coal mine communication<yw>
+huaning electronics<gs>,main business*,underground coal mine protection<yw>
+huaning electronics<gs>,main business*,coal mine underground control<yw>
+huaning electronics<gs>,main business*,hydraulic support electro-hydraulic control system<cp>
+huaning electronics<gs>,main business*,high and low voltage explosion-proof electrical products<cp>
+huaning electronics<gs>,main business*,downhole inspection robot<cp>
+huaning electronics<gs>,products all over*,mining group
+huaning electronics<gs>,products all over*,mine
+huaning electronics<gs>,typical solution*,inspection robot<cp>
+tapsmart<gs>,main business*,research on unmanned driving technology for mining vehicles<yw>
+tapsmart<gs>,main business*,unmanned product development for mining vehicles<yw>
+tadge smart<gs>,main business*,unmanned mine total engineering solution<yw>
+tadge smart<gs>,main business*,vehicle-ground-cloud collaborative intelligent mine unmanned transportation system<yw>
+tadge smart<gs>,signed*,driverless technology project agreement
+tadge smart<gs>,typical solution*,total solution for unmanned transportation in open pit mine
+tapsmart<gs>,typical solution*,mining truck unmanned
+one-stop smart iot service and solution<yw>,service target*,city
+one-stop smart iot services and solutions<yw>,service targets*,enterprises
+one-stop smart iot services and solutions<yw>,service targets*,home
+global intelligent manufacturing base,located in*,tongxiang
+mobile robotics<yw>,technology*,depth vision lx-mrdvs<js>
+integrated integrated logistics service system,integrated supply chain solutions*,procurement
+integrated integrated logistics service system,integrated supply chain solutions*,production
+integrated integrated logistics service system,integrated supply chain solutions*,distribution
+integrated integrated logistics service system,integrated supply chain solutions*,sales
+integrated integrated logistics service system,integrated supply chain solutions*,after-sales service
+jiangsu province 5g industry alliance,chairman of the alliance*,jiangsu mobile<gs>
+jiangsu province 5g industry alliance,alliance unit*,southeast university
+jiangsu province 5g industry alliance,alliance unit*,nanjing university of posts and telecommunications
+jiangsu province 5g industry alliance,alliance unit*,ericsson<gs>
+jiangsu province 5g industry alliance,alliance unit*,huawei<gs>
+jiangsu province 5g industry alliance,alliance unit*,zte<gs>
+jiangsu province 5g industry alliance,alliance unit*,fiberhome<gs>
+jiangsu province 5g industry alliance,alliance unit*,fifteen institutes<gs>
+jiangsu province 5g industry alliance,alliance unit*,fourteen institutes<gs>
+jiangsu 5g industry alliance,alliance units*,and other 5g backbone enterprises
+chunxing precision industry<gs>,main business*,communication system equipment<cp>
+chunxing precision engineering<gs>,main business*,precision aluminum alloy structural parts for automobiles<cp>
+tatfook technology<gs>,provider*,rf devices<cp>
+dafu technology<gs>,provider*,mobile terminal devices<cp>
+dafu technology<gs>,provider*,base station filter<cp>
+wuhan fangu<gs>,main business*,filter series<cp>
+wuhan fangu<gs>,main business*,media materials<cp>
+wuhan fangu<gs>,main business*,millimeter wave radar series<cp>
+wuhan fangu<gs>,main business*,industry network platform series<cp>
+wuhan fangu<gs>,typical products*,afu products<cp>
+goer corporation<gs>,main business*,acousto-optical precision components and precision structural parts<yw>
+goer<gs>,main business*,intelligent machine<yw>
+goer corporation<gs>,main business*,r&d
+sanan optoelectronics<gs>,main business*,full color ultra high brightness led epitaxial wafer<cp>
+sanan optoelectronics<gs>,main business*,chip<cp>
+sanan optoelectronics<gs>,main business*,iii-v compound semiconductor materials<cp>
+sanan optoelectronics<gs>,main business*,microwave communication ic<cp>
+sanan optoelectronics<gs>,main business*,power devices<cp>
+sanan optoelectronics<gs>,main business*,optical communication components<cp>
+suzhou nec<gs>,specializing in*,wide band semiconductor gallium nitride electronic device technology<js>
+suzhou nensun<gs>,focus on*,industrialization
+suzhou nensun<gs>,main business*,rf microwave field<ly>
+suzhou nec<gs>,main business*,power electronics field<ly>
+suzhou nansen<gs>,the main business*,provides high efficiency semiconductor products and services<yw>
+jusheng micro<gs>,main business*,rf front-end chip field<cp>
+zosun micro<gs>,main business*,low power bluetooth microcontroller chip<cp>
+5g+mec enterprise network,cooperation object*,avic strength institute
+5g+mec enterprise network,based on*,5g+agv machine vision
+5g + mec enterprise network,to achieve*,injury automation inspection
+5g+mec enterprise network,realize*,intelligent identification
+5g+mec enterprise network,realize*,5g panoramic monitoring
+flylink platform<cp>,support*,mainstream mbb devices
+5g sub6 ghz module fm160<cp>,enabling*,iot scenario
+5g sub6 ghz module fm160<cp>,support*,nr ca
+5g sub6 ghz module fm160<cp>,4 network standards*,nr
+5g sub6 ghz module fm160<cp>,4 network standards*,lte-tdd
+5g sub6 ghz module fm160<cp>,4 network standards*,lte-fdd
+5g sub6 ghz module fm160<cp>,4 network standards*,wcdma 4
+5g sub6 ghz module fm160<cp>,with*,gnss positioning capability
+5g sub6 ghz module fm160<cp>,integrated multiple industry standard interfaces*,usim
+5g sub6 ghz module fm160<cp>,integrated multiple industry standard interfaces*,usb 3.1/3.0/2.0
+5g sub6 ghz module fm160<cp>,integrated multiple industry standard interfaces*,pcie 4.0
+5g sub6 ghz module fm160<cp>,integrated multiple industry standard interfaces*,i2s
+5g sub6 ghz module fm160<cp>,application area*,cpe<ly>
+5g sub6 ghz module fm160<cp>,application area*,stb<ly>
+5g sub6 ghz module fm160<cp>,applications*,industrial interconnect<ly>
+5g sub6 ghz module fm160<cp>,application areas*,telematics<ly>
+flycat 5g cpe fm10<cp>,support*,5g network plug-in mode
+flycat smartlink 5g cpe fm10<cp>,support*,fiber optic network cable mode
+feicat smart link 5g cpe fm10<cp>,support*,wifi6 network protocol
+flyingcat 5g cpe fm10<cp>,support*,tr069 network protocol
+fei-cat smart link 5g cpe fm10<cp>,application scenario*,temporary prevention and control point of epidemic<ly>
+flycat smart 5g cpe fm10<cp>,application scenario*,temporary site<ly>
+feicat smart 5g cpe fm10<cp>,application scenario*,live media<ly>
+flying cat 5g cpe fm10<cp>,industry users*,uav
+flycat smart 5g cpe fm10<cp>,industry user*,robot
+feicat smartlink 5g cpe fm10<cp>,industry user*,advertising machine
+fei-cat smart link 5g cpe fm10<cp>,industry users*,environmental monitoring
+5g iot communication terminal<cp>,application area*,5g hotspot coverage<ly>
+5g iot communication terminal<cp>,application area*,smart factory<ly>
+5g iot communication terminal<cp>,application areas*,smart medical<ly>
+5g iot communication terminal<cp>,application area*,unmanned inspection<ly>
+industrial internet-based intelligent factory data platform construction solution,relying on technology*,edge computing technology<js>
+industrial internet-based smart factory data platform construction solution,relying on technology*,5g high-speed
+industrial internet-based intelligent factory data platform construction solutions,relying on technology*,big data platform technology<js>
+industrial internet-based intelligent factory data platform construction solutions,including*,data collection terminals
+industrial internet-based intelligent factory data platform construction program,including*,data platform
+p40 pro<cp>,powered by*,kirin 990 5g chip<cp>
+pan-intelligent terminal chip solution<yw>,involving*,smart home<ly>
+pan-intelligent terminal chip solutions<yw>,involving*,smart city<ly>
+pan-intelligent terminal chip solutions<yw>,involving*,intelligent travel<ly>
+5g smart car terminal<cp>,provide*,5g smart car solution
+5g intelligent vehicle-mounted terminal<cp>,service object*,police vehicle (including police iron rider)
+5g intelligent vehicle-mounted terminal<cp>,service object*,bus vehicle
+5g intelligent vehicle-mounted terminal<cp>,service object*,social operation vehicle
+5g vehicle safety monitoring system<cp>,component*,5g vehicle integrated machine
+5g driving safety monitoring system<cp>,component*,graphic recognition system (adas
+5g driving safety monitoring system<cp>,component*,blind spot monitoring system (bsd)
+5g traffic safety monitoring system<cp>,component*,driver and passenger body temperature monitoring system
+5g driving safety monitoring system<cp>,component*,ai road condition recognition system
+5g traffic safety monitoring system<cp>,component*,supervision and command platform center
+tencent cloud<cp>,offer services*,telematics cloud<yw>
+tencent cloud<cp>,offer services*,autonomous driving cloud<yw>
+tencent cloud<cp>,offer services*,big data<yw>
+tencent cloud<cp>,offer services*,smart travel<yw>
+industry standards,fields covered*,aerospace<ly>
+industry standards,related fields*,information technology<ly>
+industry standards,related fields*,electric power<ly>
+industry standard,field of application*,consumer electronics<ly>
+industry standards,related fields*,and other fields
+professional and customized consulting services<yw>,service recipients*,government
+professional and customized consulting services<yw>,service targets*,enterprises
+professional customized consulting services<yw>,service recipients*,investment funds
+professional customized consulting services<yw>,service targets*,industrial parks
+professional and customized consulting services<yw>,including*,industry research
+professional customized consulting services<yw>,including*,market research
+professional and customized consulting services<yw>,including*,foreword topics
+professional and customized consulting services<yw>,including*,index research
+professional customized consulting services<yw>,including*,investment research
+professional and customized consulting services<yw>,including*,due diligence services
+professional and customized consulting services<yw>,including*,strategy consulting
+lampsite<cp>,applicable fields*,large-scale venues<ly>
+lampsite<cp>,applicable fields*,large office buildings<ly>
+lampsite<cp>,field of application*,transportation hub<ly>
+lampsite<cp>,applicable field*,large indoor coverage scenario<ly>
+lampsite<cp>,field of application*,semi-open stadium scene<ly>
+imicon base station pump energy-saving series unit<cp>,application scenario*,base station<ly>
+e-mikon base station pump energy-saving series units<cp>,application scenario*,small data center<ly>
+e-mikon base station pump energy-saving series units<cp>,application scenario*,4g/5g server room<ly>
+e-mikon base station pump energy saving series units<cp>,cooling mode*,compressor cooling
+e-mikon base station pump energy-saving series units<cp>,cooling mode*,hybrid cooling
+e-mikan base station pump energy-saving series units<cp>,cooling mode*,natural cooling source cooling
+5g iot private network solution<cp>,convergence*,5g industry private network
+5g iot private network solution<cp>,convergence*,iot
+5g iot private network solution<cp>,component unit*,5g core network
+5g iot private network solution<cp>,component unit*,oasis iot platform
+5g iot private network solution<cp>,component unit*,digital room division 5g small station
+5g iot private network solution<cp>,component unit*,iot extension unit
+25g sfp28<cp>,including*,commercial temperature series
+25g sfp28<cp>,including*,industrial temperature series
+vertical industry applications<ly>,covers*,cover carrier aggregation with large bandwidth enhancement<ly>
+vertical industry applications<ly>,covers*,enhance multi-antenna technology<ly>
+vertical industry applications<ly>,covering*,location-based applications<ly>
+vertical industry applications<ly>,covering*,5g telematics<ly>
+vertical industry applications<ly>,covering*,low latency and high reliability services<ly>
+vertical industry applications<ly>,covering*,slicing security<ly>
+vertical industry applications<ly>,covering*,5g cellular iot security<ly>
+vertical industry applications<ly>,covers*,urllc security<ly>
+vertical industry applications<ly>,covers*,vehicle communication v2x<ly>
+large connection low-power massive machine-like communication,general-purpose technology enhancement*,multi-antenna technology enhancement<js>
+large connection and low-power massive machine-like communication,general-purpose technology enhancement*,high-precision positioning<js>
+large connection low-power massive machine-like communication,general-purpose technology enhancement*,coverage enhancement<js>
+large-connectivity,low-power*,massive machine-like communications
+large connection low-power massive machine-like communication,general-purpose technology enhancement*,small packet transmission<js>
+large-connected,low-power*,massive machine-like communications
+large connection and low-power massive machine-like communication,general-purpose technology enhancement*,terminal energy saving<js>
+large connection low-power massive machine-like communication,generic technology enhancement*,dual link enhancement<js>
+large connection low-power massive machine-like communication,general-purpose technology enhancement*,minimal road testing<js>
+large connection low-power massive machine-like communication,universal technology enhancement*,multi-card operation<js>
+large-connectivity,low-power*,massive machine-like communication
+large connection low-power massive machine-like communication,enhanced technology*,high reliability and low latency iot communication<js>
+large connection low-power massive machine-like communication,enhanced technology*,terminal direct connection communication enhancement<js>
+large connection low-power massive machine-like communication,enhanced technology*,power consumption wide area iot enhancement<js>
+large-connected low-power massive machine-like communication,enhanced technology*,network slicing enhancement<js>
+large connection low-power massive machine-like communication,enhanced technology*,network automation enhancement<js>
+large connection low-power massive machine-like communication,enhanced technology*,non-public network<js>
+3rd generation 5g baseband chip x60<cp>,support*,sa<js>
+3rd generation 5g baseband chip x60<cp>,support*,nsa dual networking<js>
+3rd generation 5g baseband chip x60<cp>,support*,millimeter wave<js>
+3rd generation 5g baseband chip x60<cp>,support*,sub-6ghz (fdd/tdd)<js>
+3rd generation 5g baseband chip x60<cp>,support*,5d tdd<js>
+3rd generation 5g baseband chip x60<cp>,support*,fdd carrier aggregation<js>
+3rd generation 5g baseband chip x60<cp>,support*,dynamic spectrum sharing<js>
+network management,providing*,terminal + connection + platform end-to-end solutions
+xiaomi 11<cp>,powered by*,snapdragon 888 soc chip
+provide end-to-end solutions<yw>,around*,vehicle
+providing end-to-end solutions<yw>,around*,road
+provide end-to-end solutions<yw>,around*,city
+provide end-to-end solutions<yw>,around*,field
+provide end-to-end solutions<yw>,services to*,government
+provide end-to-end solutions<yw>,service recipients*,operating units
+provide end-to-end solutions<yw>,services for*,enterprises
+provide end-to-end solutions<yw>,service recipients*,end users
+intelligent transportation industry<yw>,related fields*,urban transportation<ly>
+intelligent transportation industry<yw>,related fields*,highway transportation<ly>
+intelligent transportation industry<yw>,related fields*,rail transportation<ly>
+rokidglass2<cp>,support*,face recognition
+rokidglass2<cp>,support*,object recognition
+rokidglass2<cp>,support*,multiplayer conferences
+rokidglass2<cp>,support*,first view live
+rokidglass2<cp>,application area*,security<ly>
+rokidglass2<cp>,application area*,industrial<ly>
+rokidglass2<cp>,relying on technology*,5g communication<js>
+rokidglass2<cp>,relying on technology*,artificial intelligence<js>
+rokidglass2<cp>,dependent technology*,augmented reality technology<js>
+rokidglass2<cp>,implement function*,online/offline face recognition
+one-stop intelligent logistics information solution<yw>,service targets*,port
+one-stop intelligent logistics information solution<yw>,service targets*,yard station
+one-stop intelligent logistics information solution<yw>,service targets*,national logistics hub
+total solution for unmanned transportation in open pit mines,including*,single truck driverless system for mining trucks
+total solution for unmanned transport in open pit mines,including*,auxiliary vehicle systems
+total solution for unmanned transport in open pit mines,including*,high precision positioning system
+total solution for unmanned transport in open pit mines,including*,roadside units
+total solution for unmanned transportation in open pit mines,including*,unmanned transportation management platform in open pit mines (cloud control platform)
+total solution for unmanned transportation in open pit mines,including*,remote-controlled driving
+total solution for unmanned transportation in open pit mines,including*,active collision avoidance system for mining vehicles

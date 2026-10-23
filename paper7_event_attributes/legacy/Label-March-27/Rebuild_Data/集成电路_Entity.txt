@@ -1,0 +1,987 @@
+hua hong group<gs>
+have researched new materials<gs>
+china gallium semiconductor<gs>
+semiconductor ic production
+design
+duntai electronics<gs>
+smartphones
+american cree<gs>
+jiangsu changjian technology<gs>
+miniature bulbs<ly>
+nanowin<gs>
+华为<gs>
+gpu ip
+cim<js>
+automotive electronics grade
+french soitec<gs>
+gpu industry chain
+guangli microelectronics<gs>
+gpu
+huawei electronics<gs>
+civilian gpu
+video display<ly>
+jinan optoelectronics<gs>
+hp<gs>
+east and west calculation
+ip cores
+xidi micro<gs>
+first generation semiconductor
+sta
+lightweighting
+power management ic<yw>
+amplifiers
+us ii-vi<gs>
+cr micro<gs>
+tsv
+hangzhou silan ic<gs>
+general-purpose gpus
+high-performance logic chips
+the first generation of semiconductors
+us soitec<gs>
+wlp
+nuvoton<gs>
+shenzhen basic semiconductor<gs>
+semisic<gs>
+changxin storage<gs>
+eprom<cp>
+system-on-chips
+winbond<gs>
+shanghai xinsheng<gs>
+umc umc<gs>
+solar cells<cp>
+shenzhen love semiconductor<gs>
+operational amplifiers<ly>
+suzhou goodtechium electronics<gs>
+first-generation semiconductors
+asus<gs>
+gas phase epitaxial furnaces
+zhongke xin<gs>
+emergence of downstream use cases
+etching machines
+cansemi<gs>
+xinpeng micro<gs>
+third-generation semiconductor
+yangjie technology<gs>
+kenmazai<gs>
+brand<gs>
+zhongxing microelectronics<gs>
+cypress<gs>
+japan sumitomo chemical<gs>
+high-level language descriptions<js>
+alus
+radiation detector<cp>
+atomic energy analysis<ly>
+jingzhan semiconductor<gs>
+arm<gs>
+industrial control<ly>
+asm international<gs>
+cae for computer aided engineering
+integrated circuits<cp>
+sic devices
+nsic<gs>
+toshiba<gs>
+manufacturing
+photoresist and supporting reagents
+analog ics
+us gt<gs>
+solar power<ly>
+dutch asml<gs>
+ningbo jinruihong<gs>
+unigroup guowei<gs>
+laser communication<ly>
+1st generation semiconductor
+shanghai huali microelectronics<gs>
+amd<gs>
+second generation semiconductor
+graphics display and control modules
+memory circuit
+technology<gs>
+film and tv special effects
+iot<ly>
+dinglong shares<gs>
+<gs>texas instruments
+beijing eswin<gs>
+lam research<gs>
+electronic switches<ly>
+smartphones<ly>
+new energy vehicles
+global energy interconnection research institute<gs>
+shanghai silicon industry<gs>
+goodix<gs>
+computing<ly>
+guohong zhongjing<gs>
+sic substrate
+autonomous driving<yw>
+chip design tools
+smart home appliances<ly>
+intelligent driving scenarios
+eda tools
+pc field<ly>
+dsp chip<cp>
+intel<gs>
+ceva<gs>
+gpu module
+pti<gs>
+personal computer gpu
+domestic diode
+3peak<gs>
+layout planning
+<gs>adno
+has developed new materials<gs>
+substrate materials
+industrial<ly>
+soc chip<cp>
+xpeedic<gs>
+second-generation semiconductors
+寒武纪<gs>
+highly integrated soc technology<js>
+rodel<gs>
+ip soft core
+macrojet awsc<gs>
+<gs>vanguard
+byd microelectronics<gs>
+leon micro<gs>
+nanda optoelectronics<gs>
+mobile<ly>
+fiber optic communication<ly>
+haiguang<gs>
+high performance
+beijing century sinar mas<gs>
+suzhou wafer square semiconductor technology<gs>
+amd m9<cp>
+jingrui co.
+hon hai<gs>precision
+nintendo switch
+china electronics 48 institute<gs>
+traditional packaging technology
+smec<gs>
+advanced packaging technology
+ibm<gs>
+japanese canon<gs>
+sic-sbd<cp>
+on semiconductor<gs>
+cpu
+japanese jsr<gs>
+gpus<cp>
+information processing intermediaries
+electronic design automation
+cpus<cp>
+power chains
+rich microelectronics<gs>
+the first new material<gs>
+empyrean<gs>
+large-capacity
+ram random access memory
+300mm/12 wafer foundry
+dupont<gs>
+aoi
+electroplating equipment
+synopsys<gs>
+sanhuan group<gs>
+integrated circuit products
+world-advanced<gs>
+zhejiang jinruihong<gs>
+shandong tianyue<gs>
+technology
+nxp<gs>
+logical synthesis
+fpgas<cp>
+other physical ips
+apple<gs>
+vpus<cp>
+huatian technology<gs>
+pc gpu
+ozone detection<ly>
+awinic<gs>
+mobileye<gs>
+core electronics<gs>
+german cemecon<gs>
+smartphone 5g rf chips
+electronic clocks<ly>
+sst<gs>
+<gs>microchips
+rectifier<cp>
+small and medium-sized customers are not well taken care of
+imagination<gs>
+mobile communication<ly>
+chongqing super silicon<gs>
+non-volatile memory<yw>
+qiying telun<gs>
+ic products and applications
+shenyang topjing<gs>
+qfp
+changfei<gs>
+gigadevice<gs>
+gluing and developing equipment
+ningbo hualong<gs>
+probing equipment
+testing
+omnivision technology<gs>
+taiwan hejing<gs>
+shenzhen qipai technology<gs>
+avic microelectronics<gs>
+jiangsu ruihong<gs>
+smart cockpits<ly>
+military field<ly>
+mitsubishi electric<gs>
+psmc<gs>
+china resources micro<gs>
+integrated chips
+bga
+bonding wire
+discrete gpu
+cloud flint<cp>
+sip
+general-purpose chips
+wafer works<gs>
+guangdong fenghuaxin electric<gs>
+globalfoundries
+keysight<gs>
+guangzhou haixin<gs>
+semiconductor ic packaging and testing
+独显gpu<yw>
+western digital<gs>
+domestic automotive grade transistor
+win<gs>
+npu ip
+ion degluing machines
+gpu芯片<cp>
+verisilicon<gs>
+eda tool manufacturers
+semiconductor materials<cp>
+cambrian technology<gs>
+consumer grade
+simulation verification
+cpu<yw>
+tower<gs>
+tyco tianrun<gs>
+broadcast<ly>
+shanghai microelectronics<gs>
+micro semiconductor equipment<gs>
+fab
+basic semiconductor<gs>
+same light crystal<gs>
+high data throughput
+hitachi high-tech<gs>
+microcontrollers
+chip core materials
+vpu ip
+plastic sealing machines
+lead frame
+logic circuits
+rib cutting molding machine
+dinglong technology<gs>
+miniaturization
+ip core
+power device<yw>
+silicon<gs>
+shanghai asmc<gs>
+taiwan<gs>umc
+leon microelectronics<gs>
+zhongke yihai micro<gs>
+powerchip<gs>
+automotive<ly>
+singapore government economic development board
+electric<gs>
+x-spatial<gs>
+and image training fields<ly>
+military gpu
+amec<gs>
+industrial
+us amat<gs>
+rectified<ly>
+wafer manufacturing equipment
+technical service products<cp>
+weier co.
+talent
+continuous analog signals
+sumitomo chemical<gs>
+enterprise gpu<yw>
+upstream: software and hardware materials and equipment
+hitachi international electric<gs>
+rf rf
+allwinner technology<gs>
+independent gpu
+cleaning equipment
+avionics system
+intelligent driving chips
+ansys<gs>
+high voltage and high frequency power management chip pmic
+loongson<gs>
+swiss platit<gs>
+ic products & applications
+optoelectronics<ly>
+in the field of personal computers<ly>
+zhongying technology<gs>
+system-on-chip
+cidm model
+unigroup<gs>
+cpus
+vertical integration
+jiangsu zhongpeng<gs>
+jianghua micro<gs>
+modular
+distributors
+internet of things
+dc transmission and distribution<ly>
+lithography machines
+yangtze river storage technology<gs>
+automobile manufacturers
+百度<gs>
+traders
+singapore united technology<gs>
+<gs>tsmc
+umc<gs>
+qingyi photoelectric<gs>
+eka<gs>
+thin film deposition equipment
+infineon<gs>
+first-generation semiconductor
+target material
+high-computing logic chips
+si
+dip
+china wafer square technology<gs>
+junzheng<gs>
+eeprom<cp>
+jcet<gs>
+mitsubishi chemical<gs>
+sic
+rohm semiconductor<gs>
+xinhai technology<gs>
+idm vendors
+chipbond<gs>
+german freiberg<gs>
+gaas
+smart logistics<ly>
+skyworks<gs>
+processor ip
+daifuku<gs>
+interface ip
+china resources shanghua technology<gs>
+granda<gs>
+eno electronics<gs>
+highly integrated
+stripping machine
+sic epitaxy
+substrate epitaxy preparation
+american dow corning<gs>
+etaresearch<gs>
+chongqing ultra-silicon<gs>
+digital chip
+laser marking machine
+wiring
+lion<gs>
+chengdu huawei<gs>
+evatec<gs>
+igbt power module<yw>
+radar<ly>
+us cree<gs>
+server gpu
+japan nikon<gs>
+military electronics field<ly>
+anji microelectronics<gs>
+cpu ip
+miner
+gpu chips
+memory circuits
+industrial control
+amlogic<gs>
+denglin technology<gs>
+embedded processors
+ceramic substrate
+sic power module
+anlu technology<gs>
+marketing
+uv detector<cp>
+fram<cp>
+cetc electronic equipment<gs>
+shanghai xinao<gs>
+beijing junzheng<gs>
+silicon wafer technology<gs>
+yangzhou yangjie electronic technology<gs>
+pop
+eastern high-tech<gs>
+chip core equipment
+anadigics<gs>
+kangqiang electronics<gs>
+tianke heda<gs>
+tpus<cp>
+north huachuang<gs>
+tsmc<gs>
+other digital ips
+xinhe technology<gs>
+core chip
+shenzhen founder microelectronics co.
+pulsic<gs>
+cadence<gs>
+adaptive mixed-signal analog front-end devices
+英特尔<gs>
+voice chips<cp>
+jilin hua microelectronics<gs>
+middle reaches:ic design & production
+japan hitachi<gs>
+band gap
+data center<yw>
+shengbang micro<gs>
+discrete digital signals
+fujibun<gs>
+communications<ly>
+united technology<gs>
+instrumentation<ly>
+nippon steel sumitomo metal<gs>
+emitronix<gs>
+mobile communications<ly>
+zhejiang jingsheng electromechanical<gs>
+malaysia unisem<gs>
+unigroup nanjing<gs>
+in the automotive sector<ly>
+german sicrystal<gs>
+okmetic<gs>
+japan fujimi<gs>
+force crystal<gs>
+computers
+fabless
+server gpus
+谷歌<gs>
+kioxia<gs>
+module factories
+power ics for power control
+dsp chips<cp>
+nansha wafer<gs>
+consumer electronics<ly>
+rda<gs>
+qualcomm<gs>
+sic-mosfet<cp>
+automotive electronics<ly>
+huawei hisilicon<gs>
+texas instruments<gs>
+ion implantation equipment
+cloud services
+tianjin central<gs>
+taiwan lijing technology<gs>
+robei<gs>
+american applied materials<gs>
+nand flash<cp>
+asic<cp>
+global foundries<gs>
+upstream: hardware and software materials and equipment
+system-level code
+utac<gs>
+chip materials and equipment manufacturing enterprises
+cts
+oems
+gpgpu<cp>
+cmp equipment
+henkel warwick<gs>
+first generation semiconductors
+shanghai beiling<gs>
+wall technology<gs>
+chipmos<gs>
+interfaces
+micron<gs>
+<gs>nxp
+sop
+northern microelectronics<gs>
+automatic control<ly>
+china electronics<gs>
+lithographic materials
+victronix<gs>
+magnetic field control<ly>
+ip solid-core
+sony<gs>
+joint testing<gs>
+oxidation furnaces
+dram<cp>
+laser tube<cp>
+zhonghuan co.
+wire bonding machines
+dicing machines
+crystal microelectronics<gs>
+cmp polishing material
+tegra processor chip<cp>
+product recommendation scenarios
+cryptocurrency
+nor flash
+microwave communication<ly>
+digital signals
+xi'an zhipolycrystalline<gs>
+powertech<gs>
+asics<cp>
+epitaxial wafer materials
+high power
+distribution
+games
+nexchip<gs>
+soar<gs>
+communication base stations<ly>
+chengdu nanguang<gs>
+tongfu microelectric<gs>
+tsmc taiwan<gs>
+measurement equipment
+hardware and software materials and equipment
+henkel<gs>
+silan micro<gs>
+analog circuit
+electronic special gas
+ai wei electronics<gs>
+bgi nine days<gs>
+bgi semiconductor<gs>
+vis<gs>
+ion implanters
+pga
+semiconductor equipment
+chip packaging materials
+power management<ly>
+saturated electron drift rate
+power management products<cp>
+taiwan pti technology<gs>
+innoscience<gs>
+global wafer<gs>
+spreadtrum<gs>
+jiangsu yuanjia<gs>
+hynix<gs>
+kunlun<cp>
+tianshui tianguang semiconductor<gs>
+the internet of everything
+nexperia<gs>
+optical quantum detection<ly>
+jingjiawei<gs>
+computer<ly>
+beijing dabo<gs>
+shanghai to pure<gs>
+enhanced cpus
+erom<cp>
+semiconductor periodic
+in the field of military electronics<ly>
+qorvo<gs>
+automotive mcus
+shenyang zhongke instrument<gs>
+cetc equipment<gs>
+connected cars
+bonding materials
+wuxi cr axa<gs>
+good-ark<gs>
+jingfeng mingyuan<gs>
+renesas<gs>
+critical breakdown field strength
+shin-etsu<gs>of japan
+unigroup chenrui<gs>
+graphics display and control products<cp>
+<gs>tower jazz
+microwave tubes<cp>
+mcm
+pti technology<gs>
+omnivision<gs>
+high-voltage devices<yw>
+gan epitaxy
+thyristors<cp>
+world's advanced vis<gs>
+crystal terminal electrical materials<gs>
+ningxia yinhe<gs>
+light-emitting diodes<cp>
+computer software
+dow chemical<gs>
+logic
+epitaxial wafer
+sensing control ic<yw>
+hua hong semiconductor<gs>
+third generation semiconductors
+ic manufacturing equipment
+ic design factories
+shanghai hejing<gs>
+us-taiwan semiconductor<gs>
+tongcheng new materials<gs>
+sicc<gs>
+zhuzhou crrc times electric<gs>
+clarion equipment<gs>
+jcdecaux chemical<gs>
+laser modulator<cp>
+<gs>infineon
+beijing jingyuntong<gs>
+high-speed high-precision adc<yw>
+silan<gs>
+digital circuits
+ulvac<gs>
+beijing kehua<gs>
+pran<gs>
+electronic information
+taiwan ase<gs>
+enhanced cpu
+gs>gs<zhuosheng micro
+screen<gs>
+semiconductor ic manufacturing
+wuxi hynix<gs>
+kyec<gs>
+unisoc zhanrui<gs>
+55 of the 13 institutes of cetc<gs>
+smart ad delivery
+ge
+gs><siltronic germany
+huahai chengke<gs>
+mobile phone/pc/game console manufacturers
+rtp equipment
+cabot<gs>
+packaging materials
+ase<gs>
+mediatek<gs>
+hangzhou silan integrated circuit<gs>
+nvidia<gs>
+wuhan xinxin<gs>
+low-power infrared light source<ly>
+korean ace<gs>
+consumer gpu<yw>
+packaging link
+jinhong gas<gs>
+century cotai<gs>
+welding machines
+unisoc<gs>
+light fab mode fablite
+thinning machines
+hinomoto<gs>
+graphic display and control products<cp>
+sic crystal rod
+generalized cad
+gpu penetration
+data converters<ly>
+electronic special gases
+u.s. kla-trencor<gs>
+lack of core
+primarius<gs>
+power ics
+gross margin
+communication<ly>
+semiconductor ic design
+formal verification
+japan katsugo<gs>
+<gs>samsung electronics
+alphawave<gs>
+sumitomo electric<gs>of japan
+dft
+chiplon<gs>
+midstream: ic design and production
+kyocera<gs>
+megachips<gs>
+south korea's nepes<gs>
+silicon technology<gs>
+suzhou ruihong<gs>
+panasonic electric<gs>
+amkor technology<gs>
+wanghong electronics<gs>
+stmicroelectronics<gs>
+ic设计
+<gs>on semiconductor
+brushing machines
+wafer foundry
+anji technology<gs>
+isoluminous crystals<gs>
+clocks
+parasitic parameter extraction
+rambus<gs>
+rohm<gs>
+plastic packaging machines
+to
+cirrus logic<gs>
+semiconductor equipment<cp>
+sic-igbt<cp>
+research new materials<gs>
+analog-to-digital converters
+jingce<gs>
+testing machines
+diodes
+st<gs>
+us cvd<gs>
+power electronics<ly>
+datang telecom<gs>
+norstel<gs>
+signal chains
+pc penetration
+ultra-clean high-purity reagent
+analog devices<gs>
+tokyo electror<gs>
+zhuhai yueya<gs>
+tianjin zhonghuan<gs>
+high frequency
+american cabot<gs>
+packaging substrate
+system-level simulation<js>
+singapore tech<gs>
+communications
+阿里<gs>
+rom read-only memory
+downstream: ic products and applications
+software and hardware materials and equipment
+packaging
+enrip<gs>
+laser printer<ly>
+gpu m9 chip<cp>
+package substrate
+altera<gs>
+燧原<gs>
+microchips<gs>
+cetc<gs>
+ic manufacturing
+korean semes<gs>
+ankor<gs>
+ic manufacturing materials
+including optical<cp>
+muxi integrated circuit<gs>
+military special chips
+to pure technology<gs>
+<gs>smic
+gaoyun semiconductor<gs>
+microsoft<gs>
+lead<gs>
+qingdao xinen<gs>
+laser devices<cp>
+direct sales
+jm7200 chip<cp>
+sanan ic<gs>
+anji<gs>
+benno electronics<gs>
+naura<gs>
+relative permittivity
+cellix<gs>
+csp
+the era of artificial intelligence
+u.s. pvd<gs>
+canon<gs>
+huate gas<gs>
+shengbang microelectronics<gs>
+storage
+taiwan union<gs>
+film applicators
+crrc times electric<gs>
+front-end design (logic design).
+gan
+sasi<gs>
+shanghai jita semiconductor co.
+zno
+artificial intelligence
+mcu microcontroller unit<cp>
+eda
+idm
+gansu tianshui huatian<gs>
+japan shin-etsu<gs>
+rectifier<ly>
+specification development
+sorting machines
+rohm rohm<gs>
+beijing north huachuang<gs>
+soligidm<gs>
+wafer manufacturing materials
+siemens<gs>
+tankeblue<gs>
+french semco<gs>
+futong micro<gs>
+core source micro<gs>
+back-end design (physical design).
+cmp polishing materials
+mht<gs>
+memory chip<yw>
+physical design layout
+sumitomo bakelite<gs>
+photomask version
+china resources microelectronics<gs>
+ascend<cp>
+hitachi chemical<gs>
+epiworld<gs>
+signal lights<ly>
+allwinner<gs>
+first new material<gs>
+china electronics technology group<gs>
+wafer foundries
+flame detection<ly>
+google<gs>
+optical field<ly>
+ram ram
+zhengzhou hejing<gs>
+rf electronics<ly>
+yangtze river storage<gs>
+high-speed computers<ly>
+curing equipment
+cloud ai model
+universal technology gcs<gs>
+ic design
+mems sensor<yw>
+lg siltron<gs>
+hall elements<cp>
+taiwan nanmao technology<gs>
+gpu computing power
+inp
+thermal conductivity
+globalfoundries<gs>
+shenzhen jiejia weichuang<gs>
+co-construction and sharing
+custom chips<yw>
+infrared light-emitting tubes<cp>
+shanghai zhanxin electronics<gs>
+tv<ly>
+wafer mounters
+jsg<gs>
+changjian technology<gs>
+sram<cp>
+substrate epitaxial preparation
+power semiconductor devices<yw>
+military aircraft
+smic<gs>
+server field<ly>
+jingwei qili<gs>
+shenwei<gs>
+probe stations
+shanghai huahong hongli<gs>
+rockchip<gs>
+npus<cp>
+jiangsu nantong<gs>
+yangzhou yangjie electronics<gs>
+placement machines
+shanghai new anna<gs>
+chip packaging and testing equipment
+x-fab<gs>
+audio and video processing ic<yw>
+analytical instrument<ly>
+applied materials<gs>
+zhejiang tiantong jicheng<gs>
+hubei taiji semiconductor<gs>
+data centers
+unigroup chengdu<gs>
+ip
+power ic for automation control
+semiconductor periodicity
+muneda<gs>
+american teer<gs>
+fabless manufacturer
+philiva<gs>
+analog circuits
+us protoflex<gs>
+national technology<gs>
+computing
+new energy power generation
+<=150mm/6 foundry
+ming microelectronics<gs>
+xingsen technology<gs>
+ip hard cores
+polishing materials
+product development innovation
+tsmc tsmc<gs>
+hdl coding
+hisilicon<gs>
+integrated circuits
+outsourcing semiconductor product packaging and testing
+mpu microprocessor unit<cp>
+tongling sanjia<gs>
+mobile phone<ly>
+high frequency oscillator<ly>
+tianyu semiconductor<gs>
+<gs>scarstar
+funding
+power management chips pmic
+mcus required by various iot terminal devices
+timing
+techonline<gs>
+winsemi<gs>
+substrate wafer
+device design and manufacturing
+us dow corning<gs>
+gpu chips<cp>
+hantian into<gs>
+mask manufacturing
+soc chips<cp>
+hongchang electronics<gs>
+power integrated circuits and devices<yw>
+taiwan qibang technology<gs>
+missiles<ly>
+medical<ly>
+tesla<gs>
+thomas west<gs>
+taiwan jiajing<gs>
+jiangsu nantong fujitsu microelectronics<gs>
+high-voltage integrated circuit<yw>
+<ly>consumer electronics
+middle reaches:ic design & manufacturing
+digital ics
+yong si electronics<gs>
+lcc
+semiconductor materials
+fujitsu japan<gs>
+gpu chip design factory
+shenyang jingtuo<gs>
+200mm/8 wafer foundry
+rf
+sumitomo electric<gs>
+autonomous driving gpu
+taiwan jingyuan electronics<gs>
+in the automotive field<ly>
+anyon<gs>
+high-speed integrated circuits<cp>
+american ii-vi<gs>
+automotive field<ly>
+shengmei semiconductor<gs>
+permanent memory<ly>
+cmos image sensor<yw>
+third generation semiconductor
+silercy<gs>
+maxscend<gs>
+lixin micro<gs>
+industrial communication grade
+profit
+samsung<gs>korea
+automotive manufacturers
+lingjiu electronics<gs>
+muraas<gs>
+complexity of the sales process
+device automation<ly>
+samsung<gs>
+us axt<gs>
+silicon wafers
+ememory<gs>
+annealed donkeys
+architecture determination
+integrated gpu
+fudan microelectronics<gs>
+7nm芯片<cp>
+dsp digital signal processing<cp>
+maxim<gs>
+layout physical verification
+the emergence of downstream application terminals
+military applications<ly>
+3rd generation semiconductor
+integrated gpus
+tel<gs>
+tower jazz<gs>
+devices<gs>
+data converters
+network communications<ly>
+shennan circuit<gs>
+xiamen core gloss moisture<gs>
+vlsi chips
+csic<gs>
+downstream:ic products & applications
+2nd generation semiconductors
+vaportech<gs>
+jiangfeng electronics<gs>
+semiconductor cs manufacturing
+ecology
+broadcom<gs>
+third-generation semiconductors
+sei<gs>
+stable<gs>
+kyoyuan electronics<gs>
+shield gaming device
+universities
+xilinx<gs>
+kla+<gs>
+nanmao technology<gs>
+nikon<gs>
+pc<ly>
+dayszhixin<gs>
+us lam<gs>
+景嘉微<gs>
+foundry
+electric locomotive<ly>
+plastic sealing machine
+china ceramic electronics<gs>
+smart metering and soc<yw>
+mcu microcontroller units<cp>
+nanochip micro<gs>
+3rd generation semiconductors

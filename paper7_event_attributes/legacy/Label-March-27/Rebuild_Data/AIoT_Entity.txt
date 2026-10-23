@@ -1,0 +1,6169 @@
+information integration data platform<cp>
+identity
+governance service touchpoint construction<yw>
+speech recognition<yw>
+topping + building + application
+electric vehicle research and development<yw>
+operations support systems<yw>
+agricultural industry service group<ly>
+enterprise edge manager mano<cp>
+video migration to the cloud<yw>
+liansheng tak<gs>
+state grid information and communication industry group<gs>
+core shift communication<gs>
+netease easy data<gs>
+cellular communication modules
+tencent cloud iot explorer<cp>
+intelligent speech language technology<js>
+cloud and capital<>of jg
+voice perception<js>
+government affairs
+smart gas meter
+sensing<js>
+management measures
+hardware
+esp8089<cp>
+ai algorithm training
+portable smart payment terminals<cp>
+interface
+today's headlines<gs>
+refrigerator<cp>
+smart home<cp>
+cloud manufacturing platform (one cloud communication)<cp>
+data subscriptions<yw>
+ccid evaluation
+three platforms
+alios things<gs>
+power inspection<ly>
+rf chip<cp>
+function computing
+technology platform + knowledge platform
+subsystem ecology
+cloud service
+urban public services<ly>
+iot one-stop
+intelligent switch module<cp>
+consulting and solutions<yw>
+medical device<ly>
+industry bodies
+digital platform
+sunflower remote control<yw>
+dispatch console<cp>
+certificate authentication
+our easy<gs>
+hardware manufacturers
+energy efficiency<yw>
+energy & building technology<ly>
+minsheng bank<gs>
+the process is cumbersome
+multilingual management
+edge orchestrator meao<cp>
+protocol engine<cp>
+pakdd
+research and development of satellite and unmanned aerial systems and their components<yw>
+simplified ul experience
+device remote control<js>
+medical<ly>
+high-end equipment manufacturing<ly>
+cloud native<ly>
+rf<js>
+shanghai internet of things industry association<zz>
+sdk suites<cp>
+sensor network
+rf resource management
+and the system intelligently analyzes the results of the audit
+7816
+room-sharing energy consumption monitoring and analysis<ly>
+cmp management platform<cp>
+low-cost build application<yw>
+own experience and understanding
+business solutions
+netoptimization mercenaries<jg>
+computer engineering<ly>
+bank of beijing<gs>
+can be integrated into smart hardware
+t11 fresh supermarket
+smart hardware sales
+project docking<yw>
+link protocol<js>
+r&d and product services
+meige intelligent<gs>
+grow
+modern consulting services<yw>
+intelligent switch panel<cp>
+image recognition<<js>
+iov enterprise<ly>
+ai data analysis<cp>
+obi zhongguang<gs>
+sequencing rfid error proofing system<js>
+and intelligent transportation<ly>
+data intelligence
+intelligent services<yw>
+fourth paradigm<gs>
+special caller<gs>
+industrial internet
+data system<yw>
+data sharing
+unified architecture
+screen
+cloud-based deployment
+user-side data
+smart disaster prevention enterprises<ly>
+research report
+researched
+smartkit cloud service platform<cp>
+bacnet<js>
+retail division
+and the digital construction of smart parks
+assembly business<yw>
+smoke fire warning
+biometrics<js>
+windlink 3.0 ai vehicle system<cp>
+blockchain application framework boat (blockchain of ai things)
+novutensor chips<cp>
+edge cloud fusion
+the underlying system
+industrial vendor platforms<ly>
+localized equipment installation<yw>
+dynamic adaptive uhf rfid<js>
+fund operation
+intelligent voice interaction technology<js>
+content management
+guanghetong<gs>
+natural gas
+shared umbrella<yw>
+digitalization<ly>
+bse
+electrical control<ly>
+container management
+xinwei communication<gs>
+focus on industry
+software architecture
+seagate technology edge rx<cp>
+transceiver nodes<cp>
+cloud
+aqara smart door locks<cp>
+the connected<of consumer applications>
+biosensing products<cp>
+smart wearables<>
+multipod<js>
+model analysis<js>
+cs venture<gs>
+park community<ly>
+nio ec6<cp>
+sixiang technology<gs>
+fota upgrade<yw>
+intelligent hardware enterprise<ly>
+big data security analysis technology<js>
+alibaba group<gs>
+three product lines
+organizing the formulation of industrial standards
+management of parking spaces<yw>
+xinguodu pays for<gs>
+smart rearview mirror ticmirror<cp>
+network construction<yw>
+whole house intelligent solution<yw>
+smart energy internet source-network-load industrial chain
+open up
+own cloud platform
+scientific and technological innovation achievements
+the self-developed industry report<yw>
+smart lighting<cp>
+ford<gs>
+ai processors<cp>
+edge server
+intelligent buildings<ly>
+the communication vendor platform<ly>
+emergency decision system<cp>
+lte modules<cp>
+deep learning<js>
+cyber security enterprise<ly>
+ocr face sheet recognition<yw>
+compute resources
+permission management<yw>
+archive warehouse
+safety detection<ly>
+blockchain solutions<yw>
+iot failure prediction analysis technology<js>
+bestpass technology<gs>
+app sdk<yw>
+os driver<cp>
+entertainment<ly>
+yuanrong qixing<gs>
+ai worksite cloud<cp>
+netoptimize mercenary<jg>
+ai chip platform
+integrated service
+adas road assisted driving<yw>
+network transmission services<yw>
+pharmaceutical health<ly>
+jingdong xiaojingyu platform<cp>
+smart parking<ly>
+cloud-cloud interconnection<yw>
+commercial machinery<yw>
+video<yw>
+digital operation services<yw>
+big data ai<js>
+providing asset management<yw>
+temperature sensors<cp>
+device control<yw>
+hvac comfort
+ethernet technology<js>
+cloud chip-sns521h<cp>
+general industrial equipment industry chain<ly>
+operation and maintenance<yw>
+sd-wan<cp>
+device iot<yw>
+etcp<gs>
+home appliances iot field<ly>
+an fire<ly>
+emergency<ly>
+grid management and supervision<yw>
+ccid consulting<jg>
+situational awareness<ly>
+self-optimizing
+industrial cloud<yw>
+next generation information technology<ly>
+bosch
+to b market<ly>
+communication metrology standard<yw>
+message middleware<js>
+whole home smart<ly>
+smart campuses<ly>
+production of communication products<yw>
+jd logistics<gs>
+international cooperation<yw>
+device access
+secure gateway mode
+security chip<ly>
+industrial planning
+big data processing<js>
+self-learning<js>
+passive access control card/visitor card/work card/luggage tag<ly>
+doorbell with doorbell receiver<cp>
+intelligent video cloud platform service capabilities
+an iot think tank<gs>
+ica 联盟<zz>
+stone technology<gs>
+platforms
+nokia
+the paas platform<ly>
+xj-wb60-a
+intelligent hardware<ly>
+dell
+data privatization
+evaluation of communication software<yw>
+guangxi port and shipping bureau<gs>
+automated guided vehicle (agv) professional cloud<cp>
+local bus groups
+intelligent
+digital valley<gs>
+energy companies
+advantech<gs>
+business development
+application platform<cp>
+huawei<gs>
+display layer
+rf antennas<ly>
+traffic<ly>
+jimi iot<gs>
+intelligent government
+devices connected to the system
+construction
+adlink edge iot<cp>
+crm<yw>
+operating system<ly>
+fujifilm iceberg<gs>
+wearables<ly>
+mobile operator
+panasonic<gs>
+human-computer interaction<js>
+edge computing gateway products
+thingworx industrial innovation platform
+kumi h-iip ziweiyuan platform<cp>
+cross-carrier traffic sharing<yw>
+technological advances
+equipment manufacturer
+the core service management of the cloud platform
+cut the web policy management<js>
+suggestions for resource allocation optimization
+silicon technologies<gs>
+megvii technology<gs>
+smart city<ly>
+the wojia shenyan intelligent terminal<cp>
+cvpr
+efficient distribution system<cp>
+intelligent supply chain<ly>
+iot ubiquitous connectivity technologies<js>
+trusted framework<cp>
+ai chips
+ggv capital
+microservices engine
+uric acid
+chongqing aipark
+intelligent av<cp>
+iaas infrastructure<cp>
+feature phones<ly>
+internet cloud platform architecture design<js>
+reliability
+automation<yw>
+care team
+building intercom<ly>
+goldwind technology<gs>
+ai security<js>
+vr<js>
+uwb<js>
+ande intelligent link<cp>
+six-stream professional cloud<cp>
+cloud computing<js>
+iot pixel<cp>
+driver assistance systems<cp>
+energy saving and environmental protection
+biointelligence<js>
+electric vehicle service<yw>
+sunsea intelligent<gs>
+exclusive services<yw>
+data topics
+one-stop full-link intelligent services<yw>
+settes<gs>
+home appliance iot field<ly>
+ai model training and learning<cp>
+precision structural parts<ly>
+device security access capability<yw>
+smart home network center xiaomi router<cp>
+smart contracts<yw>
+ai park os<cp>
+directional acyclic graph (dag)
+shared charging pile
+aws iot devic defender<cp>
+fire<ly>
+session management<yw>
+unmanned toll robot
+traditional means of transportation
+big data aggregation<yw>
+wearable sports bracelets<cp>
+data openness<js>
+face payment hardware<cp>
+abnormal alarm
+data islands
+xiaomi brand wearable products design and manufacture
+app on and off the shelves<yw>
+ecosystem partners
+with<cp>
+ecarcom technology<gs>
+disconnected and resumed
+model management<yw>
+lack or inconsistency of testing standards
+tier 1
+scientific and technological achievements transformation<yw>
+energy conservation and environmental protection<yw>
+tablet<ly>
+intelligent manufacturing products and solutions<yw>
+intelligent data analysis<js>
+the automotive business<yw>
+technical specification group (tsg)
+the iot paas platform<cp>
+v2x<js>
+vehicle train control equipment<cp>
+intelligent hardware development platform<cp>
+identifies algorithms<yw>
+new energy<ly>
+defense<ly>
+the platform layer
+smart disaster<ly>
+analog system<cp>
+ai chip huangshan no. 1<cp>
+360<gs>
+iot<ly>
+non-owner value-added services<yw>
+adas<ly>
+intelligent self-service terminal
+toshin peace<gs>
+agricultural internet of things
+osware.edge
+5g modules<cp>
+bank terminal
+voice assistant devices<ly>
+cipher machine
+communication technology development research<yw>
+license plate management<yw>
+shared resource community service platform<yw>
+storage resources
+networking
+visual analytics<js>
+smart mobility enterprise<ly>
+temperature and humidity sensor<cp>
+smartphones
+siemens
+guangxin micro<gs>
+the comprehensive services required to customize the dialog system<yw>
+digital government<ly>
+iot overall solution provider
+mobile intelligent medical equipment<cp>
+iot ubiquitous connection technology<js>
+harrow<gs>
+mbs<js>
+our aie<gs>
+strategic coordination of travel platforms
+intelligent diagnostics<yw>
+commercial lighting<cp>
+smartphone<cp>
+shanghai al fahidi<gs>
+event library
+the edge computing industry alliance<zz>
+smart grid<ly>
+hmi<yw>
+smart metering<ly>
+sensor cross-validation<yw>
+small craftsman production test platform<cp>
+covering vehicle access
+intelligent sensor manufacturers
+geomagnetic
+upward-opening
+automotive<ly>
+jinxin technology<gs>
+circuit design and process technology<js>
+mobile communication chips<ly>
+it research<ly>
+remote collaboration
+electric vehicle production<yw>
+kunpeng series server cpu processors<cp>
+electronic timer<yw>
+complex large systems
+the human-machine collaborative operating system<ly>
+xiaomi brand wearable products are designed and manufactured
+data storage scale
+government driven
+communication test services<yw>
+optical transport network<yw>
+solution<yw>
+ev battery life<js>
+new smart city overall solution<yw>
+internet of vehicles<cp>
+policy
+factory safety production<ly>
+water
+algorithm services<yw>
+internet<ly>
+rapid rollout of 5g
+intelligent electric architecture<js>
+four major end markets
+zero carbon healthy home<js>
+standardization in the field of information and communication technologies<yw>
+data
+capacity
+edge computing host<cp>
+gree finger vein intelligent door lock<cp>
+natural language processing<js>
+understand the connected car connection management platform<cp>
+lga
+device side
+own brand
+o&m deployment<yw>
+lora wireless communication<js>
+industry barriers
+placement professional cloud<cp>
+dependencies of associated links
+asiainfo
+lora iot smart watch system<cp>
+smart iot solutions<ly>
+5g applications<scenarios where>
+aws<gs>
+le
+and the digital station building<yw>
+supports a variety of network standards and communication protocol device access and management
+underwater robots<ly>
+ceramic antenna
+water heaters<cp>
+media operators
+all things cloud<gs>
+petrochemical<ly>
+serial port protocol<cp>
+consumer-driven
+decision engine<cp>
+edge terminal
+red willow forest intelligent park<yw>
+business management decisions
+integrated information service platform
+resource allocation<yw>
+infrastructure and environment<ly>
+hvac<ly>
+healthy drinking water service<yw>
+real-time computing<yw>
+shared bicycles<ly>
+paas+saas+aiot + portfolio of innovative services
+acoustics<ly>
+smart tvs<ly>
+snap-action/limit/light-touch and pressure switch<cp>
+data management<yw>
+municipal<ly>
+security technology application
+network evaluation optimization<yw>
+5g carrier aggregation
+mcusdk<yw>
+behavior analysis<js>
+wireless audio and video<ly>
+mini ktv singing<yw>
+large enterprises
+real-time monitoring of high-altitude parabolics
+infrastructure network construction costs
+workflow<yw>
+mmwave anechoic chamber test laboratory
+time series data computing<yw>
+based on ericsson's five largest test laboratories in the world
+dream realization gold<ly>
+alarm management<yw>
+service mode
+key energy consumption equipment management<yw>
+retail customers
+human-machine integration
+intelligent connected vehicle overall solution<cp>
+full lifecycle service capabilities
+sensor networks<ly>
+intelligent interactive devices<ly>
+acceleration
+password service
+saic shareway travel<gs>
+attendance clock-in<yw>
+household medical and health electronic product production<yw>
+equipment manufacturing<ly>
+occlusion
+historical data
+edge computing industry alliance<zz>
+smart disaster prevention<ly>
+fire protection professional cloud<cp>
+device tracking<yw>
+software system<yw>
+cloth control ball
+paas<cp>
+intelligent car operating system<cp>
+the shanghai institute of microsystems of the chinese academy of sciences<zz>
+data report engine<cp>
+applicable to scenarios
+user personalization needs
+data modeling analysis<js>
+personnel behavior monitoring and early warning<yw>
+sensor gateway production enterprises
+the intelligent disaster prevention and early warning platform<cp>
+people's life and property safety
+smart home manufacturer<ly>
+auto scaling
+and optimize scheduling<yw>independently
+smart home appliances + smart home + software services one-stop whole house intelligent solution<cp>
+information services and big data analysis
+homekit ecology
+metering
+driverless logistics vehicle<cp>
+fast commercial monetization channel<yw>
+shanghai world expo park
+industrial internet industry alliance<zz>
+yuanwanggu<gs>
+iot communication<js>
+streaming computing<yw>
+real network environment
+it market<ly>
+semiconductor ip licensing services<cp>
+application support center
+amazon alexa
+photo clustering<yw>
+pcb antenna
+biosensing technology<js>
+industry applications
+high availability network solution<cp>
+netsuperior mercenary<jg>
+wi-fi modems
+iot vendor platform<cp>
+digital li sheng platform<cp>
+ar/vr glasses<ly>
+all-in-one cloud platform<ly>
+terminated
+new world<gs>
+mobvoi<gs>
+smart security
+operation and management decisions
+full-chain intelligent services and control
+screen recording<yw>
+security operators
+gnss satellite positioning<js>
+active early warning<js>
+device management
+national secret algorithm technology<js>
+application software services<cp>
+ai algorithm scheduling
+2019 china beijing world horticultural expo informatization general contracting construction
+session hijacking
+研华 wise-paas<cp>
+active rfid production enterprises
+visual configuration engine<cp>
+park new retail<yw>
+autonomous driving solutions<cp>
+operation and maintenance services<yw>
+industrial process control<yw>
+access layer network solutions<yw>
+deployment methods
+ccid certification
+smart meter<cp>
+iot security<ly>
+education<ly>
+oriental guoxin cloudiip<cp>
+industrial park<ly>
+analyze information<yw>
+urban security<ly>
+all vertical subsystems
+the core technology of the future digital economy industry
+traffic
+plug and production
+user operated<yw>
+traditional community informatization transformation
+digital china construction wave
+it development<ly>
+the overall solution of intelligent vehicle connection<cp>
+intelligent child care robot<cp>
+various image video types
+intelligent networked vehicle overall solution<cp>
+integrate information<yw>
+competency service<yw>
+isoftstone· aiot<gs>
+management subsystem
+wireless communication<js>
+cutting-edge technologies related to the internet of things industry chain
+city administration<ly>
+baidu tiangong iot platform<cp>
+iot communication and content technology platform construction<cp>
+new industry applications
+industry organization
+industrial intelligence app configuration development platform<cp>
+wide area communication<js>
+applewatch<cp>
+access mode<yw>
+distributed control system (dcs)<cp>
+the functional needs of everyday life
+everbright group<gs>
+device grouping<yw>
+ai energy cloud<ly>
+information intelligent monitoring<yw>
+encrypted transmission<yw>
+xcmg information<gs>
+registration<yw>
+communication equipment
+multi-scenario data
+research and development of satellite detection systems and equipment<yw>
+pre-test for north american operators
+tof<js>
+windlink 3.0 artificial intelligence vehicle system<cp>
+application management<yw>
+open source development<yw>
+self-developed hardware
+municipal fire<ly>
+chinese and english content production and distribution system
+intralogistics digital intelligent operation<ly>
+the ica consortium<zz>
+operations management software mushroom circle icrm<cp>
+nanjing lingxing technology<gs>
+uniview technology<gs>
+uhf rf phased positioning<js>
+expansion stage enterprises
+smart socket<cp>
+guixin whole life service system<yw>
+device connection<yw>
+business scenario services<yw>
+home ecological interconnection<ly>
+the energy-saving management system cloud intelligent control of the power workshop (air compressor station)<cp>
+developed
+smart living space<yw>
+3d human-machine<js>
+star charging<gs>
+oriental guoxin<gs>
+someone internet of things<gs>
+materials
+smart city enterprises<ly>
+application interconnection platform (qiansofttong)<cp>
+public security<ly>
+ai fire cloud<ly>
+smart services<ly>
+softbank<gs>
+story machine<ly>
+machine learning inference<js>
+validation of communication software<yw>
+and<yw>with mainstream public cloud interconnection
+windows
+wisepass technology<gs>
+photovoltaic business<yw>
+human ear bionic principle
+advantech technology<gs>
+insurance finance<yw>
+sichuan deyang qinmian community
+intelligent hardware enterprises<ly>
+ai construction site cloud<cp>
+nor flash<cp>
+epidemic prevention and control<ly>
+hazardous substance detection
+lexin intelligent health cloud platform<cp>
+visual fault diagnosis
+secure and reliable connection communication capability<yw>
+talkingdata<gs>
+tencent cloud iecp<cp>
+vivo<gs>
+general technical services<yw>
+transformer composite management
+revenue monetization<yw>
+longping hi-tech<gs>
+baichuan ecological empowerment management platform<cp>
+resource linkage and collaboration
+customer needs
+airbnb<gs>
+augmented reality<ly>
+vending machines
+network security system construction planning<ly>
+retail services<ly>
+technology
+supply and demand docking
+informatization<js>
+aiot technology<js>
+cellular network<yw>
+expert management system<yw>
+and new industry applications
+complete equipment
+iot harbor edge management cloud platform
+internet of vehicles<ly>
+network operating costs
+device center<yw>
+1+4+n smart home ecology<cp>
+digital economy<ly>
+positioning systems<cp>
+peripheral services
+byd<gs>
+offline service components<cp>
+integrated intelligent<yw>
+device intelligence<yw>
+industry research<yw>
+smart parks<ly>
+sound intelligence technology<gs>
+digital currency payment<yw>
+storage<ly>
+lenovo understands communication<gs>
+training
+virtual pod<js>
+aerospace cloud network indics<cp>
+scenario-based safety monitoring and early warning platform<cp>
+equipment manufacturers
+safety productivity<ly>
+u+ cloud service platform<cp>
+5g deterministic network industry ecology
+charging and swapping equipment for new energy vehicles<ly>
+non-contact displacement measurement<ly>
+industry-renowned media platform<yw>
+business process configuration
+equipment users
+one-stop integrated service platform
+in-vehicle ai box intelligent gateway<cp>
+provide web
+testing and certification of aiot products and services
+ecostruxure power monitoring expert power management expert platform<cp>
+property work order management<yw>
+ad hoc protocol stack<cp>
+developers
+china radio and television<gs>
+o2o<ly>
+smart payments<ly>
+information technology consulting
+industry application
+toolkit<js>
+supos 3.0<cp>
+intelligent short-distance transportation
+hf81x series fixed mount barcode readers<cp>
+iot security business<yw>
+the<gs>of the golden city
+automotive manufacturing<ly>
+and the server i will send instructions to the device<yw>
+national energy<gs>
+smart city safety emergency service project<yw>
+urban internet of things<ly>
+snapdragon 888<cp>
+smart mobility<ly>
+semtech<gs>
+temperature
+difficult to see a doctor
+smart cat's eye<cp>
+top international universities and research institutions
+mijia handheld wireless vacuum cleaner products<cp>
+the integrated management platform of smart campus<cp>
+intelligent driving remote connection function<yw>
+pre-network access test
+nio es8<cp>
+shenzhen airport
+it industry<ly>
+huawei smart screen<cp>
+ltea modules<cp>
+core module<cp>
+knowledge graph<yw>
+system integration<ly>
+china academy of information and communications technology<zz>
+the ola alliance<zz>
+smart park<ly>
+xinke communication<gs>
+device layer
+top facilities agricultural intelligent monitoring system<cp>
+government public services<ly>
+sinocare<gs>
+business management decision-making
+wechat open door
+it<js>
+semiconductor<yw>
+the edge computing community<jg>
+berry dandelion<gs>
+smart mobility enterprises<ly>
+application development environment<cp>
+machine vision<cp>
+apple watch<cp>
+park patrol inspection<yw>
+congestion<yw>
+yeastar duo<gs>
+optical<ly>
+byd auto<gs>
+flexible qos control
+qingdao truide electric co.
+internet<js>
+ping an bank<gs>
+the city-level operating system tacos<cp>
+personnel certification
+saas enterprises<ly>
+one-stop solution<yw>
+simulate equipment<cp>
+a number of partners
+baidu intelligent cloud<gs>
+mobile industrial<cp>pcs
+leadsyntech<gs>
+automated deployment<yw>
+market analysis
+interactive revolution
+residential areas
+unified sdk<yw>
+certification<yw>
+data acquisition<js>
+software and digital technology services
+payment services<yw>
+terminal retail equipment<yw>
+digital infrastructure
+virtual campus
+haier u+<gs>
+communication product standard<yw>
+terminal security<js>
+scientific research institute
+wasu digital tv media group co.
+meta<gs>
+carbon neutrality<ly>
+semiconductor solutions<yw>
+fully open
+data center &<yw>networking
+cyber security<gs>
+distribution<yw>
+security gateway way
+dimensity 800 series<cp>
+new energy vehicles<cp>
+the resources of the general paas platform are deployed in the management<yw>
+iot/smart home<ly>
+education and training<ly>
+quantum communication<js>
+packaging and system integration solutions<yw>
+5g sub-6g<js>
+iot paas platforms<cp>
+cook intelligent<gs>
+intelligent dispatching<yw>
+storage
+tdengine<cp>
+good neighborly mutual aid service<yw>
+early and mid-term investment
+secondary development engine<cp>
+ai device application set<cp>
+wireless payment<ly>
+data analysis
+intelligent networked vehicle sector<ly>
+short transmission distance
+healthy development of industry
+rockwell<gs>
+programmable controller<cp>
+alios<cp>
+machinery and equipment<ly>
+handheld device<cp>
+metrology research<yw>
+and digitally operates smart parks
+peer-to-peer networking<js>
+magnetic switch<cp>
+charging pile management<ly>
+icbc<gs>
+motion control<yw>
+algorithm configuration<yw>
+the internet
+tacos-core<cp>
+campus web side
+consumer goods<ly>
+means of transport
+medical monitoring<ly>
+communication networks<yw>
+terminus city-level operating system tacos<cp>
+knowledge articles
+tablets
+process control
+access to all mainstream operating systems
+building automation and security electronics<yw>
+the intelligent hardware development platform<cp>
+telemedicine
+r&d investment
+mengs technologies<gs>
+nb-iot module
+industrial internet academy<cp>
+road and bridge
+smart property<yw>
+message center<yw>
+residential property management service providers
+time series data storage<yw>
+digital intelligence technology<js>
+dongbai group<gs>
+healthy and sustainable
+standardized iot platform<cp>
+wind farm investment and development<yw>
+refrigerator/freezer<cp>
+unique identity of the device
+a number of diabetes index tests
+impinj<gs>
+alibaba cloud services<cp>
+rechargeable lithium-ion battery cells<yw>
+o&m monitoring of all assets
+wp8
+whole house interconnection
+research and development of communication products<yw>
+information planning
+software and information service providers
+open industrial platform<ly>
+microservices
+sports health<ly>
+internet entertainment<ly>
+schneider<gs>
+medical device<cp>
+smart retail strategic transformation
+communication equipment suppliers
+agricultural production and sales<ly>
+restful apis<js>
+user travel safety
+smart cameras<cp>
+electronically controlled toys<yw>
+motion trajectory statistics<yw>
+qinchuan iot<gs>
+and install and debug equipment/networks is difficult
+smart wearable<cp>
+healthcare<ly>
+edge computing community<jg>
+smart work<ly>
+mechanical<ly>
+group
+5g + smart banking
+frontier field development
+virtual machines
+highway transportation<ly>
+plant-wide rfid flow tracking technology<js>
+efficient distribution of vehicles<cp>
+microprocessor<cp>
+inter-satellite link<js>
+complete industry chain
+smart people's livelihood<ly>
+space services<yw>
+functional needs of daily life
+the openness of the platform
+iot blockchain technology solutions<yw>
+security<yw>
+information collected<yw>
+cyber security<ly>
+xiaojiao iot<gs>
+interaction design<yw>
+community management<ly>
+secure iot sensors<cp>
+urban underground logistics distribution<yw>
+emotional care<yw>
+smart metering enterprise<ly>
+intelligent sensing<yw>
+intelligent coal mining rate as high as 97.7%.
+basic management of iot cloud platform
+image processing<ly>
+smart electricity consumption
+vision technology<yw>
+ecostruxure open automation platform<cp>
+agricultural equipment
+dynamic intelligent network slicing<js>
+reliability of data transmission
+virtual reality headsets<cp>
+supcon technology<gs>
+aiot edge-to-cloud<cp>
+industrial innovation requires
+iot sdk
+routers
+xj-w42-a
+residential property services<yw>
+lithium/thionyl chloride primary lithium battery<cp>
+thuangtong unida<gs>
+featured regional series of research and reports
+communication module<ly>
+internet of things industry
+electric vehicle charging pile operator<ly>
+multi-scenario system solution
+dmz<js>
+dynamic environmental monitoring<cp>
+internet vendor platforms<ly>
+map positioning<yw>
+agricultural high-tech enterprises
+ultra-wideband network
+rf wake-on-<js>
+is>by vivo mobile communications<gs
+huazi software<gs>
+robotics<ly>
+embedded control<ly>
+washing machine<cp>
+capability service<yw>
+face apd<cp>
+cmos image sensor<cp>
+market expansion
+lumi co-creation<gs>
+multi-level grassroots governance business
+ai campus cloud saas service<yw>
+iot hardware solutions<cp>
+haier smart home<gs>
+base station location technology<js>
+communication technology trends
+baidu cloud baetyl<cp>
+unisoc<gs>
+qijun iot<gs>
+domestic planting<ly>
+military industry<ly>
+ipc
+iot integrated solution<yw>
+industrial automation<yw>
+encoders<cp>
+fluorite cloud
+the academy of information and communications technology<gs>
+smart meter<ly>
+telit<gs>
+streaming<yw>
+lighting sector<ly>
+basic information management platform<cp>
+personal care and health
+ride-hailing<cp>
+shifter communication<gs>
+data analysis<yw>
+wireless charging module<cp>
+water management application system<yw>
+smart home products
+docking cloud data storage<yw>
+housekeeping<yw>
+liquidity
+genvict<gs>
+dui (dialogue user interface) open platform<cp>
+standards research<yw>
+uni unipower<cp>
+tmt industry<ly>
+apparel industry
+al community operations services<yw>
+central control technology<gs>
+network layer
+skyworth ultra hd series q40 oled tv<cp>
+fire safety<ly>
+gsm core network<js>
+country garden service<gs>
+real estate industry upgrading
+saic<gs>
+version management<yw>
+xiaomi router<cp>
+research and development
+oil
+zhongqiyun<gs>
+large system to sell electricity
+sanchuan wisdom<gs>
+information industry<ly>
+iot card management<yw>
+continuum services<yw>
+industrial planning consulting<yw>
+epla<cp>
+online decision-making<yw>
+proprietary cloud<cp>
+industry-wide ai capabilities<ly>
+custom sim card bodies and their unique lifecycles
+smart industrial enterprise<ly>
+power purchase and sales<yw>
+ga1399<js>
+device linkage rules
+medical information
+inverter<cp>
+edge intelligent products<cp>
+the device's secure network access capability<yw>
+natural language interaction solutions<yw>
+camera
+tsl<cp>
+giant engine<gs>
+u+ big data analysis platform<cp>
+china tower<gs>
+mobile communication<ly>
+fault diagnosis<ly>
+calling<yw>
+system maintenance is difficult
+electricity
+intelligent connected vehicle<cp>for consumer applications
+tasks
+speech synthesis<js>
+further development
+device authorization<yw>
+high-precision intelligent sensor<cp>
+modern medicine
+battery-free wireless switch<cp>
+urban public operation and maintenance services<yw>
+iot think tank<jg>
+optoelectronic devices<cp>
+ai inspection engine<cp>
+handset manufacturers
+algorithm simulation capability<js>
+application software
+hedong science and technology<gs>
+people's bank management<yw>
+event linkage<yw>
+emergency management
+community security
+intelligent services<ly>
+public service facility supervision<yw>
+weride<gs>
+fujian jinhua<gs>
+disaster warning terminal<cp>
+smart park integrated management platform<cp>
+shanghai lingang smart park<gs>
+iot industry-wide intelligent solution provider
+fire safety monitoring<yw>
+device data analysis<js>
+investment<ly>
+bms battery management industry chips<cp>
+new infrastructure
+ggv capital<jg>
+manual operation
+smart medical<>
+enterprise-level applications have many requirements
+production and consumption<yw>
+new retail solution<yw>
+software and hardware sales<yw>
+smart speakers<ly>
+air management<yw>
+quantum iot<gs>
+system integrator
+analog and digital hybrid design<js>
+internet of things security<ly>
+end-center-end radial centralized operation research industry structure
+blood glucose meter equipment<cp>
+smart bathroom<yw>
+xuji electric<gs>
+agricultural technology<ly>
+property operations<yw>
+megvii face++ artificial intelligence open platform<cp>
+the internet of things think tank<jg>
+wireless government network solutions<cp>
+integrated communications solutions<yw>
+broadband network
+chips<cp>
+heart sticker<cp>
+anyu road<gs>
+third generation mobile communication system
+singapore's smart nation internet of things development platform (decada)<cp>
+arm<gs>
+system integration software<cp>
+basic product access and technology empowerment<yw>
+wireless communication technology<js>
+robotics<cp>
+internet services<ly>
+security protection<ly>
+cloud and capital<jg>
+nvr
+china tongsan<gs>
+in-event analysis<yw>
+logistics resources all elements
+array antenna technology<js>
+ideal4's new technology strategy<js>
+foxconn industrial cloud<cp>
+mijia sweeping robot 1s<cp>
+gs><zhongruistron
+intelligent pos<cp>
+investment and financing docking<yw>
+and the operation service provider<ly>
+cryptography<js>
+automated operation<yw>
+new energy vehicle charging<yw>
+public service platform
+multi-iot fusion control technology<js>
+improve the efficiency and capabilities of application development<yw>
+moosi<gs>
+iot device wallet<cp>
+code clipping
+automotive & intelligent transportation technology<ly>
+time series data query<yw>
+quality of life of citizens
+single item sales
+electromagnetic fields and electromagnetic wave technology capabilities<js>
+user personalized needs
+support remote management of equipment
+infrastructure<yw>
+electric drivetrains<cp>
+lookout valley<gs>
+juneyao group<gs>
+access equipment
+industrial control
+industrial routers<cp>
+safety system<yw>
+electronic payment<yw>
+car charging network<cp>
+basic services<yw>
+edge intelligence platform<cp>
+smart internet of things early warning system<cp>
+smart solutions
+failback
+local deployment
+with a panoramic view<yw>
+upper-layer applications
+elderly care<yw>
+tailing micro<gs>
+rfid/nfc<js>
+recognition and interaction algorithms of objects and spaces<js>
+intelligent equipment/equipment key basic parts<cp>
+ai community cloud horizontal and vertical digital intelligence model<cp>
+technical training<yw>
+development and contracting of satellite-related projects<yw>
+zhiwu aiot industry research institute<zz>
+vehicle big data
+and the cluster function<yw>
+mobile communications<ly>
+landro supos<cp>
+all platforms
+torque transducers<cp>
+a complete set of smart home solutions<yw>
+intelligent logistics fleet transportation management system<cp>
+autonomous driving enterprises
+suzhou lomei<gs>
+fluorite cloud technology<js>
+comac<gs>
+quantify iot<gs>
+open intelligent alliance<zz>
+end products<cp>
+interests of all parties
+83 key points detection and tracking<yw>
+and device-edge-cloud collaboration
+the underlying platform of the autonomous controllable alliance blockchain<cp>
+smart parking solution provider<ly>
+manual work
+ecosystem
+smart devices
+the smart travel ecological platform<ly>
+pinpad<cp>
+the device security access capability<yw>
+heterogeneous intelligence<gs>
+smart wear
+mit media lab
+industry consulting<ly>
+device management<yw>
+onvif<js>
+integrated control system<cp>
+and configures network bindings<yw>
+connectivity standards
+its own offline business scene
+new mobility<ly>
+script development<yw>
+masses
+cloud pipe edge
+internet + healthcare
+comprehensive solutions<cp>
+bluetooth alliance<zz>
+in-vehicle communication hardware<cp>
+servo technology<js>
+cost
+hazardous chemicals transportation<ly>
+high-speed etc<ly>
+automation
+and large scale
+a card
+smart fire protection<ly>
+directed acyclic graphs (dags).
+merchants data<yw>
+pre-service<yw>
+government agencies
+sending cloud neuseer<cp>
+real-name system<yw>
+range hood<cp>
+large-scale machine learning algorithm library fregata<cp>
+shopping mall operation<ly>
+hanyun technology<gs>
+changjiang storage<gs>
+smart shoes<ly>
+integrated energy service<yw>
+xinhua three oasis iot platform<cp>
+meeting rooms<yw>
+sales of communication products<yw>
+supports massive billion-level key management platform<cp>
+financial sector<ly>
+data terminals
+data records are archived
+smart wearable<>
+distributed control system<cp>
+electric vehicle sales<yw>
+pipe network monitoring<yw>
+new product ideas
+early warning prevention and control<yw>
+huawei hisilicon<gs>
+vehicle mobile internet products<cp>
+on semiconductor<gs>
+wired
+remote sensing<js>
+sany group<gs>
+industrial intelligence
+smart home appliances<cp>
+simulate the device<cp>
+lorawan<js>
+password machine
+contains*<yw>
+data isolation storage<yw>
+china electronics information industry development research institute of the ministry of industry and information technology of the people's republic of china<zz>
+threat intelligence technology<js>
+with bull group<gs>
+smart high-speed<ly>
+diversified bus services<yw>
+data precipitation
+quantum computing<ly>
+security chip
+fully open to the outside world robotaxi operation service<yw>
+computing power and resource management
+personal protective equipment<cp>
+chenan technology<gs>
+telna<gs>
+millimeter wave<js>
+uf smart<cp>
+unified service middle office<cp>
+vehicle status visual perception system<cp>
+home<ly>
+intelligent logistics<ly>
+new smart city construction
+big data service<yw>
+real-time regulatory<js>
+connected cars<ly>
+iiot<ly>
+smart wearables<cp>
+aerospace<ly>
+end-to-end iot solutions<yw>
+sunac services<gs>
+industrial services
+research
+smart city
+whole house intelligence
+supercomputing platform and image<js>
+connectivity technologies<yw>
+businesses in the mobility ecosystem
+investment promotion
+one-stop full-link intelligent service<yw>
+industrial knowledge map (h-ikg wenchangxing)<cp>
+high temperature resistance
+indics<cp>
+dcp<gs>
+mobile display<yw>
+the artificial intelligence (ai) market<ly>
+nb-iot chips<cp>
+the internet of vehicles<>
+the edge computing industry alliance<zz>promotes the cooperation of industrial resources of all parties in government
+identity authentication<yw>
+orange cat card<cp>
+china institute of electronic product reliability and environmental testing<jg>
+deep learning framework tianyuan<cp>
+subsystem
+a large number of traditional rfid enterprises<gs>
+terminal
+syncom<gs>
+zx<gs>
+sensor equipment<cp>
+software and information services<ly>
+vehicle/vehicle networking<ly>
+collaborative control<yw>
+tws headphones<ly>
+internet of things think tank
+position/speed/pressure/temperature/humidity/current and airflow sensors<cp>
+data analysis and intelligent service platform<cp>
+resource requirements for future supply chains
+intelligent analysis capabilities
+china radio and television network co.
+smart coal<ly>
+computer integrated systems<cp>
+intelligent entrance
+cloud computing<yw>
+hellobike<yw>
+safe city<ly>
+megvii brain++<cp>
+book division
+intelligent equipment<ly>
+cash register system
+communications control
+smart industry<ly>
+one-stop iot solution<yw>
+communication testing services
+iwalker<gs>
+reader<cp>
+own home
+nuclear power master control system<cp>
+chemical
+cutting-edge field developments
+new generation information technology
+ecostruxure? automation expert
+smart pos devices<cp>
+sensing devices
+hydropower pipeline<ly>
+android
+the underlying algorithm
+lora<js>
+sorting
+home medical and health electronic product research and development<yw>
+investment in the construction of regional power grid<yw>
+sunmi technology<gs>
+fluorite cloud<gs>
+humanoid detection<yw>
+privacy computing<js>
+data center
+catering management<ly>
+bangbang safety<gs>
+refined management<yw>
+smart government affairs<ly>
+algorithm management<yw>
+automation rules
+huilian unlimited<gs>
+anti-magnetic
+smart water meter<yw>
+mold professional cloud<cp>
+motor<cp>
+wireless and sensing products<yw>
+solution
+ai engine<cp>
+ssds<cp>
+utilities
+audible signal processing<js>
+industrial automation control products
+saas<yw>
+intelligent management of the whole process of offline operations
+nb-iot wireless communication module series<cp>
+multi-role permission management<yw>
+4g lte<js>
+application management<ly>
+end-to-end upgrade
+applicable scenarios
+aiot industry research institute<jg>
+youcheng technology<gs>
+and the artificial intelligence (ai) market<ly>
+wiselink unlimited<gs>
+talent exchange<yw>
+>by ali<gs
+technology gap
+enterprise-level application has multiple requirements
+signal processing technology capability<js>
+second and third layer fast roaming
+monitoring alarms<yw>
+routers<ly>
+tos data<gs>
+opple lighting<gs>
+multimedia communication equipment and cables
+verticals
+community intelligence algorithm development<yw>
+new business model innovation technology team
+deep iot<zz>
+hubble<jg>technologies
+frontier technology<ly>
+in-vehicle<ly>
+cloud vendors
+product launches<yw>
+wireless lan<ly>
+smart energy enterprises<ly>
+the implantation of video modules
+government<ly>
+lw
+resconda<gs>
+the autonomous controllable alliance blockchain underlying platform<cp>
+fusion analysis
+fresh<ly>
+little craftsman cloud
+and data runs through debugging
+enterprise iot blockchain technology transformation
+t3 travel<gs>
+based on the penetrating performance of traditional lpwans
+digital transformation business<yw>
+jd<gs>
+sinco communication<gs>
+the iot vendor platform<ly>
+multimodal transport network
+device integrators and hardware manufacturers transformation and upgrading<yw>
+underlying connection standard<cp>
+data flow to<yw>
+resource utilization
+research and development of communication products
+industrial wireless<ly>
+precise investment promotion
+cn<cp>
+energy saving and environmental protection<yw>
+smart agriculture comprehensive solution service provider
+waterproof
+go out and ask<gs>
+complementarity
+china mobile internet of things alliance<zz>
+iot cloud access service<yw>
+stone self-cleaning sweeping robot<cp>
+large shopping malls
+iot platform
+luoshu city integrated operation management platform<cp>
+dimensity 700 series<cp>
+smart jewelry/pendants<ly>
+lenovo understands the communication
+operations
+equipment access and management center
+service line installation and maintenance service capability support<yw>
+didi woya<gs>
+connectors<cp>
+system solutions<yw>
+smart agriculture special committee
+transportation<ly>
+bluetooth passive internet of things<js>
+time series data analysis<yw>
+smart property<ly>
+jingdong<gs>
+uniview<gs>
+brands
+smart home<ly>
+shenzhen internet of things association<zz>
+foxconn<gs>
+using
+mobileke communication<gs>
+vertical technology<gs>
+diagnosis accuracy
+subsystems
+and improve the effectiveness of urban management
+deepeye200 pcie fpga<cp>
+industry intelligence<yw>
+fluorite interconnect<cp>
+xiaomi
+platform + supplier collaboration<ly>
+media<ly>
+iot technology and service providers<ly>
+property services<yw>
+portal video chat devices<cp>
+asia
+cloud<jg>and capital
+front-mounted lidar<yw>
+transport service efficiency
+connection management<yw>
+number of computing centers
+algorithm service<yw>
+microsoft<gs>
+and the smart community<ly>
+360 secure iot cloud supports<cp>
+dms face recognition analysis<yw>
+gprs/gsm iot smart meter system<cp>
+swordless soc platform<cp>
+no.9 intelligent<gs>
+data analysis engine<cp>
+4g blood glucose ketone uric acid analyzer<cp>
+huawei cloud iot<cp>
+all-in-one analyzer<cp>
+smart logistics enterprises<ly>
+smart metering<cp>
+electric balance bike<cp>
+sensing data
+navigation integration<yw>
+end
+samsung<gs>
+edge computing ai and iot solutions<cp>
+broad market prospects
+system
+end equipment
+platform + channel collaboration<ly>
+safety operators
+wind power services<yw>
+internet of things (iot)
+digital operations services<yw>
+application direction
+smart medical chain retail<ly>
+zigbee<cp>
+industry system solutions<yw>
+platform layer (paas)
+enabled - active
+secure boot<js>
+shenzhen world exhibition and convention center intelligent general contracting construction
+ai community cloud<ly>
+energy management processors<cp>
+and the permission service<yw>
+operation logs<yw>
+user-side energy hosting<yw>
+manufacturing<ly>
+ai building scene service<yw>
+electronic payment acceptance terminal equipment software and hardware<cp>
+electric vehicle power output<js>
+application enablement<yw>
+the triple-play integration new energy internet<cp>
+the level of personalized service capabilities of the park
+edge computing<js>
+isoftstone information technology (group) co.
+fengchuang research institute
+one-stop travel platform<ly>
+terminal + connectivity + platform end-to-end solution<yw>
+algorithm layer
+huawei cloud industrial iot platform<cp>adopts the architecture of cloud
+tech
+tbl huaqing kesheng<gs>
+technical interpretation and algorithm implementation
+nxp<gs>
+business applications
+siemens mindsphere<cp>
+safety instrumented system (sis)<cp>
+peanut shell inner net penetration<yw>
+lipid uric acid products<cp>
+vendor management platform<yw>
+and intelligent traffic management<ly>
+smartband<cp>
+catering<ly>
+aws iot core<cp>
+the overall iot market
+i?s
+shenzhen innovation investment group co.
+ai applications run yw>
+selinux<js>
+enable-standby
+the sensing device
+speakers
+5g<ly>
+transport distribution<yw>
+cloud platform service capabilities
+the whole house intelligent system<yw>
+solution providers
+tacos-metro<cp>
+smart hvac panel<cp>
+urban planning and construction
+suning<gs>
+power<yw>
+iot wireless communication<yw>
+landmark industry
+communication<ly>
+3gpp<zz>
+intelligent parking management system<cp>
+lenovo understands communications
+smart iot devices<ly>
+environmental safety<ly>
+smart finance
+government affairs<ly>
+key
+4g/5g mobile communication products<ly>
+sharing economy
+d-work intelligent manufacturing system (d-work)<cp>
+and joint efforts<gs>
+stone intelligent sweeping robot<cp>
+fine fertilization<yw>
+format empowerment<yw>
+and a smart screen<cp>
+improve the efficiency and capabilities of application development
+and device collaboration<js>
+other ai capabilities
+sensor module<cp>
+digital transformation<yw>
+quantenergy<gs>
+surrounding conditions
+a smart iot solution provider
+opto-electromechanical<ly>
+realistic samples of smart scene solutions
+the cash register system
+carrier
+yishang town<gs>
+intelligent equipment and terminal<ly>
+tbl huaqing kesheng
+industrial motherboard<cp>
+iot security system
+trademark licensing<yw>
+stability of data transmission
+supports customized system solutions<cp>
+the new generation of information technology industry<ly>
+iot technology and service provider<ly>
+light management<yw>
+a number of diabetes index detection
+small household appliances<cp>
+pressure
+precision agriculture<yw>
+smart building<ly>
+ble<js>
+big payment finance
+intelligent logistics warehousing and food traceability
+data acquisition terminal<yw>
+connect and data at the center
+greenhouse planting management<yw>
+r&<yw>d assistance
+cat.1 chips<cp>
+supervision<yw>
+in-hospital and out-of-hospital integrated diabetes management solutions<cp>
+unified management of device security policies<yw>
+comprehensive information<yw>
+using local network services in different countries around the world<yw>
+gs><mobile
+whole house smart home<yw>
+regional risk prediction<js>
+cloud platform system and service<yw>
+bank terminals
+user control management
+yeastar color<gs>
+red willow forest<gs>
+application service<yw>
+smart community<ly>
+cold chain transportation services<yw>
+tencent cloud basic products andai capabilities
+weride zhixing<gs>
+cnc<cp>
+unmanned logistics distribution<yw>
+enterprise resources
+trusted interconnection scenarios for smart finance
+data island
+sustainable urban development
+red willow forest smart park<yw>
+big data services<yw>
+core areas of internet of things
+in the form of apis or sdks
+cloud<js>
+the basic service<yw>
+edge iaas<cp>
+self-service vending enterprises<ly>
+yaguan technology<gs>
+industry application<js>
+yuexin semiconductor<gs>
+and served<ly>
+anti-theft and anti-counterfeiting
+iot cloud service<cp>
+360
+bluetooth trademark
+smart apartments<cp>
+31st chengdu universiade informatization total integration
+credit
+the internet of things industry think tank service organization
+hardware subsidy scheme<yw>
+elite road tong<gs>
+iot data market<ly>
+smart retail
+automobiles<ly>
+iot device management platform<cp>
+campus
+consumer appliances<ly>
+state grid shanghai electric power company<gs>
+wireless connection chip<cp>
+china baowu<gs>
+medical epidemic prevention<ly>
+<gs>of china's united network communications
+smart water conservancy and water affairs
+aiot device management<cp>
+hong kong-zhuhai-macao bridge
+computer vision<js>
+testing and certification bodies
+blockchain business landing consulting and analysis<yw>
+planting and production services<yw>
+location tracker
+information technology
+cordless phones<cp>
+intelligent security<yw>
+electric vehicle range<js>
+industry intelligent<yw>
+information sharing
+mushroom ring<cp>iem
+saas service<yw>
+customizable automatic rules
+global intelligent manufacturing base
+baic<gs>
+space
+china elimination cloud<gs>
+cognitive intelligence<js>
+functional scene<yw>
+partner
+smart cultural tourism<ly>
+financing docking<yw>
+application software problems between manufacturers
+global real-time data communication<yw>
+smart government<ly>
+intelligent connected vehicles<ly>
+data analysis<js>
+al community customization and value-added services<yw>
+5g + industrial internet
+logistics portrait<yw>
+fly insist<gs>
+video capabilities + lamps
+saas-level solution<cp>
+vertical search<js>
+automated smart storage park
+storage information can change freely
+chongqing internet of things industry association<zz>
+roads and bridges
+douyin small store
+global multi-sim card
+china tongsing<gs>
+intelligent iot operating system<cp>
+sdks<cp>
+noise reduction
+ar repair<ly>
+elite lutong<gs>
+universal blockchain<gs>
+user authentication<yw>
+government departments
+lpwan industry research report<cp>
+form recognition<yw>
+china general service<gs>
+jiuan medical<gs>
+humidity sensor<cp>
+provides algorithms
+jingwei china<jg>
+recovery of the automotive industry
+warehouse management
+high-end resources
+advanced graphics and networking systems<ly>
+5g passive iot<js>
+smart tail cabinets
+model
+cybersecurity
+lenovo communications
+ethernet<ly>
+electronics<ly>
+spis<gs>
+private cloud
+unigroup unipower<cp>
+wine vending machine<yw>
+js<gs>of jieshun technology
+communication networks
+5g industry application ecological development
+product research and development investment
+internet parking solutions<yw>
+smart devices<yw>
+easic n5x<cp>
+all elements of logistics resources
+enterprise back-end business platforms
+information security platform products
+memory technology<js>
+sdk
+hangzhou fluorite network co.
+computer leasing<yw>
+real-time update of parking space data<yw>
+cis non-memory<cp>
+capital and investment institutions
+park enterprise interactive communication
+resource linkage and coordination
+traffic automation<ly>
+sensor<cp>
+tsp internet of vehicles service operation<yw>
+design<yw>
+smart hotel<yw>
+it equipment
+in-vehicle voice<ly>
+cybersecurity enterprise<ly>
+virtual reality/augmented reality (vr/ar)<ly>
+remote command engine<cp>
+ai 3d perception<js>
+route planning and control<yw>
+iot firmware remote upgrade<yw>
+overseas market expansion<ly>
+smart business<yw>
+smart city integrated operation services<yw>
+industrial mechanism and algorithm modulus<yw>
+end-to-end total communications solutions<yw>
+charging network
+processing data<yw>
+elevator industry<ly>
+leak detector - water supply pipe network leakage alarm platform<cp>
+ericsson terminal application test laboratory<jg>
+housing construction<ly>
+intelligent audio<cp>
+energy-saving control terminals
+data aggregation<yw>
+country garden services<gs>
+the presentation layer
+nfc<js>
+and the smart campus<>
+cloud<yw>
+capability platform<cp>
+ai campus cloud infrastructure
+rn hot update<yw>
+op
+standard development<yw>
+saas enterprise<>
+industry media
+nuclear power instrumentation and control systems<cp>
+intelligent control<js>
+cellular iot platform
+longman investment<jg>
+vehicle safety monitoring
+number of iot sensing devices
+edge computing<cp>
+the core capability of iot development<yw>
+cinda iot<gs>
+full data process
+tencent youtu ai open platform<cp>
+silicon technology<gs>
+cellular communication module
+frontier field developments
+smart security<ly>
+mobile communication network planning and design<yw>
+unicom iot industry alliance<zz>
+emerging enterprises
+xlink iot middle office (platform)<cp>
+high-precision positioning
+sensing node security<yw>
+data tampering
+5g deterministic networks industry alliance<zz>
+device security network access capability<yw>
+special printer<cp>
+community parking<yw>
+taihua smart<gs>
+sensing devices<ly>
+application services<yw>
+the fluorite iot open platform<cp>
+one-stop ot data governance capabilities<yw>
+mobile internet<js>
+yeastar workplace<gs>
+big data<ly>
+device service<yw>
+broadband access<ly>
+big data analysis and judgment engine<cp>
+foshan electric lighting<gs>
+security consulting<ly>
+chip vendors
+consumer digital<ly>
+smart payment terminal device<cp>
+qiandao lake (alibaba cloud) data center
+the device security network access capability<yw>
+qualcomm<gs>
+emergency broadcast
+park investment information accurate reach
+united states
+blurry
+ai application training<yw>
+industry-driven
+asiainfo<gs>
+logging
+built-in antenna
+smart parking enterprise<ly>
+consumption-driven
+autonomous optimization of scheduling<yw>
+application middleware<cp>
+own offline business scenarios
+verizon<gs>
+rf front-end devices<cp>
+trusted identity authentication system
+authentication billing
+cybersecurity related work
+the industry chain
+agricultural industry services group<ly>
+urban construction
+intelligent terminals<ly>
+automated intelligent storage system<cp>
+smart health total solution strategy<yw>
+yuanrong starts to<gs>
+native software
+xj-b32-a
+business scenario service<yw>
+wireless test system<cp>
+internet of things business security system
+qwt<gs>
+mhealth<ly>
+wi-fi<js>
+sdd<yw>
+kitchen appliances
+smart buildings<ly>
+driverless logistics vehicles<cp>
+iot cloud services<cp>
+smart hardware
+intelligent community application solutions<yw>
+smart community circle<ly>
+information consultation
+user needs
+urban etc<ly>
+sf express<gs>
+unmanned microbus<yw>
+one-button control<yw>
+data storage<js>
+multiple domains
+network management system<cp>
+emergency iot<ly>
+home repair<yw>
+ge predix<cp>
+microsoft azure<gs>
+changan<gs>
+oil products
+the platform of the communication vendor<ly>
+third-party services
+fluorite<gs>
+internet of things battlefield sniper rifle intelligent networking: the future of the future
+visual intelligent study table<cp>of video modules
+on-site operations
+lpwan communication base station<cp>
+vertical service<yw>
+intelligent connected vehicles<cp>
+precision cross-border<js>
+5g remote takeover system<cp>
+express services<yw>
+sensing labs<gs>
+aiot lpwan intelligent front-end<js>
+smart pos terminals<ly>
+smart water meters
+infrared cameras
+industrial iot applications<cp>
+smart energy saving and environmental protection<ly>
+iot information security<ly>
+content application<yw>
+smart wearables<ly>
+motion sensors
+internet of vehicles communication products<cp>
+service discovery<yw>
+partners
+dedicated cloud<cp>
+technical advantages
+iot connectivity alliance<zz>
+internet manufacturer platform<ly>
+enterprise customer acquisition<yw>
+anyu daohe<gs>
+smart healthcare<>
+edge smart chips and accelerator cards<cp>
+uhf rfid and equipment<cp>
+customized planting solutions<yw>
+product technology evaluation<yw>
+platform layer
+agricultural big data regulatory services<yw>
+access cycle
+the full-link iot technology<js>provides integrated services of management
+waf<js>
+edge computing<ly>
+infrared thermal imaging and temperature measurement movement<cp>
+iflytek<gs>
+a personalized service resource for enterprises inside and outside the campus
+argumentation report
+ideal automotive<gs>
+data service<yw>
+robotics and automation systems<ly>
+smart hotel<cp>
+apis
+new technologies
+big data analysis<yw>
+edge caas<cp>
+mobile communication dedicated wireless test terminal<cp>
+beijing beiguang media investment and development center<gs>
+china southern power grid<gs>
+autonomous valet parking<yw>
+intelligent electric<ly>
+cloud office<ly>
+communication operation and automotive new four business model<yw>
+it operation and maintenance tools<cp>
+the development of smart disaster prevention enterprises
+chinese market
+sunac service<gs>
+emergency response<ly>
+alibaba cloud linkedge<cp>
+technology service provider
+industrial applications<ly>
+sigir
+smart balcony<yw>
+yeastar capital<gs>
+perceptual interaction capabilities
+the study desk industry<ly>
+fengnong holdings
+wlan<js>
+resource docking<yw>
+pwm
+lenovo's communications
+module
+smart governance<ly>
+iov company<ly>
+bi analysis<yw>
+xiaojiao proprietary cloud<cp>
+the third generation of mobile communication system
+information technology means
+<the china academy of information and communications technology>zz
+data secure communication<yw>
+whole house intelligent system<yw>
+internet of things new sensor<js>
+urban distribution<ly>
+handwriting recognition<ly>
+integrated emergency management<ly>
+iiot gateway<cp>
+componentized capabilities
+manufactured
+wireless toys<ly>
+and operation for cloud operation and maintenance<yw>
+is fully open
+transmission equipment
+gold card smart<gs>
+all major operating systems are connected to
+espressif technologies<gs>
+internet of everything intelligent platform<yw>
+built-in ai algorithm cabin<cp>
+listing services
+intelligent network cameras<cp>
+software<yw>
+baidu iot platform related sdk<cp>
+iot platform<cp>
+agricultural and rural big data center<cp>
+smart city enterprise<ly>
+poi station control specialist<cp>
+big city disease
+big sharing car rental
+cloud<ly>
+quectel<gs>
+js>js<
+ios
+from products to solutions
+intelligent central control gateway<cp>
+syncos<gs>
+qulian technology<gs>
+special training
+intelligent operation
+mec<cp>
+converge with the internet of things
+personal internet of things<ly>
+home security<ly>
+open operating system<yw>
+ehigh positioning base station<cp>
+blockchain + internet of things technology integration mode
+3d image processing<js>
+express logistics integrated service provider<ly>
+voice<yw>
+technology/media<ly>
+5g + ai+iot<js>
+vivo
+1:1 face comparison<js>
+cloud side
+ai merchants cloud<cp>
+community awareness<yw>
+security api
+zhongzhijie tn<cp>
+smart speaker<cp>
+iiot technology
+smartwatch amazfit gts 2e<cp>
+mobile terminal<ly>
+general-purpose paas platform resources are deployed in the management<yw>
+visualize data<yw>
+park operation
+beauty<yw>
+samsung
+perceptual interaction of on-site global logistics elements
+certification consulting services<yw>
+nfv<js>
+lin yang energy<gs>
+antenna modules<cp>
+2019 china beijing world horticultural expo informatization general contracting
+industrial devices from all walks of life
+wireless products<ly>
+hilink<cp>
+intelligent iot<ly>
+3d sensor camera<cp>
+360° rotation in the plane
+broadband access technology<js>
+ambient energy harvesting<js>
+htpp(s)<js>
+b/s architecture
+rt-thread<gs>
+intelligent connection of everything<yw>
+cloud-from-tech<gs>
+xj-b1a-a
+transport<yw>
+industrial-grade operating system<ly>
+ericsson terminal application test lab<jg>
+sales
+voice smart screen<cp>
+smart wearable products<cp>
+cloud platform services<yw>
+intelligent temperature regulation<yw>
+lilac garden<gs>
+business cooperation
+data analytics engine<cp>
+data<yw>
+environmental protection<ly>
+data acquisition and control engine<cp>
+pingtou<gs>
+data api<cp>
+hd positioning<js>
+ideal intelligent manufacturing
+quectel communications<gs>
+beidou
+production environment safety monitoring and early warning<yw>
+paas+saas+aiot+innovative service portfolio
+device services<yw>
+the all-in-one full-link solution<cp>
+lighting appliances<ly>
+conference exhibition<yw>
+operation and maintenance support services<yw>
+government-driven
+tuya smart<gs>
+information technology application innovation business<yw>
+the robot revolution
+intelligent management
+gdsp
+whole house intelligent enterprises<ly>
+aerospace information<gs>
+application symbiosis<yw>
+smart lock<ly>
+scene data
+smart sensing<cp>
+iot & 5g<yw>
+cloud from technology<gs>
+operators
+commodity production
+rssi triangulation<js>
+networked devices
+agricultural industry investment<yw>
+guodun quantum<gs>
+platform services
+qujing cigarette factory<gs>
+ai business process engine
+nb-iot iot smart meter system<cp>
+blockchain cross-chain technology platform bitxhub<cp>
+safety standards
+wireless aps
+tacos<cp>
+wearable logistics iot bracelet<cp>
+rpc system calls
+existing technology accumulation
+certex<gs>
+voiceprint recognition<js>
+vendors
+new energy vehicle charging pile<ly>
+remote control<yw>
+smart agriculture
+intelligent forecasting<yw>
+project management<yw>
+off-site supervision<yw>
+data centers<ly>
+bi<js>
+dedicated printers<cp>
+production and sales gap management<yw>
+baichuan: ecological capability module service<cp>
+information communication and integration of informatization and industrialization
+platform + app<ly>
+enterprise<ly>
+device access<yw>
+chongqing ai park
+enterprise systems<yw>
+signal interruption
+forming professional cloud<cp>
+public safety<ly>
+intelligent upgrade
+6lowpan/thread<cp>
+whole house solution<yw>
+fengyuan technology<gs>
+eve lithium energy<gs>
+internet medical ecological chain<yw>
+the process of smart products from prototype to mass production
+xiaojingyu
+vehicle tracking<ly>
+suzhou lemei<gs>
+tmall genius
+5g + healthcare
+resource management
+cyberspace security market<ly>
+donghao lansheng<gs>
+xiaomi iot developer platform<cp>
+ota/differential<cp>
+joylink protocol<js>
+sells communication products<yw>
+solar panels<cp>
+sales and technical information services<yw>
+cable<cp>
+testing certification bodies
+multimedia business<yw>
+asset management<yw>
+advantech's wise-paas<cp>
+ailpha big data intelligent security platform<cp>
+one-stop customization process<yw>
+audio/rf module<cp>
+multimedia digital<ly>
+ai data analysis
+exclusive solutions<yw>
+production service platform (built together)<cp>
+yuanwanggu
+yadi electric vehicles<gs>
+smart luggage/batteryless smart lock<ly>
+ai model training and learning
+airports
+driverless<js>
+agricultural ai intelligent technology<yw>
+sensors<ly>
+new energy vehicle charging service<ly>
+disaster hazard points
+it assessment<ly>
+small and medium-sized cities
+sim card management
+provincial smart energy service platform<cp>
+vr/ar<ly>
+judicial<ly>
+lightweight
+laser products<cp>
+food<>
+smart wear<ly>
+energy conservation and environmental protection<ly>
+ccsa<zz>
+unified data middle office<cp>
+human-machine co-operating system<ly>
+kunlun chip 2nd generation<cp>
+management platform
+the rapid development of emerging industries
+nio's<gs>
+artificial intelligence<ly>
+beijing huahong<gs>
+bgi semiconductor<gs>
+children's smartwatches<cp>
+smart classroom<ly>
+community value-added services<yw>
+code management
+closed-loop experience
+building materials<ly>
+traffic management
+farmer vocational education<ly>
+full-link iot technology<js>
+digital<yw>
+subscription model
+lenovo<gs>
+tsp service<cp>
+medical devices<ly>
+optical character recognition<ly>
+rich api capabilities
+z-link<gs>
+edge
+virtual reality<cp>
+pc<cp>
+bike/motorcycle sharing<cp>
+smart wearable enterprise<ly>
+china telecom<gs>
+property and business district<yw>
+platform public cloud resources
+can<js>
+shence data<gs>
+communication terminals
+consulting bodies
+ministry of human resources and social security
+integrated solutions<yw>
+nanpeng iot<gs>
+research and consulting projects<yw>
+verticals and 5g slicing ecosystem
+xinguodu pays<gs>
+intelligent industrial enterprises<ly>
+wangsu technology edge platform<cp>
+load balancing<yw>
+sensors<js>
+pre-departure prevention
+suzhou loomei<gs>
+iot business security system
+data platform
+key management<yw>
+monitoring data
+video storage service<yw>
+application landing<yw>
+real-time data storage<yw>
+the breakthrough development of the modern service industry
+internet of things vertical industry standards
+currently the only millimeter wave real network test environment in china
+agriculture and rural big data center<cp>
+integrated turnkey service<yw>
+world semiconductor trade statistics organization
+radio access technology<js>
+wifi6<js>
+cloud intelligent accelerator card based on siyuan 100 and siyuan 270 chips<cp>
+top cloud agricultural<gs>
+smart security enterprises<ly>
+carts
+ai community cloud<cp>
+production
+shelves
+downward connect to a large number of device<yw>
+ai+iot technology innovation and application
+and the field of intelligent networked vehicles<>
+enrichment cloud professional cloud<cp>
+terminus ai campus cloud solution<cp>
+and call capability requests
+consumer goods/services<ly>
+tcl technology<gs>
+virtual reality<ly>
+bulk transportation<ly>
+data storage<yw>
+qwy zhixin<gs>
+smart hardware access<js>
+unmanned logistics vehicle operation project<yw>
+iot<cp>
+bosch<gs>
+integrated whole-process delivery capabilities
+shanghai nokia bell<gs>
+china tongfu offline installation and maintenance service<yw>
+the intelligent iot paas platform<cp>
+tablet
+smart watches<cp>
+automation controllers<cp>
+fresh air conditioning<js>
+data center<ly>
+the gadget iot<gs>
+information and communication industry
+m2 series<cp>
+intelligent android industrial computer<cp>
+open source os
+cut the network policy management<js>
+isoftstone·aiot
+enable-suspend
+edge intelligent accelerator card<cp>of siyuan 220 chip
+standards information<yw>
+intelligent connected vehicles for consumer applications<cp>
+infrared detectors<cp>
+gs><terminus
+digital light source processing<yw>
+chip enterprises
+modern advisory services<yw>
+midea<gs>
+test bed<yw>
+private license<cp>
+security monitoring<ly>
+ningbo samsung medical electrical<gs>
+platform
+iot harbor<cp>
+data layer
+smart refrigerator<cp>
+urban roads
+the industrial vendor platform<ly>
+digital campus engine
+mobile intelligent terminals<ly>
+logic module
+cook smart<gs>
+shared devices<ly>
+the global mobile communications sector<>
+pos<ly>
+safe<gs>
+google waymo<gs>
+nvidia<gs>
+esp32<cp>
+module<ly>
+education
+longwen investment<jg>
+meige intelligence<gs>
+internet of things software research and development center
+toll collection and vehicle access guidance<yw>
+sms
+the breakthrough development of modern service industry
+flycat flylink<gs>
+expand the field
+business decisions
+zebra.ai<gs>
+asset and equipment management<yw>
+client<cp>
+smart hydrosphere<ly>
+smart metering enterprises<ly>
+application development costs
+new retail<ly>
+unique identifier<js>
+urban governance
+sensing and control<yw>
+food and beverage<ly>
+software review<yw>
+smart walker app mobile client viewing
+in stock
+robots
+real-time media services<yw>
+xinte automotive<gs>
+manufacturer
+top cloud farm<gs>
+smart recommendation<js>
+intelligent vehicle<yw>
+one-stop service platform
+corporate strategy
+value added communications
+mingluo technology<gs>
+industrial mechanism model<cp>
+advanced robotics<js>
+and cloud apis
+localsense high-precision positioning system<cp>
+tianjin keppel jijingfeng ge smart community
+dangerous driving behavior
+the u+ cooperation platform<cp>
+marvell<gs>
+china unicom internet of things industry alliance<zz>
+iot cloud ecosystem
+global system for mobile communications association<zz>
+fuchunwan future community<gs>
+ai technology<js>
+ai smartwatch ticwatch<cp>
+mobile intelligent terminal<ly>
+lexin medical<gs>
+the impact on the evolution of human society and civilization
+internet of vehicles
+everbright holdings<gs>
+nio ep9<cp>
+siemens<gs>
+unigroup unipower industrial internet platform v2.0<cp>
+full lifecycle management
+test method<yw>
+enterprise value-added service content
+land rover<gs>
+industrial big data platform (h-bdp taiyi xing)<cp>
+and the data runs through debugging
+consumption poverty alleviation
+nb-iot/lte-m<js>
+construction<ly>
+identity authentication mechanism<cp>
+big data services<cp>
+people's livelihood<ly>
+independent patented hardware products
+environment awareness<js>
+applications
+improve product reliability
+production autonomous driving (mpilot)
+application development<js>
+side face
+production fully unmanned (msd)
+the ultimate application ecology
+home small scene solution
+smart disaster prevention enterprise<ly>
+pinshi intelligence
+gold card intelligent<gs>
+a realistic sample of smart scene solutions
+bluetooth<js>
+industrialization<yw>
+satellite tracking
+rootcloud<cp>
+international business machines (china) co.
+megvii's face++ artificial intelligence open platform<cp>
+low-code
+iot security service platform<cp>
+deep learning inference framework tnn<cp>
+api port customization<yw>
+system development capability<js>
+dumb equipment
+smart electric vehicle<ly>
+zhengzhou qianxi square
+real-time optimization
+middleware
+impact on the evolution of human society and civilization
+the ica alliance<zz>
+lpwan<ly>
+13+12+x
+megvii technology face++ artificial intelligence open platform<cp>
+wind energy
+saas<cp>
+internet of things: the future has come
+the convergence data platform<cp>
+r&d team
+electromagnetic compatibility
+body specification customization<yw>
+from hardware infrastructure to software intelligence hub
+industrial control<ly>
+and disseminate knowledge
+5gdna<zz>
+the iot convergence data platform<cp>
+5g + ai + iot<js>
+rapid batch deployment of<yw>
+communication test service<yw>
+business model<yw>
+gold smart<gs>
+pax<gs>
+investment crm<yw>
+digital twin
+the internet of things integrated solution<yw>
+cs<gs>
+cloud connection<cp>
+ultra-performance heterogeneous mec<js>
+finger vein recognition<js>
+core technologies in the field of secure iot
+express cabinets<cp>
+lenovo ventures<gs>
+professional community service platform<cp>
+exchanges and in-depth cooperation between relevant subjects
+iot model management<yw>
+advanced process control software (apc)<cp>
+flylink<cp>
+automated testing<cp>
+conversation management<js>
+domain service model<cp>
+industrial big data center<cp>
+condition monitoring<yw>
+six-axis imus<cp>
+air humidity
+cloud platform<yw>
+cross-border payments<ly>
+edge smart products<cp>
+wireless communication<ly>
+china's largest car charging system ecological company
+automation instrumentation<cp>
+travel company
+3g<js>
+the total solution<yw>
+scene sales
+integrated linkage
+tacos
+smart industry<cp>
+iot communication module
+2g/3g network frequency clearing
+saas service capabilities<yw>
+iot technology<js>
+enterprises and institutions in related industries
+intelligent operation<yw>
+o. hersent
+hetu big data governance center<cp>
+other services<yw>
+smart apartment<ly>
+smart grids<ly>
+lumi lianchuang<gs>
+deactivated
+software-defined computing power platform<cp>
+mobile communications equipment production<yw>
+property<ly>
+al community operation service<yw>
+the alibaba cloud iot platform
+reading and writing equipment design and manufacturing
+less enterprise energy business payment costs
+research and development of intelligent wireless communication chips<yw>
+iot media<jg>
+cis<cp>
+ubiquitous iot power grid
+autonomous driving light truck<cp>
+smart city/edge computing/industrial internet
+aiot (artificial intelligence internet of things) technology architecture<js>
+private communication networks
+secure connection<ly>
+思科<gs>
+smart power<ly>
+liansheng virtue<gs>
+residential market
+culture<ly>
+home intelligence
+paas+saas+aiot + innovative service portfolio
+industrial wireless data<cp>
+sensing device
+the end
+smart travel<>
+three-layer structured products
+computer and software<yw>
+community public device awareness<yw>
+smart shade<cp>
+direct access to<yw>
+consortium blockchain platform platone<cp>
+intelligent networking
+360-degree full coverage<yw>
+market regulation<ly>
+private deployment<yw>
+netoptimization mercenary<jg>
+the integration of four modernizations
+large platforms
+industrial internet industrial internet of things
+boundary breakthrough
+community traffic<yw>
+permissions
+digital enterprises<ly>
+csa alliance<zz>
+speaker modules<cp>
+enterprise back-end business platform
+asic processor chips<cp>
+intelligent service operations management<cp>
+intelligent supply chain
+data middle office<cp>
+edge computing
+ampere<cp>
+help companies speak out
+air conditioners<cp>
+charging pile management<yw>
+a realistic sample of the smart scenario solution
+human wearable devices<ly>
+sunac culture<gs>
+smart mobility company<ly>
+regional operation platform<cp>
+china communication services co.
+semiconductor<ly>
+ymt<gs>
+intelligent acoustic machine business<yw>
+traceability<ly>
+home security<cp>
+intelligent hardware manufacturer<ly>
+lv
+thales<gs>
+adas sensor<cp>
+chemical industry
+smart home appliance manufacturing<yw>
+chip layer
+1:n face search<js>
+two-way secure connection between the vehicle and the cloud
+unattended solution<ly>
+headphones
+the digital twin experience exhibition center
+inspur yunzhou<cp>
+goertek<gs>
+knowledge decision system<cp>
+didi taxi<gs>
+nezha auto<gs>
+internet of things industry panorama<cp>
+pharmaceutical<ly>
+beijing wenyu river smart park general contracting construction
+application automation control system<yw>
+smart retail<>
+jasper
+industrial iot technologies
+secure apis
+molink technology<gs>
+elite road access<gs>
+big data analytics prediction<js>
+permission control
+breaking down corporate barriers
+arc
+zhenfund<jg>
+knowledge graph<js>
+technology research and development<yw>
+access control
+application orchestration<yw>
+business support systems<yw>
+smart fire<ly>
+industrial internet of things platform (h-itp xuangexing)<cp>
+the learning desk industry<ly>
+unified standards
+the unified user dispatch center<cp>
+data transfer<yw>
+national information security product quality supervision and inspection center (beijing).
+vehicle awareness<yw>
+unmanned driving
+xinke communication
+tcl technologies<gs>
+baidu apollo driverless 5g cloud driving<cp>
+intelligence
+remote maintenance<yw>
+for sale
+crrc<gs>
+visitor management
+chuangtong unida<gs>
+intelligent connection<ly>
+text recognition<js>
+connected car products
+lpwan connectivity<yw>
+gree<gs>
+prophet autocv<cp>
+ot<ly>
+short-range connection of mobile devices<yw>
+intelligent audio and video<yw>
+it distribution<yw>
+whole house smart home system<cp>
+event analysis
+enterprise empowerment<yw>
+cdn<cp>
+electric vehicles<ly>
+support business content-based separate billing operations
+certified metrology<yw>
+supply chain internet of things<ly>
+driving decision algorithm<js>
+moving motorcycle<ly>
+5g millimeter wave<js>
+baichuan ecosystem empowerment management platform<cp>
+consumer & new retail<ly>
+water supply pipe network vibration and other information collection and analysis
+the industrial internet platform
+air conditioning
+retail service provider
+new energy vehicles<ly>
+region-specific platform
+household air conditioning<cp>
+special call<gs>
+intelligent prevention and control<yw>
+big data service provider<ly>
+mems<cp>
+shenzhen hongdian<gs>
+smart energy enterprise<ly>
+evaluation<yw>
+base layer (laas)
+operation analysis<yw>
+applications for different services
+lg<gs>
+pingtou brother<gs>
+infocomm<ly>
+asset supervision<ly>
+national ministries
+api open capability<yw>
+e-mobility solutions<cp>
+the human-machine co-operating system<ly>
+based on ericsson's five test laboratories worldwide
+java
+valeo<gs>
+in the field of intelligent networked vehicles<ly>
+public cloud
+smart technology
+datang<gs>
+internet application products<yw>
+app
+shenzhou taiyue<gs>
+smart home appliances<ly>
+business operation support services<yw>
+lorawan base station gateway<cp>
+chuangtong lianda<gs>
+scalability
+mindsphere<cp>
+cloud services<js>
+campus scenarios
+chapter 9 ai algorithm cabin management center<cp>
+internet cloud platform
+test instrumentation metrology<yw>
+envision intelligent<gs>
+gdg<gs>
+fuzhou internet of things open lab<jg>
+ai algorithm training platform<cp>
+smart terminals<yw>
+test testing<yw>
+attendance management
+it technology accumulation
+informatization<ly>
+seed industry operation<yw>
+wi-fi certified<yw>
+top cloud farming<gs>
+data analytics<yw>
+wcdma/hspa+/cdma<cp>
+china tongserv<gs>
+precise governance and service<ly>
+intelligent security<cp>
+industrial facilities<ly>
+expensive to see a doctor
+contactless equipment<ly>
+strategies and policies
+access control management
+lighting field<ly>
+<zz>by the china federation of industrial economics
+chain native data collaboration platform bitxmesh<cp>
+intelligent connected car overall solution - zebra.ai<cp>
+traffic control<yw>
+lpwa modules<cp>
+smartphones<cp>
+data v<js>
+activation
+health<ly>
+software and integrated circuit promotion center of the ministry of industry and information technology<jg>
+house maintenance<yw>
+high-precision positioning devices<cp>
+the whole station energy-saving<yw>
+send cloud neuseer<cp>
+security systems
+communication equipment<ly>
+the smart energy ecosystem<cp>
+jiangsu yancheng public security<gs>
+lp
+sensitive data/downstream instruction protection<yw>
+emapeng hengji gis engine<cp>
+data center<yw>
+data gateway<yw>
+capital & investment institutions
+inspur information<gs>
+edge computing<yw>
+passive bluetooth low energy sensor label<cp>
+iot vendors
+and the hongliulin intelligent mine<cp>
+intelligent solution<yw>
+li-ning<gs>
+open downwards
+industrial intelligence apps<cp>
+augmented reality<cp>
+security service<yw>
+smart payment enterprise<ly>
+baosteel<gs>
+and the urban rail transit business area<ly>
+people management<yw>
+smart logistics enterprise<ly>
+the automotive-grade computing platform xavier<cp>
+intelligent building technology<ly>
+2g/3g/4g/5g
+the maturity of the product landed
+equipment using enterprises
+precision components business<yw>
+zhiguang electric<gs>
+charging/energy infrastructure<cp>
+industry ecology
+time schedule
+made in china 2025
+device certification<yw>
+kunlun coast<gs>
+wireless sensors
+full-link security situational awareness<yw>
+new century robotics<gs>
+presentation layer
+high performance computing<ly>
+information security<yw>
+tp-link<gs>
+gnss module<js>
+hd camera
+china electronics technology group corporation 52nd research institute<zz>
+medical ai<ly>
+industry exchange platform
+nio<gs>
+configuration delivery
+data records archived
+testing<yw>
+enterprise services<yw>
+internet finance<ly>
+city-level gateway routers
+automotive computing platform xavier<cp>
+personalized iot platform<cp>
+business
+one standard and multiple real<js>
+telecom operators<gs>
+self-developed industry reports<yw>
+drive management<yw>
+iot paas platform<cp>
+uav<ly>
+energy metering<ly>
+blood lipids
+smart environmental protection<ly>
+detection monitoring<yw>
+system integration
+shanghai pateo<gs>
+information security products<yw>
+stone intelligent double brush floor scrubber<cp>
+zte micro<gs>
+economy express<yw>
+enterprises and institutions
+traffic usage analysis<yw>
+city-level business applications
+protection of communication networks<yw>
+supply chain finance<ly>
+technological innovation
+people-centered
+pc presentation<yw>
+technology platforms<cp>
+hdl smart home solution<cp>
+mobile application reinforcement<yw>
+intelligent decisions
+smart energy internet source-network-load industry chain
+electric balance vehicle<cp>
+lenovo's communication
+smart eye<gs>
+industry-renowned media platforms<yw>
+humi h-iip ziweiyuan platform<cp>
+digital currency storage<yw>
+development tools and api services<cp>
+baidu<gs>
+data centers and networks
+hue<gs>
+cloud computing<ly>
+smart home appliance sales<yw>
+production management system<cp>
+and iot<cp>
+pass management
+digital management platform<cp>
+barcode<cp>scanners
+ecological environmental protection<ly>
+enterprise ssds<cp>
+youbao<gs>
+ml computing<yw>
+radar<js>
+computing platform solution deeproute tite<cp>
+linux
+hd cameras
+industry empowerment
+cross-platform
+electric balance vehicles<cp>
+hikvision<gs>
+commercial property/corporate administration services<yw>
+cryptographic algorithms<js>
+intelligent manufacturing special committee
+qinhua gas group<gs>
+top-level planning<yw>
+techsor inc<gs>
+resource operation scheduling management<yw>
+improve the efficiency and capability of application development<yw>
+community logistics<yw>
+kunlun chip<gs>
+china electronics standardization institute<zz>
+b-b-c e-commerce platform special cards<cp>
+proprietary solutions<yw>
+position sensors<cp>
+hot words wake<js>
+programmable logic controller (plc)<cp>
+hangzhou's major scale iot enterprises
+with
+and smart parking<ly>
+yunmi technology<gs>
+dating<yw>
+adc
+ibm<gs>
+perimeter security monitoring and protection<ly>
+freezer controller
+single-axis solution uwb positioning<js>
+nio eve<cp>
+materials<yw>
+microchat<yw>
+server and data center<ly>
+public safety technology<js>
+environmental appliances
+equipment ecology<cp>
+hi-fi<js>
+industrial robotics professional cloud<cp>
+networked<yw>
+machine vision<ly>
+orange<gs>
+smart meter enterprise<ly>
+landing
+multidimensional data edge gateway<cp>
+technical report
+chip customization business<cp>
+aiot industry dynamics
+internet vendor platform<ly>
+smart device
+public version panel app<yw>
+pan-semiconductor<ly>
+atl<gs>
+artificial intelligence
+industrial technology<ly>
+city-level marketplaces<ly>
+airiot energy management system<cp>
+ai community cloud saas service<yw>
+yuanrong starts to travel<gs>
+video iot devices<cp>
+system integration solution<cp>
+smart payment terminals<cp>
+r&d and operation integration devops<yw>
+whole house smart home<ly>
+room division engineering<yw>
+water<ly>
+smart city infrastructure<lu>
+ai algorithm platform
+automation & control<ly>
+power management solutions<yw>
+chuanyi<gs>
+environmental energy harvesting<js>
+smart cities
+smart terminals<ly>
+overall solution research and development
+operating system<yw>
+owner parking service
+transportation big data platform<cp>
+ica consortium<zz>
+gui customization
+sk hynix<cp>
+heterogeneous device connection platform
+aoa<js>
+small and medium-sized businesses
+digital large screen<js>
+iaas basic services<ly>
+ot<js>
+micron<gs>
+vepass technology<gs>
+china citic bank<gs>
+smart security circle<ly>
+other electronic components<cp>
+xiamen internet of things association<zz>
+docking environmental control
+test and evaluation<yw>
+the full-link iot technology<js>
+lora passive iot<js>
+communication chip<ly>
+device management center
+self-developed industry report<yw>
+feimao smart connect<gs>
+operations services<yw>
+cargo owner<ly>
+modbus<js>
+device integration/o&m
+full-stack enterprise-level ai product system
+earthquake<ly>
+chapter 9: algorithmic models and services<cp>
+external antennas
+wm motor<gs>
+big data investment promotion full life cycle management
+trinity group<gs>
+logic circuits<cp>
+intelligent building operation management platform<cp>
+tissot<cp>
+industrial equipment sales<yw>
+batch control system<cp>
+industry information
+voice skills<yw>
+hardware ecological chain<yw>
+netease easy<gs>
+supply chain collaboration platform (e-qicai)<cp>
+china's leading module enterprise<gs>
+application scenarios
+oriental pearl<gs>
+gree iot mobile phone<cp>
+taxi industry digital solution<yw>
+computer vision algorithms<js>
+diversified sales channels
+smart oilfield<ly>
+product operation and maintenance<ly>
+quasi-industrial<ly>
+related field dry goods content
+e-commerce<ly>
+people's posts and telecommunications press<gs>
+message push<yw>
+smart logistics and supply chain<ly>
+m.2
+artificial intelligence algorithm<js>
+voice ai and map integration<yw>
+building
+juxing aiot full data aggregation platform<cp>
+tianfang<cp>
+paas service capability
+china mobile<gs>
+advantech's wise-stack private cloud<cp>
+configuration manager<cp>
+tyco electronics<gs>
+energy management solutions<cp>
+community context awareness<yw>
+tools<cp>
+remote synchronization of messages
+payment + operation
+wall mounted control panel
+asy brombofari<gs>
+edge intelligent platform<cp>
+life mutual aid
+the internet of vehicles enterprise<ly>
+smart agriculture<ly>
+project coordination group (pcg)
+development environment
+hd map<yw>
+cloud service provider
+big data platform
+to be enabled
+5g industry promotion center<zz>
+blockchain<js>
+wojia shen eye intelligent terminal<cp>
+a new type of distributed ledger tangle<cp>
+agricultural environment<ly>
+ai practical model
+goodix technology<gs>
+ecological platform<cp>
+database optimized for time series data<>
+new beiyang<gs>
+home equipment
+logistics site visualization
+vanke<gs>
+wifi module<cp>
+electric balance bikes<cp>
+qingyan science<gs>
+neusoft<gs>
+powerline communication<ly>
+application enterprise
+intelligent voice<js>
+internet education<ly>
+integrated solution<cp>
+business process orchestration<yw>
+longitudinal technology<gs>
+smart food circle<ly>
+turning tool professional cloud<cp>
+cloud server<yw>
+the engine layer
+toray<gs>
+equipment manufacturing enterprises
+terminal enterprises
+the overall solution of intelligent connected vehicles<cp>
+cutting-edge enterprise
+technology-driven
+sales and maintenance services of satellite equipment<yw>
+electronic information<ly>
+network and information security<ly>
+property management all-in-one
+edge computing equipment<yw>
+ai interconnection technology<js>
+china putian<gs>
+panel templates<cp>
+sports<ly>
+operations management platform<cp>
+smart medical enterprises<ly>
+intelligent vehicle overall solution<cp>
+phoenix contact<gs>
+next generation information technology
+enterprise-level demand
+scada<yw>
+market sales
+yonyou elite industrial internet platform 3.0<cp>
+internet companies
+technical specifications
+internet enterprises
+grassroots governance and service combination of management system
+mobile onenet<cp>
+wisdom industrial brain<cp>
+ai true wireless smart headphones ticpods<cp>
+industrial information security<ly>
+internet of things<ly>
+electric vehicles<cp>
+intelligent access control
+smart living space operation management enterprise<ly>
+iot binding<yw>
+logistics fleet main consumption
+epidemic prevention and control<>
+smart interconnection
+data audit<yw>
+cryptographic services
+64m high pixel lens<cp>
+data interface<cp>
+tsl management<yw>
+home
+gas detection<cp>
+decomposition of energy consumption planning tasks
+startups
+data collection<js>
+substation inspection work scenario
+plant equipment and systems
+lte-m<js>
+development tools<cp>
+hardware product matrix
+common iot cards<cp>
+energy conversion efficiency
+js><gs
+intelligent access control channel management system<cp>
+uav (vehicle) logistics delivery<yw>
+ai<js>
+supply chain<ly>
+for different service applications
+industrial internet top-level design<yw>
+research and experience of electronic payment products and related technologies
+logistics<ly>
+1+n mode
+china's communication field<ly>
+data acquisition and transmission computing equipment<cp>
+ai building operation<cp>
+anheng information<gs>
+financial pos machine<cp>
+product reliability
+p graphs<ly>
+new energy management<yw>
+standards co<cp>
+quick connect device<yw>
+surrounding transportation<yw>
+intelligent technology and means
+advanced analytics<js>
+solution design and development services<yw>
+dataset<cp>
+isoftstone aiot edge<cp>
+seb<gs>
+arm cortex-m55<cp>
+sos button<cp>
+digital twin experience showcase
+application security<ly>
+ccid consultant<jg>
+cisco<gs>
+goodix<gs>
+effective scheduling
+lorawan
+and device sdk
+smart city<cp>
+paas<yw>
+mijia smart home set<cp>
+software application<yw>
+automated testing<yw>
+u+ cooperation platform<cp>
+face swipe payment device - dragonfly 1st generation<cp>
+open sdk
+color
+hardware + software + service
+ruijie networks<gs>
+wireless access technology<js>
+gis<yw>
+esim management platform airon<cp>
+gps/gis<js>
+low power embedded technology<js>
+blockchain products<cp>
+and the smart terminal<ly>
+smart party building<ly>
+yangtze river storage<gs>
+industry chain operation capacity<yw>
+cloud function computing<yw>
+robotaxi<cp>
+social groups
+poct products<cp>
+situational awareness early warning platform<cp>
+independent controllable alliance blockchain underlying platform<cp>
+deeply felt lenses<cp>
+cloud platform<ly>
+review of the results of the intelligent analysis of the system
+enable-ready
+sanchuan intelligent technology<gs>
+intelligent upgrading of traditional industries
+change data
+iot ubiquitous connectivity technology<js>
+ai service<yw>
+yunyang data<gs>
+china mobile iot alliance<zz>
+agile middle platform<ly>
+cross-regional integrated management and o&m<yw>
+artificial intelligence<js>
+financial services<ly>
+urban transportation<ly>
+communication gateway<yw>
+intelligent execution<yw>
+connection lifecycle management
+the os technology architecture of the city-level aiot scenario solution<js>
+cross-regional integrated management and o&m
+perceptual interaction capability
+5gsa<zz>
+tesla<gs>
+smart community comprehensive management platform<cp>
+smart communities<ly>
+internet of things think tank<jg>
+5g module
+tencent youtu
+t. eirich and t. kramp of ibm corporation
+basic technology
+sales forecasts<yw>
+factory automation business<yw>
+smart meeting room<yw>
+and socialize the construction of emergency logistics system<yw>
+smart single product<yw>
+smart agribusiness<ly>
+network connection<ly>
+iot vendor platform<ly>
+multiple diabetes indicators
+yeastar vertical cloud (app)<cp>
+library
+automated three-dimensional warehouse<cp>
+brokerage
+product management<yw>
+spatiotemporal insights<ly>
+pos machine manufacturer<ly>
+location services
+time and space dimension to seek breakthroughs
+camera<cp>
+computer<ly>
+smart agriculture internet of things<cp>
+gateway node security<yw>
+intelligent control<yw>
+human-machine collaborative operating system<ly>
+five-tier architecture services<cp>
+component management<yw>
+plug and produce
+mobile communications<yw>
+new zhiyuan<jg>
+sd-wan<js>
+5-layer architecture
+dongfeng fengshen<gs>
+product services<yw>
+open interface<yw>
+<gs>
+log management<yw>
+procter & gamble<gs>
+voice channels
+lidar
+the hardware series<cp>
+thermal imaging cameras<cp>
+enterprise-level distributed application system
+enterprise wechat
+chip-sns521s<cp>
+legal
+smart education<ly>
+qumi zero-code platform
+smart community application solution<yw>
+new materials<ly>
+harbor iot connection management cloud platform<cp>
+route forwarding
+farm hosting<yw>
+the delivery of web
+network security enterprise<ly>
+order
+asynchronous processing of cash
+passive array sensing and positioning technology<js>
+financial leasing
+accelerometer<cp>
+underlying technology
+alot full supervision platform<cp>
+low-power communication
+vending machines<cp>
+the cutting-edge enterprise platform<ly>
+indics-openapi software access interface<cp>
+kitchen appliances<cp>
+integrated information<yw>
+satellite and uav remote sensing information products research and development
+mobile social<ly>
+system alarm<yw>
+yitong century<gs>
+data large screen<yw>
+tacos' platform capabilities
+collects device data at one end and shares it at three ends
+four end markets
+factory intelligent management of energy consumption professional cloud<cp>
+unified user management<cp>
+smart terminals
+system integration of various industries
+industry application<ly>
+communication operators
+antenna design and manufacturing
+patent grant<yw>
+computing power<cp>
+is>gs<gs of crystal software
+intelligent building<yw>
+driving positioning<ly>
+intra-city distribution<yw>
+didi chuxing<gs>
+energy aware data aware<yw>
+state grid<gs>
+xj-w43-a
+deepblue technology<gs>
+gartner<jg>
+brain-computer interface<cp>
+data visualization<js>
+tonghuo iot<cp>
+blockchain application framework boat (blockchain of ai things).
+and iot payment<yw>
+small craftsman iot<gs>
+smart service<ly>
+ai + parking technology and operation solutions<cp>
+communication platform
+expert leader think tank platform
+little genius<gs>
+mobile payment<ly>
+smart meters
+someone iot<gs>
+emerging technology
+edge intelligence<ly>
+china electronics technology standardization institute<zz>
+on behalf of traditional kiosk toll collectors
+intelligent linkage<js>
+water conservancy<ly>
+underlying chip algorithm
+demand docking<yw>
+intelligent alarm<yw>
+vehicle central control screen<cp>
+a photovoltaic industrial park in yunnan
+zeta china alliance<zz>
+wifi
+video analytics<js>
+full connection of on-site global logistics elements
+smart medical engineering<ly>
+android industrial computer<cp>
+dry goods content in related fields
+the 5g industry promotion center<zz>
+ltl
+new h3c iot core board<cp>
+narrowband iot
+regional development
+isofttrans smart<gs>
+control camp integrated integrated operation and management platform
+full-process artificial intelligence platform<cp>
+diabetes comprehensive care
+marvell
+ptz control<yw>
+car
+equipment vendors
+airports<ly>
+perpetual licensing model
+smart energy operators hold batteries
+black tea mobile<gs>
+open upwards
+industrial automation<ly>
+custom 5g aiot<yw>
+smart farm<ly>
+convenient services
+vertical community<ly>
+industrial big data analysis<yw>
+smart speakers<cp>
+process automation engine<cp>
+role assignments<yw>
+market research reports
+other sensing and control devices<cp>
+smart toys<ly>
+iota<gs>
+china tower shanghai branch<gs>
+common development planning
+production and marketing docking<yw>
+chip sales<yw>
+vertical field
+hybrid cloud<yw>
+enterprise services<ly>
+manufacturing system
+exception alarm
+energy service<yw>
+financial<ly>
+scale gap
+sensors
+sk hynix<gs>
+forklift connected iot devices<cp>
+security certification<yw>
+smart home entry<yw>
+large customer e-commerce
+science-related fields
+risk emergency handling mechanism
+internet of things industry chain related cutting-edge technologies
+quanjincheng<gs>
+professional intellectual services
+integrated solutions and services for iot close to the industry<yw>
+ai r&d team
+iot security defense line
+provide basic computing power
+engine layer
+water monitoring<yw>
+artificial intelligence and big data<ly>
+sky shield<cp>
+power infrastructure<cp>
+iot devices and data
+communication towers and other base station supporting facilities<yw>
+four-phase technology<gs>
+china unicom<gs>
+energy saving and emission reduction
+food
+industrial applications
+building automation<yw>
+mingshi capital<jg>
+health iot<cp>
+saibao labs
+smart lighting<ly>
+city os<ly>
+4g<js>
+a professional media organization of the internet of things
+industrial manufacturing<ly>
+air transportation<ly>
+yitu technology<gs>
+iota<cp>
+ecloud hengji cloud location service software<cp>
+algorithm repository<yw>
+zigbee<js>
+machine
+campus co-working<yw>
+plug-and-play front-end application parts and traditional communication modules<yw>
+pos devices
+data signature<yw>
+intelligent transportation special committee
+4+n product system
+rfid middleware manufacturers
+artificial intelligence capability platform<cp>
+network analysis and optimization software based on network big data<cp>
+integrated security<yw>
+solutions<yw>
+t3 express<yw>
+jingwei<jg>china
+network basic maintenance<yw>
+industry-level upstream and downstream linkage<yw>
+heat
+delivery<yw>
+performance
+data statistics<yw>
+distributed and cloud computing<js>
+iot system architecture
+technology unification
+ai build capabilities<yw>
+2g/3g/4g/5g mobile communication chips<cp>
+industrial internet cloud platform<cp>
+native sdks<js>
+energy
+realtek semiconductor<gs>
+wireless material pull devices<cp>
+high-quality operation of technology and data
+js><js
+kunpeng ecological<ly>
+front-mounted automotive electronic intelligent hardware<ly>
+and vehicle-machine<cp>
+soc chips<cp>
+qianfang technology<gs>
+enterprise management<yw>
+dynamic spectrum sharing
+intelligent combat<yw>
+protection<yw>
+smart kitchen<yw>
+whole home intelligent enterprise<ly>
+terminus ai industry cloud solution business architecture<cp>
+6g<js>
+urban strategy
+end-cloud-with integrated digital capabilities<yw>
+big data analysis
+mobile network operator
+uf<gs>
+aiot edge-to-cloud端<cp>
+artificial intelligence algorithms and engines<cp>
+multiprotocol location services<yw>
+servers
+envision technology<gs>
+hot articles in the field of communication
+functional verification
+enterprise-level idc<yw>
+smart application services
+edge computing<>
+district-level and street-level cockpit construction<yw>
+youfang technology<gs>
+electric vehicle safety system<js>
+coupling and synergy
+devices
+internet +<ly>
+urban business scenarios
+xj-b40-a
+information transmission
+end-to-end business processes
+chip industry<ly>
+report analysis
+smart whole house wifi<cp>
+finance<ly>
+vehicle environment and status
+shanghai internet of things industry association
+is>by midea group<gs
+an enterprise-level data analysis and decision-making intelligence service platform<ly>
+southeast university
+building energy efficiency management<ly>
+alliance blockchain platform platone<cp>
+unique qr code association
+comprehensive intelligent control system<cp>
+smart community enterprises<ly>
+intelligent operations<yw>
+electronic blood pressure monitor<cp>
+smart office<ly>
+artificial intelligence algorithms and engines
+mobile devices
+chinese academy of sciences
+the comprehensive services required when customizing dialogue systems<yw>
+xiaowa intelligent sweeping robot<cp>
+heating
+data mining<yw>
+tianqing<cp>
+trending technology
+the smart park integrated management platform<cp>
+electric vehicle design<yw>
+ticket center<yw>
+ruff<gs>
+technology platform<cp>
+iot format security system
+super sim<yw>
+aqara air conditioning companion<cp>
+video cloud storage
+intelligent cloud platform<yw>
+automatically alarm<yw>
+aws<cp>
+sensing<ly>
+intelligent car connection<ly>
+miniature microphones<cp>
+city-level smart parking cloud platform<yw>
+and can change mobile operator<yw>without changing cards
+guangdong digital government top-level planning
+heju communication<gs>
+networking equipment supplier
+environmental monitoring<ly>
+iot device management<yw>
+industrial
+autonomous driving companies
+and the edge intelligence platform<cp>
+network security<js>
+digitalization of on-site global logistics elements
+car camera deeproute-vision<cp>
+personalized service resources for enterprises inside and outside the park
+iov<ly>
+ptl+x intelligent loan shelf<cp>
+multiple systems
+smart fire<>
+human-computer interaction platform (dui)<cp>
+li ning group<gs>
+ascend series socs<cp>
+network ai<js>
+investment strategies
+provide the cloud api<yw>
+niu electric technology<gs>
+smartwatches<cp>
+open source
+application products
+interactive experience elements
+unigroup engine<gs>
+cloud-native applications<cp>
+controlled energy harvesting<js>
+smart home security system<cp>
+and ar experiences<yw>
+artificial intelligence chip (th1520)<cp>
+outsourcing services<yw>
+global chip market
+fii microcloud professional
+mushroom iot<gs>
+information services
+airport stations
+ford motor<gs>
+automotive electronic hardware<yw>
+smart healthcare<ly>
+industry<ly>
+fast business monetization channel<yw>
+standards for ai applications
+talent introduction
+ruhr iot<gs>
+smart payment<ly>
+<jg>bright trend capital
+platform building
+and digitize the power grid
+ecological partners
+safety production<ly>
+innovation and entrepreneurship park services<ly>
+visual security lamp<cp>
+connect end devices
+circuit breaker management<yw>
+thiel laboratories<jg>
+new transaction settlement and data transfer layers<ly>
+mcu<ly>
+the internet of things<js>
+application layer (saas)
+sequoia<jg>china
+the triple-play integration of the new energy internet<cp>
+product matrix
+urban rail transit integrated monitoring system<cp>
+founding member of the edge computing industry alliance<zz>
+video intercom<cp>
+convenient service
+natural disasters<ly>
+unified terminal renewal platform
+big data<js>
+unified user scheduling center<cp>
+fluorite easy-to-use<cp>
+product development deployment<yw>
+operation
+narrowband networks
+qxyi<gs>
+apple store online and offline omni-channel
+international business division
+agan technology<gs>
+design iot solutions<yw>
+passerby and vehicle behavior prediction<yw>
+goods
+tuya smart<cp>
+tacos aiot city-level intelligent operating system<cp>
+top yunnong<gs>
+range extender new energy vehicles<yw>
+data display<yw>
+quality code<yw>
+iot security<js>
+ecostruxure power scada operation 2020 power monitoring system<cp>
+smart payment terminals<ly>
+cloud speaker
+security alarm<ly>
+steel<ly>
+the internet of things aspect
+multi-habitat transportation system<yw>
+vr<cp>
+product testing<yw>
+capacity-masters
+array location sensing technology<js>
+intelligent cloud platform
+snow<gs>
+huayu software<gs>
+intelligent cleaning robot<yw>
+image processing<js>
+dida travel<gs>
+industrial lte routers<cp>
+strategic consulting
+heating and ventilation systems<cp>
+industrial internet<js>
+ccid consultants<jg>
+ocr<ly>
+model analysis<yw>
+industrial big data fully integrated platform<cp>
+wireless internet of things<js>
+fengnong holdings<gs>
+quantcom iot<gs>
+intelligent voice speaker<cp>
+cluster: intelligent facility access service<cp>
+amazon
+image recognition<js>
+ministry of public security
+applet
+water investment and operation<yw>
+mobility<ly>
+model paas platform<cp>
+massive data industrial knowledge base<yw>
+task identification<yw>
+iot applications
+fat measuring instrument<cp>
+ai application set<cp>
+process technology<js>
+industry forces
+internet services<yw>
+enterprise parks
+development of teaching tools<yw>
+electromagnetic drives<ly>
+baoxin software<gs>
+industry chain
+intelligent calculation and judgment
+industrial internet<ly>
+support fast binding of devices and iot cards
+cluster garage network management platform<cp>
+internet of vehicles enterprises<ly>
+data storage<ly>
+industry wireless<yw>
+convergence aiot full data aggregation platform<cp>
+national stadium
+computing power and resource management<cp>
+voice technology<js>
+scene compounding or decentralization
+smart community<cp>
+financial product integrator
+qingke<gs>
+performance materials technology<ly>
+stored value consumption<yw>
+everything cloud<gs>
+unexpected situations
+traditional medical model
+the whole life service system<yw>
+solutions
+manufacturing automation control system<yw>
+philips<gs>
+experts and scholars
+data attributes
+singapore's smart nation iot development platform (decada)<cp>
+smart kids watch<cp>
+intelligent communication<ly>
+video playback<yw>
+operation and maintenance and service<yw>
+customized paas/saas cloud platform software<cp>
+technical support
+new retail
+mobile supervision<yw>
+communications network systems<yw>
+iot analytics
+power grid enterprise<ly>
+urban intelligence process
+kyushu cloud animbus edge<cp>
+disease information
+m3 series<cp>
+tonghu iot<cp>
+high-precision maps<js>
+smart payment enterprises<ly>
+intelligent community application solution<yw>
+high-precision indoor positioning<js>
+finance
+user services<yw>
+power<ly>
+direct access<yw>
+rpc system call
+rapid replication solution<yw>
+anti-counterfeiting identification
+kunlun chip 1st generation<cp>
+smart water<ly>
+campus switches<cp>
+intelligent hardware<cp>
+stanford artificial intelligence laboratory
+smart products
+third-party application docking services<yw>
+from cloud data to travelers
+kaiwei smart core<gs>
+energy conservation and emission reduction<ly>
+distribution transformers<cp>
+smart payment terminal<ly>
+industrial routing<ly>
+terminal manufacturers
+higher transaction throughput
+smart irrigation area<ly>
+robot<ly>
+the operation and maintenance monitoring of all assets<yw>
+each platform
+security chips
+china guoxin<gs>
+mixed-signal semiconductor products<ly>
+intelligent shading<yw>
+unmanned logistics solution<cp>
+start
+build smart panels into smart home entrances
+special purpose equipment<yw>
+quickly build an enterprise energy management platform
+smart habitat<ly>
+normal gateway
+process scripts<yw>
+iot cards
+agriculture<ly>
+the digitization of retail elements
+standard service<yw>
+lan<js>
+rules engine<yw>
+deyang ai park
+cultural tourism<ly>
+large campus
+qinglian cloud<gs>
+data modeling<js>
+and lysys<gs>
+microvision<cp>
+shading
+ai live broadcast new retail cloud<ly>
+robots<ly>
+audio and video
+enterprise
+industry innovation requires
+nb-lora<js>
+integrated integrated solution capabilities
+iot network visualization<yw>
+location
+data empowerment<yw>
+automotive business<yw>
+perception devices
+zhongan insurance<gs>
+sanchuan smart<gs>
+tcl huaxing<gs>
+ultra-high picture quality
+diverse bus services<yw>
+lte cat.1 module series<cp>
+the wi-fi alliance<zz>
+dapp development and deployment<yw>
+industry saas<yw>
+system expertise and js>silicon intelligence<
+utility companies
+operator market<ly>
+convention and exhibition center
+storage<yw>
+electronic tags<cp>
+cross-system synergy and linkage of services
+gadget iot
+parallel verification
+lithium/manganese dioxide primary lithium battery<cp>
+from the cloud to the end
+leasing
+face analysis<js>
+full value chain
+function compute
+ai application design<yw>
+deeproute tite
+smart city traffic management system<cp>
+smart door sensor<cp>
+manufacturing needs
+end-side device chip
+logistics enterprises
+full-scenario industrial internet of things<yw>
+wifi<js>
+knowledge graph
+hanvon technology<gs>
+idg<jg>capital
+a new concept of iot
+cybersecurity related jobs
+a public service platform
+cost reduction
+nb-iot<js>
+device access and management<yw>
+equipment integrators and hardware manufacturers transform and upgrade<yw>
+beijing university of posts and telecommunications
+industry organizations
+iot engine management<yw>
+it<ly>
+meige smart<gs>
+embedded devices
+xiaomi mi band<cp>
+a new generation of information technology
+ola alliance<zz>
+faw<gs>
+gnss modules<cp>
+ubi driver driving behavior analysis detection<yw>
+closed-loop cognitive intelligence value
+debugging tools<cp>
+self-service
+user's personalized needs
+global element data
+linkage interaction<yw>
+front-end secondary development<yw>
+chemical<ly>
+other smart appliances<yw>
+smoke sense
+smart elderly care<ly>
+multi-scene system solution
+has expired
+ping an<gs>
+and the device data is collected to the cloud<yw>
+smartphones<ly>
+tencent qixing tunnel data center
+support remote management of devices
+training and exercise platform<cp>
+device connectivity<js>
+hangzhou internet of things association<zz>
+smart air circle<ly>
+automatic payment of parking fees service<yw>
+v2x<ly>
+efficiency increase
+ieee isi
+power inspection<yw>
+automatic operation<yw>
+developer
+rf technology capability<js>
+industry map<yw>
+information base
+enterprise-level applications have multi-faceted requirements
+wangxin technology<gs>
+preventive diagnostic model algorithm<cp>
+extreme speed al voice
+satellite and uav application system and related equipment design
+network security review technical support
+azure<cp>
+message routing
+multimedia retail system<ly>
+complete log alarms
+os technology architecture of city-level aiot scenario solution<js>
+instrumentation access
+industrial vendors
+lenovo understands the communication<gs>
+saibao labs<jg>
+service function<yw>
+the side
+hanclouds industrial internet platform<cp>
+smart living room<yw>
+smart city business<yw>
+gps
+energy storage equipment<cp>
+research institutions
+intelligent computing and judgment
+heart whole life service system<yw>
+use
+new business center
+ericsson<gs>
+home safety<yw>
+midea's<gs>
+platform security support
+non-standalone (nsa) networking mode
+autonomous driving technology has been mass-produced
+and shortage of medical resources
+ericsson terminal applications test labs<jg>
+ct<ly>
+visual device operation and maintenance monitoring<js>
+in the field of pet products<ly>
+hotels<ly>
+proprietary cloud service architecture<cp>
+glycated hemoglobin
+big data governance<yw>
+consumer electronics<ly>
+sunac<gs>
+service experience<yw>
+substation inspection work scenarios
+and the cost of business widening is high
+cutting-edge research in artificial intelligence
+third-party system access
+full-process saas loading<yw>
+wireless
+chip research and development<yw>
+low-light version of door and window magnetic<cp>
+api or sdk
+the operation middle office<cp>
+lte/lte-a<js>
+smart wearable enterprises<ly>
+traditional products
+smart oilfield
+research consulting<yw>
+various protocol interfaces
+go to activate
+based on the penetration performance of traditional lpwans
+large venues
+investment and financing institutions
+jll<gs>
+ota<yw>
+equipment in all walks of life in the industrial field
+machine heart<gs>
+smic<gs>
+isoftstone aiot edge
+water dispatch<yw>
+wind turbine manufacturing<yw>
+professional operation services
+smart city security emergency service project<yw>
+heating and ventilation system<cp>
+industrial control systems<cp>
+the underlying collection and access of data<yw>
+catchon micro<gs>
+abb<gs>
+entrance + aiot platform + software and hardware application services
+dahua intelligent<gs>
+medical services
+oem/odm
+merchandise sales
+visual operation monitoring
+meituan<gs>
+zijin mining<gs>
+correlation analysis technology<js>
+skyworth<gs>
+the artificial intelligence capability platform<cp>
+public version of app<yw>
+emergency rescue force dispatch command intelligent control management<yw>
+smart governance
+video capability + lamps
+services sensitive to wireless network environments
+design automation control system<yw>
+advertising<ly>
+the client<cp>
+cluster<yw>
+value-added service business<yw>
+in the field of information communication and integration of informatization and industrialization
+ai algorithm<yw>
+deliver web
+saas service capability<yw>
+authentication<yw>
+sensor vendors
+wind power equipment<yw>
+entertainment
+implementation delivery and update maintenance
+cloud intelligent chips and accelerator cards<cp>
+exclusive butler<yw>
+nb-iot5g blood glucose meter<cp>
+post-event supervision
+mold<ly>
+information services<yw>
+one-key control<yw>
+machine translation<js>
+local internet of things industry association
+communication vendors
+industry salon<yw>
+machine vision learning engine<cp>
+pressure sensors<cp>
+intelligent fault prediction maintenance
+cloud technology<gs>
+high quality simulation<ly>
+magnetic materials<cp>
+smart water meter<cp>
+smart retail layout
+parking space utilization efficiency
+digital upgrades
+aiot intelligent scenarios
+intelligent application services
+uart
+communication terminals<yw>
+internet of things enterprises
+saibao laboratories<jg>
+continuous evolution
+utra long term evolution system<js>
+product certification<yw>
+beijing zhongyuan yishang technology co.
+china mobile and-link<cp>
+etrack tracking tm positioning engine<cp>
+intelligent service robots<cp>
+thundercom unitek ebx series<cp>
+smart factory
+safety<yw>
+device authentication<yw>
+iot cloud access
+commercial and industrial transportation and medical equipment<ly>
+flexible unmanned factory<yw>
+molian technology<gs>
+smart cameras<ly>
+energy and infrastructure
+large reading distance
+digital transformation
+computing power resources
+equipment service<yw>
+rest apis<js>
+business services<ly>
+intelligent transportation<ly>
+data integrity
+the operating system
+asset management
+pattern recognition<js>
+data protection methods<js>
+construction and operation services<yw>
+special printers<cp>
+china telecom group<gs>
+communication manufacturers
+end-to-end security
+technology empowerment<yw>
+traffic big data and parking lot operation platform<cp>
+industrial internet of things<cp>
+and service subsystem
+ai building operations<cp>
+zhiyun neuseer<cp>
+unified services
+edge management platform
+fire perception and early warning capabilities
+schneider electric
+optical and blu-ray dvd player chips<ly>
+certification service<yw>
+smart pet feeder<cp>
+intelligent disaster prevention and early warning platform<cp>
+sequoia china<jg>
+privacy computing system<js>
+hdllink protocol<js>
+in-depth display platform
+smart agricultural enterprise<ly>
+professional telecommunications services<yw>
+open ecological model
+tianyi internet of things industry alliance<zz>
+smart home cameras<cp>
+spd bank<gs>
+investment mergers and acquisitions
+data-driven algorithms
+digital upgrade
+bike-sharing<cp>
+cellular iot chip design<ly>
+ig53 series<cp>
+smart agricultural enterprises<ly>
+cloud-to-cloud access<yw>
+china communications services co.
+hailian iot<gs>
+civil aviation<ly>
+speech language skills store
+neuseer<cp>
+testing and certification body
+the ai platform<ly>
+computing resource services<yw>
+integrated solution service platform<cp>
+jialian pay<gs>
+security technology specialization
+early warning information
+electrical and electrical<ly>
+ic solutions<yw>
+industrial-grade wireless mesh network<js>
+automatic sorter<cp>
+edge computing capability platform<cp>
+oem app<cp>
+switches<ly>
+enable-hibernate
+esp32-s<cp>
+streaming computing engine<cp>
+mems production enterprises
+data rule engine<cp>
+t+3
+access and management of industrial services
+people
+bangbang security<gs>
+zhisheng information<gs>
+nordic<gs>
+privacy
+chongqing ai city
+mobile<gs>
+urban digital infrastructure construction services<yw>
+stone wireless handheld vacuum cleaner<cp>
+leading manufacturers
+personal wear<ly>
+lithium/ferric disulfide primary lithium battery<cp>
+industrial iot technology
+device
+intelligent curtain machine<cp>
+natural language understanding<js>
+security management<yw>
+collect information<yw>
+sdio
+semiconductor display<yw>
+food<ly>
+molen technology<gs>
+novutensor g1<cp>
+ar<js>
+semantic understanding<js>
+model compression
+qualcomm snapdragon's third-generation intelligent cockpit chip platform<cp>
+one-stop intelligent hardware development platform<ly>
+industrial internet of things technology
+central cloud data center
+iot financial<ly>
+wireless communication needs in different fields
+esim services<yw>
+shopping centers
+industrial ethernet switches<cp>
+cloud security<cp>
+power workshop (air compressor station) energy-saving management system cloud intelligent control<cp>
+non-hd video surveillance<ly>
+intelligent processing
+south grid electric<gs>
+user operation<yw>
+data operation
+driver layer
+the one-stop aiot iot solution<cp>
+intelligent identity authentication platform<cp>
+overview view<yw>
+and appliances<ly>
+metrology<yw>
+high-speed autonomous navigation driving (ngp)<js>
+service value
+face recognition<js>
+other hardware
+logic control
+home appliances<ly>
+smart network<cp>
+environmental control<cp>
+bat<gs>
+china telecom cloud computing inner mongolia information park
+smart agriculture/animal husbandry<ly>
+video networking gateway<cp>
+unattended carport
+embedded memory chips<cp>
+aws iot device managment<cp>
+dandelion r300 series<cp>
+intelligent manufacturing
+tex united<gs>
+building<ly>
+smart retail enterprise
+digitalization
+containers<ly>
+online and offline marketing closed loop
+functions
+it vendor platform<ly>
+non-residential property services<yw>
+to drive vertical development
+unified standard
+sensetime<gs>
+visualization capability output<js>
+third-party service technology industry chain
+enterprise production management<yw>
+ant financial<gs>
+hylin networking<js>
+factory logistics<ly>
+china's energy industry informatization level
+rapid integration debugging tools<yw>
+enterprise-level application requirements in various aspects
+including 800<cp>
+platform support solutions<cp>
+image library
+international top universities
+humidity
+integration of four modernizations
+mobile qq<cp>
+high performance
+asset management<ly>
+institutions
+ai application development<yw>
+cold chain logistics<ly>
+and a smart wearable<cp>
+iiot technologies
+smart terminal
+a variety of communication module types
+ai transportation application set<cp>
+testable
+al community cloud infrastructure<yw>
+lorawan node controller<cp>
+infrared camera
+weibo<gs>
+automated monitoring<yw>
+smart water conservancy<ly>
+energy + information technology<js>
+expression changes
+little genius phone watch y01 classic edition<cp?
+electronic technology group<gs>
+huawei
+yontimesdb<cp>
+development platform<cp>
+tuya smart global iot ai+iot platform<cp>
+signaling acquisition platform<cp>
+5g slicing industry alliance<zz>
+integrated circuit chip design and sales<yw>
+reduce information asymmetry
+markets and markets
+emergency fire management big data platform<cp>
+wearables
+swipe face payment hardware<cp>
+broadcom<gs>
+emc/emi rf isolation devices<cp>
+shared mobility<ly>
+context-aware<js>
+iot paas and saas proprietary cloud services<cp>
+whale technology<gs>
+driving trajectory
+open downward
+iot think tank
+user terminal app<cp>
+xiaomi phones<cp>
+changguang satellite<gs>
+augmented reality experiences<cp>
+operation and maintenance
+aiot middle office<js>
+analog circuits<cp>
+railway traffic
+digitally controlled machine tool (cnc) professional cloud<cp>
+ai algorithm cabin<cp>in the human and parking lot
+to search for images<yw>
+automation<ly>
+cloud platform<cp>
+toyota<gs>
+remote assistance<yw>
+trusted interconnection scenarios of smart finance
+android tablet<ly>
+investment expansion<yw>
+xpilot 3.0 features<cp>
+and lost the signal
+academia and research
+satellite communications<js>
+work assignments
+wired access network<yw>
+business rules of the enterprise
+network
+transportation big data research and development<yw>
+ccid supervision
+wind power service<yw>
+humi h-iip<cp>
+and the efficiency of lesion detection
+qumi zero code platform<cp>
+the human-machine collaborative sensing api<cp>
+electronic equipment<ly>
+paas+saas+aiot+innovative services portfolio
+distributed computing<js>
+registration management<yw>
+iot terminal
+mijia
+hema xiansheng<gs>
+medical and health products<cp>
+external equipment<cp>
+tws headset<cp>
+industrial asset equipment
+smart city construction
+unicom yanfei aiot platform<cp>
+and the communication industry<ly>
+the overall solution<yw>
+dram<cp>
+multiple diabetes index tests
+equipment development<yw>
+ai campus os<cp>
+perception layer
+manbang group<gs>
+1+4+n smart home ecological<cp>
+oil and gas<ly>
+in the field of home appliances and internet of things<ly>
+cargo positioning and tracking<ly>
+huaxing entrepreneurship<gs>
+exchange equipment
+mass storage<ly>
+welding shop call button technology<js>
+4g/5g<ly>
+eve energy<gs>
+intellectual property licensing<yw>
+uwb positioning technology<js>
+overseas operator recognized testing services
+success
+future network<ly>
+driving track
+feimao zhilian<gs>
+cloud service management<yw>
+device connection<js>
+bright kitchen bright stove
+security firewalls<ly>
+application development company
+communication world<jg>
+multiple areas
+operator
+caterpillar<gs>
+and deploys multiple network environments
+tactile gloves<cp>
+passive iot
+project cooperation
+mobile and wireless technologies<ly>
+tools and technologies
+iot chip<cp>
+security system
+public version of the solution<yw>
+and apply<yw>
+isofttrans<gs>
+essen intelligent<gs>
+marketing<yw>
+mengs technology<gs>
+oppo
+product intelligent upgrade
+ai application management<yw>
+enriches the industrial cloud market<yw>
+operating profit
+low-power wide-area communication standard zeta<js>
+industry templates<yw>
+wanda information<gs>
+edge cloud
+zongxing technology<gs>
+sdk<cp>
+blockchain<ly>
+newland<gs>
+communication network<ly>
+neural ends of smart cities
+xinke communications<gs>
+the basic management of iot cloud platform
+fresh date classroom<gs>
+standardization organization
+smart speakers
+factory<ly>
+channel sharing and control
+new h3c<gs>
+to promote the large-scale<yw>of the internet of things
+n. sornin and m. luis of semtech
+quuppa<gs>
+ministry of communications
+3d cameras<js>
+full-link dialogue customization platform
+intelligent finance<ly>
+open interface
+and the medical and health field<ly>
+visual development<cp>
+smart energy<ly>
+cloud + edge + end
+longwen<jg>investment
+whole-house smart<ly>
+mobile game<yw>
+t3 new rental<yw>
+build<ly>
+industrial informatization integration
+industrial operating system<js>
+corporate services<ly>
+douyin shop
+dahua shares<gs>
+from consulting to design planning
+dandelion intelligent networking<yw>
+internet + medical solution provider<ly>
+topping security<gs>
+smart fire protection enterprises<ly>
+intelligent hardware products<cp>
+sensor
+intelligent lighting<ly>
+js<gs>
+adlink edge sdk<cp>
+the humi h-iip ziweiyuan platform<cp>
+expansion stage enterprise
+yonyou wisdom industrial internet platform 3.0<cp>
+smart operation<ly>
+sequoia capital<jg>
+dishwasher<cp>
+multiple partners
+onshore wind power
+smart municipal<ly>
+complete industrial chain
+smart logistics warehousing and food traceability
+chen'an technology<gs>
+water quality testing<yw>
+iot scenario design tools<cp>
+xj-wb40-a
+neckband headphones<cp>
+schneider electric<gs>
+the market is developing rapidly
+beijing jingdong shangke information technology co.
+micro speakers<cp>
+video management<yw>
+personalized customization service<yw>
+technical support<yw>
+phase 3 business
+digital technology services<yw>
+end side
+rechargeable batteries<yw>
+singapore changi international airport
+operation and maintenance management software mushroom circle icrm
+aiways<gs>
+used
+all-weather intelligent monitoring<yw>
+apple<gs>
+os layer
+communications edge cloud<js>
+industry enterprises
+technology development
+large-scale
+and strong security requirements
+government
+housing services<yw>
+gb35114<js>
+logic modules
+cross-source resource unified integration<yw>
+millimeter wave anechoic chamber test laboratory
+core areas of the internet of things
+community business core requirements
+international express<yw>
+smart audio<cp>
+yunliao t10<cp>
+trustworthiness of operational behavior
+natural resources<ly>
+module enterprises
+os technical architecture<js>of city-level aiot scenario solution
+smart appliance business<yw>
+love to exchange<gs>
+tv chip<cp>
+wiliot<gs>
+dimensity 1000 series<cp>
+and the smart road network<ly>
+spi
+alibaba cloud iot<cp>
+kk3id-3d identity privacy protection data encryption system<cp>
+equipment intelligent<yw>
+smart home decoration<ly>
+network<ly>
+tree root interconnection<gs>
+ehigh positioning tag<cp>
+yangtze river industrial fund<jg>
+home medical health electronic products sales<yw>
+distribution grid<cp>
+niu energy ruidian ai power lithium battery system technology<js>
+uav payload<ly>
+motherboard hardware customization<yw>
+face detection<js>
+diversified high-end technology industry
+tencent cloud iot development platform<cp>
+business intelligence<yw>
+flash
+the core areas of the internet of things
+smart security enterprise<ly>
+ipv4 & ipv6 dual-stack
+disaster hidden danger points
+webank<gs>
+smart medical enterprise<ly>
+terminus<gs>
+integrated circuits<ly>
+smartdata cube<cp>
+comprehensive governance service platform customization<yw>
+big data analysis<js>
+iot/communication<yw>
+heat pump washer<js>
+smart park enterprises<ly>
+economic regulation<ly>
+the end side
+chip<cp>
+catchon micronano<gs>
+ericsson
+catchon micro nano<gs>
+ica alliance<zz>
+overall coordination of work
+uhf rfid manufacturers
+beirui dandelion<gs>
+lte cat.1 module family<cp>
+basic data protocol
+blockchain platform construction<yw>
+edge computing standards
+terminal devices
+e-commerce
+china tongs<gs>
+qianxin<gs>
+automotive logistics<ly>
+vehicle analysis<js>
+operators and mobile products<ly>
+algorithms required for level 4 autonomous driving
+alibaba cloud link platform<cp>
+chip<ly>
+fuzhou iot open lab<jg>
+project justification
+city-level smart parking cloud platform<cp>
+device information reporting
+built-in internet access
+automotive electronics<ly>
+the internet of vehicles company<ly>
+enable-test
+interconnection<cp>
+other industries
+iot middle office<cp>
+automate<js>
+certification work
+internet + medical chronic disease management solution<yw>
+data platform<yw>
+and<>smart rail transit
+data protection method<js>
+consulting agencies
+aerospace science and industry group<gs>
+ningbo water meter<gs>
+connected to vehicles<ly>
+digital cloud platform<cp>
+the access mode<yw>
+ask<gs>
+multi-level account system profit automatic distribution
+intelligent control<cp>
+yunzhisheng<gs>
+access control management<yw>
+perry dandelion<gs>
+intelligent connected vehicle for consumer applications<cp>
+360 secure iot cloud support<cp>
+mobility service<yw>
+marketing promotion<yw>
+data standards
+nanjing lingju information technology co.
+platform + energy-saving equipment<ly>
+agricultural investment<ly>
+feimao intelligent connection<gs>
+oribo<gs>
+electronic<ly>
+five-layer architecture service<cp>
+vulnerability mining technology<js>
+distributed energy<yw>
+digital reconstruction
+edge gateway
+pension<ly>
+ai business process engine<cp>
+nand flash<cp>
+production visualization<yw>
+cross-border trade<ly>
+tube
+businesses in the mobile ecosystem
+agricultural services<yw>
+satellite ground system development and construction<yw>
+bluetooth low energy<cp>
+autonomous driving<ly>
+industrial interconnection<ly>
+the industrial microservices library<cp>
+and has a weak communication signal
+illegal terminal access
+realtek<gs>
+aerospace science and technology airiot<cp>
+xpeng motors<gs>
+positioning<yw>
+ccid design
+platone
+intelligent modules<cp>
+tianji<cp>
+mqtt<js>
+consulting & solutions<yw>
+cloudwalk technology<gs>
+big data car repair
+interactive communication between park enterprises
+environmental monitoring
+legacy standard pos equipment<cp>
+cambrian 1h<cp>
+distributed cognitive technology<js>
+iot products for basic appliances
+and end
+the business form of cloud pipe end
+one-stop fire safety system products<cp>
+uikit<js>
+terminus ai industry cloud solutions business architecture<cp>
+electrical safety
+cloud architecture<js>
+gsma<zz>
+smart hardware<ly>
+technical exchange
+enterprise online payment<yw>
+arrival time<yw>
+guangqi internet<gs>
+decision making and marketing services
+automation of production
+visual large screen<yw>
+ge digital<gs>
+yonyou elite<cp>
+enterprise applications<yw>
+home security
+full-asset operation and maintenance monitoring<yw>
+automotive front-mounted<js>
+access to various brand categories
+elite road<gs>
+industrial internet platform<ly>
+pinshi intelligent<gs>
+electrical lighting
+rowan information<gs>
+automation<js>
+park unmanned supermarket<yw>
+financial pos<cp>
+ip network equipment
+aiot<js>
+iccv
+chongqing chuangtong lianda intelligent technology co.
+closed loop of data value
+seven sub-platforms of architecture
+urban taxi intelligent operation service provider
+full-stack hardware and software solution<cp>
+blockchain + internet of things technology integration model
+face detection<yw>
+long management
+multi-network switching strategy<yw>
+smart vending machine<yw>
+standard pre-research<yw>
+three core layers
+intelligent commercial hardware<ly>
+test standards
+alibaba cloud<cp>
+smart city solutions<cp>
+tourism<ly>
+more scenarios
+growing
+video iot device<cp>
+nio es6<cp>
+mobile inference framework
+location services<yw>
+cambrian 1m<cp>
+communications vendor platforms<ly>
+self-service coffee machine<yw>
+nb-iot
+asr<gs>
+xuantie 910<cp>
+industry cloud + saas service<js>
+to g<ly>
+google waymo
+aci multi-site<js>
+energy<yw>
+eib<cp>
+china information<gs>
+software products<cp>
+system integration company
+tencent<gs>
+xiaomi mijia smart door lock<cp>
+broadband service value service stickiness
+positioning terminal<ly>
+buildings
+enterprise energy consumption
+terminal equipment
+thinkuem unified endpoint management platform<cp>
+large screen display<yw>
+intelligent fire protection digital platform<cp>
+new technology
+smart retail<ly>
+smart real estate<ly>
+smart home<>
+lte wireless broadband<js>
+big data platform<cp>
+existing systems
+intelligent service robot<cp>
+industrial big data analytics platform<cp>
+medical care
+if a leak is found<yw>
+integrated integrated solution capability
+last mile problems
+china unicom iot industry alliance<zz>
+the most cost-effective hardware solution
+emergency broadcast<ly>
+express express<ly>
+ar glasses<cp>
+ai capabilities<js>
+gaming<ly>
+utilities<ly>
+xj-b31-a
+moosi technology<gs>
+smart public security<ly>
+aiding decision-making
+personnel safety
+location information
+generic paas platform resources are deployed in the management<yw>
+labor costs
+automatic inspection<yw>
+stmicroelectronics<gs>
+intelligent construction is the problem of backwardness
+zte corporation<gs>
+industry research
+agricultural environment monitoring terminal
+data product tools
+intelligent product solutions
+inspur group<gs>
+corded phone<cp>
+platform + industrial robot<ly>
+and the intelligent pos terminal<ly>
+intelligent sensors<cp>
+rail transit<ly>
+product module
+sps rf-ptl band picking technology<js>
+ai<ly>
+proprietary cloud
+trustworthy behavior
+strategic synergy of car companies
+startup mining and reporting
+a health digital life industrial park in fujian
+netsu technology edge platform<cp>
+boe<gs>
+wisdom cloud box<cp>
+cybersecurity solutions<yw>
+space management<yw>
+yunji robot<gs>
+echarts components
+wcdma/hspa<js>
+the smart home ecosystem<yw>
+data intelligence<ly>
+huge engine<gs>
+ability to call requests
+optimized control system<cp>
+mobile asia expo
+security
+mobvoi mobile app<cp>
+iot project operation and maintenance tools<cp>
+craftsman iot<gs>
+the whole set of smart home solutions<yw>
+device dashboard
+hongyan electric<gs>
+qualcomm
+data information
+expand smart home products
+intelligent management and payment integration solution<cp>
+advanced communications<yw>
+convergence analysis
+rfid
+academia
+the three major domestic operators<gs>
+park scientific and technological innovation achievements
+sold
+data can be encrypted
+engineering construction<yw>
+project cooperation<yw>
+service registration<yw>
+server<ly>
+low-carbon energy development
+carrier access switches<cp>
+smart card business<yw>
+professional mobility platform<ly>
+smart makers<ly>
+xiamen sixin<gs>
+whole house intelligent enterprise<ly>
+250m detection distance<yw>
+iot enterprise
+haier<gs>
+zte<gs>
+financial payments
+timing control<yw>
+smart campus<ly>
+equipment communication module
+washing machines<cp>
+smart park enterprise<ly>
+journey 2<cp>
+adlink<gs>
+industrial practice<yw>
+xinguodu<gs>
+metal chemical<ly>
+conserve resources
+unified user dispatch center<cp>
+the comprehensive services required to customize dialogue systems<yw>
+hello travel<gs>
+paas platform<cp>
+management level
+user management<yw>
+mems sensors<cp>
+global scene digital twin<yw>
+interconnection<yw>
+the internet of things industry
+smart utilities<ly>
+integrated product and solution providers
+software<ly>
+industry consulting<yw>
+china taiyue<gs>
+development
+vehicle status
+community services<yw>
+data transmission<js>
+dedicated printer<cp>
+hiai<cp>
+self-learning
+industrial microservices library<cp>
+r&d commissioning difficulty
+enterprise software<ly>
+a provider of blockchain products and application solutions
+sigfox<js>
+big data
+and the ability of energy companies to respond and adapt to the market
+analytical evaluation<yw>
+safe
+health care products<cp>
+independent account<yw>
+zhejiang lanzhuo industrial internet information technology co.
+resource sharing platform
+cross-regional integrated management and operation and maintenance<yw>
+petroleum<ly>
+scene breakthrough
+myanmar presidential palace
+underlying data collection
+yinghantong<gs>
+mems chips<cp>
+equipment layout drawings
+industrial internet of things<ly>
+moped<ly>
+humi.com h-iip<cp>
+xcmg group<gs>
+environmental protection water<ly>
+internet access and application<yw>
+power transformers<cp>
+root cloud rootcloud industrial internet platform<cp>
+two smart home solutions
+intelligent services
+shenzhen world convention and exhibition center intelligent general contracting construction
+find leakage points<yw>
+iot modules<yw>
+smart hardware enterprise<ly>
+sap<gs>
+and complete user self-service system can quickly order and change connected products without lengthy business processes
+artificial intelligence vertical media
+one-stop blockchain open service baas platform philo<cp>
+te electronics<gs>
+smart battery company envision aesc<gs>
+beijing internet of things association<zz>
+android smart<js>
+technical operations
+zibo linzi district people's hospital<gs>
+and zhiyun technology<gs>
+hanyun industrial internet platform<cp>
+to promote the industrialization of the internet of things<yw>
+fingerprint recognition<js>
+retail
+campaign<yw>
+software
+switches
+fully integrated system<yw>
+smart manufacturing
+small space occupation
+development tools and api services
+bmw<gs>
+alliances and associations
+cloud development platform<cp>
+iaas<cp>
+scene collaboration<yw>
+tablet<cp>
+urban road parking operation management platform<cp>
+smart hardware embedded in xiaomi smart module
+intelligent driving and unmanned driving research and development<cp>
+intelligent disaster prevention equipment<cp>
+different devices
+is aware of access<js>
+xiaomi brand wearable product design and manufacturing
+people-centric
+google<gs>
+one-stop traffic operation technology platform<cp>
+everbright bank<gs>
+comba communications
+the data platform of iot convergence<cp>
+device access<cp>
+multi-granularity
+shared travel<ly>
+and digital reconstruction
+iot terminals
+platform + visual inspection equipment<ly>
+network management<yw>
+technology alliance
+the effectiveness of urban management
+juicer<yw>
+li auto<gs>
+security services<ly>
+mobile support
+auxiliary inspection<yw>
+independent brand
+agricultural drones<yw>
+new energy vehicle charging network operation<yw>
+telecom operators
+enterprise report repair<yw>
+management platform<yw>
+chronic disease management and diagnosis and treatment<yw>
+smart home camera<cp>
+edge intelligent system
+inspection duty personnel
+gas
+wireless gateway<ly>
+esp8266<cp>
+fluorite cloud open platform<cp>
+industrial paas<yw>
+device aggregation<yw>
+smart hotel<ly>
+telecommunications<ly>
+energy-saving lighting for underground parking lots<ly>
+wi-fi alliance<zz>
+gac<gs>
+intelligent analysis capability<js>
+hubble technology<jg>
+smart health care<ly>
+yusen logistics<gs>
+the software architecture
+public network walkie-talkie
+big data enterprise<ly>
+mixpad intelligent wall panel<cp>
+ande zhilian<cp>
+financial payment<ly>
+the center of connectivity and data
+edge data center
+industrial forces
+pos machine<cp>
+real-time location of buses<yw>
+real-time utilization of various resources
+5g
+intelligent transportation<cp>
+tongfu iot-open iot platform<cp>
+sale of communication products<yw>
+5g application<ly>
+cloud-native hyper-distributed architecture
+xiaomi<gs>
+new retail integrated solution<yw>
+dongsheng industrial park<gs>
+intelligent scene panel<cp>
+service customization
+functional scenarios<yw>
+private cloud application deployment service<yw>
+amazon<gs>
+cmiot<gs>
+all infrastructure
+double closed loop
+commercial vehicle networking
+and the terminal landing of the smart home scenario
+bluetooth module<cp>
+landscaping design<yw>
+ericsson communications (china) co.
+high dependence on dedicated readers
+data portal<cp>
+automatic fire alarm and linkage control system<cp>
+stop simple<gs>
+blood oxygen sensor<cp>
+ai community scene service<yw>
+certified manufacturer
+vehicles
+fii cloud<cp>
+solar energy
+comfort environment<yw>
+cat-m<js>
+google
+mobile internet<ly>
+the debugging tool<cp>
+aiot device management
+joint research and development of partners
+4g lte-a<js>
+tencent youtu<gs>
+content creation
+night vision observation<ly>
+environmental<ly>
+automotive-grade modules<cp>
+and gree electric<gs>
+administrative decision-making
+isoftstone<gs>
+external antenna
+data-driven
+rising sun 2<cp>
+infrastructure<ly>
+midea real estate<gs>
+transportation service efficiency
+electricity<ly>
+iot end-to-end overall solution services<yw>
+wisdom?digital intelligent logistics operation management platform<cp>
+cultural<ly>
+automated smart storage campus
+payload system research and development<yw>
+printing solutions<cp>
+device connectivity and management<yw>
+enquiry booking<yw>
+china telecom cloud computing guizhou information park
+biomedical<ly>
+motorcycle sharing<ly>
+based on the differentiated r&d testing needs of different enterprises
+home appliance internet of things field<ly>
+failure prediction<yw>
+storage management<yw>
+an internet electric vehicle brand<ly>
+u+ smart home interconnection platform<cp>
+heart of the machine<gs>
+edge computing gateways<cp>
+financial service policy<business>
+tongfu iot<cp>
+mixpad smart wall panel<cp>
+data center switches<cp>
+process management<yw>
+intelligent demand for retail chains
+vendor platforms<ly>
+other capability platforms<cp>
+pause
+soc
+industrial intelligence<ly>
+railway division
+a new engine of digital industry<cp>
+yuanrong<gs>
+electronic blood glucose meter<cp>
+home small scene scheme
+process industry automation control system<yw>
+gpio
+big data storage<yw>
+and manage efficiency
+horizon<gs>
+tourism and sports<ly>
+lenovo understands communication
+big data solution<cp>
+ai applications<cp>
+liteos<gs>
+aerospace technology airiot<cp>
+data service<cp>
+disaster prevention and early warning system<cp>
+smart irrigation<yw>
+partner iot gateway<cp>
+5g deterministic network industry alliance<zz>
+shared applications<ly>
+networking industry<ly>
+enterprise digital transformation end-to-end
+report management<yw>
+pending enable-stop
+beijing zhongjing zhiyuan technology development co.
+wanxiang blockchain<gs>
+public and life services<yw>
+high transaction throughput
+smart electric vehicle company<ly>
+green logistics<ly>
+stamping professional cloud<cp>
+saving resources
+device registration<yw>
+smart hospital<ly>
+enterprises
+high-speed rail subway public network coverage<yw>
+and isolate equipment
+multi-network wireless communication gateway<cp>
+smart gas meter<cp>
+cognitive intelligence value closed loop
+intelligent technology
+installation and maintenance<yw>
+the public cloud
+task configuration<yw>
+radio access network<yw>
+local industry development
+product development<yw>
+community service<yw>
+open platform service status
+ge healthcare<gs>
+open platform
+intelligent prediction<yw>
+fujitsu<gs>
+system-on-chip<cp>
+shared travel<yw>
+fiber optic technology<js>
+digital twin<js>
+dahua co.
+development-free solution<yw>
+hospital campus<ly>
+ict<ly>
+the internet of vehicles<ly>
+visual
+voice interaction technology<js>
+access and management of industrial equipment
+offline training
+rail transit automation business<yw>
+china information security certification center<jg>
+5g<js>
+new smart payment terminal<cp>
+<cp>
+common modules
+traffic management and control<yw>
+interviews with top scientists and entrepreneurs
+uwb positioning<js>
+digital marketing
+telecom ctwing<cp>
+apple homekit<cp>
+automotive front-loading<js>
+beijing daihaiyunchuan technology co.
+lora alliance<zz>
+a new generation of enterprise-level network security products and services<yw>
+related accessories<cp>
+vehicle electricity value separation + smart energy demonstration operation
+internet of everything<yw>
+landzo supos<cp>
+baoxin software xin3plat<cp>
+algorithm training service<yw>
+management systems
+operation service platform<cp>
+iflytek open platform<cp>
+intelligent equipment/high-end equipment<ly>
+hefei changxin<gs>
+langwen investment<jg>
+didi<gs>
+internet of things integrated solution<yw>
+security chip<cp>
+handwriting input<ly>
+brand
+high traffic
+the perception layer
+terminus technology group co.
+beijing internet of things intelligent technology application association<zz>
+social governance<ly>
+investment
+one-stop ot data governance capability<yw>
+industrial fieldbus<cp>
+safe production<ly>
+product modules
+artificial intelligence/big data<yw>
+vertical social information platforms
+standard services<yw>
+smart meteorological<js>
+mobile broadband
+craftsman qumios operating system<cp>
+gemalto<gs>
+human-machine collaborative perception api
+electric self-balancing vehicle<cp>
+cultural tourism ancient construction<ly>
+smart construction site<ly>
+7x24-hour wireless security control
+three core technologies
+smart community enterprise<ly>
+smart industry<>
+voice capability<yw>
+research and consulting project<yw>
+network security
+data visualization<yw>
+oem
+al community operation services<yw>
+access control machine<cp>
+industrial control security<ly>
+industrial microservices<yw>
+high-end sensor manufacturers
+lcd
+shared charging<yw>
+fifth-generation mobile communication network<js>
+smart finance<ly>
+and the process automation business<yw>
+optical sensors<cp>
+a new model of diabetes diagnosis and treatment o+o
+qwt smart core<gs>
+oracle<gs>
+the global intelligent connection management platform<cp>
+hown security<gs>
+alarm center<yw>
+intelligent<yw>
+technology product promotion
+basic communications
+kirin soc<cp>
+deployment mode
+software companies
+smart payment terminal equipment<cp>
+sky lake<cp>
+voice software and workflow<cp>
+baidu apollo<gs>
+integrated iot solutions<yw>
+ericsson terminal application testing laboratories<jg>
+gadget iot<gs>
+device-to-device connection
+optoelectronic systems<cp>
+schneider ecostruxure<cp>
+t3 mobility<gs>
+health and epidemic prevention<ly>
+iot end-to-end total solution services<yw>
+globally controllable<yw>
+technical alliances
+extremely high hardware configuration
+iot scenario application<cp>
+software and information technology service providers
+scenario-based joint solutions<ly>
+manufacturing
+consumer ssds<cp>
+elite iot platform<cp>
+soc chip<cp>
+and scene elastic expansion
+hanwei technology<gs>
+industrial real estate<ly>
+livestock tracking
+package management
+internet of things industry chain
+embedded pc controllers
+cambrian<gs>
+xinhua 3<gs>
+smart travel enterprise<ly>
+electronic information technology standardization work
+power supply
+orchestration deployment
+china merchants bank<gs>
+local iot industry associations
+trusted behavior
+ieee<zz>
+key life cycle management<yw>
+the tmt industry<ly>
+equipment counterfeiting risk
+household appliances
+end devices
+demand analysis<yw>
+epidemic prevention linkage visualization<yw>
+gsm/gprs modules<cp>
+and developing commissioning efficiency
+ai security application set<cp>
+bt<js>
+intelligent manufacturing<ly>
+cognitive intelligence value closed-loop
+international iot card<cp>
+multi-dimensional intelligent enabling service<yw>
+urban parks
+xj-b2a-a
+blockchain technology<js>
+ai+iot<js
+saas model
+decision-making and marketing services
+bi+ai technology<js>
+application management
+environmental sanitation<yw>
+gartner<>jg
+tianyi iot industry alliance<zz>
+fast response
+smart home appliance research and development<yw>
+smart home
+mediatek<gs>
+internet of things related terminals and equipment manufacturers
+application and landing
+the construction of new smart cities
+digitalization<yw>
+long service life
+application layer
+c-v2x<ly>
+industry services
+safety supervision<ly>
+development and o&m costs
+skyworth ultra-thin series q40 oled tv<cp>
+transmission grid<cp>
+n510<cp>
+local software
+portrait comparison<js>
+open interfaces<yw>
+industry demand
+smart city application industry research institute
+luoshu: integrated application center<cp>
+edge layer
+ccid<zz>
+industrial internet identification resolution secondary node<cp>
+common module
+fuzhou internet of things open laboratory<jg>
+wireless peripherals<ly>
+the aiot full data aggregation platform<cp>
+real estate<ly>
+<gs>of lutuo technology
+online taxi booking<yw>
+jinpeng group<gs>
+r&d innovation
+big health special committee
+data trusted on-chain<yw>
+mosco technology<gs>
+easyreach<gs>
+a cloud platform based on internet architecture<cp>
+community integrated information collection service<yw>
+capital and investment institution
+financial services
+intelligent system technology business<yw>
+smart cities<ly>
+environment
+it applications<ly>
+inspur<gs>
+fixed telephone<yw>
+cargo
+message/linkage service<yw>
+ecological front desk<ly>
+lenson<gs>
+marketing intelligent<yw>
+mobile phone case/batteryless dynamic photo frame<ly>
+enterprise saas services<yw>
+smart cultural tourism division
+red willow forest intelligent mine<cp>
+ideal car<gs>
+fresh jujube classroom<gs>
+integrated posture<yw>
+feicat zhilianflylink
+zte
+tianyi shares
+policy consultation<yw>
+<js>digital simulation
+instruction protection<yw>
+retail<ly>
+talent training
+smart banknotes
+myoelectric bracelet<cp>
+the luoshu platform<cp>
+sales<yw>
+wece with diabetes management solutions<cp>
+airpods<cp>
+star charging
+china telecom corporation iot branch<gs>
+autonomous driving technology mass production
+smart home communication protocol
+one-stop esim solution<yw>
+the wave of digital china construction
+haiyun data<gs>
+china academy of information and communications technology<gs>
+children's smartwatch<cp>
+future app<cp>
+patrol duty personnel
+mushroom circle iem<cp>
+huawei investment holdings co.
+industrial<ly>
+domestic and foreign internet of things technology and application results
+people pool
+nvc lighting<gs>
+inspur yunzhou industrial internet platform 2.0
+tree root interconnection technology co.
+quality service<yw>
+guangdong radio and television network development co.
+new iot concept
+advantech wise-paas<cp>
+cryptographic service<yw>
+business warehouse kanban<yw>
+terminal and card management
+it vendors
+intelligent control
+hardware series<cp>
+supply chain security<ly>
+the core technologies of the future digital economy industry
+sap (china) co.
+image recognition<ly>
+smart agriculture enterprise<ly>
+samsung electronics<gs>
+tree root interconnect technology co.
+intel<gs>
+and ai campus cloud<ly>
+and integrate the development of the whole industry chain
+liandi commercial<gs>
+equipment integration/operation and maintenance providers
+network slicing
+manufactures communication products<yw>
+honeywell<gs>
+and intelligentize urban governance
+smart community solutions<cp>
+the ontological security<of core hardware and software>
+journey 1<cp>
+smartwatch amazfit gtr 2e<cp>
+basic technologies
+g&d
+rfid<js>
+open tools
+elite road
+consulting<yw>
+security system<yw>
+protocol stack technical capabilities<js>
+vehicle transportation<ly>
+activated
+river diagram: data warehouse module and service<cp>
+chengyue technology<gs>
+netease easy numbers<gs>
+saas services<yw>
+unipower<cp>
+and a large amount of data generated during autonomous driving
+traffic management<yw>
+technology selection
+huichuan technology<gs>
+big data and cloud computing platforms<cp>
+cut-off<cp>
+new h3<gs>
+wi-fi passive internet of things<js>
+analytical information<yw>
+td tech<gs>
+access layer
+sdn<js>
+zhongrui sichuang<gs>
+intelligent hardware business<yw>
+dark light
+standardization organizations
+iot devices
+ecological construction
+saas + aiot technology<js>
+intelligent application
+virtual reality<js>
+backlight
+gree ai voice air conditioner<cp>
+underlying technologies
+project delivery time
+park business governance
+tsp<yw>
+the secondary development engine<cp>
+to b markets<ly>
+personnel
+shanghai municipal commission of economy and information technology<zz>
+learn historical decision-making and feedback<yw>
+wind farms
+energy management<yw>
+using bluetooth technology and bluetooth logo
+workflow development
+design
+public cloud saas<cp>
+more convenient personal mobile digital life
+transportation<yw>
+three centers
+compatibility
+farmer education<yw>
+the multi-format internetization of the scene
+zeta iot technology<js>
+smart business<ly>
+supermarkets<ly>
+product manufacturing
+smart home solution provider<ly>
+industrial safety<ly>
+telemedicine<ly>
+alibaba venture capital management co.
+energy & infrastructure<yw>
+medical health<ly>
+big data decision-making<js>
+software system platform<yw>
+china mobile hangzhou branch<gs>
+real-time stream computing<yw>
+intelligent technologies and means
+enterprise personalized service resources inside and outside the campus
+virtualized container architecture<js>
+ptc thingworx<cp>
+remote supervision<yw>
+doctor
+full-link data productivity platform<cp>
+advance warning<yw>
+customized real network test environment services
+hollysys<gs>
+communications & information<ly>
+luoshu platform<cp>
+commodity circulation
+capital
+intelligent manufacturing products and solution providers
+intelligent diagnosis<yw>
+service
+alliance blockchain underlying platform<cp>
+trucks
+oasis iot platform<cp>
+message management
+industry empowerment<yw>
+custom development effort
+energy allocation efficiency
+intelligent sweeping robot<cp>
+electrical<ly>
+the cooperative cloud platform<cp>
+data silos
+smart parking enterprises<ly>
+low power wide area network standard
+big data investment full life cycle management
+intelligent home entry<cp>
+industry solution cooperation and implementation<yw>
+education products<yw>
+china's chip market
+patented software<yw>
+cargo owners
+virtualized container architectures<js>
+image management<yw>
+insurance
+scales<cp>
+power management<yw>
+chip design and manufacturing
+smart manufacturing<ly>
+alibaba<gs>
+energy enterprises
+unmanned retail field<ly>
+data enablement<yw>
+soc chip<ly>
+big data self-service analysis<yw>
+ecological incubation<yw>
+bioassets<ly>
+flexibility
+parking simple<gs>
+software<cp>
+zetag wide-area sensing label<js>
+smart speaker tickasa<cp>
+shanghai tianlin 12 village smart community
+internet of things headlines
+unisoc zhanrui<gs>
+lighting<ly>
+3d face brushing payment device<cp>
+the original jingdong alpha platform<cp>
+fully connected factory<ly>
+business model
+part of facebook's brand
+the new smart city overall solution<yw>
+xiaomi smart home<yw>
+data runs through debugging
+cybersecurity<js>
+home blood glucose meters<cp>
+full-stack hardware and software solutions<cp>
+industrial iot platform<cp>
+mist cerebellum<cp>
+smart logistics<ly>
+mobile payments<js>
+product digitization
+air conditioning numerical control device<yw>
+business and social transformation and digitization
+downward connection to a large number of devices<yw>
+industrial manufacturers
+magnetic sensors<cp>
+umts
+intelligent industrial enterprise<ly>
+warehousing services<yw>
+standalone (sa) networking mode
+low-code industrial application enablement<yw>
+the seven sub-platforms of the architecture
+autonomous cv application building capabilities
+telecommunications ctwing
+related technologies
+pet products field<ly>
+qiandao lake (alibaba cloud) data center and other projects
+and refinement of security technology
+industry-related resources
+automated machine learning platform ai prophet automl<cp>
+consulting agency
+enterprise office
+intelligent management<yw>
+business integration operation service<yw>
+search engine
+lierda<gs>
+industrial practical experience
+is>by china overseas real estate<gs
+end-side
+31st chengdu universiade informatization integration
+private cloud deployment
+products and solutions
+internet
+edge industrial iot gateway<cp>
+frontier developments
+wireless four-meter set<ly>
+hybrid cloud architecture
+knowledge sharing
+human-computer interaction<yw>
+smart electric vehicles<cp>
+safety<ly>
+metallurgy
+railway transportation
+trading platform<ly>
+accounting
+clothing industry
+shipping<yw>
+shengzhe technology<gs>
+cetc group<gs>
+a compliance map
+fm160<cp>
+sierra<gs>
+jiangsu sanling<gs>
+operation and management of cross-regional power transmission
+standardization
+xcmg hanyun<cp>
+bluebird fire<gs>
+smart energy ecosystem<cp>
+point-of-sale<ly>
+5g & aiot devices<js>
+yonyou smart industrial internet platform 3.0<cp>
+power and consumer electronics<ly>
+gas<ly>
+city services<yw>
+lexing world<gs>
+xiaomi's iot developer platform<cp>
+high-end video security equipment<cp>
+framework<cp>
+data communication<ly>
+blood glucose
+industry research<ly>
+telecom<ly>
+software-defined security technology<js>
+health management<yw>
+data aggregation<ly>
+intelligent hvac<yw>
+credibility of operational behavior
+caltech space technology laboratory
+artificial intelligence algorithms<js>
+in-vehicle gateways<cp>
+smart agriculture iot<cp>
+smart locks
+medical devices<cp>
+yitu medical<ly>
+artificial intelligence products and solutions<yw>
+china mobile iot<gs>
+internet vendors
+smart medical<ly>
+security capabilities
+renewable energy<ly>
+coal
+aibox
+software and digital technology services<yw>
+opencpu solution<js>
+ministry of foreign affairs
+lenovo's communication<gs>
+knowledge decision system
+voice recognition<js>
+multimodal artificial intelligence<js>
+smart city solution<cp>
+iot<js>
+market research<yw>
+huierfeng<gs>
+industrial control platform<js>
+zeta<js>
+machine learning<yw>
+intelligent command<yw>
+construction of new energy vehicle charging network<yw>
+gdg group<gs>
+lovol heavy industries<gs>
+the smart wojia app mobile client
+the overall solution provider of the internet of things
+video surveillance<ly>
+data security
+a new generation of interactive experiential intelligent self-service operation<yw>
+trip protection
+multi-tenant permission management<yw>
+agv
+open platform<ly>
+motion control<cp>
+data security risks
+biomedicine<ly>
+truphone<gs>
+sinocare biologics<gs>
+wece bio<gs>
+maintenance platform<cp>
+and smart civil aviation<ly>
+rapid detection of chronic disease products<cp>
+intel (china) co.
+shenzhen bus group<gs>
+iot vendor platforms<ly>
+sirui technology<gs>
+operation management
+lynq brand wireless communication module<cp>
+industry custom terminal<yw>
+guangzhou orange xing intelligent automobile technology co.
+test and inspection<yw>
+ar glasses
+internet of things chips<ly>
+wojia shenyan intelligent terminal<cp>
+drone (vehicle) logistics delivery<yw>
+iot product development
+the paas service layer<cp>
+back-end secondary development<yw>
+visitor management<yw>
+r&d
+efficient management
+intelligent interactive display<yw>
+condition monitoring<ly>
+smart infrared detector<cp>
+smart water data cloud platform construction<yw>
+agricultural internet of things<ly>
+threat awareness<ly>
+electrical and electronic engineering<ly>
+bluetooth specification
+gsm/gprs<js>
+opc-ua<js>
+aiot + all-factor digital intelligence solution<cp>
+fully coordinate work
+the transformation and upgrading of traditional pillar industries
+drivers
+application development
+product driven
+sports events<ly>
+dialogue function<yw>
+visual security lamps<cp>
+integrated services
+electronic products and other communication equipment<yw>
+contract management<yw>
+uf elite<cp>
+it vendor platforms<ly>
+remote device management<yw>
+space-based<cp>
+intelligent car connection
+blockchain + iot technology integration model
+a real estate park complex project in chongqing
+community status
+hdl smart home solutions<cp>
+smart cities<>
+car companies
+implantation
+xinguodu payment<gs>
+independent intellectual property rights
+data and business open access interface
+industry applications<ly>
+ultra-low-power rf<js>
+consensus mechanism<js>
+smart home scenario solution<yw>
+odbc<js>
+ai investment cloud<cp>
+product-driven
+qingyan branch<gs>
+remote sensing technology<js>
+duplicate construction
+personal computers
+tianchi cloud security management platform<cp>
+texas instruments<gs>
+application areas
+business plan
+community management intelligent new form
+time-limited express<yw>
+services
+information technology<ly>
+ai algorithm deployment
+tag packaging
+antenna
+professional training<yw>
+national shield quantum
+smart items<ly>
+internet and artificial intelligence<ly>
+fluorite cloud<cp>
+intelligent automatic shopping experience
+water supply<ly>
+logistics
+artificial intelligence core chip<yw>
+disaster warning
+emerging technologies
+infocomm<js>
+ddos<js>
+mobike<gs>
+smart drying<cp>
+tdoa<js>
+water purifier<cp>
+related fields dry goods content
+project evaluation
+smart cold chain<ly>
+perceives the ability to interact
+payment<yw>
+smart vaults
+qunar<gs>
+the industrial manufacturer platform<ly>
+for application scenarios
+data collection-data analysis-data application
+antenna<cp>
+g7<gs>
+gb28181<js>
+aac technologies<gs>
+tws headsets<cp>
+ti<gs>
+base platform management<yw>
+computer data vision<js>
+scrap grading<ly>
+aerospace science and technology holding group co.
+lighting
+ict operation management<yw>
+aim<js>
+oppein home<gs>
+business<ly>
+comprehensive analysis and display
+the smart door lock system<cp>
+fluorite iot cloud platform<cp>
+top-level design of smart and safe city<yw>
+face recognition<ly>
+academician
+media campaign<yw>
+project implementation is difficult
+and smartwatches<ly>
+data intelligence analysis<js>
+zhongrui strong
+machine learning system
+smart park solutions<cp>
+management innovation
+ethos-u55<cp>
+aiot related fields
+internet of things professional books<yw>
+quanjin city<gs>
+2g module
+application demonstration<yw>
+iot security<yw>
+predictive models<yw>
+lorawan sensors<cp>
+bosch china investment co.
+jd.com<gs>
+owner identity
+urban administration<ly>
+identification
+software and hardware products
+medical image recognition<js>
+and the new energy vehicle company<ly>
+skyworth ultra clear series q40 oled tv<cp>
+technical work
+major gas companies<gs>
+ronshine real estate<gs>
+terminal intelligent processor ip<cp>
+community service resources
+smart wearable<ly>
+industry
+hardware sales<yw>
+ministry of housing and urban-rural development
+intelligent terminal equipment enterprise<ly>
+intelligent audio and video
+ai
+green high-energy lithium battery primary lithium battery<cp>
+cloud platform
+corded telephones<cp>
+aqara intelligent curtain motor<cp>
+yuanrong start<gs>
+data acquisition<yw>
+5g system and equipment suppliers
+based on ericsson's five global testing laboratories
+all mainstream mmwave frequency bands worldwide
+ai platform<ly>
+internet of vehicles service<cp>
+smart lock<cp>
+airport aviation<ly>
+park smart restaurant<yw>
+etcp parking<cp>
+servers of the users themselves
+heating<ly>
+tobacco and alcohol division
+smart payment terminal devices<cp>
+individual user needs
+<cp>smartphones
+public network intercom<ly>
+fire iot platform<ly>
+high/medium/low voltage switching applications and robotics<cp>
+transmission<yw>
+user demand
+the world's top competition in the field of computer science and artificial intelligence
+the security system<yw>
+angang<gs>
+industrial software<cp>
+industrial app store (h-ias pavilion daoxing)<cp>
+inter-satellite routing<js>
+network products
+digital services
+big data mining<yw>
+al community os<yw>
+mobile assistant<ly>
+discrete devices<cp>
+innovative startup
+alibaba cloud iot platform
+leading vendors
+oppo<gs>
+smart fire protection enterprise<ly>
+intelligent car paas and saas cloud services<yw>
+personnel management
+xiaomi mi tv<cp>
+platform + apps<ly>
+the trusted interconnection scenario of smart finance
+network identification
+intelligent perception technology<js>
+and plan together
+the full data aggregation platform of juxing aiot<cp>
+industry-level information flow<yw>
+the hdllink protocol<js>
+logistics resource predictive analysis<yw>
+edge gateways<cp>
+rules engine
+user's individual needs
+even layer party system<yw>
+embedded industrial computer<cp>
+and monetize revenue<yw>
+intel corporation<gs>
+yushi technology<gs>
+unmanned logistics solutions<cp>
+intelligent lighting<yw>
+cloud storage<ly>
+enables management<yw>
+and computer equipment<ly>
+aisen intelligent<gs>
+5g sa carrier aggregation test
+m2i device intelligent connection<yw>
+business subsystem
+machine vision recognition<js>
+video
+new h3c oasis iot platform<cp>
+intelligent security<ly>
+faw-volkswagen<gs>
+complex beauty<gs>
+function definitions<yw>
+community technology model development<yw>
+functional needs of everyday life
+iconic industry
+the human-machine cooperating operating system<ly>
+digital home<ly>
+third-generation security engine technology<js>
+shenzhen internet of things industry chain
+beautiful
+enterprise energy consumption information
+xintian technology<gs>
+great wall<gs>
+shared bicycle/motorcycle<cp>
+new energy vehicle charging equipment r & d and manufacturing<yw>
+smart hardware devices<ly>
+infrastructure software<yw>
+cambrian 1a<cp>
+fiber
+all-scenario data
+and scientific urban governance
+digital agriculture
+orchestration processes<yw>
+public service mobile development<yw>
+5g passive internet of things<js>
+whole machine
+remote leaf<js>
+public activity area monitoring<yw>
+medical blood glucose meters<cp>
+5g wireless communications<js>
+hedong technology<gs>
+standardized interface specifications
+advantech's<gs>
+dongxin heping<gs>
+niudian technology<gs>
+ai software<yw>
+noah iot platform<cp>
+one-stop aiot iot solution<cp>
+smart health<cp>
+fourth normal form<gs>
+products
+4g module
+trusted identity credentials for people and devices
+smart hardware products of xiaomi ecological chain enterprises
+intelligent fire<ly>
+providing smart cards<yw>
+in the field of pet supplies<ly>
+bluetooth sticker sensor<cp>
+digital china<gs>
+zhilian<gs>
+internet value-added services<yw>
+iot solutions<yw>
+network disconnect reminder<yw>
+fast development and update
+production and sales difference of water supply enterprises and dma zonal metering management<yw>
+new financing channels
+thiel labs<jg>
+agricultural automation<ly>
+network information security<ly>
+smart air conditioner<cp>
+special purpose printer related products<cp>
+dry fluorescence immunoassay analyzer<cp>
+sensing terminal access control<yw>
+smart entertainment industry<ly>
+security<ly>
+connectivity<iot home appliances>yw
+video library
+taxi<yw>
+intelligent warehouse management<yw>
+smart pos<cp>
+terminal hardware<cp>
+fast access
+video analysis<js>
+ggv<jg>capital
+the operation center<cp>
+engineering supervision<yw>
+the application development environment<cp>
+square card technology<gs>
+energy development and utilization<yw>
+uav monitoring
+multinational telecommunications operator
+community operation comprehensive analysis service<yw>
+mobile world congress
+wireless<ly>
+iot experimentation
+autonomous driving<js>
+watches<cp>
+scene recognition<js>
+textile<ly>
+power supply<yw>
+supports pay-as-you-go billing and traffic pooling mode
+kdd
+quan jincheng<gs>
+face maps<yw>
+tool<cp>
+hanwei electronics<gs>
+basic cryptography<yw>
+smart travel<ly>
+the park saves energy and reduces emissions
+china software evaluation center<jg>
+public utilities
+isp infrastructure<yw>
+cyber security<js>
+sunrise 1<cp>
+special software research and development<yw>
+hongyan constellation<gs>
+production test system<yw>
+thundercom unida<gs>
+smart security<>
+paas service capabilities
+memory circuits<cp>
+home security<yw>
+sensing layer
+the visual configuration engine<cp>
+rule engine<cp>
+iot product management<yw>
+energy<ly>
+aiot industry research institute<zz>
+in-vehicle data<yw>
+logistics system analysis and decision-making<yw>
+port devices<ly>
+multi-dimensional intelligent enabling services<yw>
+forklifts
+device key management<yw>
+smart bracelet<cp>
+real-time data synchronization<yw>
+device connectivity<yw>
+universal infrared remote control<cp>
+smart bedroom<yw>
+and complex application scenarios
+smart water meter
+sinotrans<gs>
+wisdom party building<>
+research and experience in electronic payment products and related technologies
+yuntian lifei<gs>
+aws wavelength<cp>
+honeywell
+audio-visual entertainment
+bolian intelligent<gs>
+universal support<yw>
+electronic health scales<cp>
+cat.1
+iot project operation
+edge-cloud convergence<ly>
+vertical fields
+paas service layer<cp>
+intelligent network capability<js>
+complete saas closed-loop and regional business closed-loop<yw>
+consulting
+lottery machine<yw>
+big data and cloud computing platform<cp>
+post-event response<yw>
+the hardware family<cp>
+china tongfu<gs>
+satellite
+data on-chain<yw>
+terminus ai city operating system<cp>
+enterprise server<ly>
+edge service governance mep<cp>
+parking management<yw>
+core technology
+neck headphones<cp>
+resource management is difficult
+object recognition<js>
+data security<yw>
+trusted service management platform<cp>
+the internet of things<ly>
+smart animal husbandry<ly>
+huami technology<gs>
+database all-in-one<ly>
+and is<ly>for industrial internet paas platforms
+regional edge data center
+iplat<cp>
+gnss<js>
+momenta<gs>
+mijia sweeping robot<cp>
+energy saving and emission reduction<ly>
+number of smart scenarios
+quantquant iot<gs>
+saas applications<ly>
+computing power scale
+the integrated management platform of smart park<cp>
+comfort<yw>
+hospitals
+cognition and expression<js>
+electronic industry control equipment<yw>
+home appliances internet of things field<ly>
+internet of things<js>
+modern service industry business<yw>
+home appliances in the field of internet of things<ly>
+smart contracts<js>
+our easyreach<gs>
+chronic disease management<ly>
+xiamen sichuang<gs>
+artificial intelligence chip modules<cp>
+security services<yw>
+data services<yw>
+driving behavior
+jialian payment<gs>
+tencent cloud basic products and ai capabilities
+developer platform<cp>
+massive applications
+edge manager mepm<cp>
+product service<yw>
+sinotruk<gs>
+self-driving cars<cp>
+lothub access<yw>
+industrial big data<yw>
+park investment information effective docking
+global spatiotemporal data
+cloud zhisheng<gs>
+assisted decision-making
+authentication services<yw>
+qingyan communications<gs>
+netyou mercenary<jg>
+sensor network node manufacturers

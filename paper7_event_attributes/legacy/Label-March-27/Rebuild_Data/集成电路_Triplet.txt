@@ -1,0 +1,1061 @@
+upstream: software and hardware materials and equipment,chip materials and equipment manufacturing enterprises*,chip core materials
+upstream: software and hardware materials and equipment,chip materials and equipment manufacturing enterprises*,chip design tools
+upstream: software and hardware materials and equipment,chip materials and equipment manufacturing enterprises*,chip core equipment
+upstream: hardware and software materials and equipment,ic design*,eda
+upstream: hardware and software materials and equipment,ic design*,ip
+upstream: hardware and software materials and equipment,ic design*,mask manufacturing
+downstream: ic products and applications,integrated circuit applications*,computer<ly>
+downstream: ic products and applications,integrated circuit applications*,network communications<ly>
+downstream:ic products & applications,ic applications*,<ly>consumer electronics
+downstream: ic products and applications,integrated circuit applications*,automotive electronics<ly>
+downstream:ic products & applications,ic applications*<ly>*,industrial
+downstream: ic products and applications,ic packaging and testing*,semiconductor equipment
+downstream: ic products and applications,ic packaging and testing*,mask manufacturing
+downstream: ic products and applications,ic packaging and testing*,semiconductor materials
+downstream: ic products and applications,ic packaging and testing*,taiwan ase<gs>
+downstream: ic products and applications,ic packaging and testing*,ankor<gs>
+downstream: ic products and applications,ic packaging and testing*,jiangsu changjian technology<gs>
+downstream: ic products and applications,ic packaging and testing*,silicon technology<gs>
+downstream: ic products and applications,ic packaging and testing*,taiwan pti technology<gs>
+downstream: ic products and applications,ic packaging and testing*,gansu tianshui huatian<gs>
+downstream: ic products and applications,ic packaging and testing*,jiangsu nantong<gs>
+downstream: ic products and applications,ic packaging and testing*,rich microelectronics<gs>
+downstream: ic products and applications,ic packaging and testing*,taiwan jingyuan electronics<gs>
+downstream: ic products and applications,ic packaging and testing*,joint testing<gs>
+downstream: ic products and applications,ic packaging and testing*,taiwan nanmao technology<gs>
+downstream: ic products and applications,ic packaging and testing*,singapore united technology<gs>
+downstream: ic products and applications,ic packaging and testing*,taiwan qibang technology<gs>
+downstream: ic products and applications,ic packaging and testing*,jiangsu nantong fujitsu microelectronics<gs>
+downstream: ic products and applications,ic packaging and testing*,south korea's nepes<gs>
+downstream: ic products and applications,ic packaging and testing*,malaysia unisem<gs>
+downstream: ic products and applications,ic packaging and testing*,suzhou wafer square semiconductor technology<gs>
+downstream: ic products and applications,ic packaging and testing*,shenzhen qipai technology<gs>
+downstream: ic products and applications,ic packaging and testing*,wuxi cr axa<gs>
+downstream: ic products and applications,ic packaging and testing*,guangdong fenghuaxin electric<gs>
+midstream: ic design and production,ic design*,huawei hisilicon<gs>
+midstream: ic design and production,ic design*,cambrian technology<gs>
+midstream: ic design and production,integrated circuit design*,allwinner technology<gs>
+midstream: ic design and production,integrated circuit design*,zhongke xin<gs>
+midstream: ic design and production,ic manufacturing*,smic<gs>
+midstream: ic design and production,integrated circuit manufacturing*,tsmc<gs>
+midstream: ic design and production,integrated circuit manufacturing*,hua hong group<gs>
+midstream: ic design and production,integrated circuit manufacturing*,shanghai beiling<gs>
+midstream: ic design and production,ic manufacturing*,china wafer square technology<gs>
+midstream: ic design and production,integrated circuit manufacturing*,tongfu microelectric<gs>
+midstream: ic design and production,integrated circuit manufacturing*,hynix<gs>
+midstream: ic design and production,ic manufacturing*,semiconductor equipment
+midstream: ic design and production,ic manufacturing*,mask manufacturing
+midstream: ic design and production,ic manufacturing*,semiconductor materials
+midstream: ic design and production,ic manufacturing*,tsmc taiwan<gs>
+middle reaches:ic design & manufacturing,ic manufacturing*,globalfoundries
+middle reaches:ic design & production,ic manufacturing*,taiwan<gs>umc
+midstream: ic design and production,ic manufacturing*,samsung<gs>korea
+middle reaches:ic design & manufacturing,ic manufacturing*,<gs>smic
+midstream: ic design and production,ic manufacturing*,taiwan lijing technology<gs>
+middle reaches:ic design & production,ic manufacturing*,<gs>tower jazz
+middle reaches:ic design & manufacturing,ic manufacturing*,<gs>vanguard
+midstream: ic design and production,ic manufacturing*,shanghai huahong hongli<gs>
+midstream: ic design and production,ic manufacturing*,fujitsu japan<gs>
+middle reaches:ic design & manufacturing,ic manufacturing*,intel<gs>
+midstream: ic design and production,ic manufacturing*,wuxi hynix<gs>
+midstream: ic design and production,ic manufacturing*,yangtze river storage technology<gs>
+midstream: ic design and production,ic manufacturing*,shanghai asmc<gs>
+midstream: ic design and production,ic manufacturing*,china resources shanghua technology<gs>
+midstream: ic design and production,ic manufacturing*,shanghai huali microelectronics<gs>
+integrated circuit products,mcu microcontroller units<cp>*,renesas<gs>
+integrated circuit products,mcu microcontroller units<cp>*,nxp<gs>
+integrated circuit products,mcu microcontroller units<cp>*,infineon<gs>
+integrated circuit products,mcu microcontroller units<cp>*,stmicroelectronics<gs>
+integrated circuit products,mcu microcontroller units<cp>*,microchips<gs>
+integrated circuit products,mcu microcontroller units<cp>*,texas instruments<gs>
+integrated circuit products,mcu microcontroller unit<cp>*,zhongying technology<gs>
+integrated circuit products,mcu microcontroller units<cp>*,gigadevice<gs>
+integrated circuit products,mcu microcontroller units<cp>*,microcontrollers
+integrated circuit products,mpu microprocessor units<cp>*,enhanced cpus
+integrated circuit products,dsp chips<cp>*,dsp digital signal processing<cp>
+integrated circuit products,dsp chips<cp>*,texas instruments<gs>
+integrated circuit products,dsp chips<cp>*,analog devices<gs>
+integrated circuit products,dsp chips<cp>*,qualcomm<gs>
+integrated circuit products,dsp chips<cp>*,nxp<gs>
+integrated circuit products,dsp chips<cp>*,cirrus logic<gs>
+integrated circuit products,dsp chips<cp>*,st<gs>
+integrated circuit products,dsp chips<cp>*,chiplon<gs>
+integrated circuit products,dsp chips<cp>*,zhongxing microelectronics<gs>
+integrated circuit products,dsp chips<cp>*,core electronics<gs>
+integrated circuit products,dsp chips<cp>*,cetc<gs>
+integrated circuit products,soc chips<cp>*,system-on-chips
+integrated circuit products,soc chips<cp>*,qualcomm<gs>
+integrated circuit products,soc chips<cp>*,mediatek<gs>
+integrated circuit products,soc chips<cp>*,samsung<gs>
+integrated circuit products,soc chips<cp>*,nvidia<gs>
+integrated circuit products,soc chips<cp>*,hisilicon<gs>
+integrated circuit products,soc chips<cp>*,amlogic<gs>
+integrated circuit products,soc chips<cp>*,rockchip<gs>
+integrated circuit products,soc chips<cp>*,unigroup chenrui<gs>
+integrated circuit products,soc chips<cp>*,junzheng<gs>
+integrated circuit products,soc chips<cp>*,allwinner<gs>
+integrated circuit products,soc chips<cp>*,system-on-chip
+integrated circuit products,gpus*,cpus
+integrated circuit products,gpus*,the era of artificial intelligence
+integrated circuit products,gpu*,gpu industry chain
+integrated circuit products,gpus*,gpu computing power
+integrated circuit products,gpus*,alus
+chip materials and equipment manufacturing enterprises,chip core materials*,wafer manufacturing materials
+chip materials and equipment manufacturing enterprises,chip core materials*,chip packaging materials
+chip materials and equipment manufacturing enterprises,chip core materials*,substrate materials
+chip materials and equipment manufacturing enterprises,chip core materials*,epitaxial wafer materials
+chip materials and equipment manufacturing enterprises,chip core materials*,electronic special gases
+chip materials and equipment manufacturing enterprises,chip core materials*,lithographic materials
+chip materials and equipment manufacturing enterprises,chip core materials*,zhonghuan co.
+chip materials and equipment manufacturing enterprises,chip core materials*,leon microelectronics<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,jinan optoelectronics<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,huate gas<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,nanda optoelectronics<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,jiangfeng electronics<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,research new materials<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,jiangsu ruihong<gs>
+chip materials and equipment manufacturing enterprises,chip core materials*,jingrui co.
+chip materials and equipment manufacturing enterprises,chip design tools*,bgi nine days<gs>
+chip materials and equipment manufacturing enterprises,chip design tools*,xinhe technology<gs>
+chip materials and equipment manufacturing enterprises,chip design tools*,guangli microelectronics<gs>
+chip materials and equipment manufacturing enterprises,chip core equipment*,wafer manufacturing equipment
+chip materials and equipment manufacturing enterprises,chip core equipment*,chip packaging and testing equipment
+chip materials and equipment manufacturing enterprises,chip core equipment*,naura<gs>
+chip materials and equipment manufacturing enterprises,chip core equipment*,shenyang jingtuo<gs>
+chip materials and equipment manufacturing enterprises,chip core equipment*,amec<gs>
+chip materials and equipment manufacturing enterprises,chip core equipment*,to pure technology<gs>
+chip materials and equipment manufacturing enterprises,chip core equipment*,core source micro<gs>
+ic design,eda*,samsung<gs>
+ic design,eda*,intel<gs>
+ic design,eda*,hynix<gs>
+ic design,eda*,micron<gs>
+ic design,eda*,broadcom<gs>
+ic design,eda*,qualcomm<gs>
+ic design,eda*,toshiba<gs>
+ic design,eda*,texas instruments<gs>
+ic design,eda*,nvidia<gs>
+ic design,eda*,western digital<gs>
+ic design,eda*,nxp<gs>
+ic design,eda*,infineon<gs>
+ic design,eda*,stmicroelectronics<gs>
+ic design,eda*,apple<gs>
+ic design,ip*,huawei hisilicon<gs>
+ic design,ip*,spreadtrum<gs>
+ic设计,ip*,rda<gs>
+ic design,ip*,bgi semiconductor<gs>
+ic design,ip*,datang telecom<gs>
+ic design,ip*,national technology<gs>
+ic design,ip*,goodix<gs>
+ic design,ip*,zhongxing microelectronics<gs>
+ic design,ip*,beijing junzheng<gs>
+ic design,ip*,omnivision technology<gs>
+ic design,ip*,duntai electronics<gs>
+ic design,ip*,rockchip<gs>
+ic design,ip*,allwinner technology<gs>
+ic design,ip*,gigadevice<gs>
+ic manufacturing,semiconductor equipment*,applied materials<gs>
+ic manufacturing,semiconductor equipment*,lam research<gs>
+ic manufacturing,semiconductor equipment*,tokyo electror<gs>
+ic manufacturing,semiconductor equipment*,dutch asml<gs>
+ic manufacturing,semiconductor equipment*,u.s. kla-trencor<gs>
+ic manufacturing,semiconductor equipment*,screen<gs>
+ic manufacturing,semiconductor equipment*,korean semes<gs>
+ic manufacturing,semiconductor equipment*,hitachi high-tech<gs>
+ic manufacturing,semiconductor equipment*,hitachi international electric<gs>
+ic manufacturing,semiconductor equipment*,daifuku<gs>
+ic manufacturing,semiconductor equipment*,asm international<gs>
+ic manufacturing,semiconductor equipment*,nikon<gs>
+ic manufacturing,semiconductor equipment*,cetc electronic equipment<gs>
+ic manufacturing,semiconductor equipment*,zhejiang jingsheng electromechanical<gs>
+ic manufacturing,semiconductor equipment*,shenzhen jiejia weichuang<gs>
+ic manufacturing,semiconductor equipment*,beijing north huachuang<gs>
+ic manufacturing,semiconductor equipment*,micro semiconductor equipment<gs>
+ic manufacturing,semiconductor equipment*,shanghai microelectronics<gs>
+ic manufacturing,semiconductor equipment*,beijing jingyuntong<gs>
+ic manufacturing,semiconductor equipment*,zhejiang tiantong jicheng<gs>
+ic manufacturing,semiconductor equipment*,shengmei semiconductor<gs>
+ic manufacturing,semiconductor equipment*,granda<gs>
+mcu microcontroller units<cp>,applications*,automotive<ly>
+mcu microcontroller units<cp>,applications*,consumer electronics<ly>
+mcu microcontroller unit<cp>,application*,industrial control<ly>
+mcu microcontroller unit<cp>,application*,medical<ly>
+mpu microprocessor unit<cp>,enhanced cpu*,intel<gs>
+mpu microprocessor unit<cp>,enhanced cpu*,apple<gs>
+mpu microprocessor unit<cp>,enhanced cpu*,qualcomm<gs>
+mpu microprocessor unit<cp>,enhanced cpu*,amd<gs>
+mpu microprocessor unit<cp>,enhanced cpu*,mediatek<gs>
+mpu microprocessor unit<cp>,enhanced cpu*,unisoc<gs>
+mpu microprocessor unit<cp>,enhanced cpu*,huawei hisilicon<gs>
+dsp chips<cp>,dsp digital signal processing<cp>*,digital signals
+dsp chips<cp>,applications*,communication<ly>
+dsp chips<cp>,applications*,computing<ly>
+dsp chips<cp>,applications*,consumer electronics<ly>
+dsp chip<cp>,application*,automatic control<ly>
+soc chips<cp>,system-on-chips*,general-purpose chips
+soc chip<cp>,system-on-chip*,system-level code
+soc chips<cp>,applications*,smartphones<ly>
+soc chips<cp>,applications*,smart home appliances<ly>
+soc chips<cp>,applications*,smart cockpits<ly>
+soc chips<cp>,applications*,smart logistics<ly>
+gpu,cpu*,digital chip
+gpu,associated products*,games
+gpu,associated products*,film and tv special effects
+gpu,associated products*,smart ad delivery
+gpu,associated products*,product recommendation scenarios
+gpu,related products*,intelligent driving scenarios
+chip core equipment,wafer fabrication equipment*,ion implantation equipment
+chip core equipment,wafer fabrication equipment*,thin film deposition equipment
+chip core equipment,wafer fabrication equipment*,cleaning equipment
+chip core equipment,chip packaging and testing equipment*,changjian technology<gs>
+chip core equipment,chip packaging and testing equipment*,silicon wafer technology<gs>
+chip core equipment,chip packaging and testing equipment*,huatian technology<gs>
+chip core equipment,chip packaging and testing equipment*,futong micro<gs>
+enhanced cpu,apps*,consumer electronics<ly>
+enhanced cpu,apps*,iot<ly>
+enhanced cpu,apps*,mobile<ly>
+enhanced cpu,apps*,pc<ly>
+dsp digital signal processing<cp>,digital signals*,communication<ly>
+dsp digital signal processing<cp>,digital signal*,computer<ly>
+dsp digital signal processing<cp>,digital signal*,consumer electronics<ly>
+system-on-chip,general-purpose chip*,highly integrated
+cpu,digital chip*,core chip
+gpu industry chain,upstream industry chain (manufacturing)*,software and hardware materials and equipment
+gpu industry chain,midstream industry chain (ic design and production)*,gpu chip design factory
+gpu industry chain,midstream industry chain (ic design and production)*,gpu chips
+gpu industry chain,midstream industry chain (ic design and production)*,idm
+gpu industry chain,midstream industry chain (ic design and production)*,gpu penetration
+gpu industry chain,midstream industry chain (ic design and production)*,semiconductor ic design
+gpu industry chain,midstream industry chain (ic design and production)*,semiconductor ic manufacturing
+gpu industry chain,midstream industry chain (ic design and production)*,semiconductor ic packaging and testing
+gpu industry chain,midstream industry chain (ic design and production)*,semiconductor ic production
+gpu industry chain,downstream industry chain*,ic products and applications
+cmp polishing materials,polishing pads<cp>*,dow chemical<gs>
+cmp polishing materials,polishing pads<cp>*,cabot<gs>
+cmp polishing materials,polishing pads<cp>*,thomas west<gs>
+cmp polishing material,polishing pad<cp>*,fujibun<gs>
+cmp polishing material,polishing pad<cp>*,japanese jsr<gs>
+cmp polishing material,polishing liquid<cp>*,japan fujimi<gs>
+cmp polishing material,polishing fluid<cp>*,hinomoto<gs>
+cmp polishing materials,polishing fluid<cp>*,kenmazai<gs>
+cmp polishing material,polishing fluid<cp>*,american cabot<gs>
+cmp polishing material,polishing fluid<cp>*,dupont<gs>
+cmp polishing materials,polishing fluid<cp>*,rodel<gs>
+cmp polishing material,polishing fluid<cp>*,eka<gs>
+cmp polishing material,polishing liquid<cp>*,korean ace<gs>
+cmp polishing material,polishing liquid<cp>*,anji microelectronics<gs>
+cmp polishing material,polishing fluid<cp>*,first new material<gs>
+cmp polishing material,polishing liquid<cp>*,dinglong shares<gs>
+software and hardware materials and equipment,supplier*,<gs>tsmc
+software and hardware materials and equipment,supplier*,<gs>samsung electronics
+software and hardware materials and equipment,supplier*,hon hai<gs>precision
+software and hardware materials and equipment,supplier*,<gs>smic
+software and hardware materials and equipment,suppliers*,taiwan union<gs>
+hardware and software materials and equipment,suppliers*,intel<gs>
+software and hardware materials and equipment,technical services*,modular
+hardware and software materials and equipment,eda tools*,electronic design automation
+software and hardware materials and equipment,eda tools*,eda tool manufacturers
+idm,power semiconductor devices<yw>*,jilin hua microelectronics<gs>
+idm,power semiconductor devices<yw>*,china resources microelectronics<gs>
+idm,power semiconductor devices<yw>*,shenzhen love semiconductor<gs>
+idm,power semiconductor devices<yw>*,avic microelectronics<gs>
+idm,power semiconductor devices<yw>*,zhuzhou crrc times electric<gs>
+idm,power semiconductor devices<yw>*,hubei taiji semiconductor<gs>
+idm,power semiconductor devices<yw>*,nexperia<gs>
+idm,semiconductor discretes<yw>*,tianshui tianguang semiconductor<gs>
+idm,semiconductor discretes<yw>*,suzhou goodtechium electronics<gs>
+idm,semiconductor discrete devices<yw>*,yangzhou yangjie electronic technology<gs>
+idm,cidm mode*,co-construction and sharing
+idm,cidm model*,singapore tech<gs>
+gpu penetration,necessary conditions for improvement*,the emergence of downstream application terminals
+gpu penetration,necessary conditions for improvement*,emergence of downstream use cases
+semiconductor ic design,physical design layout*,front-end design (logic design).
+semiconductor ic design,physical design layout*,back-end design (physical design).
+semiconductor ic design,fabless*,light fab mode fablite
+semiconductor ic manufacturing,wafer foundry*,tsmc<gs>
+semiconductor ic manufacturing,foundry*,tower<gs>
+semiconductor ic manufacturing,foundry*,vis<gs>
+semiconductor ic manufacturing,wafer foundry*,techonline<gs>
+semiconductor ic manufacturing,wafer foundry*,win<gs>
+semiconductor ic manufacturing,foundry*,umc<gs>
+semiconductor ic manufacturing,wafer foundries*,global foundries<gs>
+semiconductor ic manufacturing,foundry*,psmc<gs>
+semiconductor ic manufacturing,foundry*,cansemi<gs>
+semiconductor ic manufacturing,foundry*,smic<gs>
+semiconductor ic manufacturing,wafer foundry*,hua hong group<gs>
+semiconductor ic manufacturing,wafer foundry*,shanghai jita semiconductor co.
+semiconductor ic manufacturing,wafer foundry*,silan<gs>
+semiconductor cs manufacturing,wafer foundry*,cr micro<gs>
+semiconductor ic manufacturing,foundry*,nexchip<gs>
+semiconductor ic manufacturing,wafer foundry*,shenzhen founder microelectronics co.
+semiconductor ic manufacturing,wafer foundry*,smec<gs>
+semiconductor ic manufacturing,wafer foundry*,300mm/12 wafer foundry
+semiconductor ic manufacturing,wafer foundry*,200mm/8 wafer foundry
+semiconductor ic manufacturing,wafer foundry*,<=150mm/6 foundry
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,ase<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,amkor technology<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,jcet<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,pti<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,powertech<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,tongfu microelectric<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,huatian technology<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,chipbond<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,kyec<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,huawei electronics<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,chipmos<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,crystal microelectronics<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,yangjie technology<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,utac<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,good-ark<gs>
+semiconductor ic packaging and testing,global ic packaging and testing industry pattern*,yong si electronics<gs>
+semiconductor ic packaging and testing,packaging links*,integrated circuits
+semiconductor ic packaging and testing,idm mode*,vertical integration
+semiconductor ic packaging and testing,osat mode*,outsourcing semiconductor product packaging and testing
+semiconductor ic production,semiconductor front-end production control software market*,ibm<gs>
+semiconductor ic production,semiconductor front-end production control software market*,applied materials<gs>
+semiconductor ic production,software level*,cim<js>
+ic products & applications,mobile phone/pc/game host manufacturers*,digital ics
+ic products & applications,mobile phone/pc/game console manufacturers*,analog ics
+ic products & applications,automotive manufacturers*,digital ics
+ic products & applications,automotive manufacturers*,analog ics
+ic products & applications,industrial control*,digital ics
+ic products & applications,industrial control*,analog ics
+ic products & applications,cloud services*,digital ics
+ic products & applications,artificial intelligence*,digital ics
+ic products & applications,artificial intelligence*,analog ics
+ic products & applications,internet of things*,digital ics
+ic products & applications,iot*,analog ics
+ic products and applications,new energy power generation*,analog ics
+ic products and applications,representative manufacturers*,asus<gs>
+ic products and applications,representing manufacturers*,microsoft<gs>
+ic products and applications,representing manufacturers*,google<gs>
+ic products & applications,digital circuits*,discrete digital signals
+ic products & applications,digital circuits*,memory circuits
+ic products & applications,digital circuits*,logic circuits
+ic products and applications,digital circuits*,east and west calculation
+ic products and applications,digital circuits*,the internet of everything
+ic products & applications,digital circuits*,artificial intelligence
+ic products & applications,analog circuits*,continuous analog signals
+ic products and applications,analog circuits*,lack of core
+ic products & applications,analog circuits*,<gs>texas instruments
+ic products & applications,analog circuits*,<gs>adno
+ic products & applications,analog circuits*,<gs>scarstar
+ic products & applications,analog circuits*,<gs>infineon
+ic products and applications,analog circuits*,stmicroelectronics<gs>
+ic products & applications,analog circuits*,<gs>nxp
+ic products & applications,analog circuits*,maxim<gs>
+ic products & applications,analog circuits*,<gs>on semiconductor
+ic products & applications,analog circuits*,<gs>microchips
+ic products and applications,analog circuits*,renesas<gs>
+ic products and applications,analog circuits*,information processing intermediaries
+ic products and applications,third generation semiconductor*,sic
+ic products and applications,3rd generation semiconductors*,gan
+ic products and applications,3rd generation semiconductor*,zno
+ic products and applications,3rd generation semiconductor*,1st generation semiconductor
+ic products and applications,3rd generation semiconductors*,2nd generation semiconductors
+eda tools,electronic design automation*,synopsys<gs>
+eda tools,electronic design automation*,cadence<gs>
+eda tools,electronic design automation*,siemens<gs>
+eda tools,electronic design automation*,empyrean<gs>
+eda tools,electronic design automation*,ansys<gs>
+eda tools,electronic design automation*,muneda<gs>
+eda tools,electronic design automation*,primarius<gs>
+eda tools,electronic design automation*,keysight<gs>
+eda tools,electronic design automation*,emitronix<gs>
+eda tools,electronic design automation*,robei<gs>
+eda tools,electronic design automation*,cellix<gs>
+eda tools,electronic design automation*,pulsic<gs>
+eda tools,electronic design automation*,xpeedic<gs>
+eda tools,electronic design automation*,vlsi chips
+eda tools,electronic design automation*,computer software
+eda tools,electronic design automation*,generalized cad
+eda tools,electronic design automation*,cae for computer aided engineering
+eda tools,electronic design automation*,high-level language descriptions<js>
+eda tools,electronic design automation*,system-level simulation<js>
+eda tools,eda tool manufacturers*,universities
+eda tools,as the cornerstone of the industry*,integrated circuits
+eda tools,as the cornerstone of the industry*,electronic information
+eda tools,development barriers*,talent
+eda tools,barriers to development*,technology
+eda tools,development barriers*,funding
+eda tools,barriers to development*,ecology
+semiconductor equipment<cp>,equipment manufacturing*,applied materials<gs>
+semiconductor equipment<cp>,equipment manufacturing*,us lam<gs>
+semiconductor equipment<cp>,equipment manufacturing*,dutch asml<gs>
+semiconductor equipment<cp>,equipment manufacturing*,tel<gs>
+semiconductor equipment<cp>,equipment manufacturing*,cetc<gs>
+semiconductor equipment<cp>,equipment manufacturing*,naura<gs>
+semiconductor equipment<cp>,equipment manufacturing*,jsg<gs>
+semiconductor equipment<cp>,equipment manufacturing*,amec<gs>
+semiconductor equipment<cp>,equipment manufacturing*,oxidation furnaces
+semiconductor equipment<cp>,equipment manufacturing*,rtp equipment
+semiconductor equipment<cp>,equipment manufacturing*,gluing and developing equipment
+semiconductor equipment<cp>,equipment manufacturing*,lithography machines
+semiconductor equipment<cp>,equipment manufacturing*,etching machines
+semiconductor equipment<cp>,equipment manufacturing*,ion degluing machines
+semiconductor equipment<cp>,equipment manufacturing*,ion implanters
+semiconductor equipment<cp>,equipment manufacturing*,thin film deposition equipment
+semiconductor equipment<cp>,equipment manufacturing*,cmp equipment
+semiconductor equipment<cp>,equipment manufacturing*,brushing machines
+semiconductor equipment<cp>,equipment manufacturing*,probe stations
+semiconductor equipment<cp>,equipment manufacturing*,testing machines
+semiconductor equipment<cp>,equipment manufacturing*,cleaning equipment
+semiconductor equipment<cp>,equipment manufacturing*,measurement equipment
+semiconductor equipment<cp>,equipment manufacturing*,probing equipment
+semiconductor equipment<cp>,equipment manufacturing*,gas phase epitaxial furnaces
+semiconductor equipment<cp>,equipment packaging and testing*,kla+<gs>
+semiconductor equipment<cp>,equipment packaging and testing*,japan hitachi<gs>
+semiconductor equipment<cp>,equipment packaging and testing*,jingce<gs>
+semiconductor equipment<cp>,equipment packaging and testing*,thinning machines
+semiconductor equipment<cp>,equipment packaging and testing*,film applicators
+semiconductor equipment<cp>,equipment packaging and testing*,stripping machine
+semiconductor equipment<cp>,equipment packaging and testing*,wafer mounters
+semiconductor equipment<cp>,equipment packaging and testing*,dicing machines
+semiconductor equipment<cp>,equipment packaging and testing*,placement machines
+semiconductor equipment<cp>,equipment packaging and testing*,curing equipment
+semiconductor equipment<cp>,equipment packaging and testing*,welding machines
+semiconductor equipment<cp>,equipment packaging and testing*,plastic packaging machines
+semiconductor equipment<cp>,equipment packaging and testing*,rib cutting molding machine
+semiconductor equipment<cp>,equipment packaging and testing*,sorting machines
+semiconductor equipment<cp>,equipment packaging and testing*,testing machines
+semiconductor equipment<cp>,equipment packaging and testing*,aoi
+semiconductor equipment<cp>,equipment packaging and testing*,wire bonding machines
+semiconductor equipment<cp>,equipment packaging and testing*,laser marking machine
+semiconductor equipment<cp>,equipment packaging and testing*,electroplating equipment
+semiconductor equipment<cp>,equipment packaging and testing*,annealed donkeys
+semiconductor equipment<cp>,equipment packaging and testing*,probe stations
+semiconductor materials<cp>,materials manufacturing*,japan shin-etsu<gs>
+semiconductor materials<cp>,materials manufacturing*,nsic<gs>
+semiconductor materials<cp>,materials manufacturing*,lion<gs>
+semiconductor materials<cp>,materials manufacturing*,anji<gs>
+semiconductor materials<cp>,material packaging and testing*,mht<gs>
+semiconductor materials<cp>,material packaging and testing*,kyocera<gs>
+semiconductor materials<cp>,material packaging and testing*,henkel<gs>
+semiconductor materials<cp>,material packaging and testing*,lead<gs>
+unigroup<gs>,main product business*,memory chip<yw>
+tianjin central<gs>,main product business*,high-voltage devices<yw>
+tianjin zhonghuan<gs>,main product business*,power integrated circuits and devices<yw>
+hangzhou silan integrated circuit<gs>,main product business*,mems sensor<yw>
+hangzhou silan ic<gs>,main product business*,high-voltage integrated circuit<yw>
+hangzhou silan integrated circuit<gs>,main product business*,power device<yw>
+shanghai beiling<gs>,main product business*,power management ic<yw>
+shanghai beiling<gs>,main product business*,smart metering and soc<yw>
+shanghai beiling<gs>,main product business*,non-volatile memory<yw>
+shanghai beiling<gs>,main product business*,power device<yw>
+shanghai beiling<gs>,main product business*,high-speed high-precision adc<yw>
+byd microelectronics<gs>,main product business*,power semiconductor devices<yw>
+byd microelectronics<gs>,main product business*,igbt power module<yw>
+byd microelectronics<gs>,main product business*,power management ic<yw>
+byd microelectronics<gs>,main product business*,cmos image sensor<yw>
+byd microelectronics<gs>,main product business*,sensing control ic<yw>
+byd microelectronics<gs>,main product business*,audio and video processing ic<yw>
+cidm model,china cidm*,qingdao xinen<gs>
+cidm model,china cidm*,guangzhou haixin<gs>
+civilian gpu,mobile phone field<ly>*,smartphones
+civilian gpu,personal computer field<ly>*,personal computer gpu
+civilian gpu,server field<ly>*,server gpu
+civilian gpu,automotive field<ly>*,autonomous driving gpu
+military gpu,military field<ly>*,jingjiawei<gs>
+military gpu,military field<ly>*,military aircraft
+military gpu,military field<ly>*,avionics system
+military gpu,military field<ly>*,gpu m9 chip<cp>
+physical design layout,front-end design (logic design)*,specification development
+physical design layout,front-end design (logical design)*,architecture determination
+physical design layout,front-end design (logic design)*,hdl coding
+physical design layout,front-end design (logic design)*,simulation verification
+physical design layout,front-end design (logical design)*,logical synthesis
+physical design layout,front-end design (logic design)*,sta
+physical design layout,front-end design (logical design)*,formal verification
+physical design layout,back-end design (physical design)*,dft
+physical design layout,back-end design (physical design)*,layout planning
+physical design layout,back-end design (physical design)*,cts
+physical design layout,back-end design (physical design)*,wiring
+physical design layout,back-end design (physical design)*,parasitic parameter extraction
+physical design layout,back-end design (physical design)*,layout physical verification
+fabless,digital circuits*,broadcom<gs>
+fabless,digital circuits*,qualcomm<gs>
+fabless,digital circuits*,mediatek<gs>
+fabless,digital circuits*,nvidia<gs>
+fabless,digital circuits*,amd<gs>
+fabless,digital circuit*,unisoc zhanrui<gs>
+fabless,digital circuits*,hisilicon<gs>
+fabless,digital circuit*,yangtze river storage<gs>
+fabless,digital circuit*,jingjiawei<gs>
+fabless,analog circuits*,texas instruments<gs>
+fabless,analog circuits*,analog devices<gs>
+fabless,analog circuits*,infineon<gs>
+fabless,analog circuits*,omnivision<gs>
+fabless,analog circuits*,maxscend<gs>
+fabless,analog circuit*,awinic<gs>
+fabless,analog circuits*,shengbang microelectronics<gs>
+fabless,analog circuit*,3peak<gs>
+fabless,analog circuits*,silercy<gs>
+wafer foundry,upstream procurement supplier core*,ic manufacturing equipment
+foundry,upstream procurement supplier core*,ic manufacturing materials
+wafer foundry,downstream customer core*,fabless manufacturer
+wafer foundries,downstream customer core*,idm vendors
+foundry,300mm/12 foundry*,samsung<gs>
+foundry,300mm/12 foundry*,tsmc<gs>
+foundry,300mm/12 foundry*,micron<gs>
+foundry,300mm/12 foundry*,hynix<gs>
+fab,300mm/12 foundry*,western digital<gs>
+foundry,300mm/12 foundry*,intel<gs>
+foundry,300mm/12 foundry*,globalfoundries<gs>
+foundry,300mm/12 foundry*,umc<gs>
+foundry,300mm/12 foundry*,texas instruments<gs>
+foundry,300mm/12 foundry*,force crystal<gs>
+foundry,200mm/8 foundry*,tsmc<gs>
+foundry,200mm/8 foundry*,stmicroelectronics<gs>
+foundry,200mm/8 foundry*,umc<gs>
+foundry,200mm/8 foundry*,infineon<gs>
+foundry,200mm/8 foundry*,texas instruments<gs>
+foundry,200mm/8 foundry*,smic<gs>
+foundry,200mm/8 foundry*,world-advanced<gs>
+foundry,200mm/8 foundry*,nxp<gs>
+foundry,200mm/8 foundry*,on semiconductor<gs>
+foundry,200mm/8 foundry*,toshiba<gs>
+wafer foundry,<=150mm/6 wafer foundry*,china resources micro<gs>
+foundry,<=150mm/6 foundry*,silan micro<gs>
+foundry,<=150mm/6 foundry*,nuvoton<gs>
+foundry,<=150mm/6 foundry*,on semiconductor<gs>
+foundry,<=150mm/6 foundry*,stmicroelectronics<gs>
+foundry,<=150mm/6 foundry*,texas instruments<gs>
+foundry,<=150mm/6 foundry*,rohm semiconductor<gs>
+foundry,<=150mm/6 foundry*,toshiba<gs>
+foundry,<=150mm/6-inch foundry*,us-taiwan semiconductor<gs>
+foundry,<=150mm/6 foundry*,tsmc<gs>
+packaging link,packaging technology evolution process*,traditional packaging technology
+packaging link,packaging technology evolution process*,advanced packaging technology
+mobile phone/pc/game console manufacturers,digital ics*,highly integrated
+mobile phone/pc/game console manufacturers,analog ic*,smartphone 5g rf chips
+automotive manufacturers,digital ics*,automotive mcus
+automobile manufacturers,digital ics*,intelligent driving chips
+automotive manufacturers,digital ics*,large-capacity
+automotive manufacturers,analog ics*,power ics for power control
+automotive manufacturers,analog ics*,power management chips pmic
+industrial control,digital ic*,computing
+industrial control,analog ic*,power ic for automation control
+cloud services,digital ics*,high-computing logic chips
+artificial intelligence,digital ics*,high-performance logic chips
+artificial intelligence,analog ics*,adaptive mixed-signal analog front-end devices
+internet of things,digital ic*,mcus required by various iot terminal devices
+internet of things,analog ics*,power ics
+new energy power generation,analog ic*,high voltage and high frequency power management chip pmic
+digital circuits,memory circuits*,rom read-only memory
+digital circuits,memory circuits*,ram random access memory
+digital circuits,memory circuits*,nor flash
+digital circuits,logic circuits*,cpus<cp>
+digital circuits,logic circuits*,gpus<cp>
+digital circuits,logic circuits*,fpgas<cp>
+digital circuits,logic circuits*,asics<cp>
+digital circuits,logic circuits*,gpgpu<cp>
+digital circuits,demand markets*,data centers
+digital circuits,demand market*,new energy vehicles
+digital circuits,demand markets*,internet of things
+digital circuits,demand markets*,communications
+digital circuits,demand markets*,computers
+digital circuits,demand markets*,storage
+analog circuits,product categories*,power chains
+analog circuits,product categories*,signal chains
+analog circuits,product categories*,rf
+analog circuits,texas instruments<gs>*,power management<ly>
+analog circuit,texas instruments<gs>*,operational amplifiers<ly>
+analog circuits,adno<gs>*,operational amplifiers<ly>
+analog circuits,adno<gs>*,data converters<ly>
+analog circuit,domestic manufacturer*,shengbang micro<gs>
+analog circuits,domestic manufacturers*,enrip<gs>
+analog circuits,domestic manufacturers*,weier co.
+analog circuit,domestic manufacturer*,ai wei electronics<gs>
+analog circuits,domestic manufacturers*,nanochip micro<gs>
+analog circuit,domestic manufacturer*,xinhai technology<gs>
+analog circuit,domestic manufacturer*,ming microelectronics<gs>
+analog circuit,domestic manufacturer*,jingfeng mingyuan<gs>
+analog circuit,domestic manufacturer*,xidi micro<gs>
+analog circuit,domestic manufacturer*,lixin micro<gs>
+analog circuit,domestic manufacturer*,xinpeng micro<gs>
+analog circuit,domestic manufacturer*,victronix<gs>
+analog circuit,domestic manufacturer*,gs>gs<zhuosheng micro
+analog circuits,information processing intermediaries*,amplifiers
+analog circuits,information processing intermediaries*,data converters
+analog circuits,information processing intermediaries*,analog-to-digital converters
+analog circuits,information processing intermediaries*,power management products<cp>
+analog circuits,information processing intermediaries*,embedded processors
+analog circuits,demand-driven*,communications<ly>
+analog circuits,demand-driven*,industrial<ly>
+analog circuits,demand-driven*,automotive<ly>
+analog circuits,demand driven*,consumer electronics<ly>
+analog circuits,demand-driven*,computer<ly>
+analog circuits,low-end to high-end division*,consumer grade
+analog circuits,from low-end to high-end division*,industrial communication grade
+analog circuits,low-end to high-side division*,automotive electronics grade
+third-generation semiconductors,sic*,sic devices
+third-generation semiconductors,gan*,laser devices<cp>
+third-generation semiconductors,gan*,light-emitting diodes<cp>
+third-generation semiconductor,gan*,uv detector<cp>
+third-generation semiconductors,gan*,integrated circuits<cp>
+3rd generation semiconductor,1st generation semiconductor*,ge
+3rd generation semiconductor,1st generation semiconductor*,si
+3rd generation semiconductor,2nd generation semiconductor*,gaas
+3rd generation semiconductor,2nd generation semiconductor*,inp
+3rd generation semiconductor,application*,rf electronics<ly>
+third generation semiconductors,applications*,power electronics<ly>
+third generation semiconductor,application*,optoelectronics<ly>
+3rd generation semiconductor,physical indicators*,band gap
+third generation semiconductor,physical indicators*,saturated electron drift rate
+3rd generation semiconductor,physical indicators*,thermal conductivity
+third-generation semiconductors,physical indicators*,critical breakdown field strength
+third-generation semiconductors,physical indicators*,relative permittivity
+third-generation semiconductors,advantages*,miniaturization
+third-generation semiconductors,advantages*,lightweighting
+3rd generation semiconductors,advantages*,high power
+3rd generation semiconductors,advantages*,high frequency
+direct sales,advantages*,product development innovation
+direct sales,merit*,gross margin
+direct sales,cons*,small and medium-sized customers are not well taken care of
+distributors,distributors*,traders
+distributors,distributors*,module factories
+distributors,distributors*,oems
+distribution,pros*,marketing
+distribution,cons*,profit
+distribution,disadvantages*,complexity of the sales process
+electronic design automation,vlsi chips*,design
+electronic design automation,vlsi chips*,manufacturing
+electronic design automation,vlsi chips*,packaging
+electronic design automation,vlsi chips*,testing
+eda tool manufacturers,downstream customers*,ic design factories
+singapore tech<gs>,company composition*,texas instruments<gs>
+singapore tech<gs>,company composition*,singapore government economic development board
+singapore tech<gs>,company composition*,canon<gs>
+singapore tech<gs>,company composition*,hp<gs>
+mobile phone<ly>,smartphones*,highly integrated soc technology<js>
+in the field of personal computers<ly>,personal computer gpus*,integrated gpus
+pc field<ly>,pc gpu*,discrete gpu
+pc field<ly>,pc gpu*,pc penetration
+server field<ly>,server gpu*,cloud ai model
+in the automotive field<ly>,autonomous driving gpus*,nvidia<gs>
+in the automotive sector<ly>,autonomous driving gpus*,mobileye<gs>
+in the automotive sector<ly>,self-driving gpus*,tesla<gs>
+in the automotive field<ly>,autonomous driving gpus*,and image training fields<ly>
+automotive field<ly>,autonomous driving gpu*,gpu module
+military field<ly>,gpu m9 chip<cp>*,amd<gs>
+memory circuits,rom read-only memory*,nand flash<cp>
+memory circuits,rom read only memory*,erom<cp>
+memory circuits,rom read only memory*,eprom<cp>
+memory circuits,rom read only memory*,eeprom<cp>
+memory circuits,ram random access memory*,dram<cp>
+memory circuits,ram random access memory*,sram<cp>
+memory circuits,ram random access memory*,fram<cp>
+memory circuits,nor flash*,gigadevice<gs>
+memory circuits,nor flash*,winbond<gs>
+memory circuit,nor flash*,wanghong electronics<gs>
+memory circuits,nor flash*,cypress<gs>
+memory circuits,nor flash*,micron<gs>
+memory circuits,nor flash*,pran<gs>
+memory circuit,nor flash*,wuhan xinxin<gs>
+logic circuits,cpus<cp>*,intel<gs>
+logic,cpu<cp>*,amd<gs>
+logic circuits,cpus<cp>*,nvidia<gs>
+logic circuits,cpu<cp>*,megachips<gs>
+logic circuits,cpu<cp>*,haiguang<gs>
+logic,cpu<cp>*,soar<gs>
+logic circuits,cpu<cp>*,huawei hisilicon<gs>
+logic circuits,cpu<cp>*,shenwei<gs>
+logic circuits,gpus<cp>*,intel<gs>
+logic,gpus<cp>*,amd<gs>
+logic,gpu<cp>*,nvidia<gs>
+logic circuits,gpus<cp>*,jingjiawei<gs>
+logic circuits,gpus<cp>*,loongson<gs>
+logic circuits,gpus<cp>*,megachips<gs>
+logic circuits,fpgas<cp>*,amd<gs>
+logic circuits,fpgas<cp>*,intel<gs>
+logic circuits,fpgas<cp>*,unigroup guowei<gs>
+logic circuits,fpga<cp>*,fudan microelectronics<gs>
+logic circuits,fpgas<cp>*,anlu technology<gs>
+logic circuits,fpga<cp>*,chengdu huawei<gs>
+logic circuits,fpgas<cp>*,gaoyun semiconductor<gs>
+logic circuits,fpgas<cp>*,xi'an zhipolycrystalline<gs>
+logic circuits,fpga<cp>*,jingwei qili<gs>
+logic circuits,fpga<cp>*,zhongke yihai micro<gs>
+logic circuits,asics<cp>*,tpus<cp>
+logic circuits,asics<cp>*,npus<cp>
+logic circuits,asics<cp>*,vpus<cp>
+logic circuits,asics<cp>*,ascend<cp>
+logic circuits,asics<cp>*,kunlun<cp>
+logic circuits,asics<cp>*,cloud flint<cp>
+logic circuits,asics<cp>*,voice chips<cp>
+logic circuits,asics<cp>*,including optical<cp>
+logic circuits,gpgpu<cp>*,general-purpose gpus
+information processing intermediaries,embedded processors*,interfaces
+information processing intermediaries,embedded processors*,rf rf
+information processing intermediaries,embedded processors*,clocks
+information processing intermediaries,embedded processors*,timing
+sic,sic器件*,infineon<gs>
+sic,sic devices*,us cree<gs>
+sic,sic devices*,rohm<gs>
+sic,sic devices*,stmicroelectronics<gs>
+sic,sic devices*,tyco tianrun<gs>
+sic,sic devices*,crrc times electric<gs>
+sic,sic devices*,china electronics technology group<gs>
+sic,sic devices*,zhuzhou crrc times electric<gs>
+sic,sic devices*,beijing century sinar mas<gs>
+sic,sic devices*,xiamen core gloss moisture<gs>
+sic,sic devices*,yangzhou yangjie electronics<gs>
+sic,sic devices*,shanghai zhanxin electronics<gs>
+sic,sic devices*,global energy interconnection research institute<gs>
+sic,sic devices*,shenzhen basic semiconductor<gs>
+gan,laser device<cp>*,optical field<ly>
+gan,laser device<cp>*,laser printer<ly>
+gan,laser devices<cp>*,medical<ly>
+gan,laser device<cp>*,military applications<ly>
+gan,light-emitting diodes<cp>*,signal lights<ly>
+gan,light-emitting diode<cp>*,video display<ly>
+gan,light-emitting diodes<cp>*,miniature bulbs<ly>
+gan,light-emitting diode<cp>*,mobile phone<ly>
+gan,uv detector<cp>*,analytical instrument<ly>
+gan,uv detector<cp>*,flame detection<ly>
+gan,uv detector<cp>*,ozone detection<ly>
+gan,integrated circuits<cp>*,communication base stations<ly>
+gan,integrated circuits<cp>*,permanent memory<ly>
+gan,integrated circuits<cp>*,electronic switches<ly>
+gan,integrated circuits<cp>*,missiles<ly>
+the first generation of semiconductors,si*,diodes
+first generation semiconductors,si*,integrated circuits<cp>
+first generation semiconductor,si*,rectifier<cp>
+first generation semiconductors,si*,thyristors<cp>
+first generation semiconductor,si*,radiation detector<cp>
+first-generation semiconductors,si*,solar cells<cp>
+first-generation semiconductor,silicon wafer manufacturer*,shin-etsu<gs>of japan
+first-generation semiconductor,silicon wafer manufacturer*,japan katsugo<gs>
+first-generation semiconductors,silicon wafer vendors*,global wafer<gs>
+first generation semiconductor,silicon wafer manufacturer*,gs><siltronic germany
+first-generation semiconductors,silicon wafer vendors*,lg siltron<gs>
+first generation semiconductor,silicon wafer manufacturer*,french soitec<gs>
+the first generation of semiconductors,silicon wafer manufacturers*,taiwan hejing<gs>
+first generation semiconductors,silicon wafer vendors*,okmetic<gs>
+the first generation of semiconductors,silicon wafer manufacturers*,taiwan jiajing<gs>
+the first generation of semiconductors,silicon wafer manufacturers*,shanghai xinsheng<gs>
+the first generation of semiconductors,silicon wafer manufacturers*,chongqing ultra-silicon<gs>
+first-generation semiconductor,silicon wafer manufacturer*,ningxia yinhe<gs>
+first-generation semiconductor,silicon wafer manufacturer*,tianjin zhonghuan<gs>
+the first generation of semiconductors,silicon wafer manufacturers*,zhejiang jinruihong<gs>
+the first generation of semiconductors,silicon wafer manufacturers*,zhengzhou hejing<gs>
+first-generation semiconductor,silicon wafer manufacturer*,beijing eswin<gs>
+first-generation semiconductor,silicon foundry*,tsmc tsmc<gs>
+first generation semiconductor,silicon foundry*,globalfoundries<gs>
+first-generation semiconductor,silicon foundry*,umc umc<gs>
+first-generation semiconductor,silicon foundry*,smic<gs>
+first-generation semiconductors,silicon wafer foundry*,powerchip<gs>
+first generation semiconductor,silicon foundry*,tower jazz<gs>
+first-generation semiconductor,silicon foundry*,world's advanced vis<gs>
+first generation semiconductor,silicon wafer foundry*,hua hong semiconductor<gs>
+first generation semiconductor,silicon wafer foundry*,eastern high-tech<gs>
+first generation semiconductors,silicon foundry*,x-fab<gs>
+the first generation of semiconductors,packaging manufacturers*,ase<gs>
+first-generation semiconductors,packaging manufacturers*,anyon<gs>
+the first generation of semiconductors,packaging manufacturers*,changjian technology<gs>
+first generation semiconductors,packaging manufacturers*,silicon<gs>
+the first generation of semiconductors,packaging manufacturers*,pti technology<gs>
+the first generation of semiconductors,packaging manufacturers*,huatian technology<gs>
+the first generation of semiconductors,packaging manufacturers*,tongfu microelectric<gs>
+the first generation of semiconductors,packaging manufacturers*,kyoyuan electronics<gs>
+first-generation semiconductor,packaging manufacturer*,united technology<gs>
+the first generation of semiconductors,packaging manufacturers*,nanmao technology<gs>
+second-generation semiconductors,gaas*,microwave tubes<cp>
+second generation semiconductor,gaas*,laser tube<cp>
+second-generation semiconductors,gaas*,infrared light-emitting tubes<cp>
+second-generation semiconductors,gaas*,hall elements<cp>
+second generation semiconductor,gaas*,laser modulator<cp>
+second-generation semiconductors,gaas*,high-speed integrated circuits<cp>
+second-generation semiconductors,gaas*,solar cells<cp>
+technical service products<cp>,technical service market structure*,ip cores
+thin film deposition equipment,pvd equipment*,north huachuang<gs>
+thin film deposition equipment,pvd equipment*,us amat<gs>
+thin film deposition equipment,pvd equipment*,evatec<gs>
+thin film deposition equipment,pvd equipment*,ulvac<gs>
+thin film deposition equipment,pvd equipment*,american applied materials<gs>
+thin film deposition equipment,pvd equipment*,u.s. pvd<gs>
+thin film deposition equipment,pvd equipment*,vaportech<gs>
+thin film deposition equipment,pvd equipment*,american teer<gs>
+thin film deposition equipment,pvd equipment*,swiss platit<gs>
+thin film deposition equipment,pvd equipment*,german cemecon<gs>
+thin film deposition equipment,pvd equipment*,northern microelectronics<gs>
+thin film deposition equipment,pvd equipment*,shenyang zhongke instrument<gs>
+thin film deposition equipment,pvd equipment*,chengdu nanguang<gs>
+thin film deposition equipment,pvd equipment*,china electronics 48 institute<gs>
+thin film deposition equipment,pvd equipment*,clarion equipment<gs>
+thin film deposition equipment,cvd equipment*,us cvd<gs>
+thin film deposition equipment,cvd equipment*,us gt<gs>
+thin film deposition equipment,cvd equipment*,us soitec<gs>
+thin film deposition equipment,cvd equipment*,us protoflex<gs>
+thin film deposition equipment,cvd equipment*,us amat<gs>
+thin film deposition equipment,cvd equipment*,french semco<gs>
+thin film deposition equipment,cvd equipment*,dutch asml<gs>
+thin film deposition equipment,cvd equipment*,us lam<gs>
+thin film deposition equipment,cvd equipment*,japan nikon<gs>
+thin film deposition equipment,cvd equipment*,japanese canon<gs>
+thin film deposition equipment,cvd equipment*,north huachuang<gs>
+thin film deposition equipment,cvd equipment*,shenyang topjing<gs>
+plastic sealing machine,plastic sealing material*,sumitomo bakelite<gs>
+plastic sealing machine,plastic sealing material*,hitachi chemical<gs>
+plastic sealing machines,plastic sealing materials*,henkel warwick<gs>
+plastic sealing machine,plastic sealing material*,panasonic electric<gs>
+plastic sealing machine,plastic sealing material*,jiangsu zhongpeng<gs>
+smartphones,highly integrated soc technology<js>*,integrated chips
+smartphones,suppliers*,qualcomm<gs>
+smartphones,suppliers*,apple<gs>
+smartphones,suppliers*,huawei hisilicon<gs>
+smartphones,suppliers*,imagination<gs>
+smartphones,suppliers*,mediatek<gs>
+pc gpu,integrated gpu*,intel<gs>
+pc gpu,integrated gpu*,nvidia<gs>
+pc gpu,integrated gpu*,amd<gs>
+pc gpu,discrete gpu*,nvidia<gs>
+pc gpu,discrete gpu*,amd<gs>
+pc gpu,discrete gpu*,jingjiawei<gs>
+pc gpu,discrete gpu*,lingjiu electronics<gs>
+server gpus,vendors*,nvidia<gs>
+server gpu,vendor*,amd<gs>
+server gpu,cloud ai model*,high performance
+server gpu,cloud ai model*,high data throughput
+traditional packaging technology,through-hole insertion era*,dip
+traditional packaging technology,through-hole cartridge era*,to
+traditional packaging technology,through-hole cartridge era*,pga
+traditional packaging technology,surface mount era*,sop
+traditional packaging technology,surface mount era*,qfp
+traditional packaging technology,surface mount era*,lcc
+traditional packaging technology,area array packaging era*,bga
+traditional packaging technology,area array packaging era*,csp
+traditional packaging technology,the era of area array packaging*,mcm
+advanced packaging technology,advanced packaging era*,wlp
+advanced packaging technology,advanced packaging era*,pop
+advanced packaging technology,advanced packaging era*,tsv
+advanced packaging technology,advanced packaging era*,sip
+rom read-only memory,nand flash<cp>*,samsung<gs>
+rom read-only memory,nand flash<cp>*,micron<gs>
+rom read-only memory,nand flash<cp>*,hynix<gs>
+rom read-only memory,nand flash<cp>*,western digital<gs>
+rom read-only memory,nand flash<cp>*,kioxia<gs>
+rom read-only memory,nand flash<cp>*,soligidm<gs>
+ram random access memory,dram<cp>*,samsung<gs>
+ram random access memory,dram<cp>*,micron<gs>
+ram random access memory,dram<cp>*,hynix<gs>
+ram random access memory,dram<cp>*,yangtze river storage<gs>
+ram random access memory,dram<cp>*,unigroup nanjing<gs>
+ram random access memory,dram<cp>*,unigroup chengdu<gs>
+ram ram,dram<cp>*,gigadevice<gs>
+ram random access memory,dram<cp>*,changxin storage<gs>
+asic<cp>,tpu<cp>*,谷歌<gs>
+asic<cp>,npu<cp>*,寒武纪<gs>
+asic<cp>,vpu<cp>*,英特尔<gs>
+asic<cp>,昇腾<cp>*,华为<gs>
+asic<cp>,昆仑<cp>*,百度<gs>
+asic<cp>,云燧<cp>*,燧原<gs>
+asic<cp>,voice chip<cp>*,qiying telun<gs>
+asic<cp>,含光<cp>*,阿里<gs>
+gpgpu<cp>,general-purpose gpu*,denglin technology<gs>
+gpgpu<cp>,gpu*,wall technology<gs>
+gpgpu<cp>,general-purpose gpu*,dayszhixin<gs>
+gpgpu<cp>,general-purpose gpu*,muxi integrated circuit<gs>
+si,integrated circuits<cp>*,computer<ly>
+si,integrated circuits<cp>*,communication<ly>
+si,integrated circuits<cp>*,broadcast<ly>
+si,integrated circuit<cp>*,automatic control<ly>
+si,integrated circuits<cp>*,electronic clocks<ly>
+si,integrated circuit<cp>*,instrumentation<ly>
+si,rectifier<cp>*,rectifier<ly>
+si,thyristor<cp>*,rectified<ly>
+si,thyristor<cp>*,dc transmission and distribution<ly>
+si,thyristor<cp>*,electric locomotive<ly>
+si,thyristor<cp>*,device automation<ly>
+si,thyristor<cp>*,high frequency oscillator<ly>
+si,radiation detector<cp>*,atomic energy analysis<ly>
+si,radiation detector<cp>*,optical quantum detection<ly>
+si,solar cells<cp>*,solar power<ly>
+gaas,gaas substrate*,sumitomo electric<gs>of japan
+gaas,gaas substrate*,german freiberg<gs>
+gaas,gaas substrate*,us axt<gs>
+gaas,gaas bottom*,japan sumitomo chemical<gs>
+gaas,gaas元件*,skyworks<gs>
+gaas,gaas元件*,broadcom<gs>
+gaas,gaas components*,qorvo<gs>
+gaas,gaas components*,anadigics<gs>
+gaas,gaas components*,winsemi<gs>
+gaas,gaas元件*,sei<gs>
+gaas,gaas components*,muraas<gs>
+gaas,gaas元件*,devices<gs>
+gaas,gaas components*,sony<gs>
+gaas,gaas元件*,electric<gs>
+gaas,gaas foundry*,stable<gs>
+gaas,gaas foundry*,macrojet awsc<gs>
+gaas,gaas foundry*,universal technology gcs<gs>
+gaas,microwave tube<cp>*,radar<ly>
+gaas,microwave tube<cp>*,microwave communication<ly>
+gaas,microwave tube<cp>*,tv<ly>
+gaas,microwave tube<cp>*,mobile communication<ly>
+gaas,laser tube<cp>*,fiber optic communication<ly>
+gaas,infrared light-emitting tube<cp>*,low-power infrared light source<ly>
+gaas,hall element<cp>*,magnetic field control<ly>
+gaas,laser modulator<cp>*,laser communication<ly>
+gaas,high-speed integrated circuits<cp>*,high-speed computers<ly>
+gaas,high-speed integrated circuits<cp>*,mobile communications<ly>
+gaas,solar cells<cp>*,solar power<ly>
+silicon wafers,chinese mainland typical enterprises*,leon micro<gs>
+silicon wafers,chinese mainland typical enterprises*,shanghai silicon industry<gs>
+silicon wafers,chinese mainland typical enterprises*,have researched new materials<gs>
+silicon wafers,chinese mainland typical enterprises*,ningbo jinruihong<gs>
+silicon wafers,chinese mainland typical enterprises*,shanghai hejing<gs>
+silicon wafers,chinese mainland typical enterprises*,shanghai xinao<gs>
+silicon wafers,chinese mainland typical enterprises*,shanghai xinsheng<gs>
+silicon wafers,chinese mainland typical enterprises*,chongqing super silicon<gs>
+silicon wafers,chinese mainland typical enterprises*,ningxia yinhe<gs>
+silicon wafers,chinese mainland typical enterprises*,tianjin central<gs>
+silicon wafers,chinese mainland typical enterprises*,beijing eswin<gs>
+electronic special gas,chinese mainland typical enterprise*,jinhong gas<gs>
+electronic special gas,chinese mainland typical enterprise*,huate gas<gs>
+electronic special gas,chinese mainland typical enterprise*,csic<gs>
+electronic special gas,chinese mainland typical enterprise*,nanda optoelectronics<gs>
+electronic special gas,chinese mainland typical enterprise*,shanghai to pure<gs>
+photomask version,chinese mainland typical enterprise*,philiva<gs>
+photomask version,chinese mainland typical enterprise*,qingyi photoelectric<gs>
+photoresist and supporting reagents,chinese mainland typical enterprises*,tongcheng new materials<gs>
+photoresist and supporting reagents,chinese mainland typical enterprises*,nanda optoelectronics<gs>
+photoresist and supporting reagents,chinese mainland typical enterprises*,beijing kehua<gs>
+photoresist and supporting reagents,chinese mainland typical enterprises*,suzhou ruihong<gs>
+ultra-clean high-purity reagent,chinese mainland typical enterprise*,jianghua micro<gs>
+ultra-clean high-purity reagent,chinese mainland typical enterprise*,crystal terminal electrical materials<gs>
+target material,chinese mainland typical enterprise*,jiangfeng electronics<gs>
+target material,chinese mainland typical enterprise*,has developed new materials<gs>
+polishing materials,chinese mainland typical enterprises*,anji technology<gs>
+polishing materials,chinese mainland typical enterprises*,dinglong technology<gs>
+polishing materials,chinese mainland typical enterprises*,shanghai new anna<gs>
+polishing materials,chinese mainland typical enterprises*,the first new material<gs>
+package substrate,chinese mainland typical enterprise*,shennan circuit<gs>
+packaging substrate,chinese mainland typical enterprises*,xingsen technology<gs>
+package substrate,chinese mainland typical enterprise*,zhuhai yueya<gs>
+lead frame,chinese mainland typical enterprise*,kangqiang electronics<gs>
+lead frame,chinese mainland typical enterprise*,huatian technology<gs>
+lead frame,chinese mainland typical enterprise*,ningbo hualong<gs>
+lead frame,chinese mainland typical enterprise*,tongling sanjia<gs>
+bonding wire,chinese mainland typical enterprise*,kangqiang electronics<gs>
+bonding wire,chinese mainland typical enterprise*,eno electronics<gs>
+bonding wire,chinese mainland typical enterprise*,beijing dabo<gs>
+packaging materials,chinese mainland typical enterprises*,huahai chengke<gs>
+packaging materials,chinese mainland typical enterprises*,jcdecaux chemical<gs>
+ceramic substrate,chinese mainland typical enterprise*,sanhuan group<gs>
+ceramic substrate,chinese mainland typical enterprise*,china ceramic electronics<gs>
+bonding materials,chinese mainland typical enterprises*,hongchang electronics<gs>
+bonding materials,chinese mainland typical enterprises*,benno electronics<gs>
+integrated gpu,nvidia<gs>*,tegra processor chip<cp>
+integrated gpu,nvidia<gs>*,consumer gpu<yw>
+integrated gpu,nvidia<gs>*,autonomous driving<yw>
+integrated gpu,nvidia<gs>*,enterprise gpu<yw>
+integrated gpu,nvidia<gs>*,data center<yw>
+integrated gpu,nvidia<gs>*,semiconductor periodic
+integrated gpu,nvidia<gs>*,cryptocurrency
+independent gpu,jingjiawei<gs>*,military electronics field<ly>
+independent gpu,jingjia wei<gs>*,jm7200 chip<cp>
+amd<gs>,收购*,xilinx<gs>
+intel<gs>,acquisitions*,altera<gs>
+substrate epitaxial preparation,sic substrate*,sic epitaxy
+substrate epitaxial preparation,sic substrate*,gan epitaxy
+substrate epitaxial preparation,sic substrate*,sic crystal rod
+substrate epitaxial preparation,sic substrate*,american cree<gs>
+substrate epitaxial preparation,sic substrate*,german sicrystal<gs>
+substrate epitaxy preparation,sic substrate*,american ii-vi<gs>
+substrate epitaxial preparation,sic substrate*,american dow corning<gs>
+substrate epitaxial preparation,sic substrate*,nippon steel sumitomo metal<gs>
+substrate epitaxy preparation,sic substrate*,norstel<gs>
+substrate epitaxial preparation,sic substrate*,shandong tianyue<gs>
+substrate epitaxy preparation,sic substrate*,tianke heda<gs>
+substrate epitaxy preparation,sic substrate*,isoluminous crystals<gs>
+substrate epitaxial preparation,sic substrate*,cetc equipment<gs>
+substrate epitaxial preparation,third-generation semiconductor high-end device development strategy*,substrate wafer
+substrate epitaxial preparation,si substrate*,gan epitaxy
+substrate epitaxial preparation,sapphire substrate*,gan epitaxy
+substrate epitaxy preparation,gan substrate*,gan epitaxy
+substrate epitaxial preparation,gan substrate*,sumitomo electric<gs>
+substrate epitaxial preparation,gan substrate*,mitsubishi chemical<gs>
+substrate epitaxial preparation,gan substrate*,sumitomo chemical<gs>
+substrate epitaxial preparation,substrate enterprise*,sanan ic<gs>
+substrate epitaxial preparation,substrate enterprise*,century cotai<gs>
+substrate epitaxy preparation,substrate enterprises*,cetc<gs>
+substrate epitaxial preparation,substrate enterprises*,wafer works<gs>
+substrate epitaxial preparation,substrate enterprise*,semisic<gs>
+substrate epitaxial preparation,substrate enterprise*,china gallium semiconductor<gs>
+substrate epitaxial preparation,substrate enterprise*,basic semiconductor<gs>
+substrate epitaxial preparation,substrate enterprises*,tankeblue<gs>
+substrate epitaxial preparation,substrate enterprises*,innoscience<gs>
+substrate epitaxial preparation,substrate enterprise*,nanowin<gs>
+substrate epitaxial preparation,substrate enterprise*,china electronics<gs>
+substrate epitaxial preparation,substrate enterprises*,etaresearch<gs>
+substrate epitaxial preparation,substrate enterprise*,guohong zhongjing<gs>
+substrate epitaxy preparation,substrate enterprise*,same light crystal<gs>
+substrate epitaxial preparation,substrate enterprise*,sicc<gs>
+substrate epitaxy preparation,substrate enterprises*,changfei<gs>
+substrate epitaxial preparation,substrate enterprise*,nansha wafer<gs>
+substrate epitaxial preparation,substrate enterprises*,brand<gs>
+substrate epitaxial preparation,substrate enterprises*,sasi<gs>
+substrate epitaxial preparation,epitaxy enterprises*,sanan ic<gs>
+substrate epitaxial preparation,epitaxy enterprises*,innoscience<gs>
+substrate epitaxial preparation,epitaxy enterprises*,x-spatial<gs>
+substrate epitaxy preparation,epitaxy enterprises*,epiworld<gs>
+substrate epitaxial preparation,epitaxy enterprise*,huawei electronics<gs>
+substrate epitaxial preparation,epitaxial enterprises*,nansha wafer<gs>
+substrate epitaxial preparation,epitaxy enterprises*,jingzhan semiconductor<gs>
+device design and manufacturing,vertical integration*,idm
+ip core,ip core classification*,ip soft core
+ip core,ip core classification*,ip solid-core
+ip cores,ip core classification*,ip hard cores
+ip cores,ip core classification*,processor ip
+ip core,ip core classification*,interface ip
+ip cores,ip core classification*,other physical ips
+ip cores,ip core classification*,other digital ips
+ip cores,global ip core landscape*,arm<gs>
+ip cores,global ip core landscape*,synopsys<gs>
+ip cores,global ip core landscape*,rambus<gs>
+ip cores,global ip core landscape*,ememory<gs>
+ip cores,global ip core landscape*,technology<gs>
+ip cores,global ip core landscape*,alphawave<gs>
+ip cores,global ip core landscape*,verisilicon<gs>
+ip cores,global ip core landscape*,sst<gs>
+ip cores,global ip core landscape*,ceva<gs>
+ip cores,global ip core landscape*,imagination<gs>
+ip cores,global ip core landscape*,cadence<gs>
+nvidia<gs>,tegra processor chip<cp>*,connected cars
+nvidia<gs>,tegra processor chip<cp>*,shield gaming device
+nvidia<gs>,tegra processor chip<cp>*,nintendo switch
+nvidia<gs>,cryptocurrency*,miner
+jingjiawei<gs>,military electronics field<ly>*,unigroup guowei<gs>
+jingjiawei<gs>,revenue source*,graphic display and control products<cp>
+景嘉微<gs>,jm7200芯片<cp>*,amd m9<cp>
+sic substrate,sic epitaxial*,us dow corning<gs>
+sic substrate,sic epitaxy*,us ii-vi<gs>
+sic substrate,sic epitaxy*,norstel<gs>
+sic substrate,sic epitaxial*,us cree<gs>
+sic substrate,sic epitaxial*,rohm rohm<gs>
+sic substrate,sic epitaxy*,mitsubishi electric<gs>
+sic substrate,sic epitaxy*,infineon<gs>
+sic substrate,sic epitaxy*,hantian into<gs>
+sic substrate,sic epitaxy*,tianyu semiconductor<gs>
+sic substrate,sic epitaxy*,55 of the 13 institutes of cetc<gs>
+sic substrate,sic epitaxy*,jiangsu yuanjia<gs>
+in the field of military electronics<ly>,unigroup guowei<gs>*,military special chips
+substrate wafer,epitaxial wafer*,domestic automotive grade transistor
+substrate wafer,epitaxial wafer*,sic power module
+substrate wafer,epitaxial wafer*,domestic diode
+processor ip,digital circuits*,cpu ip
+processor ip,digital circuits*,gpu ip
+processor ip,digital circuits*,npu ip
+processor ip,digital circuits*,vpu ip
+graphics display and control products<cp>,gpu chips<cp>*,graphics display and control modules
+graphics display and control products<cp>,gpu chips<cp>*,military field<ly>
+graphics display and control products<cp>,gpu chips<cp>*,amd<gs>
+epitaxial wafer,domestic automotive grade transistor*,sic-igbt<cp>
+epitaxial wafer,domestic automotive grade transistor*,sic-mosfet<cp>
+epitaxial wafer,domestic diode*,sic-sbd<cp>
+gpu chips<cp>,military field<ly>*,military aircraft
+gpu芯片<cp>,amd<gs>*,独显gpu<yw>
+gpu芯片<cp>,amd<gs>*,cpu<yw>
+gpu chips<cp>,amd<gs>*,custom chips<yw>
+gpu芯片<cp>,amd<gs>*,7nm芯片<cp>
+gpu chips<cp>,amd<gs>*,semiconductor periodicity
+gpu chips<cp>,amd<gs>*,cryptocurrency

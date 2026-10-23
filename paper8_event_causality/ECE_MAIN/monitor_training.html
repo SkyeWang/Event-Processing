@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ECE 训练监控</title>
+  <style>
+    :root{color-scheme:dark;--bg:#0e1411;--panel:#16201a;--panel2:#1b2920;--line:#334638;--text:#f0f5e9;--muted:#94a99a;--lime:#c7f27b;--orange:#ffad63;--blue:#8bc8da;--rose:#eaa5df;--red:#ff877a}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 85% -20%,#28402b 0,transparent 38%),var(--bg);color:var(--text);font-family:"Microsoft YaHei","PingFang SC",sans-serif;font-size:14px}
+    .mono{font-family:"Cascadia Code",Consolas,monospace;font-variant-numeric:tabular-nums}.shell{max-width:1600px;margin:auto;padding:28px 34px 50px}
+    header{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;padding-bottom:24px;border-bottom:1px solid var(--line)}
+    .eyebrow{font:700 11px "Cascadia Code",Consolas,monospace;letter-spacing:.16em;color:var(--lime);text-transform:uppercase}.eyebrow span{display:inline-block;width:20px;height:1px;background:var(--lime);vertical-align:middle;margin:0 9px}
+    h1{font-size:clamp(30px,3.6vw,54px);letter-spacing:-.06em;line-height:1.05;margin:12px 0 10px;font-weight:720}.subtitle{color:var(--muted);font-size:13px}.status{display:flex;align-items:center;gap:10px;border:1px solid var(--line);padding:10px 14px;border-radius:3px;background:#1a261d;white-space:nowrap}.dot{width:8px;height:8px;border-radius:50%;background:var(--lime);box-shadow:0 0 0 5px #c7f27b19}.dot.paused{background:var(--orange);box-shadow:0 0 0 5px #ffad6319}
+    .topline{display:grid;grid-template-columns:minmax(250px,1.2fr) repeat(4,minmax(130px,1fr));gap:1px;margin:25px 0;background:var(--line);border:1px solid var(--line)}.hero,.kpi{background:var(--panel);padding:24px 25px;min-height:150px}.hero{background:linear-gradient(128deg,#24382a,var(--panel) 80%)}.label{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase}.hero-number{font:600 clamp(52px,6vw,86px) "Cascadia Code",Consolas,monospace;line-height:1.05;letter-spacing:-.09em;margin:6px 0;color:var(--lime)}.hero-number small{font-size:.36em;color:#a9bdad;letter-spacing:-.03em;margin-left:7px}.hero-foot{display:flex;justify-content:space-between;color:var(--muted);font-size:12px}.track{height:5px;margin:14px 0 10px;background:#38503d;border-radius:5px;overflow:hidden}.track div{height:100%;width:0;background:var(--lime);transition:width .5s}.value{font:600 clamp(25px,2.3vw,38px) "Cascadia Code",Consolas,monospace;margin:22px 0 7px;letter-spacing:-.06em;white-space:nowrap}.value em{font:500 12px "Microsoft YaHei",sans-serif;color:var(--muted);font-style:normal;margin-left:5px}.hint{color:var(--muted);font-size:12px;line-height:1.5}.accent{color:var(--lime)}.orange{color:var(--orange)}.blue{color:var(--blue)}
+    .main-grid{display:grid;grid-template-columns:minmax(0,2fr) minmax(300px,1fr);gap:20px}.stack{display:grid;gap:20px}.panel{background:var(--panel);border:1px solid var(--line);padding:22px 24px;min-width:0}.panel-title{display:flex;justify-content:space-between;gap:16px;align-items:baseline;margin-bottom:20px}.panel-title h2{font-size:17px;letter-spacing:-.02em;margin:0;font-weight:650}.unit{font:11px "Cascadia Code",Consolas,monospace;color:var(--muted)}.chart{width:100%;height:auto;aspect-ratio:2.65/1;display:block;min-height:240px}.chart text{font:11px "Cascadia Code",Consolas,monospace;fill:#8da292}.chart .grid{stroke:#334638;stroke-width:1}.chart .axis{stroke:#64806a;stroke-width:1}.chart .loss-line{fill:none;stroke:var(--lime);stroke-width:2.7;stroke-linecap:round;stroke-linejoin:round}.chart .f1-line{fill:none;stroke:var(--blue);stroke-width:2.8;stroke-linecap:round;stroke-linejoin:round}.chart .precision-line{fill:none;stroke:var(--orange);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.chart .recall-line{fill:none;stroke:var(--rose);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.chart .f1-best-line{fill:none;stroke:var(--lime);stroke-width:2;stroke-dasharray:7 5;stroke-linecap:round;stroke-linejoin:round}.chart .gpu-line{fill:none;stroke:var(--blue);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}.chart .power-line{fill:none;stroke:var(--orange);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}.chart .point{fill:var(--lime)}.chart .f1-point{fill:var(--blue)}.chart .precision-point{fill:var(--orange)}.chart .recall-point{fill:var(--rose)}.empty{fill:#7f9583!important;font:14px "Microsoft YaHei",sans-serif!important}.legend{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:8px 16px;color:var(--muted);font-size:12px}.legend span{white-space:nowrap}.swatch{display:inline-block;width:14px;height:3px;vertical-align:middle;margin-right:5px;background:var(--blue)}.swatch.power,.swatch.precision{background:var(--orange)}.swatch.recall{background:var(--rose)}.swatch.best{background:repeating-linear-gradient(90deg,var(--lime) 0 7px,transparent 7px 11px)}
+    .segmented{display:flex;gap:2px;background:#0f1913;padding:3px;border:1px solid var(--line)}.segmented button{border:0;background:transparent;color:var(--muted);font:12px "Microsoft YaHei",sans-serif;padding:6px 9px;cursor:pointer}.segmented button.active{background:#314936;color:var(--text)}
+    .readings{display:grid;grid-template-columns:1fr 1fr;gap:0;border-top:1px solid var(--line)}.reading{padding:16px 0;border-bottom:1px solid var(--line)}.reading:nth-child(odd){padding-right:12px}.reading .label{font-size:10px}.reading .datum{font:600 22px "Cascadia Code",Consolas,monospace;margin-top:6px}.reading .datum small{font-size:11px;color:var(--muted);font-weight:400}.hardware{font-size:13px;color:var(--muted);margin:0 0 18px;line-height:1.5}.config{display:grid;grid-template-columns:1fr auto;gap:10px 15px;padding-top:6px}.config span{color:var(--muted)}.config strong{font:500 12px "Cascadia Code",Consolas,monospace;text-align:right;overflow-wrap:anywhere}.event{display:grid;grid-template-columns:82px 1fr;gap:12px;padding:11px 0;border-top:1px solid var(--line);font-size:12px;line-height:1.55}.event time{color:var(--muted);font-family:"Cascadia Code",Consolas,monospace}.event span{color:#d7e6d2}.notice{border-left:2px solid var(--orange);background:#34291d;padding:12px 14px;margin:0 0 17px;color:#ffd7b6;font-size:12px;line-height:1.55}.notice[hidden]{display:none}.footer{display:flex;justify-content:space-between;gap:20px;color:#76917b;font-size:11px;margin-top:20px;line-height:1.6}.footer strong{color:#b5cba8;font-weight:500}
+    @media(max-width:1120px){.topline{grid-template-columns:repeat(4,1fr)}.hero{grid-column:1/-1}.main-grid{grid-template-columns:1fr}.stack{grid-template-columns:1fr 1fr}}@media(max-width:700px){.shell{padding:18px 14px 35px}header{display:block}.status{display:inline-flex;margin-top:18px}.topline{grid-template-columns:repeat(2,1fr)}.hero{grid-column:1/-1}.kpi{padding:17px;min-height:130px}.value{font-size:26px}.stack{grid-template-columns:1fr}.panel{padding:18px}.panel-title{align-items:flex-start}.footer{display:block}.chart{aspect-ratio:1.8/1}}
+  </style>
+</head>
+<body>
+<div class="shell">
+  <header><div><div class="eyebrow">ECE <span></span> TRAINING TELEMETRY</div><h1>训练监控<span class="accent">.</span></h1><div class="subtitle"><span id="task" class="mono">连接中</span> &nbsp;·&nbsp; 本机实时监控，不修改训练进程</div></div><div class="status"><i id="dot" class="dot"></i><span id="stage">连接中</span><span class="mono" id="refreshClock">--:--:--</span></div></header>
+  <section class="topline" aria-label="核心指标">
+    <div class="hero"><div class="label">已完成轮次 / TOTAL EPOCHS</div><div class="hero-number"><span id="epoch">0</span><small>/ <span id="total">—</span></small></div><div class="track"><div id="progress"></div></div><div class="hero-foot"><span id="currentEpoch">等待训练日志</span><span id="percent">0%</span></div></div>
+    <div class="kpi"><div class="label">LATEST LOSS</div><div class="value" id="latestLoss">—</div><div class="hint" id="lossHint">每轮结束后更新</div></div>
+    <div class="kpi"><div class="label">BEST DEV ECE F1</div><div class="value accent" id="bestF1">—</div><div class="hint" id="bestHint">等待验证结果</div></div>
+    <div class="kpi"><div class="label">GPU UTILIZATION</div><div class="value blue"><span id="gpuUtil">—</span><em>%</em></div><div class="hint" id="gpuHint">读取 nvidia-smi</div></div>
+    <div class="kpi"><div class="label">GPU POWER</div><div class="value orange"><span id="gpuPower">—</span><em>W</em></div><div class="hint" id="powerHint">读取 nvidia-smi</div></div>
+  </section>
+  <div class="main-grid">
+    <div class="stack">
+      <section class="panel"><div class="panel-title"><div><h2>训练损失</h2><span class="unit" id="lossAxis">LOSS · 每轮结束后记录</span></div><div class="segmented"><button id="allBtn" class="active" type="button">全部</button><button id="recentBtn" type="button">最近 20 轮</button></div></div><svg class="chart" id="lossChart" viewBox="0 0 800 300" role="img" aria-label="训练损失曲线"></svg></section>
+      <section class="panel"><div class="panel-title"><div><h2>验证集 ECE 指标</h2><span class="unit">每轮验证 · 共用百分比纵轴</span></div><div class="legend"><span><i class="swatch"></i>F1</span><span><i class="swatch precision"></i>Precision</span><span><i class="swatch recall"></i>Recall</span><span><i class="swatch best"></i>历史最佳 F1</span></div></div><svg class="chart" id="f1Chart" viewBox="0 0 800 300" role="img" aria-label="每轮验证集 ECE F1、Precision、Recall 和历史最佳 F1 曲线，共用百分比纵轴"></svg></section>
+      <section class="panel"><div class="panel-title"><div><h2>GPU 运行趋势</h2><span class="unit">近 9 分钟 · 每 3 秒采样</span></div><div class="legend"><span><i class="swatch"></i>利用率</span><span><i class="swatch power"></i>功耗</span></div></div><svg class="chart" id="gpuChart" viewBox="0 0 800 300" role="img" aria-label="GPU 利用率与功耗曲线"></svg></section>
+    </div>
+    <div class="stack">
+      <section class="panel"><div class="panel-title"><h2>设备状态</h2><span class="unit">NVIDIA GPU 0</span></div><p class="hardware" id="gpuName">等待设备数据</p><div class="readings"><div class="reading"><div class="label">显存占用</div><div class="datum" id="memory">—</div></div><div class="reading"><div class="label">温度</div><div class="datum" id="temperature">—</div></div><div class="reading"><div class="label">功耗上限</div><div class="datum" id="powerLimit">—</div></div><div class="reading"><div class="label">轮次平均耗时</div><div class="datum" id="epochTime">—</div></div></div></section>
+      <section class="panel"><div class="panel-title"><h2>任务信息</h2><span class="unit">LIVE RUN</span></div><p class="notice" id="zeroWarning" hidden>验证集 ECE F1 持续为 0，请结合预测文件检查模型输出。</p><div class="config"><span>运行时长</span><strong id="elapsed">—</strong><span>学习率</span><strong id="lr">—</strong><span>Batch size</span><strong id="batch">—</strong><span>验证集 ECE F1</span><strong id="latestF1">—</strong><span>最近日志更新</span><strong id="updated">—</strong><span>训练进程 PID</span><strong id="pid">—</strong></div></section>
+      <section class="panel"><div class="panel-title"><h2>最近事件</h2><span class="unit">LOG STREAM</span></div><div id="events"><div class="hint">等待首条轮次日志</div></div></section>
+    </div>
+  </div>
+  <div class="footer"><div>数据来自 <strong>ECE 原训练日志</strong> 与 <strong>nvidia-smi</strong>；刷新周期 3 秒。轮次与损失仅在原程序写日志后更新。</div><div id="connection">正在连接本地服务</div></div>
+</div>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const NS = 'http://www.w3.org/2000/svg';
+  const stageNames = {training:'正在训练',pipeline:'流水线运行中',postprocessing:'正在生成结果',complete:'已完成',stopped:'训练进程未运行',waiting:'等待训练'};
+  let last = null, recent = false, busy = false;
+  function put(id, value) { $(id).textContent = value; }
+  function n(value, digits=0) { return value == null || !Number.isFinite(Number(value)) ? '—' : Number(value).toFixed(digits); }
+  function clock(value) { return value ? new Date(value).toLocaleTimeString('zh-CN',{hour12:false}) : '—'; }
+  function duration(seconds) { if (!Number.isFinite(seconds) || seconds < 0) return '—'; const h=Math.floor(seconds/3600),m=Math.floor(seconds%3600/60),s=Math.floor(seconds%60); return h ? `${h}时 ${m}分` : `${m}分 ${s}秒`; }
+  function svg(tag, attrs, parent) { const el=document.createElementNS(NS,tag); for (const [k,v] of Object.entries(attrs)) el.setAttribute(k,v); parent.appendChild(el); return el; }
+  function text(parent,x,y,value,anchor='start',extra='') { const el=svg('text',{x,y,'text-anchor':anchor,class:extra},parent); el.textContent=value; return el; }
+  function plotBase(root, labels, empty) {
+    root.replaceChildren(); const x0=57,x1=748,y0=20,y1=257;
+    for(let i=0;i<5;i++){const y=y0+i*(y1-y0)/4;svg('line',{x1:x0,y1:y,x2:x1,y2:y,class:'grid'},root);text(root,47,y+4,labels[i]||'', 'end');}
+    svg('line',{x1:x0,y1:y1,x2:x1,y2:y1,class:'axis'},root);
+    if(empty) text(root,400,140,empty,'middle','empty');
+    return {x0,x1,y0,y1};
+  }
+  function drawLoss() {
+    if (!last) return; const root=$('lossChart'); const points=recent?last.loss.slice(-20):last.loss;
+    if (!points.length){plotBase(root,['','','','',''],'等待首轮完成；原训练代码每轮写一次 Loss');put('lossAxis','LOSS · 每轮结束后记录');return;}
+    const values=points.map(p=>p.value),lo=Math.min(...values),hi=Math.max(...values),log=lo>0&&hi/Math.max(lo,1e-9)>12;
+    const transform=v=>log?Math.log10(Math.max(v,1e-9)):v;
+    let low=transform(lo),high=transform(hi); if(high-low<1e-9){low-=Math.max(1,Math.abs(low)*.05);high+=Math.max(1,Math.abs(high)*.05);} else {let pad=(high-low)*.08;low-=pad;high+=pad;}
+    const labels=Array.from({length:5},(_,i)=>{const y=high-(high-low)*i/4;const raw=log?10**y:y;return raw>=1000?Math.round(raw).toLocaleString():raw.toFixed(raw<10?2:0);});
+    const b=plotBase(root,labels,null); const first=points[0].epoch,lastEpoch=points[points.length-1].epoch;
+    const x=e=>b.x0+(e-first)/Math.max(1,lastEpoch-first)*(b.x1-b.x0);
+    const y=v=>b.y1-(transform(v)-low)/(high-low)*(b.y1-b.y0);
+    svg('polyline',{points:points.map(p=>`${x(p.epoch)},${y(p.value)}`).join(' '),class:'loss-line'},root);
+    const tail=points[points.length-1];svg('circle',{cx:x(tail.epoch),cy:y(tail.value),r:5,class:'point'},root);
+    text(root,b.x0,283,`E${first}`);text(root,b.x1,283,`E${lastEpoch}`,'end');
+    put('lossAxis',`LOSS · ${log?'对数坐标':'线性坐标'} · ${points.length} 个轮次`);
+  }
+  function drawF1() {
+    if (!last) return; const root=$('f1Chart'),points=last.metrics||[];
+    if (!points.length){plotBase(root,['','','','',''],'等待首轮验证结果');return;}
+    const ceiling=Math.min(100,Math.max(10,Math.ceil(Math.max(...points.flatMap(p=>[p.f1,p.precision,p.recall]))*1.2/10)*10));
+    const labels=Array.from({length:5},(_,i)=>`${(ceiling*(4-i)/4).toFixed(0)}%`);
+    const b=plotBase(root,labels,null),first=points[0].epoch,lastEpoch=points[points.length-1].epoch;
+    const x=e=>b.x0+(e-first)/Math.max(1,lastEpoch-first)*(b.x1-b.x0);
+    const y=v=>b.y1-Math.max(0,Math.min(1,v/ceiling))*(b.y1-b.y0);
+    let best=0;const bestPoints=points.map(p=>{best=Math.max(best,p.f1);return `${x(p.epoch)},${y(best)}`;});
+    svg('polyline',{points:bestPoints.join(' '),class:'f1-best-line'},root);
+    svg('polyline',{points:points.map(p=>`${x(p.epoch)},${y(p.precision)}`).join(' '),class:'precision-line'},root);
+    svg('polyline',{points:points.map(p=>`${x(p.epoch)},${y(p.recall)}`).join(' '),class:'recall-line'},root);
+    svg('polyline',{points:points.map(p=>`${x(p.epoch)},${y(p.f1)}`).join(' '),class:'f1-line'},root);
+    const tail=points[points.length-1];
+    svg('circle',{cx:x(tail.epoch),cy:y(tail.precision),r:4,class:'precision-point'},root);
+    svg('circle',{cx:x(tail.epoch),cy:y(tail.recall),r:4,class:'recall-point'},root);
+    svg('circle',{cx:x(tail.epoch),cy:y(tail.f1),r:5,class:'f1-point'},root);
+    text(root,b.x0,283,`E${first}`);text(root,b.x1,283,`E${lastEpoch}`,'end');
+  }
+  function drawGpu() {
+    if (!last) return; const root=$('gpuChart'),points=last.gpu.history.filter(p=>p.utilization!=null||p.power!=null);
+    const b=plotBase(root,['100%','75%','50%','25%','0%'],points.length?'':'等待 GPU 采样');
+    if(!points.length)return;
+    const limit=last.gpu.latest?.power_limit||300;
+    function line(key,max,klass){const list=points.map((p,i)=>p[key]==null?null:[b.x0+i/Math.max(1,points.length-1)*(b.x1-b.x0),b.y1-Math.max(0,Math.min(1,p[key]/max))*(b.y1-b.y0)]);let segment=[];const flush=()=>{if(segment.length>1)svg('polyline',{points:segment.map(a=>a.join(',')).join(' '),class:klass},root);segment=[];};for(const p of list){if(p)segment.push(p);else flush();}flush();}
+    line('utilization',100,'gpu-line');line('power',limit,'power-line');text(root,b.x0,283,clock(points[0].time));text(root,b.x1,283,clock(points[points.length-1].time),'end');
+    text(root,794,b.y0+4,`${Math.round(limit)}W`,'end');text(root,794,b.y1+4,'0W','end');
+  }
+  function render(data) {
+    last=data;put('task',data.task_name);put('stage',stageNames[data.stage]||data.stage);$('dot').classList.toggle('paused',!['training','pipeline','postprocessing'].includes(data.stage));
+    put('epoch',data.completed_epochs);put('total',data.total_epochs||'—');const pct=data.total_epochs?Math.min(100,data.completed_epochs/data.total_epochs*100):0;$('progress').style.width=pct+'%';put('percent',n(pct,1)+'%');
+    put('currentEpoch',data.current_epoch?`正在进行第 ${data.current_epoch} 轮`:data.stage==='complete'?'训练与后处理完成':data.completed_epochs?'最近完成第 '+data.completed_epochs+' 轮':'等待首轮完成');
+    const loss=data.loss.at(-1);put('latestLoss',loss?n(loss.value,2):'—');put('lossHint',loss?`第 ${loss.epoch} 轮 · ${clock(loss.time)}`:'每轮结束后更新');
+    put('bestF1',data.best?n(data.best.best_dev_ece_f1,2):'—');put('bestHint',data.best?`最佳第 ${data.best.best_epoch} 轮 · ECE F1 (%)`:'等待验证结果');
+    const g=data.gpu.latest;put('gpuUtil',n(g?.utilization));put('gpuPower',n(g?.power,1));put('gpuName',g?.name||'暂未获取 GPU 数据');put('gpuHint',g?`显存 ${n(g.memory_used)} / ${n(g.memory_total)} MiB`:(data.gpu.error||'等待采样'));put('powerHint',g?`上限 ${n(g.power_limit)} W`:'等待采样');
+    put('memory',g?`${n(g.memory_used)} / ${n(g.memory_total)} MiB`:'—');put('temperature',g?.temperature==null?'—':`${n(g.temperature)} °C`);put('powerLimit',g?.power_limit==null?'—':`${n(g.power_limit)} W`);put('epochTime',data.average_epoch_seconds==null?'—':duration(data.average_epoch_seconds));
+    put('lr',data.config.lr||'—');put('batch',data.config.batch_size||'—');put('latestF1',data.latest_metric?`${n(data.latest_metric.f1,2)}% · E${data.latest_metric.epoch}`:'—');put('updated',clock(data.log_updated_at));put('pid',data.process.training_pid??'—');
+    const start=data.process.started_at?new Date(data.process.started_at).getTime():null;put('elapsed',start?duration((Date.now()-start)/1000):'—');$('zeroWarning').hidden=!(data.completed_epochs>=3&&data.best?.best_dev_ece_f1===0);
+    const events=$('events');events.replaceChildren();if(!data.events.length){const div=document.createElement('div');div.className='hint';div.textContent='等待首条轮次日志';events.appendChild(div);}else for(const event of data.events){const row=document.createElement('div');row.className='event';const at=document.createElement('time');at.textContent=clock(event.time);const msg=document.createElement('span');msg.textContent=event.message;row.append(at,msg);events.appendChild(row);}
+    put('refreshClock',new Date().toLocaleTimeString('zh-CN',{hour12:false}));put('connection','本地服务已连接 · 自动刷新中');drawLoss();drawF1();drawGpu();
+  }
+  async function refresh(){if(busy)return;busy=true;try{const reply=await fetch('/api/status',{cache:'no-store'});if(!reply.ok)throw new Error(`HTTP ${reply.status}`);render(await reply.json());}catch(error){put('connection','连接失败 · '+error.message);put('stage','监控服务连接中断');$('dot').classList.add('paused');}finally{busy=false;}}
+  $('allBtn').addEventListener('click',()=>{recent=false;$('allBtn').classList.add('active');$('recentBtn').classList.remove('active');drawLoss();});
+  $('recentBtn').addEventListener('click',()=>{recent=true;$('recentBtn').classList.add('active');$('allBtn').classList.remove('active');drawLoss();});
+  refresh();setInterval(refresh,3000);
+})();
+</script>
+</body>
+</html>

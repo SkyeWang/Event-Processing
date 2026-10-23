@@ -1,0 +1,20 @@
+# 只提交源码、语料与既有实验附件；运行时的大模型、缓存和新结果留在本机。
+**/__pycache__/
+**/*.pyc
+**/*.partial
+**/.cache/
+**/models/
+paper7_event_attributes/LLM/output/
+paper7_event_attributes/AMR/reproduction/results/
+paper7_event_attributes/AMR/reproduction/*.zip
+paper7_event_attributes/AMR/reproduction/*.tar.*
+paper7_event_attributes/AMR/reproduction/Miniconda2-*.sh
+paper7_event_attributes/AMR/camr/amr-anno-*.tar.gz
+paper7_event_attributes/AMR/camr/camr/resources/
+paper7_event_attributes/AMR/camr/camr/lib/
+paper7_event_attributes/AMR/jamr/jamr/resources/
+paper7_event_attributes/AMR/jamr/jamr/lib/
+paper7_event_attributes/AMR/jamr/jamr/sbt-launch.jar
+paper8_event_causality/ECE_MAIN/data/
+paper8_event_causality/ECE_MAIN/res/
+paper8_event_causality/ECE_MAIN/log/

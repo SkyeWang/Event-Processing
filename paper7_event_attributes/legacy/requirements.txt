@@ -1,0 +1,8 @@
+# 历史爬虫/数据库/词形标注的依赖，与报告固定语料实验分开使用。
+requests
+beautifulsoup4
+lxml
+tqdm
+selenium
+pymssql
+# Label-March-27/main.py 另需提供 pattern.text.en 的历史 Pattern 环境。

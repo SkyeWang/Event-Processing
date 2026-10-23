@@ -1,0 +1,173 @@
+{
+  "description": "大文件资源不随代码重复提交；可从原工作目录按此清单复制并校验。",
+  "files": [
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/lib/CoreNLP-mod-convert-collapse.jar",
+      "target": "AMR/camr/camr/lib/CoreNLP-mod-convert-collapse.jar",
+      "bytes": 31151677,
+      "sha256": "cac92930f0f08c74a94a0ba3c946769f3447801a337504c781b0fc3c686a2ef2"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/country-list.csv",
+      "target": "AMR/camr/camr/resources/country-list.csv",
+      "bytes": 3508,
+      "sha256": "4b9dd3613a80d81d5c1770150048d26b66013ce0569f94faaeb2f216eb23e702"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/nombank-dict.1.0",
+      "target": "AMR/camr/camr/resources/nombank-dict.1.0",
+      "bytes": 4372402,
+      "sha256": "1254e89293aeac93cae16bd51e00233988b36b90a226f711033e331b590c199e"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/verbalization-list-v1.01.txt",
+      "target": "AMR/camr/camr/resources/verbalization-list-v1.01.txt",
+      "bytes": 24562,
+      "sha256": "2b3569869e65417d5c16b5784653e1c7afd0112539d7cedffa6850da66e65a47"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt",
+      "bytes": 5011783,
+      "sha256": "1c76548bb1d49d089b48babda0da46830bc1a6a4fb5445d62500ba69dc578be0"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt.pw",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c100-freq1.txt.pw",
+      "bytes": 4153001,
+      "sha256": "b82aec720613eafff52abfef26f442f181222c5fb71f5a78efd9eccc40eb2d6b"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c1000-freq1.txt",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c1000-freq1.txt",
+      "bytes": 6153494,
+      "sha256": "1fe6472942bce36c34a03e7f2ed5cacec4209ccd9a3a516d98325b05df0ada6f"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c1000-freq1.txt.pw",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c1000-freq1.txt.pw",
+      "bytes": 5294712,
+      "sha256": "3465e383143c15977efc0318f9da03700adb4db88b6180d7eb7485908ae8b927"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c320-freq1.txt",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c320-freq1.txt",
+      "bytes": 5530835,
+      "sha256": "d88b421be73ceeb3aa73a3e22c04b04a8d0bd879cee768e67b06d0141faa4403"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c320-freq1.txt.pw",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c320-freq1.txt.pw",
+      "bytes": 4672053,
+      "sha256": "d4171e7c50163a5cae6d5bcc9de94895ced64c83448af848c3455b47cd3e7343"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c3200-freq1.txt",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c3200-freq1.txt",
+      "bytes": 6526029,
+      "sha256": "26d435b876429eedc4c4a54c38907eb319f02d057dfb90f528cce7d471c46ea5"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c3200-freq1.txt.pw",
+      "target": "AMR/camr/camr/resources/wclusters-engiga/brown-rcv1.clean.tokenized-CoNLL03.txt-c3200-freq1.txt.pw",
+      "bytes": 5667247,
+      "sha256": "8ea319e3c64d6ad1b28ac54fbf728cced59b96dfc013d08ec3334fb9272c7445"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/jamr/jamr/lib/edu.mit.jwi_2.3.0_jdk.jar",
+      "target": "AMR/jamr/jamr/lib/edu.mit.jwi_2.3.0_jdk.jar",
+      "bytes": 282483,
+      "sha256": "e4c251f126865223d365d49172c77ea393b46f2a72b60a8ca4f8ab4689ee4c8c"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/jamr/jamr/resources/OntoNotes-v4-predicates.txt",
+      "target": "AMR/jamr/jamr/resources/OntoNotes-v4-predicates.txt",
+      "bytes": 79547,
+      "sha256": "fabf67c66c283531ae3b8b2e221472fa9d6effa0f8f1be7aa15ec52844de365f"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/jamr/jamr/resources/cmd.OntoNotes-v4-predicates.txt",
+      "target": "AMR/jamr/jamr/resources/cmd.OntoNotes-v4-predicates.txt",
+      "bytes": 302,
+      "sha256": "da755c4d0fbc527cd2ccaae4bc0172f98ab0abf5322178e25e066e0646794ce0"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/jamr/jamr/resources/labelset-r3",
+      "target": "AMR/jamr/jamr/resources/labelset-r3",
+      "bytes": 823,
+      "sha256": "1a3738f84ace5b988426bde42513d053c41cfc21906343d5f487f0ddcddec0a2"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/jamr/jamr/resources/labelset-r4",
+      "target": "AMR/jamr/jamr/resources/labelset-r4",
+      "bytes": 991,
+      "sha256": "68a22e1a17f57336ff9d388d64f385c0dadecf91bdeb64ffd1c0b3babb624654"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/jamr/jamr/sbt-launch.jar",
+      "target": "AMR/jamr/jamr/sbt-launch.jar",
+      "bytes": 1183187,
+      "sha256": "b7e6e6ea5f4d44ef8a8ef2f7d23d03ae39de085ddc8aefcebf5cf77ee458fb17"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/reproduction/Miniconda2-latest-Linux-x86_64.sh",
+      "target": "AMR/reproduction/Miniconda2-latest-Linux-x86_64.sh",
+      "bytes": 51093759,
+      "sha256": "b820dde1a0ba868c4c948fe6ace7300a252b33b5befd078a15d4a017476b8979"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/reproduction/BLLIP-WSJ-Gigaword2000.tar.bz2",
+      "target": "AMR/reproduction/BLLIP-WSJ-Gigaword2000.tar.bz2",
+      "bytes": 86444864,
+      "sha256": "78fbba6affe5c24ee9d6d657cd334ae6bab16a6db730b50c2dda067c98144c21"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/reproduction/WordNet-3.0.tar.gz",
+      "target": "AMR/reproduction/WordNet-3.0.tar.gz",
+      "bytes": 11537239,
+      "sha256": "640db279c949a88f61f851dd54ebbb22d003f8b90b85267042ef85a3781d3a52"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/reproduction/stanford-corenlp-full-2015-04-20.zip",
+      "target": "AMR/reproduction/stanford-corenlp-full-2015-04-20.zip",
+      "bytes": 360824440,
+      "sha256": "977d57bde427862dd4d980c2c671cdc51c27256eb7536c293a57c128c789437d"
+    },
+    {
+      "component": "amr",
+      "source": "附录/Code/AMR/camr/amr-anno-1.0.train.m.tar.gz",
+      "target": "AMR/camr/amr-anno-1.0.train.m.tar.gz",
+      "bytes": 46662197,
+      "sha256": "486c1a1d1b0f4edd0057c4c855998efe7265e57ae7957790fce0006209014029"
+    },
+    {
+      "component": "qwen",
+      "source": "附录/Code/LLM/models/Qwen3.5-9B-Q8_0/Qwen3.5-9B-Q8_0.gguf",
+      "target": "LLM/models/Qwen3.5-9B-Q8_0/Qwen3.5-9B-Q8_0.gguf",
+      "bytes": null,
+      "sha256": "63774c0100a07c7c572123d5ac62e64f26bfddf8cbb8fa6bfcc195bdc18a4369"
+    }
+  ]
+}

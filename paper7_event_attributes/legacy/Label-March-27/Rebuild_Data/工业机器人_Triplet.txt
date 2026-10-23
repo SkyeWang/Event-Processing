@@ -1,0 +1,670 @@
+the core components,mainly including*,controller<cp>
+the core components,mainly including*,servo system<cp>
+the core components,mainly including*,reducer<cp>
+the core components,mainly including*,sensors<cp>
+core components,mainly including*,functional units<cp>
+robot body,main structure*,machine base
+robot body,main structure*,actuator
+the robot body,mainly including*,parallel robot<cp>
+robot body,main indicators*,coordinate mode
+robot body,main indicators*,degrees of freedom of motion
+the robot body,the main indicators*,the range of action of each degree of freedom
+the robot body,the main indicators*,the speed of movement of each degree of freedom
+robot body,main indicators*,rated load
+robot body,main indicators*,accuracy
+robot body,application area*,automotive<ly>
+robot body,application area*,electronic and electrical<ly>
+robot body,application area*,chemical<ly>
+robot body,application area*,food<ly>
+robot body,application area*,metal<ly>
+robot body,competition pattern*,four major family monopolies
+robot ontology,competitive landscape*,huge and rapid growth in demand
+robot ontology,competitive landscape*,china replaced japan as the largest consumer market for industrial robots
+the robot body,the competitive landscape*,the density slightly exceeds the global level
+robot ontology,competitive landscape*,siason national team
+robot ontology,robot ontology manufacturer*,eston<gs>
+robot ontology,robot ontology manufacturer*,fanuc<gs>
+robot ontology,robot ontology manufacturer*,yaskawa<gs>
+robot ontology,robot ontology manufacturer*,topstar<gs>
+robot ontology,robot ontology manufacturer*,abb<gs>
+robot ontology,robot ontology manufacturer*,kuka
+robot ontology,robot ontology manufacturer*,bront?<gs>
+robot ontology,robot ontology manufacturer*,robot<gs>
+robot ontology,robot ontology manufacturer*,xinshida<gs>
+robot ontology,robot ontology manufacturer*,siasun<gs>
+robot ontology,robot ontology manufacturer*,central china cnc<gs>
+robot ontology,robot ontology manufacturer*,everwin precision<gs>
+robot ontology,robot ontology manufacturer*,astar<gs>
+robot ontology,robot ontology manufacturer*,hkust intelligent<gs>
+robot ontology,robot ontology manufacturer*,crack co.
+robot ontology,robot ontology manufacturer*,boshi co.
+robot ontology,robot ontology manufacturer*,nanjing panda<gs>
+robot ontology,robot ontology manufacturer*,giant wheel intelligent<gs>
+robot ontology,robot ontology manufacturer*,shanghai shanghai industrial<gs>
+robot ontology,robot ontology manufacturer*,seymour electric<gs>
+robot ontology,robot ontology manufacturer*,han's laser<gs>
+robot ontology,robot ontology manufacturer*,yuanda intelligent<gs>
+robot ontology,robot ontology manufacturer*,jasic technology<gs>
+robot ontology,robot ontology manufacturer*,qianjiang motorcycle<gs>
+robot ontology,robot ontology manufacturer*,hs><hs technology
+robot ontology,robot ontology manufacturer*,ruiqi co.
+end applications,application scenarios*,automotive manufacturing<ly>
+end applications,application scenarios*,home appliance manufacturing<ly>
+end applications,application scenarios*,electronic and electrical<ly>
+end applications,application scenarios*,metalworking<ly>
+terminal applications,application scenarios*,logistics and transportation<ly>
+end applications,application scenarios*,food industry<ly>
+end applications,application scenarios*,chemical industry<ly>
+end applications,competitive landscape*,huge and rapid growth in demand
+system integration,functions*,according to different application scenarios and uses
+system integration,application areas*,machining<ly>
+system integration,application areas*,welding<ly>
+system integration,application areas*,assembly<ly>
+system integration,application areas*,handling<ly>
+system integration,application areas*,sorting<ly>
+system integration,application areas*,automotive<ly>
+system integration,application areas*,electronics<ly>
+system integration,application areas*,metal<ly>
+system integration,application areas*,food<>
+system integration,application areas*,chemical<>
+system integration,application areas*,biochemistry<ly>
+system integration,application areas*,plastics<ly>
+system integration,competitive landscape*,relatively fragmented
+system integration,competitive landscape*,lowest technical barriers
+system integration,competitive landscape*,with localized service competitive advantage
+system integration,competitive landscape*,the core advantage of system integrators lies in talent and industry accumulation
+system integration,competitive pattern*,and perfect industrial chain layout can become bigger and stronger
+system integration,domestic advantages*,channel advantages
+system integration,domestic advantages*,price advantages
+system integration,domestic advantages*,engineer dividend
+whole industry chain manufacturers,eston<gs>*,cnc<yw>
+whole industry chain manufacturers,eston<gs>*,downstream integration<yw>
+manufacturers of the whole industry chain,topstar<gs>*,integrated<yw>
+whole industry chain manufacturers,topstar<gs>*,upstream integration<yw>
+whole industry chain manufacturer,robot<gs>*,independent research and development<yw>
+whole industry chain manufacturers,robot<gs>*,downstream integration<yw>
+the whole industry chain manufacturer,xinshida<gs>*,independent research and development<yw>
+manufacturers of the whole industry chain,xinshida<gs>*,mergers and acquisitions downstream integration<yw>
+whole industry chain manufacturers,huazhong cnc<gs>*,cnc<yw>
+whole industry chain manufacturers,huazhong cnc<gs>*,downstream integration<yw>
+the whole industry chain manufacturer,guangzhou cnc<gs>*,cnc<yw>
+the whole industry chain manufacturer,guangzhou cnc<gs>*,downstream integration<yw>
+the whole industry chain manufacturer,efort<gs>*,integrated<yw>
+whole industry chain manufacturers,efort<gs>*,upstream integration<yw>
+ontology manufacturing<js>,mainly including*,ontology design<js>
+ontology manufactures<js>,*,and functions implement<js>
+robot ontology manufacturer,abb<gs>*,power products and systems<ly>
+robot ontology manufacturer,abb<gs>*,discrete automation<ly>
+robot ontology manufacturer,abb<gs>*,motion control<ly>
+robot ontology manufacturer,abb<gs>*,process automation<ly>
+robot ontology manufacturer,abb<gs>*,low-voltage products<ly>
+robot ontology manufacturer,kuka*,intelligent automation solutions<yw>
+robot ontology manufacturer,crack shares<gs>*,main products
+our national conditions,including*,are huge
+china's national conditions,including*,huge economic volume
+system integrator manufacturers,mainly including*,zhiyun co.
+system integrator manufacturers,mainly including*,robot<gs>
+system integrator manufacturers,mainly including*,saiteng co.
+system integrator manufacturers,mainly including*,today the international<gs>
+system integration manufacturers,mainly including*,keyuan co.
+system integrator manufacturers,mainly including*,huachangda<gs>
+system integrator manufacturers,mainly including*,topstar<gs>
+system integration manufacturers,mainly including*,hagong intelligent<gs>
+system integrator manufacturers,mainly including*,smart songde<gs>
+system integrator manufacturers,mainly including*,boshi co.
+system integration manufacturers,mainly including*,dongfang precision<gs>
+system integrator manufacturers,mainly including*,yawei co.
+system integrator manufacturers,mainly including*,shenzhen nitto<gs>
+system integration manufacturers,mainly including*,yongchuang intelligent<gs>
+system integrator manufacturers,mainly including*,nuoli shares<gs>
+system integrator manufacturers,mainly including*,yellow river cyclone<gs>
+system integrator manufacturers,mainly including*,shanghai hugong<gs>
+system integrator manufacturers,mainly including*,seymour electric<gs>
+system integrator manufacturers,mainly including*,saixiang technology<gs>
+system integrator manufacturers,mainly including*,jasic technology<gs>
+system integration manufacturers,mainly including*,changying precision<gs>
+system integrator manufacturers,mainly including*,hongxun technology<gs>
+system integrator manufacturers,mainly including*,rapoo technology<gs>
+system integrator manufacturers,mainly including*,softcontrol shares<gs>
+system integration manufacturers,mainly including*,lanying equipment<gs>
+system integrator manufacturers,mainly including*,jin zitianzheng<gs>
+system integration manufacturers,mainly including*,chutian technology<gs>
+system integrators,core*,salespeople
+system integrators,core*,project engineers
+system integrator manufacturer,core*,on-site installation and commissioning personnel
+system integration manufacturers,fierce competition in the future*,competitors in the same industry
+system integrators,potential entrants*,equipment manufacturers
+system integrators,potential entrants*,system integrators in other industries
+controller<cp>,controller manufacturer*,fanuc<gs>
+controller<cp>,controller manufacturer*,yaskawa<gs>
+controller<cp>,controller manufacturer*,kuka<gs>
+controller<cp>,controller manufacturer*,abb<gs>
+controller<cp>,controller manufacturer*,otc<gs>
+controller<cp>,controller manufacturer*,keba<gs>
+controller<cp>,controller manufacturer*,epson<gs>
+controller<cp>,controller manufacturer*,st?ubli<gs>
+controller<cp>,controller manufacturer*,gootech<gs>
+controller<cp>,controller manufacturer*,nachi bujiyue<gs>
+controller<cp>,controller manufacturer*,robot<gs>
+controller<cp>,controller manufacturer*,kawasaki heavy industries<gs>
+controller<cp>,controller manufacturer*,comau<gs>
+controller<cp>,controller manufacturer*,eston<gs>
+controller<cp>,controller manufacturer*,new time up to<gs>
+controller<cp>,controller manufacturer*,huichuan technology<gs>
+controller<cp>,controller manufacturer*,keyuan co.
+controller<cp>,controller manufacturer*,xinjie electric<gs>
+controller<cp>,controller manufacturer*,carnop<gs>
+controller<cp>,controller manufacturer*,invt<gs>
+controller<cp>,controller manufacturer*,guangzhou cnc<gs>
+controller<cp>,controller manufacturer*,lesser intelligent<gs>
+controller<cp>,controller manufacturer*,huazhong cnc<gs>
+the controller<cp>,the competitive landscape*,the hardware gap is small
+controller<cp>,competitive landscape*,japanese dominance
+controller<cp>,components*,controller chip hardware<js>
+controller<cp>,components*,controller software<js>
+controller<cp>,main structure*,pc/xt/at computer
+controller<cp>,main structure*,standard hardware
+controller<cp>,main structure*,ad/da capture card
+controller<cp>,main structure*,image processing module
+controller<cp>,main structure*,other modules
+controller<cp>,main structure*,motion controller
+the controller<cp>,the main classification*,single-chip microcomputer as the core
+the controller<cp>,the main classification*,plc system as the core
+controller<cp>,main classification*,ipc+ motion controller
+the controller<cp>,functions*,and transmits action instructions
+the controller<cp>,functions*,and issues action commands
+servo system<cp>,servo system manufacturer*,yaskawa<gs>
+servo system<cp>,servo system manufacturer*,panasonic<gs>
+servo system<cp>,servo system manufacturer*,mitsubishi<gs>
+servo system<cp>,servo system manufacturer*,delta<gs>
+servo system<cp>,servo system manufacturer*,luster<gs>
+servo system<cp>,servo system manufacturer*,lenze<gs>
+servo system<cp>,servo system manufacturer*,siemens<gs>
+servo system<cp>,servo system manufacturer*,keba<gs>
+servo system<cp>,servo system manufacturer*,teco<gs>
+servo system<cp>,servo system manufacturer*,bosch rexroth<gs>
+servo system<cp>,servo system manufacturer*,huichuan technology<gs>
+servo system<cp>,servo system manufacturer*,central china cnc<gs>
+servo system<cp>,servo system manufacturer*,cixing co.
+servo system<cp>,servo system manufacturer*,eston<gs>
+servo system<cp>,servo system manufacturer*,xinshida<gs>
+servo system<cp>,servo system manufacturer*,keyuan co.
+servo system<cp>,servo system manufacturer*,xinjie electric<gs>
+servo system<cp>,servo system manufacturer*,beichao servo<gs>
+servo system<cp>,servo system manufacturer*,lesser intelligent<gs>
+servo system<cp>,servo system manufacturer*,carnop<gs>
+servo system<cp>,servo system manufacturer*,invt<gs>
+servo system<cp>,servo system manufacturer*,guangzhou cnc<gs>
+servo system<cp>,competitive landscape*,domestic brand gap is still there
+servo system<cp>,the main gap between china and foreign countries*,the lack of high-power products
+the servo system<cp>,the main gap between china and foreign countries*,and the miniaturization is not enough
+the servo system<cp>,the main gap between china and foreign countries*,and the signal connector is unstable
+the servo system<cp>,the main gap between china and foreign countries*,and the lack of high-precision encoders
+the servo system<cp>,functions*,and power
+servo system<cp>,product category*,small power products
+servo system<cp>,product category*,medium power products
+servo system<cp>,product category*,large power products
+servo system<cp>,mainly including*,servo motor<cp>
+servo system<cp>,mainly including*,servo drive<cp>
+the servo system<cp>,mainly including*,encoder<cp>
+reducer<cp>,reducer classification*,transmission type
+reducer<cp>,reducer classification*,number of transmission stages
+reducer<cp>,reducer classification*,layout form
+reducer<cp>,competitive landscape*,more than 85% of the global market share is occupied by japanese manufacturers
+reducer<cp>,competition pattern*,domestic companies are generally established late
+reducer<cp>,mainly including*,filter gear<cp>
+the reducer<cp>,mainly including*,cycloidal pin wheel<cp>
+reducer<cp>,mainly including*,rv reducer<cp>
+reducer<cp>,mainly including*,harmonic reducer<cp>
+reducer<cp>,mainly including*,planetary reducer<cp>
+reducer<cp>,dominate*,rv reducer<cp>
+reducer<cp>,occupies the mainstream position*,harmonic reducer<cp>
+reducer<cp>,function*,to ensure accuracy
+reducer<cp>,functions*,transfer load
+reducer<cp>,domestic harmonic reducer problem*,product series is not perfect
+reducer<cp>,domestic harmonic reducer problem*,product consistency
+reducer<cp>,metrics*,torsional stiffness
+reducer<cp>,measurement index*,transmission accuracy
+reducer<cp>,metrics*,clearance
+reducer<cp>,metrics*,backlash
+reducer<cp>,measurement index*,transmission error
+reducer<cp>,measurement index*,transmission efficiency
+reducer<cp>,metrics*,average life
+reducer<cp>,metrics*,product consistency
+reducer<cp>,metric index*,reduction ratio
+reducer<cp>,metrics*,input/output power
+reducer<cp>,average number of individual applications*,six-axis multi-joint robot
+reducer<cp>,average number of individual applications*,scara robot
+reducer<cp>,average number of monomer applications*,articulated arm
+reducer<cp>,average number of individual applications*,collaborative robots
+reducer<cp>,average number of individual applications*,delta robot
+reducer<cp>,reducer manufacturer*,rv reducer manufacturer
+reducer<cp>,reducer manufacturer*,harmonic reducer manufacturer
+multi-joint robot<cp>,mainly used for*,welding
+multi-joint robot<cp>,mainly used for*,spraying
+multi-joint robot<cp>,mainly used for*,loading and unloading
+multi-joint robot<cp>,mainly used for*,handling
+multi-joint robot<cp>,mainly used for*,assembly
+multi-joint robot<cp>,application areas*,automotive<ly>
+multi-joint robot<cp>,application areas*,3c<ly>
+multi-joint robots<cp>,fields of application*,food<ly>
+scara robot<cp>,mainly used for*,handling
+scara robots<cp>,mainly used for*,assembly
+scara robot<cp>,mainly used for*,cargo loading
+scara robots<cp>,mainly used for*,unloading
+scara robot<cp>,mainly used for*,welding
+scara robot<cp>,mainly used for*,coating
+scara robot<cp>,mainly used for*,glue sealing
+scara robotics<cp>,fields of application*,automotive<ly>
+scara robot<cp>,application areas*,3c<ly>
+scara robot<cp>,application areas*,food<ly>
+scara robot<cp>,application areas*,pharmaceuticals<ly>
+scara robot<cp>,fields of application*,plastic<ly>
+cartesian coordinate robot<cp>,mainly used for*,dispensing
+cartesian coordinate robot<cp>,mainly used for*,drop molding
+cartesian coordinate robot<cp>,mainly used for*,spraying
+cartesian coordinate robot<cp>,mainly used for*,packaging
+cartesian coordinate robot<cp>,mainly used for*,welding
+cartesian coordinate robot<cp>,mainly used in*,metal processing
+cartesian coordinate robot<cp>,mainly used for*,handling
+cartesian coordinate robot<cp>,mainly used for*,loading and unloading
+cartesian robot<cp>,application areas*,automotive<ly>
+cartesian robot<cp>,application areas*,metalworking<ly>
+cartesian robot<cp>,application areas*,3c<ly>
+cartesian robots<cp>,fields of application*,food<ly>
+cartesian robots<cp>,fields of application*,pharmaceuticals<ly>
+cartesian robot<cp>,application fields*,chemical<ly>
+cylindrical coordinate robot<cp>,mainly used for*,dispensing
+cylindrical coordinate robot<cp>,mainly used for*,drop molding
+cylindrical coordinate robot<cp>,mainly used for*,spraying
+cylindrical coordinate robot<cp>,mainly used for*,packaging
+cylindrical coordinate robot<cp>,mainly used for*,welding
+cylindrical coordinate robot<cp>,mainly used for*,metal processing
+cylindrical coordinate robot<cp>,mainly used for*,handling
+cylindrical coordinate robot<cp>,mainly used for*,loading and unloading
+cylindrical coordinate robot<cp>,application areas*,automotive<ly>
+cylindrical coordinate robot<cp>,application areas*,metalworking<ly>
+cylindrical coordinate robot<cp>,application areas*,3c<ly>
+cylindrical coordinate robot<cp>,application areas*,food<ly>
+cylindrical coordinate robot<cp>,application area*,pharmaceutical<ly>
+cylindrical coordinate robot<cp>,application areas*,chemical<ly>
+polar coordinate robot<cp>,mainly used for*,dispensing
+polar coordinate robot<cp>,mainly used for*,drop molding
+polar coordinate robot<cp>,mainly used for*,spraying
+polar coordinate robot<cp>,mainly used for*,packaging
+polar coordinate robots<cp>,mainly used for*,welding
+polar coordinate robot<cp>,mainly used for*,metal processing
+polar coordinate robots<cp>,mainly used for*,handling
+polar coordinate robot<cp>,mainly used for*,loading and unloading
+polar robot<cp>,application areas*,automotive<ly>
+polar robot<cp>,application areas*,metalworking<ly>
+polar robot<cp>,application areas*,3c<ly>
+polar robot<cp>,application areas*,food<ly>
+polar coordinate robot<cp>,application field*,pharmaceuticals<ly>
+polar coordinate robot<cp>,application field*,chemical<ly>
+parallel robots<cp>,mainly used for*,sorting
+parallel robots<cp>,mainly used for*,handling
+parallel robots<cp>,mainly used for*,boxing
+parallel robot<cp>,mainly used for*,metal cutting processing
+parallel robot<cp>,mainly used for*,car wheel installation
+parallel robots<cp>,fields of application*,metalworking<ly>
+parallel robot<cp>,application areas*,automotive<ly>
+parallel robots<cp>,fields of application*,transport equipment<ly>
+parallel robots<cp>,application areas*,pharmaceuticals<ly>
+parallel robot<cp>,application area*,3c<ly>
+parallel robots<cp>,application areas*,chemical<ly>
+avg robot<cp>,mainly used for*,handling
+avg robotics<cp>,application areas*,mechanics<ly>
+avg robotics<cp>,application areas*,3c<ly>
+avg robot<cp>,application areas*,textile<ly>
+avg robot<cp>,application areas*,tobacco<ly>
+avg robotics<cp>,applications*,medical<ly>
+avg robot<cp>,application areas*,food<ly>
+avg robotics<cp>,application areas*,logistics<ly>
+eston<gs>,shareholding*,euclidlabs srl<gs>
+eston<gs>,shareholding*,praxair motors<gs>
+eston<gs>,shareholding*,trio<gs>
+eston<gs>,shareholding*,barrett<gs>
+eston<gs>,shareholder*,yangzhou shuguang<gs>
+eston<gs>,shareholding*,cloos<gs>
+eston<gs>,main products*,electro-hydraulic servo system<cp>
+eston<gs>,main products*,current servo systems<cp>
+eston<gs>,main products*,cnc systems<cp>
+fanuc<gs>,application area*,loading and unloading<ly>
+fanuc<gs>,application areas*,arc welding<ly>
+fanuc<gs>,fields of application*,logistics<ly>
+fanuc<gs>,field of application*,assembly<ly>
+fanuc<gs>,application areas*,coating<ly>
+fanuc<gs>,field of application*,laser cutting<ly>
+fanuc<gs>,collaboration*,siemens ag<gs>
+fanuc<gs>,collaboration*,hwacheon<gs>
+yaskawa<gs>,collaboration*,brusk<gs>
+yaskawa<gs>,application field*,arc welding<ly>
+yaskawa<gs>,application area*,spraying<ly>
+yaskawa<gs>,application areas*,semiconductor<ly>
+yaskawa<gs>,application areas*,lcd<ly>
+yaskawa<gs>,application area*,vacuum clean handling<ly>
+abb<gs>,收购*,svia<gs>
+abb,<gs>acquisitions*,b&r<gs>
+abb<gs>,acquisition*,ge industrial systems business<yw>
+abb<gs>,acquisition*,gomtec collaborative robot business<yw>
+kuka,user community*,ford<gs>
+kuka,user groups*,porsche<gs>
+kuka,user community*,bmw<gs>
+kuka,user groups*,foss<gs>
+kuka,user groups*,ferrari<gs>
+kuka,user groups*,walmart<gs>
+kuka,user group*,budweiser<gs>
+kuka,user groups*,coca-cola<gs>
+kuka,user community*,bsnmedical<gs>
+kuka,user groups*,audi<gs>
+bronte<gs>,main products*,articulated robots<cp>
+siasun<gs>,acquisitions*,shinsung<gs>
+siasun<gs>,main products*,industrial robots<cp>
+siason<gs>,main products*,clean robot<cp>
+siasun<gs>,main products*,mobile robot<cp>
+siasun<gs>,main products*,special robot<cp>
+siasun<gs>,main products*,intelligent service robot<cp>
+siasung<gs>,application areas*,power grid<ly>
+siasun<gs>,application areas*,tobacco<ly>
+siasun<gs>,application areas*,petroleum<ly>
+siasun<gs>,application areas*,microelectronics
+siasun<gs>,application areas*,shipbuilding<ly>
+siasun<gs>,application areas*,construction machinery<ly>
+siasun<gs>,application areas*,automotive<ly>
+siasun<gs>,application areas*,nuclear power<ly>
+siasun<gs>,application areas*,bathroom<ly>
+siasun<gs>,main business*,logistics and warehousing automation complete equipment<yw>
+siasun<gs>,main business*,traffic automation system<yw>
+siasun<gs>,main business*,automated assembly and inspection production line integration<yw>
+siasun<gs>,main business*,industrial robots<yw>
+servo system manufacturer,yaskawa<gs>*,main products
+servo system manufacturer,panasonic<gs>*,main products
+servo system manufacturer,mitsubishi<gs>*,main products
+servo system manufacturer,luster<gs>*,main products
+servo system manufacturer,lenze<gs>*,main products
+servo system manufacturer,huichuan technology<gs>*,main products
+servo system manufacturer,central china cnc<gs>*,main products
+servo system manufacturer,xinshida<gs>*,main products
+servo system manufacturer,lesser intelligent<gs>*,main products
+servo system manufacturer,carnop<gs>*,main products
+servo system manufacturer,invt<gs>*,main products
+servo system manufacturer,guangzhou cnc<gs>*,main products
+reducer manufacturers,rv reducer manufacturers*,nabotesque<gs>
+reducer manufacturers,rv reducer manufacturers*,sumitomo<gs>
+reducer manufacturers,rv reducer manufacturers*,spinea<gs>
+reducer manufacturers,rv reducer manufacturers*,zhongda de<gs>
+reducer manufacturers,rv reducer manufacturers*,nantong zhenkang<gs>
+reducer manufacturers,rv reducer manufacturers*,double ring drive<gs>
+reducer manufacturers,rv reducer manufacturers*,qinchuan machine tools<gs>
+reducer manufacturers,rv reducer manufacturers*,lectra precision<gs>
+reducer manufacturers,harmonic reducer manufacturers*,hamonaco<gs>
+reducer manufacturer,harmonic reducer manufacturer*,japan shinbao<gs>
+reducer manufacturer,harmonic reducer manufacturer*,shanghai electromechanical<gs>
+reducer manufacturer,harmonic reducer manufacturer*,green harmonic<gs>
+reducer manufacturer,harmonic reducer manufacturer*,beijing zhongji kemei<gs>
+reducer manufacturers,harmonic reducer manufacturers*,laifu harmonics<gs>
+reducer manufacturers,harmonic reducer manufacturers*,han's laser<gs>
+reducer manufacturers,harmonic reducer manufacturers*,giant wheel intelligent<gs>
+reducer manufacturers,harmonic reducer manufacturers*,shaoneng co.
+hkust intelligent<gs>,application areas*,automotive<ly>
+hagong intelligent<gs>,application fields*,automotive<ly>
+shenzhen nitto<gs>,application fields*,3c<ly>
+noli shares<gs>,application areas*,energy<ly>
+dongfang precision<gs>,application fields*,energy<ly>
+salesperson,function*,get the order
+project engineer,function*,schematic design
+on-site installation and commissioning personnel,functions*,installation and commissioning
+fanuc<gs>,main products*,robotr-30ia<cp>
+fanuc<gs>,main product*,fanucrobot r-30ia<cp>
+yaskawa<gs>,main products*,dx/ma<cp>
+kuka<gs>,main products*,krc4 system architecture<cp>
+abb<gs>,main products*,irc5 controller<cp>
+keba<gs>,main products*,kemotion 5000<cp>
+googoo hi-tech<gs>,main products*,marvie<cp>
+robotics<gs>,main products*,siasun-grc<cp>
+eston<gs>,acquisition*,trio<gs>
+xinshida<gs>,acquired*,shenzhen zhongweixing<gs>
+huichuan technology<gs>,main products*,imc100 controller<cp>
+canop<gs>,main products*,crp-s80<cp>
+gootech<gs>,main products*,guc series<cp>
+invt<gs>,main products*,imp series<cp>
+guangzhou cnc<gs>,main products*,gsk-rc<cp>
+guangzhou cnc<gs>,main products*,rb series<cp>
+guangzhou cnc<gs>,main products*,rmd series<cp>
+guangzhou cnc<gs>,main products*,rb03a1 series<cp>
+resai intelligent<gs>,main products*,smc606<cp>
+huazhong cnc<gs>,main products*,ccr series<cp>
+huazhong cnc<gs>,main products*,wasu ii control system<cp>
+controller chip hardware<js>,technical difficulties*,semiconductor design and manufacturing<js>
+the controller software<js>,mainly including*,upper position module<js>
+the controller software<js>,mainly including*,lower position motion control<js>
+controller software<js>,technical difficulties*,controller software algorithm<js>
+controller software<js>,technical difficulties*,controller software compatibility<js>
+motion controllers,top ten motion control brands*,delta tau<gs>
+motion controllers,top 10 motion control brands*,acs<gs>
+motion controllers,top ten motion control brands*,parker hannifin<gs>
+motion controllers,top ten motion control brands*,trio<gs>
+motion controllers,top ten motion control brands*,galil<gs>
+motion controllers,top ten motion control brands*,kollmorgen<gs>
+motion controllers,top ten motion control brands*,infranor<gs>
+motion controllers,top 10 motion control brands*,baldor<gs>
+motion controllers,top ten motion control brands*,aerotech<gs>
+motion controller,mainly composed of*,general-purpose i/o
+motion controller,mainly composed of*,expansion module
+motion controller,mainly composed of*,servo drive
+the single-chip microcomputer is the core,mainly composed of*,a single chip
+single-chip microcomputer as the core,features*,low cost
+single-chip microcomputer as the core,features*,poor anti-interference ability
+plc system as the core,mainly composed of*,automatic control technology
+plc system as the core,mainly composed of*,computer integrated industrial control system
+plc system as the core,features*,high reliability
+plc system as the core,features*,small size
+plc system as the core,features*,does not support advanced
+plc system as the core,characteristics*,can not meet multi-axis linkage and other complex conditions
+ipc+ motion controller,mainly composed of*,computer general platform
+ipc+ motion controller,mainly composed of*,real-time software system
+ipc+ motion controller,features*,strong system versatility
+ipc+ motion controller,features*,fast build speed
+ipc+ motion controller,features*,can meet complex motion requirements
+ipc+ motion controller,features*,strong anti-interference ability
+ipc+ motion controller,features*,strong openness
+yaskawa<gs>,main products*,servo motors<cp>
+panasonic<gs>,main products*,servo motor<cp>
+panasonic<gs>,*,servo drive<cp>
+mitsubishi<gs>,main products*,servo system<cp>
+luster<gs>,main products*,servo drives<cp>
+huichuan technology<gs>,main products*,servo motor<cp>
+huazhong cnc<gs>,main products*,servo motor<cp>
+xinshida<gs>,main products*,servo system<cp>
+resai intelligent<gs>,main products*,servo system<cp>
+canop<gs>,main products*,servo systems<cp>
+invt<gs>,main products*,servo drives<cp>
+guangzhou cnc<gs>,main products*,servo motor<cp>
+small power products,major manufacturer*,yaskawa<gs>
+small power products,major manufacturers*,mitsubishi<gs>
+small power products,major manufacturers*,sanyo<gs>
+small power products,major manufacturers*,omron<gs>
+small power products,major manufacturers*,panasonic<gs>
+small power products,major producers*,eston<gs>
+small power products,major manufacturers*,huichuan<gs>
+small power products,major manufacturers*,delta<gs>
+medium-sized power products,major manufacturers*,yaskawa<gs>
+medium power products,major manufacturers*,mitsubishi<gs>
+medium power products,major manufacturers*,sanyo<gs>
+medium power products,major manufacturers*,omron<gs>
+medium power products,major manufacturers*,panasonic<gs>
+medium power products,major manufacturers*,delta<gs>
+medium power products,major producers*,eston<gs>
+medium-sized power products,major manufacturers*,huichuan<gs>
+large power products,major manufacturers*,siemens<gs>
+large power products,major manufacturer*,bosch rexroth<gs>
+large power products,major manufacturers*,schneider<gs>
+servo motor<cp>,mainly including*,ac motor<cp>
+servo motor<cp>,mainly including*,dc motor<cp>
+servo motor<cp>,main structure*,stator
+servo motor<cp>,main structure*,rotor
+servo motor<cp>,product target*,high precision
+servo motor<cp>,product target*,high reliability
+servo motor<cp>,product target*,high heat capacity
+servo motor<cp>,product target*,high stiffness
+servo motor<cp>,product target*,lightweight
+servo motor<cp>,product target*,high corresponding performance
+servo motor<cp>,performance index*,mechanical time constant
+servo motor<cp>,performance index*,electrical time constant
+servo motor<cp>,performance indicators*,heating time constant
+servo motor<cp>,performance indicators*,moment of inertia
+servo motor<cp>,performance indicators*,overload kinematic capacity
+servo motor<cp>,performance indicators*,power change rate
+servo motor<cp>,performance indicators*,reliability
+servo motor<cp>,performance indicators*,braking
+servo motor<cp>,performance indicators*,motor construction
+servo motor<cp>,performance indicators*,response speed
+servo motor<cp>,servo motor manufacturer*,huichuan technology<gs>
+servo motor<cp>,servo motor manufacturer*,central china cnc<gs>
+servo motor<cp>,servo motor manufacturer*,beichao servo<gs>
+servo motor<cp>,servo motor manufacturer*,invt<gs>
+servo motor<cp>,servo motor manufacturer*,guangzhou cnc
+servo motor<cp>,servo motor manufacturer*,eston<gs>
+servo drives<cp>,functions*,drivetrain positioning
+encoder<cp>,function*,signal feedback
+encoder<cp>,mainly including*,optical encoder<cp>
+encoder<cp>,*,magnetic encoder<cp>
+encoder<cp>,main structure*,input shaft
+encoder<cp>,main structure*,ball bearings
+encoder<cp>,main structure*,light-receiving element
+encoder<cp>,main structure*,indexing ruler
+encoder<cp>,main structure*,light-emitting diode
+encoder<cp>,main structure*,encoded disc
+encoder<cp>,main structure*,main signal
+encoder<cp>,main structure*,for zero signal
+cycloidal pin wheel<cp>,main structure*,input section
+cycloidal pinwheel<cp>,main structure*,deceleration section
+cycloidal pinwheel<cp>,main structure*,output part
+rv reducer<cp>,main structure*,involute cylindrical gear
+rv reducer<cp>,main structure*,cycloid pin wheel
+rv reducer<cp>,manufacturing difficulties*,material molding technology<js>
+rv reducer<cp>,manufacturing difficulties*,precision machining and assembly technology<js>
+rv reducer<cp>,main application*,multi-joint robot
+harmonic reducer<cp>,main structure*,wave generator
+harmonic reducer<cp>,main structure*,rigid wheel
+harmonic reducer<cp>,main structure*,flexible wheel
+harmonic reducer<cp>,main application*,articulated robot
+planetary gearbox<cp>,main structure*,planetary gear
+planetary gearbox<cp>,main structure*,solar wheel
+planetary gearbox<cp>,main structure*,external ring gear
+planetary reducer<cp>,main application*,cartesian coordinate robot
+unsound product range,reasons*,patent restrictions
+product consistency,mainly including*,oil leakage
+product consistency,mainly including*,reduced accuracy
+product consistency,mainly including*,performance is lower than experimental data
+top 10 motion control brands,delta tau<gs>*,high performance machine control<yw>
+top 10 motion control brands,acs<gs>*,service industry
+top ten motion control brands,parker hannifin<gs>*,main products
+top 10 motion control brands,trio<gs>*,offering motion control oem products<yw>
+the top ten motion control brands,galil<gs>*,offer microprocessor-based precision motion controllers<yw>
+top 10 motion control brands,infranor<gs>*,drive and control system equipment supply<yw>
+top 10 motion control brands,infranor<gs>*,serving customers
+top ten motion control brands,baldor<gs>*,main products
+top ten motion control brands,aerotech<gs>*,main products
+servo motor manufacturer,invt<gs>*,application field
+nantong zhenkang<gs>,supply*,siasun robot<gs>
+nantong zhenkang<gs>,supply*,efort<gs>
+nantong zhenkang<gs>,supply*,shanghai huanyan<gs>
+double ring drive<gs>,supply*,efort<gs>
+double ring drive<gs>,cooperation*,siasun<gs>
+double ring drive<gs>,cooperation*,efort<gs>
+shanghai electromechanical<gs>,cooperation*,nano<gs>
+beijing zhongji kemei<gs>,supply*,military industry<ly>
+the upper machine position module<js>,mainly including*,man-machine interface<js>
+the upper position module<js>,mainly including*,trajectory planning<js>
+the upper position module<js>,mainly including*,forward and reverse motion mathematical operations<js>
+the upper machine position module<js>,mainly including*,3d simulation<js>
+the upper position module<js>,mainly including*,teaching<js>
+the upper position module<js>,mainly including*,and the lower position communication<js>
+lower position motion control<js>,mainly including*,servo control<js>
+lower position motion control<js>,mainly including*,servo interpolation<js>
+lower position motion control<js>,mainly including*,servo interruption<js>
+lower position motion control<js>,mainly including*,return to zero<js>
+lower camera motion control<js>,mainly including*,hand grip opening and closing<js>
+lower camera motion control<js>,mainly including*,and upper position communication<js>
+acs<gs>,industries served*,packaging<ly>
+acs<gs>,service industry*,print<ly>
+acs<gs>,service industry*,robotics<ly>
+acs<gs>,service industry*,linear platform control<ly>
+acs<gs>,service industry*,semiconductor manufacturing<ly>
+acs<gs>,service industry*,semiconductor testing<ly>
+parker hannifin<gs>,main products*,controller<cp>
+parker hannifin<gs>,main product*,driver<cp>
+parker hannifin<gs>,main products*,server<cp>
+parker hannifin<gs>,main products*,motor<cp>
+parker hannifin<gs>,main products*,reduction gears<cp>
+parker hannifin<gs>,main products*,mechanical drives<cp>
+parker hannifin<gs>,main products*,ac drives<cp>
+parker hannifin<gs>,main products*,dc inverters<cp>
+infranor<gs>,serving customers*,siemens<gs>
+infranor<gs>,serving customers*,ph.d.<gs>
+infranor<gs>,serving customers*,abb<gs>
+infranor<gs>,serving customers*,coca-cola<gs>
+baldor<gs>,including*,ryan electric<gs>
+baldor<gs>,containing*,dodge
+baldor<gs>,main products*,industrial motors<cp>
+aerotech<gs>,main products*,high-performance motion control systems<cp>
+aerotech<gs>,main products*,high-performance positioning systems<cp>
+ac motor<cp>,mainly including*,synchronous dc motor<cp>
+ac motor<cp>,mainly including*,asynchronous dc motor<cp>
+ac motor<cp>,advantage*,brushless and commutator
+ac motor<cp>,advantages*,small inertia
+ac motors<cp>,advantages*,suitable for high torque environments
+ac motor<cp>,advantages*,stator winding heat dissipation is convenient
+ac motors<cp>,main manufacturers*,lenze<gs>
+ac motor<cp>,main manufacturer*,luster<gs>
+ac motor<cp>,main manufacturer*,siemens<gs>
+ac motor<cp>,main manufacturer*,yaskawa<gs>
+dc motor<cp>,mainly including*,brushed dc motor<cp>
+dc motor<cp>,mainly including*,brushless dc motor<cp>
+dc motor<cp>,disadvantage*,easy to generate electromagnetic interference
+dc motor<cp>,advantages*,low cost
+huichuan technology<gs>,application areas*,elevator<ly>
+huichuan technology<gs>,application areas*,machine tools<ly>
+huichuan technology<gs>,application areas*,packaging<ly>
+huichuan technology<gs>,application field*,injection molding<ly>
+central china cnc<gs>,main products*,cnc equipment<cp>
+huazhong cnc<gs>,main products*,servo drive equipment<cp>
+central china cnc<gs>,main products*,cnc machine tools<cp>
+beichao servo<gs>,main products*,ac servo motor<cp>
+beichao servo<gs>,main products*,spindle motor<cp>
+beichao servo<gs>,main products*,servo drive<cp>
+beichao servo<gs>,application field*,machine tool<ly>
+beichao servo<gs>,application fields*,automotive<ly>
+beichao servo<gs>,application field*,robot<ly>
+invt<gs>,main products*,total solution<cp>
+invt<gs>,application areas*,textiles<ly>
+guangzhou cnc,main products*,servo system<cp>
+guangzhou cnc,main products*,industrial robots<cp>
+guangzhou cnc,application field*,machine tool<ly>
+guangzhou cnc,application field*,packaging<ly>
+eston<gs>,main products*,machine tool numerical control system<cp>
+eston<gs>,main products*,ac servo system<co>
+eston<gs>,main products*,industrial robots<cp>
+material forming technology<js>,mainly including*,material chemical element control<js>
+material forming technology<js>,mainly including*,surface heat treatment<js>
+multi-joint robot,application location*,robot base
+multi-joint robot,application position*,robot boom
+multi-joint robot,application position*,robot shoulder
+multi-joint robot,application position*,robot forearm
+multi-articulated robot,application position*,robot wrist
+multi-joint robot,application position*,robot hand
+brushless dc motor<cp>,main structure*,back cover
+brushless dc motor<cp>,main structure*,pcb
+brushless dc motor<cp>,main structure*,hall sensor
+brushless dc motor<cp>,main structure*,ball support
+brushless dc motor<cp>,main structure*,balls
+brushless dc motor<cp>,main structure*,shaft
+brushless dc motor<cp>,main structure*,magnet
+brushless dc motor<cp>,main structure*,coil
+brushless dc motor<cp>,main structure*,spring washer
+brushless dc motor<cp>,main structure*,gasket
+brushless dc motor<cp>,main structure*,stator
+brushless dc motor<cp>,main structure*,housing
+brushless dc motor<cp>,main structure*,wire

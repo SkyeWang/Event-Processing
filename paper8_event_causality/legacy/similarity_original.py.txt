@@ -1,0 +1,34 @@
+from sklearn.feature_extraction.text import CountVectorizer
+import numpy as np
+from scipy.linalg import norm
+
+def tf_similarity(s1, s2):
+    def add_space(s):
+        return ' '.join(list(s))
+
+    s1, s2 = add_space(s1), add_space(s2) #在字中间加上空格
+    cv = CountVectorizer(tokenizer=lambda s: s.split()) #转化为TF矩阵
+    corpus = [s1, s2]
+    vectors = cv.fit_transform(corpus).toarray() #计算TF系数
+    return np.dot(vectors[0], vectors[1]) / (norm(vectors[0]) * norm(vectors[1]))
+    with open('1.txt', 'rt', encoding='utf-8') as f:
+        # open为打开文件，r为读取
+        f = open('1.txt', 'rt', encoding='utf-8')
+        # 逐行读取文件内容
+        lines = f.readlines()
+     with open("2.txt", "rt", encoding='utf-8') as file:
+        for line in lines:
+            print(tf_similarity(s1, s2))
+            if tf_similarity(s1, s2) > 0.4:
+                s2 = s1
+                with open("3.txt", "w", encoding='utf-8') as file1:
+                    file.write("\n")
+                    
+# s1 = '推动数字经济建设'
+# s2 = '大力发展数字经济'
+# print(tf_similarity(s1, s2))
+# if tf_similarity(s1, s2)>0.4:
+#     s2=s1
+
+
+

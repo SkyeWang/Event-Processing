@@ -1,0 +1,5 @@
+# 先在单独环境准备所需的 PyTorch；已有 pytorch_gpu 环境不必重新安装。
+# llama.cpp 推理本身不使用 PyTorch；原作者模块在导入时使用 Transformers 和 rich。
+transformers==5.12.1
+rich
+huggingface-hub==1.21.0

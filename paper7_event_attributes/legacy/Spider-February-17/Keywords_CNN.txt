@@ -1,0 +1,11 @@
+5G			                            page: 1-4, size: 50, sort: newest
+China US Technology	    page: 1-20, size: 50, sort: relevancy
+China US Tariffs	            page: 1-10, size: 50, sort: relevancy
+ZTE			                            page: 1-6, size: 50, sort: relevancy
+China US Huawei		        page: 1-14, size: 50, sort: relevancy
+China US Chip		            page: 1-11, size: 50, sort: relevancy
+China US Chip War	        page: 1-6, size: 50, sort: relevancy
+China US Trade		            page: 1-100, size: 50, sort: relevancy
+China US Semiconductor	page: 1-5, size: 50, sort: relevancy
+New Energy Vehicle 	        page: 1-20, size: 50, sort: relevancy
+US Entity List 	 	            page: 1-5, size: 50, sort: relevancy

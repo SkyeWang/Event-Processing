@@ -1,0 +1,259 @@
+system-on-chip*
+technical services*
+dsp chips<cp>*
+gpu m9 chip<cp>*
+infrared light-emitting tube<cp>*
+3rd generation semiconductors*
+automotive field<ly>*
+downstream industry chain*
+epitaxy enterprises*
+ic applications*
+gan*
+sic epitaxy*
+fpgas<cp>*
+domestic diode*
+vertical integration*
+low-end to high-end division*
+收购*
+mobile phone field<ly>*
+upstream procurement supplier core*
+low-end to high-side division*
+ic packaging and testing*
+mobile phone/pc/game host manufacturers*
+silicon wafer vendors*
+cpu<cp>*
+chip materials and equipment manufacturing enterprises*
+integrated circuit applications*
+apps*
+chinese mainland typical enterprise*
+representing manufacturers*
+electronic design automation*
+cpus<cp>*
+integrated gpu*
+dram<cp>*
+gan substrate*
+laser tube<cp>*
+system-on-chips*
+cloud services*
+laser devices<cp>*
+personal computer field<ly>*
+demand markets*
+the era of area array packaging*
+general-purpose gpu*
+associated products*
+cvd equipment*
+gpu*
+internet of things*
+chip core equipment*
+distributors*
+polishing liquid<cp>*
+front-end design (logic design)*
+ic design*
+midstream industry chain (ic design and production)*
+company composition*
+physical indicators*
+through-hole cartridge era*
+wafer foundries*
+logic circuits*
+foundry*
+semiconductor discrete devices<yw>*
+analog circuit*
+pvd equipment*
+sic substrate*
+revenue source*
+gpus<cp>*
+sic devices*
+product categories*
+discrete gpu*
+tpu<cp>*
+light-emitting diode<cp>*
+domestic automotive grade transistor*
+200mm/8 foundry*
+smartphones*
+soc chips<cp>*
+as the cornerstone of the industry*
+jingjiawei<gs>*
+asics<cp>*
+epitaxial enterprises*
+global ic packaging and testing industry pattern*
+china cidm*
+software level*
+uv detector<cp>*
+<=150mm/6 foundry*
+polishing pad<cp>*
+silicon wafer manufacturer*
+jm7200芯片<cp>*
+area array packaging era*
+<=150mm/6 wafer foundry*
+solar cells<cp>*
+digital chip*
+semiconductor discretes<yw>*
+development barriers*
+artificial intelligence*
+analog ic*
+digital circuit*
+rom read only memory*
+analog ics*
+vendors*
+substrate enterprises*
+300mm/12 foundry*
+mobile phone/pc/game console manufacturers*
+fabless*
+downstream customer core*
+embedded processors*
+cloud ai model*
+analog circuits*
+dsp digital signal processing<cp>*
+third generation semiconductor*
+domestic manufacturer*
+demand driven*
+personal computer gpus*
+npu<cp>*
+gaas bottom*
+cpu*
+adno<gs>*
+domestic manufacturers*
+gaas substrate*
+tegra processor chip<cp>*
+osat mode*
+substrate enterprise*
+unigroup guowei<gs>*
+voice chip<cp>*
+acquisitions*
+gpu chips<cp>*
+physical design layout*
+hall element<cp>*
+mcu microcontroller units<cp>*
+昆仑<cp>*
+eda tool manufacturers*
+general-purpose chip*
+application*
+light-emitting diodes<cp>*
+semiconductor equipment*
+packaging manufacturers*
+surface mount era*
+integrated circuit manufacturing*
+packaging links*
+cryptocurrency*
+texas instruments<gs>*
+nand flash<cp>*
+pc gpu*
+gaas元件*
+plastic sealing materials*
+eda tools*
+silicon wafer foundry*
+supplier*
+epitaxy enterprise*
+digital signals*
+2nd generation semiconductor*
+ic manufacturing*
+gpus*
+self-driving gpus*
+global ip core landscape*
+ic applications*<ly>*
+enhanced cpu*
+wafer fabrication equipment*
+main product business*
+昇腾<cp>*
+autonomous driving gpus*
+autonomous driving gpu*
+server gpu*
+digital circuits*
+digital ic*
+digital signal*
+vendor*
+equipment packaging and testing*
+from low-end to high-end division*
+gaas foundry*
+mpu microprocessor units<cp>*
+sic epitaxial*
+advantages*
+云燧<cp>*
+gpgpu<cp>*
+front-end design (logical design)*
+integrated circuit<cp>*
+plastic sealing material*
+technical service market structure*
+gaas components*
+high-speed integrated circuits<cp>*
+upstream industry chain (manufacturing)*
+memory circuits*
+industrial control*
+polishing fluid<cp>*
+packaging technology evolution process*
+sapphire substrate*
+sic器件*
+thyristor<cp>*
+eda*
+suppliers*
+nvidia<gs>*
+necessary conditions for improvement*
+gaas*
+laser device<cp>*
+rom read-only memory*
+server field<ly>*
+third-generation semiconductor high-end device development strategy*
+automotive manufacturers*
+cidm model*
+polishing pads<cp>*
+applications*
+cons*
+highly integrated soc technology<js>*
+through-hole insertion era*
+chip core materials*
+wafer foundry*
+equipment manufacturing*
+downstream customers*
+silicon foundry*
+digital ics*
+disadvantages*
+ram random access memory*
+demand-driven*
+iot*
+merit*
+military electronics field<ly>*
+vlsi chips*
+demand market*
+si*
+pros*
+cidm mode*
+gpu<cp>*
+integrated circuits<cp>*
+microwave tube<cp>*
+ip core classification*
+information processing intermediaries*
+amd<gs>*
+含光<cp>*
+si substrate*
+advanced packaging era*
+chip design tools*
+mcu microcontroller unit<cp>*
+military field<ly>*
+jingjia wei<gs>*
+back-end design (physical design)*
+laser modulator<cp>*
+vpu<cp>*
+related products*
+rectifier<cp>*
+radiation detector<cp>*
+chinese mainland typical enterprises*
+3rd generation semiconductor*
+idm mode*
+epitaxial wafer*
+1st generation semiconductor*
+sic*
+barriers to development*
+fpga<cp>*
+<=150mm/6-inch foundry*
+integrated circuit design*
+materials manufacturing*
+power semiconductor devices<yw>*
+nor flash*
+silicon wafer manufacturers*
+ip*
+chip packaging and testing equipment*
+semiconductor front-end production control software market*
+packaging manufacturer*
+new energy power generation*
+representative manufacturers*
+material packaging and testing*

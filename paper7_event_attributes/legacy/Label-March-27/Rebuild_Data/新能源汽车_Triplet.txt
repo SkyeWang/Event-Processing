@@ -1,0 +1,836 @@
+definition and classification,classification by mode of power*,pure electric vehicles
+definition and classification,classification by mode of power*,hybrid vehicles
+definition and classification,classification by mode of power*,fuel cell vehicles
+definition and classification,classification by energy class*,alternative energy vehicles
+definition and classification,classification by energy class*,mild hybrid
+definition and classification,classification by energy class*,moderate mixed
+definition and classification,classification by energy class*,heavy hybrid models
+definition and classification,advantages*,energy saving and emission reduction
+definition and classification,advantages*,environmental protection
+definition and classification,advantages*,less mechanical wear
+definition and classification,advantages*,basically no post-maintenance
+definition and classification,the core of the traditional automotive industry*,engines
+definition and classification,the core of the traditional automotive industry*,chassis
+definition and classification,the core of the traditional automotive industry*,gearboxes
+definition and classification,new energy vehicle core*,battery
+definition and classification,new energy vehicle core*,electronic control
+definition and classification,new energy vehicle core*,motor
+vehicle manufacturing (midstream),three major manufacturers*,traditional car companies
+vehicle manufacturing (midstream),the three major manufacturers*,a new force in vehicle manufacturing
+vehicle manufacturing (midstream),three major manufacturers*,crossover car manufacturing
+automotive aftermarket services (downstream),charging piles*,operators
+automotive aftermarket services (downstream),charging piles*,equipment manufacturers
+automotive aftermarket services (downstream),charging piles*,solution providers
+parts manufacturing and supply (upstream),power battery<cp>*,suppliers
+parts manufacturing and supply (upstream),power battery<cp>*,main production location
+parts manufacturing and supply (upstream),fuel cell<cp>*,fuel cell vehicles<cp>
+component manufacturing and supply (upstream),fuel cell<cp>*,suppliers
+parts manufacturing and supply (upstream),fuel cell<cp>*,hydrogen refueling stations
+parts manufacturing supply (upstream),lithium battery equipment<cp>*,manufacturing process
+parts manufacturing and supply (upstream),lithium battery equipment<cp>*,production equipment
+parts manufacturing and supply (upstream),lithium battery equipment<cp>*,domestic suppliers
+parts manufacturing supply (upstream),bms<cp>*,market players
+parts manufacturing and supply (upstream),bms<cp>*,main suppliers
+parts manufacturing and supply (upstream),bms<cp>*,electronic control manufacturers
+component manufacturing supply (upstream),powertrain<cp>*,market players
+parts manufacturing supply (upstream),other parts*,suppliers
+component manufacturing supply (upstream),technical layer*,battery energy density<js>
+component manufacturing supply (upstream),technical layer*,new material synthesis<js>
+component manufacturing supply (upstream),technical layer*,potential energy conversion and diaphragm electrolysis<js>
+component manufacturing supply (upstream),technical layer*,battery drive and management<js>
+parts manufacturing supply (upstream),technical layer*,cathode and anode material technology<js>
+component manufacturing supply (upstream),technical layer*,permanent magnet synchronous and cage asynchronous<js>
+component manufacturing supply (upstream),technical layer*,central electronic control system<js>
+industrial integration mode,vehicle and battery factories*,saic<gs>
+industrial integration mode,vehicle and battery factory*,baic<gs>
+industrial integration approach,vehicle and battery factories*,tesla<gs>
+industrial integration mode,between automakers*,jac<gs>
+industrial integration mode,battery factories and automakers*,catl<gs>
+industrial integration mode,oem layout upstream*,byd<gs>
+in the industrial integration mode,the oem layout is upstream*,and the vw<gs>
+representative enterprises,byd<gs>*,new energy automobile industry<ly>
+representative company,byd<gs>*,battery business<yw>
+representing companies,byd<gs>*,automotive business<yw>
+representing enterprises,byd<gs>*,electronic business<yw>
+representing companies,li auto<gs>*,autonomous driving business<yw>
+representative companies,li auto<gs>*,family car<yw>
+representing the business,xpeng motors<gs>*,internet electric vehicle research and development<yw>
+the three major manufacturers,traditional car companies*,byd<gs>
+the three major manufacturers,traditional car companies*,bmw<gs>
+the three major manufacturers,traditional car companies*,audi<gs>
+the three major manufacturers,traditional car companies*,volkswagen<gs>
+the three major manufacturers,traditional car companies*,mercedes-benz<gs>
+the three major manufacturers,a new automaker*,nio<gs>
+the three major manufacturers,the new forces of car manufacturing*,nezha automobile<gs>
+the three major manufacturers,the new force of car manufacturing*,ideal<gs>
+the three major manufacturers,the new forces of car manufacturing*,xpeng<gs>
+the three major manufacturers,crossover car manufacturing*,alibaba<gs>
+the three major manufacturers,crossover car manufacturing*,huawei<gs>
+the three major manufacturers,crossover car manufacturing*,xiaomi<gs>
+the three major manufacturers,crossover car manufacturing*,360<gs>
+the three major manufacturers,crossover car manufacturing*,baidu<gs>
+charging pile,operator*,professional operation enterprise
+charging piles,operators*,state-owned enterprises
+charging piles,operators*,vehicle enterprises
+charging pile,operation mode*,charging pile construction
+charging pile,operation mode*,charging pile maintenance
+charging pile,equipment manufacturer*,crestec<gs>
+charging pile,equipment manufacturer*,xu ji<gs>
+charging pile,equipment manufacturer*,zhongheng<gs>
+charging pile,equipment manufacturer*,tonghe technology<gs>
+charging pile,equipment manufacturer*,guodian nari<gs>
+charging pile,equipment manufacturer*,inkerui<gs>
+charging piles,equipment manufacturers*,bassmann<gs>
+charging piles,equipment manufacturers*,faley<gs>
+charging pile,equipment manufacturer*,panasonic<gs>
+charging pile,equipment manufacturer*,beijing beiyuan<gs>
+charging pile,equipment manufacturer*,shenghong<gs>
+charging pile,equipment manufacturer*,senyuan electric<gs>
+charging piles,equipment manufacturers*,wall<gs>
+charging piles,equipment manufacturers*,titans<gs>
+charging pile,equipment manufacturer*,sichuan yonggui<gs>
+charging pile,equipment manufacturer*,avic optoelectronics<gs>
+charging piles,equipment manufacturers*,clou<gs>
+charging piles,equipment manufacturers*,infineon<gs>
+charging piles,equipment manufacturers*,siemens<gs>
+charging piles,equipment manufacturers*,special change<gs>
+charging pile,equipment manufacturer*,hengkai power<gs>
+charging piles,equipment manufacturers*,viton<gs>
+charging pile,solution provider*,special call<gs>
+charging pile,solution provider*,easyplot<gs>
+charging pile,solution provider*,wanma co.
+charging piles,solution providers*,atexun<gs>
+power battery<cp>,supplier*,catl<gs>
+power battery<cp>,supplier*,china power<gs>
+power battery<cp>,supplier*,dongxu optoelectronics<gs>
+power battery<cp>,supplier*,zhongtian technology<gs>
+power battery<cp>,supplier*,citic guoan<gs>
+power battery<cp>,supplier*,juhua co.
+power battery<cp>,supplier*,jianrui woneng<gs>
+power battery<cp>,supplier*,cangzhou pearl<gs>
+power battery<cp>,supplier*,sunwoda<gs>
+power battery<cp>,supplier*,leading intelligent<gs>
+power battery<cp>,supplier*,byd<gs>
+power battery<cp>,supplier*,tianjin lishen
+power battery<cp>,supplier*,lg chem<gs>
+power battery<cp>,supplier*,eve lithium energy<gs>
+power battery<cp>,supplier*,penghui energy<gs>
+power battery<cp>,supplier*,nord<gs>
+power battery<cp>,supplier*,hengdian dongci<gs>
+power battery<cp>,supplier*,aoyang shunchang<gs>
+power battery<cp>,supplier*,chengfei integrated<gs>
+power battery<cp>,supplier*,roshow technology<gs>
+power battery<cp>,supplier*,guoxuan hi-tech<gs>
+power battery<cp>,supplier*,mengshi technology<gs>
+power battery<cp>,supplier*,dongfang seiko<gs>
+power battery<cp>,supplier*,avic lithium battery<gs>
+power battery<cp>,supplier*,universal<gs>
+power battery<cp>,supplier*,micromacro power<gs>
+power battery<cp>,supplier*,mongoli<gs>
+power battery<cp>,supplier*,sinopoly<gs>
+power battery<cp>,supplier*,bak<gs>
+power battery<cp>,supplier*,beijing guoneng<gs>
+power battery<cp>,supplier*,catl<gs>
+power battery<cp>,supplier*,guangyu<gs>
+power battery<cp>,supplier*,changgao group<gs>
+power battery<cp>,supplier*,keheng co.
+power battery<cp>,supplier*,panasonic<gs>
+power battery<cp>,supplier*,ruipu energy<gs>
+power battery<cp>,supplier*,lishen battery<gs>
+power battery<cp>,supplier*,funeng technology<gs>
+power battery<cp>,development trend*,consumer pain points
+power battery<cp>,main production place*,germany
+power battery<cp>,main production place*,united states
+power battery<cp>,main production place*,china
+power battery<cp>,main production place*,japan
+power battery<cp>,main production place*,south korea
+power battery<cp>,material classification*,lithium battery
+power battery<cp>,material classification*,nickel-metal hydride battery
+power battery<cp>,material classification*,lead-acid battery
+power battery<cp>,shape classification*,cylindrical battery
+power battery<cp>,shape classification*,square power battery
+power battery<cp>,shape classification*,ordinary square battery
+power battery<cp>,restriction*,cruising range
+power battery<cp>,function*,power source of new energy vehicles
+power battery<cp>,important technology for the future*,solid-state power battery technology<js>
+fuel cell<cp>,mainly composed of*,catalyst
+fuel cell<cp>,mainly composed of*,electrodes
+fuel cell<cp>,mainly composed of*,bipolar plates
+fuel cell<cp>,mainly composed of*,diaphragm
+fuel cell<cp>,mainly composed of*,stack balancing device
+fuel cell<cp>,mainly composed of*,mold electrode skeleton
+fuel cells<cp>,mainly composed of*,gas diffusion layer
+fuel cell<cp>,mainly composed of*,auxiliary subsystem
+fuel cell<cp>,main indicators*,power density
+fuel cell<cp>,main indicators*,cruising range
+fuel cell<cp>,main indicators*,lifespan
+fuel cell<cp>,main indicators*,cold start temperature
+fuel cell<cp>,key technology*,fuel cell key material technology<js>
+fuel cell<cp>,key technologies*,stack technology<js>
+fuel cell<cp>,key technologies*,system integration and control technology<js>
+fuel cell<cp>,key technologies*,powertrain development technology<js>
+fuel cell<cp>,key technologies*,fuel cell vehicle design and integration technology<js>
+fuel cell<cp>,key technology*,improve power density<js>
+fuel cell<cp>,key technology*,improved durability<js>
+fuel cell<cp>,key technologies*,hydrogen carrying safety<js>
+fuel cells<cp>,key components*,catalysts
+fuel cell<cp>,key components*,carbon paper
+fuel cell<cp>,key components*,bipolar plates
+fuel cell<cp>,key components*,air compressors
+fuel cell<cp>,key components*,70mpa hydrogen storage cylinder
+fuel cell<cp>,key components*,hydrogen cycle device
+fuel cell<cp>,fuel cell vehicle<cp>*,manufacturer
+fuel cell<cp>,supplier*,saic<gs>
+fuel cell<cp>,supplier*,jiangsu sunshine<gs>
+fuel cell<cp>,supplier*,ballard<gs>
+fuel cell<cp>,supplier*,plug<gs>
+fuel cell<cp>,supplier*,toyota<gs>
+fuel cell<cp>,supplier*,honda<gs>
+fuel cell<cp>,supplier*,hyundai<gs>
+fuel cell<cp>,hydrogen refueling station*,frauité equipped<gs>
+fuel cell<cp>,hydrogen refueling station*,hopu co.
+lithium battery equipment<cp>,manufacturing process*,front section (pole piece manufacturing).
+lithium battery equipment<cp>,manufacturing process*,mid-section (cell assembly).
+lithium battery equipment<cp>,manufacturing process*,back-end (chemical component capacity).
+lithium battery equipment<cp>,manufacturing process*,core steps
+lithium battery equipment<cp>,production equipment*,raw materials
+lithium battery equipment<cp>,production equipment*,electrode materials
+lithium battery equipment<cp>,production equipment*,battery cells
+lithium battery equipment<cp>,production equipment*,battery systems
+lithium battery equipment<cp>,production equipment*,complete vehicles
+lithium battery equipment<cp>,domestic supplier*,leading intelligent<gs>
+lithium battery equipment<cp>,domestic supplier*,yinghe technology<gs>
+lithium battery equipment<cp>,domestic supplier*,hangke technology<gs>
+lithium battery equipment<cp>,domestic supplier*,nebulas co.
+lithium battery equipment<cp>,domestic supplier*,golden galaxy<gs>
+lithium battery equipment<cp>,domestic supplier*,keheng co.
+lithium battery equipment<cp>,domestic suppliers*,han's laser<gs>
+lithium battery equipment<cp>,domestic supplier*,liyuanheng<gs>
+bms<cp>,functions*,real-time collection
+bms<cp>,function*,improve battery utilization
+bms<cp>,mainly composed of*,ibgt power switch
+bms<cp>,mainly composed of*,current sensor
+bms<cp>,mainly composed of*,cooling system
+bms<cp>,mainly composed of*,microcontroller
+bms<cp>,mainly composed of*,ripple capacitor
+bms<cp>,mainly composed of*,driver board
+bms<cp>,mainly composed of*,backup dc/dc converter
+bms<cp>,main indicators*,safety
+bms<cp>,main indicators*,power density
+bms<cp>,main indicators*,high pressure
+bms<cp>,main indicators*,emc advanced
+bms<cp>,market participants*,third-party professional manufacturers
+bms<cp>,market participants*,automakers
+bms<cp>,market participants*,power battery manufacturers
+bms<cp>,main supplier*,catl<gs>
+bms<cp>,the main supplier*,byd<gs>
+bms<cp>,main supplier*,jinmai electronics<gs>
+bms<cp>,main supplier*,shanghai jieneng<gs>
+bms<cp>,main supplier*,yineng electronics<gs>
+bms<cp>,the main supplier*,neusoft reach<gs>
+bms<cp>,main supplier*,chery new energy
+bms<cp>,main supplier*,puri joyson<gs>
+bms<cp>,main supplier*,penghui energy<gs>
+bms<cp>,electronic control manufacturer*,wanxiang qianhu<gs>
+bms<cp>,electronic control manufacturers*,dayang electric<gs>
+bms<cp>,electronic control manufacturer*,jiangte motor<gs>
+bms<cp>,electronic control manufacturer*,zhongke sanhuan<gs>
+bms<cp>,electronic control manufacturer*,wolong electric<gs>
+bms<cp>,electronic control manufacturer*,shuanglin co.
+bms<cp>,electronic control manufacturers*,xinqin motors<gs>
+bms<cp>,electronic control manufacturer*,zhenghai magnetics<gs>
+bms<cp>,electronic control manufacturers*,jiadian co.
+bms<cp>,electronic control manufacturers*,founder's motor<gs>
+the powertrain<cp>,functions*,generates power and transmits it to the ground
+the powertrain<cp>,the main components*,drive motor<cp>
+powertrain<cp>,main components*,motor controller
+powertrain<cp>,main composition*,reducer
+powertrain<cp>,market participants*,automakers
+powertrain<cp>,market participants*,third-party integrators
+powertrain<cp>,market players*,major suppliers
+other parts,suppliers*,baomali<gs>
+other parts,suppliers*,wanliyang<gs>
+other components,suppliers*,tuopu group<gs>
+other components,suppliers*,altega<gs>
+other parts,suppliers*,dongling international<gs>
+other parts,suppliers*,asia pacific shares<gs>
+other components,suppliers*,sanlux<gs>
+other components,suppliers*,vie technology<gs>
+other parts,suppliers*,dunan environment<gs>
+other components,suppliers*,asia pacific technology<gs>
+other parts,suppliers*,double ring drive<gs>
+other components,suppliers*,dulwich new materials<gs>
+other parts,suppliers*,yinlun co.
+other parts,suppliers*,matsushiba co.
+other parts,suppliers*,haiyuan machinery<gs>
+other components,suppliers*,yian technology<gs>
+the automaker layout is upstream,byd<gs>*,and the battery<cp>
+the oem layout is upstream,byd<gs>*,and the charging network operation and maintenance<yw>
+oems are deployed upstream,volkswagen<gs>*,battery r&d<yw>
+oems are deployed upstream,volkswagen<gs>*,and battery manufacturing<yw>
+the automaker has an upstream layout,with vw<gs>*,and charging management<yw>
+byd<gs>,battery business<yw>*,3c battery<cp>
+byd<gs>,battery business<yw>*,power battery<cp>
+byd<gs>,battery business<yw>*,energy storage battery<cp>
+byd<gs>,automotive business<yw>*,passenger vehicle<cp>
+byd<gs>,automotive business<yw>*,commercial vehicle<cp>
+byd<gs>,automotive business<yw>*,forklifts
+byd<gs>,electronics business<yw>*,smartphones<ly>
+byd<gs>,electronics business<yw>*,laptop<ly>
+byd<gs>,electronics business<yw>*,new smart products<ly>
+byd<gs>,electronics business<yw>*,automotive intelligent systems<ly>
+byd<gs>,electronics business<yw>*,healthcare<ly>
+byd<gs>,advantages*,supply chain advantages
+byd<gs>,advantages*,technical advantages
+byd<gs>,advantages*,power battery advantages
+byd<gs>,advantages*,brand advantages
+ideal car<gs>,family car<yw>*,suv<cp>
+ideal car<gs>,family car<yw>*,sev<cp>
+li auto<gs>,acquisition*,lifan<gs>
+ideal car<gs>,advantages*,technical advantages
+ideal car,<gs>advantages*,r&d advantages
+ideal car<gs>,advantages*,service advantages
+ideal automotive<gs>,advantage*,partner advantage
+xpeng motors,<gs>internet electric vehicle r&d<yw>*,xpeng p7<cp>
+xpeng motors,<gs>internet electric vehicle r&d<yw>*,xpeng p5<cp>
+xpeng motors,<gs>internet electric vehicle r&d<yw>*,xpeng g3<cp>
+xpeng motors<gs>,advantages*,core technology advantages
+xpeng motors<gs>,advantages*,team management advantages
+xpeng motors<gs>,advantages*,marketing strategy advantages
+xpeng motors<gs>,advantages*,after-sales service advantages
+pure electric vehicles,advantages/disadvantages*,low cost
+pure electric vehicles,advantages/disadvantages*,long battery life
+pure electric vehicles,advantages/disadvantages*,greatly affected by seasonal temperature
+pure electric vehicles,advantages/disadvantages*,limited range
+hybrid vehicles,pro/cons*,long range
+hybrid vehicles,pros/cons*,overall vehicle weight
+hybrid vehicles,superior/cons*,fuel consumption levels are higher than the other two
+hybrid vehicles,pro/cons*,high cost
+fuel cell vehicles,excellent. disadvantage*,-30°c low temperature start-up can be achieved
+fuel cell vehicles,excellent. disadvantages*,long range
+fuel cell vehicles,excellent. disadvantages*,short refueling time
+fuel cell vehicles,excellent. disadvantages*,can adapt to heavy loads
+fuel cell vehicles,excellent. disadvantage*,shorter car life
+operator manufacturer,professional operation enterprise*,special call<gs>
+operators,specialized operating enterprises*,tgood<gs>
+operators,state-owned enterprises*,state grid<gs>
+operator,state-owned enterprise*,china putian<gs>
+operators,oems*,byd<gs>
+operators,oems*,saic<gs>
+suppliers,catl<gs>*,with the largest number of models
+supplier,china power<gs>*,main products
+supplier,dongxu optoelectronics<gs>*,main products
+supplier,zhongtian technology<gs>*,main products
+supplier,citic guoan<gs>*,main products
+supplier,jianrui woneng<gs>*,main products
+supplier,cangzhou pearl<gs>*,main products
+supplier,sunwoda<gs>*,main products
+supplier,pioneer intelligent<gs>*,main products
+supplier,eve lithium energy<gs>*,main products
+supplier,penghui energy<gs>*,main products
+supplier,nord drivesystems<gs>*,main products
+supplier,hengdian dongci<gs>*,main products
+supplier,aoyang shunchang<gs>*,main products
+supplier,chengfei integrated<gs>*,main products
+supplier,roshow technology<gs>*,main products
+supplier,guoxuan hi-tech<gs>*,main products
+supplier,mengshi technology<gs>*,main products
+supplier,dongfang seiko<gs>*,main products
+supplier,guangyu<gs>*,supply
+supplier,changgao group<gs>*,main products
+fuel cell vehicles<cp>,mainly composed of*,battery system
+fuel cell vehicles<cp>,mainly composed of*,hydrogen storage cylinders
+fuel cell vehicles<cp>,mainly composed of*,drive motors
+fuel cell vehicles<cp>,mainly composed of*,vehicle control system
+fuel cell vehicles<cp>,mainly composed of*,auxiliary batteries
+fuel cell vehicle<cp>,manufacturer*,saic<gs>
+fuel cell vehicle<cp>,manufacturer*,foton<gs>
+fuel cell vehicle<cp>,manufacturer*,yutong<gs>
+hydrogen refueling station,frauite-equipped<gs>*,hydrogen storage tank<cp>
+hydrogen refueling station,frauité equipped with<gs>*,liquid hydrogen<cp>
+hydrogen refueling station,furui special installation<gs>*,hydrogen refueling station<cp>
+manufacturing process,core steps*,coating
+manufacturing process,core steps*,winding
+manufacturing process,core steps*,chemical composition
+production equipment,electrode materials*,cathodes
+production equipment,electrode materials*,negative electrodes
+production equipment,electrode materials*,diaphragms
+production equipment,electrode materials*,electrolytes
+production equipment,complete vehicles*,echelon utilization<js>
+production equipment,complete vehicles*,recycling<js>
+production equipment,complete vehicles*,battery recycling<js>
+production equipment,complete vehicles*,comprehensive utilization of materials<js>
+domestic suppliers,leading intelligent<gs>*,leading enterprises
+market participants,third-party specialists*,preh<gs>
+market participants,third-party professional manufacturers*,yineng electronics<gs>
+market participants,third-party specialists*,denso<gs>
+market participants,automakers*,chery new energy<gs>
+market participants,automakers*,byd<gs>
+market participants,automakers*,changan automobile<gs>
+market participants,automakers*,bjev<gs>
+market participants,power battery manufacturers*,catl<gs>
+market participants,power battery manufacturers*,panasonic<gs>
+market participants,power battery manufacturers*,guoxuan hi-tech<gs>
+market participants,power battery manufacturers*,penghui<gs>
+electronic control manufacturer,wanxiang qianhu<gs>*,auto parts<cp>
+electronic control manufacturer,dayang motor<gs>*,starter<cp>
+electronic control manufacturers,dayang electric<gs>*,generators<cp>
+electronic control manufacturer,dayang electric<gs>*,powertrain<cp>
+electronic control manufacturer,jiangte motor<gs>*,motor<cp>
+electronic control manufacturers,jiangte motor<gs>*,lithium battery materials<cp>
+electronic control manufacturer,jiangte motor<gs>*,control system<cp>
+electronic control manufacturer,zhongke sanhuan<gs>*,magnetic products<cp>
+electronic control manufacturer,zhongke sanhuan<gs>*,electric bicycle<cp>
+electronic control manufacturer,wolong electric<gs>*,motor and control device<cp>
+electronic control manufacturers,wolong electric<gs>*,special transformers<cp>
+electronic control manufacturer,wolong electric<gs>*,battery<cp>
+electronic control manufacturer,xinzhi motor<gs>*,auto parts<cp>
+electronic control manufacturers,xinzhi motor<gs>*,electric vehicle rotor<cp>
+electronic control manufacturer,xinzhi motor<gs>*,motor<cp>
+electronic control manufacturer,zhenghai magnetics<gs>*,new energy motor drive system<cp>
+electronic control manufacturer,founder motor<gs>*,automotive application motor<cp>
+electronic control manufacturer,founder motor<gs>*,intelligent control<cp>
+market participants,automakers*,saic motor<gs>
+market participants,third-party integrators*,huawei<gs>
+market participants,third-party integrators*,inovance<gs>
+market participants,third-party integrators*,jingjin electric<gs>
+market participants,third-party integrators*,inbebolt<gs>
+market participants,technical difficulties*,sic devices
+market participants,key suppliers*,tesla<gs>
+market participants,major suppliers*,byd<gs>
+market participants,key suppliers*,azura<gs>
+market participants,key suppliers*,nidec<gs>
+market players,key suppliers*,honeycomb electric drive<gs>
+market players,key suppliers*,progressive electric<gs>
+market participants,major suppliers*,zerorun technology<gs>
+market players,major suppliers*,zf<gs>
+supplier,baowanli<gs>*,main products
+supplier,wanliyang<gs>*,main products
+supplier,tuopu group<gs>*,main products
+supplier,altega<gs>*,main products
+supplier,dongling international<gs>*,main products
+suppliers,asia pacific shares<gs>*,main products
+supplier,sanlux<gs>*,main products
+supplier,vie technology<gs>*,main products
+supplier,dunan environment<gs>*,main products
+supplier,asia pacific technology<gs>*,main products
+supplier,double ring drive<gs>*,main products
+supplier,dulwich new material<gs>*,main products
+supplier,haiyuan machinery<gs>*,main products
+supplier,yi'an technology<gs>*,main products
+saic<gs>,cooperation*,catl<gs>
+baic<gs>,cooperation*,guoxuan hi-tech<gs>
+tesla<gs>,collaboration*,panasonic<gs>
+catl<gs>,shareholding*,anmai<gs>
+catl<gs>,shareholding*,pioneer intelligent<gs>
+advantages/disadvantages,iterations*,extended-range hybrid vehicles
+professional operation enterprise,operation model*,professional operator model
+professional operation enterprise,operation mode*,pile cooperation mode
+professional operation enterprise,operation model*,third-party charging platform leading model
+specialized operating enterprise,characteristics*,for profit
+state-owned enterprises,operating model*,government-led model
+state-owned enterprises,characteristics*,for the purpose of promoting charging piles
+vehicle enterprises,operating models*,automobile sales for the purpose
+vehicle enterprises,characteristics*,vehicle enterprise leading model
+vehicle enterprises,characteristics*,pile cooperation mode
+catl<gs>,supply*,tesla<gs>
+catl<gs>,supply*,nio<gs>
+catl<gs>,supply*,xpeng<gs>
+catl<gs>,supply*,volkswagen<gs>
+catl<gs>,supply*,daimler<gs>
+catl<gs>,supply*,baic<gs>
+catl<gs>,supply*,saic<gs>
+china power<gs>,main products*,battery<cp>
+china dynamics<gs>,main products*,battery housing<cp>
+dongxu optoelectronics<gs>,main products*,supercapacitors<cp>
+zhongtian technology<gs>,main products*,new energy materials<cp>
+citic guoan<gs>,main products*,new energy technology products<cp>
+jianrui woneng<gs>,acquisition*,waterma<gs>
+jianrui woneng<gs>,main products*,controller<cp>
+cangzhou pearl<gs>,main products*,lithium-ion battery separator<cp>
+cangzhou pearl<gs>,main products*,pe double wall corrugated pipe<cp>
+sunwoda<gs>,main products*,lithium-ion battery modules<cp>
+sunwoda<gs>,main products*,structural parts<cp>
+leading intelligent<gs>,main products*,lithium battery manufacturing equipment<cp>
+pilot intelligent<gs>,main products*,capacitors<cp>
+byd<gs>,supply*,byd<gs>
+byd<gs>,supply*,daimler<gs>
+tianjin lishen,supply*,yutong<gs>
+tianjin lishen,supply*,zotye<gs>
+tianjin lishen,supply*,anti-enemy<gs>
+tianjin lishen,supply*,baic<gs>
+tianjin lishen,supply*,zhongqin<gs>
+tianjin lishen,supply*,jac<gs>
+tianjin lishen,supply*,chang'an<gs>
+tianjin lishen,supply*,dongfeng<gs>
+tianjin lishen,supply*,changan automobile<gs>
+tianjin lishen,supply*,chongqing ruichi<gs>
+tianjin lishen,supply*,nanjing golden dragon<gs>
+tianjin lishen,supply*,xiamen golden dragon<gs>
+tianjin lishen,supply*,xiamen golden travel<gs>
+tianjin lishen,supply*,yaxing<gs>
+tianjin lishen,supply*,southeast motor<gs>
+tianjin lishen,supply*,faw bus<gs>
+tianjin lishen,supply*,youth<gs>
+lg chem<gs>,supply*,tesla<gs>
+lg chem<gs>,supply*,volkswagen<gs>
+lg chem<gs>,supply*,daimler<gs>
+lg chem<gs>,supply*,bmw<gs>
+lg chem<gs>,supply*,saic<gs>
+eve lithium energy<gs>,supply*,xpeng<gs>
+eve energy<gs>,supply*,daimler<gs>
+eve energy<gs>,supply*,bmw<gs>
+eve lithium energy<gs>,main products*,lithium primary battery<cp>
+eve lithium energy<gs>,main products*,lithium-ion and lithium-polymer combined battery<cp>
+penghui energy<gs>,main products*,primary battery<cp>
+penghui energy<gs>,main products*,secondary battery<cp>
+nord drivesystems<gs>,main products*,battery materials<cp>
+hengdian east magnetic<gs>,main products*,electromagnetic materials<cp>
+hengdian east magnetic<gs>,main products*,rare earth materials<cp>
+qiaoyang shunchang<gs>,main products*,lithium battery<cp>
+chengfei integrated<gs>,main products*,lithium battery<cp>
+chengfei integrated<gs>,main products*,power system<cp>
+chengfei integrated<gs>,main products*,automotive mold<cp>
+chengfei integrated<gs>,main products*,auto parts<cp>
+roshow technology<gs>,main products*,auto parts<cp>
+roshow technology<gs>,main products*,electromechanical equipment<cp>
+roshow technology<gs>,main products*,new energy vehicles<cp>
+guoxuan hi-tech<gs>,supply*,volkswagen<gs>
+guoxuan hi-tech<gs>,supply*,daimler<gs>
+guoxuan hi-tech<gs>,supply*,baic<gs>
+guoxuan hi-tech<gs>,supply*,saic<gs>
+guoxuan hi-tech<gs>,supply*,ankai<gs>
+guoxuan hi-tech<gs>,supply*,shanghai sunwall<gs>
+guoxuan hi-tech<gs>,supply*,jiangsu jinlong<gs>
+guoxuan hi-tech<gs>,supply*,nanjing golden dragon<gs>
+guoxuan hi-tech<gs>,supply*,zto<gs>
+guoxuan hi-tech<gs>,supply*,zotye<gs>
+guoxuan hi-tech<gs>,supply*,dongfeng<gs>
+guoxuan hi-tech<gs>,supply*,nanjing automotive<gs>
+guoxuan hi-tech<gs>,supply*,xiamen golden travel<gs>
+guoxuan hi-tech<gs>,supply*,shaolin<gs>
+guoxuan hi-tech<gs>,supply*,kowloon motor<gs>
+guoxuan hi-tech<gs>,supply*,new fuda<gs>
+guoxuan hi-tech<gs>,main products*,battery pack<cp>
+guoxuan hi-tech<gs>,main products*,transmission and distribution products<cp>
+guoxuan hi-tech<gs>,main products*,lithium iron phosphate<cp>
+mengshi technology<gs>,main products*,lead battery<cp>
+mengshi technology<gs>,main products*,lithium battery<cp>
+dongfang precision<gs>,main products*,power equipment<cp>
+avic lithium battery<gs>,supply*,changan automobile<gs>
+avic lithium battery<gs>,supply*,dongfeng<gs>
+avic lithium battery<gs>,supply*,beiqi foton<gs>
+avic lithium battery<gs>,supply*,nanjing golden dragon<gs>
+avic lithium battery<gs>,supply*,suzhou golden dragon<gs>
+avic lithium battery<gs>,supply*,lifan<gs>
+avic lithium battery<gs>,supply*,sinotruk howo<gs>
+avic lithium battery<gs>,supply*,zto<gs>
+avic lithium battery<gs>,supply*,chongqing ruichi<gs>
+avic lithium battery<gs>,supply*,guangtong<gs>
+avic lithium battery<gs>,supply*,jiangsu os<gs>
+avic lithium battery<gs>,supply*,gac<gs>
+wanxiang<gs>,supply*,saic<gs>
+wanxiang<gs>,supply*,chery<gs>
+wanxiang<gs>,supply*,gac<gs>
+wanxiang<gs>,supply*,kandi<gs>
+wanxiang<gs>,supply*,shanghai sunwin<gs>
+wanxiang<gs>,supply*,nanjing golden dragon<gs>
+wanxiang<gs>,supply*,zto<gs>
+weihong power<gs>,supply*,beiqi foton<gs>
+weihong power<gs>,supply*,xiamen golden travel<gs>
+weihong power<gs>,supply*,xiamen golden dragon<gs>
+weihong power<gs>,supply*,suzhou golden dragon<gs>
+micro power<gs>,supply*,nanjing golden dragon<gs>
+micro power<gs>,supply*,zto<gs>
+mongoli<gs>,supply*,beiqi foton<gs>
+mongoli<gs>,supply*,yutong<gs>
+mongoli<gs>,supply*,zto<gs>
+mongoli<gs>,supply*,xiamen golden dragon<gs>
+mongoli<gs>,supply*,shanghai sunwall<gs>
+mongoli<gs>,supply*,faw bus<gs>
+mongoli<gs>,supply*,suzhou golden dragon<gs>
+mongoli<gs>,supply*,xiamen golden travel<gs>
+mongoli<gs>,supply*,asing<gs>
+sinopoly<gs>,supply*,kandi<gs>
+sinopoly<gs>,supply*,jmc<gs>
+sinopoly<gs>,supply*,fdg motor<gs>
+bak<gs>,supply*,zotye<gs>
+bak<gs>,supply*,dongfeng<gs>
+bak<gs>,supply*,hengtong<gs>
+bak<gs>,supply*,kowloon motor<gs>
+beijing guoneng<gs>,supply*,dongfeng<gs>
+beijing guoneng<gs>,supply*,wuzhou long<gs>
+beijing guoneng<gs>,supply*,kowloon automobile<gs>
+beijing guoneng<gs>,supply*,shaolin<gs>
+beijing guoneng<gs>,supply*,ankai<gs>
+beijing guoneng<gs>,supply*,foton<gs>
+catl<gs>,supply*,yutong<gs>
+catl<gs>,supply*,xiamen golden dragon<gs>
+catl<gs>,supply*,universal<gs>
+catl<gs>,supply*,nanjing golden dragon<gs>
+catl<gs>,supply*,csr times<gs>
+catl<gs>,supply*,shanghai sunwall<gs>
+catl<gs>,supply*,baic<gs>
+catl<gs>,supply*,foton<gs>
+guangyu<gs>,supply*,baic<gs>
+guangyu<gs>,supply*,dongfeng<gs>
+guangyu<gs>,supply*,hengtong<gs>
+guangyu<gs>,supply*,kowloon motor<gs>
+changgao group<gs>,main products*,electric vehicle high-voltage distribution box assembly<cp>
+panasonic<gs>,supply*,tesla<gs>
+panasonic<gs>,supply*,daimler<gs>
+panasonic<gs>,supply*,gac<gs>
+funeng technology<gs>,supply*,daimler<gs>
+funeng technology<gs>,supply*,baic<gs>
+consumer pain points,range anxiety*,fast charging technology<js>
+consumer pain points,range anxiety*,cruising range
+lithium battery,four key materials*,cathode materials
+lithium battery,four key materials*,negative electrode materials
+lithium battery,four key materials*,separator material
+lithium battery,four key materials*,electrolyte
+lithium battery,lithium battery type*,lithium iron phosphate battery
+lithium battery,lithium battery type*,lithium manganate battery
+lithium battery,lithium battery type*,ternary lithium battery
+lithium battery,lithium battery type*,lithium cobalt oxide battery
+lithium battery,advantages*,high energy density
+lithium battery,advantages*,good charge and discharge performance
+lithium battery,advantages*,high working voltage
+lithium battery,advantages*,no memory effect
+lithium battery,advantages*,no pollution
+lithium battery,disadvantages*,energy density bottleneck
+nimh batteries,key materials*,nimh materials
+nimh battery,advantages*,high energy density
+nimh batteries,advantages*,good operating voltage and energy output
+nimh batteries,advantages*,overcharge and discharge tolerance
+nimh batteries,cons*,memory effect
+lead-acid battery,advantages*,mature process
+lead-acid battery,advantages*,low cost
+lead-acid batteries,disadvantages*,low energy density
+lead-acid batteries,disadvantages*,environmental pollution
+auxiliary subsystems,mainly including*,hydrogen supply subsystems
+auxiliary subsystems,mainly including*,gas supply subsystems
+auxiliary subsystems,mainly including*,water management systems
+auxiliary subsystems,mainly including*,thermal management systems
+auxiliary subsystems,mainly including*,others
+manufacturer,saic<gs>*,roewe 950 platform experimental vehicle<cp>
+manufacturer,foton<gs>*,ouhui hydrogen fuel cell bus<cp>
+manufacturer,yutong<gs>*,yutong's third-generation fuel cell bus<cp>
+saic<gs>,shareholding*,xinyuan power<gs>
+jiangsu sunshine<gs>,shareholding*,shanghai shenli<gs>
+plug<gs>,main areas*,fuel cell forklifts<ly>
+front section (pole piece manufacturing),containing*,stirring
+front section (pole piece manufacturing),containing*,coated
+front section (pole piece manufacturing),containing*,roll pressing
+front segment (pole piece manufacturing),containing*,slit
+midsection (cell assembly),including*,production
+midsection (cell assembly),incl.*,die-cut
+midsection (cell assembly),incl.*,winding
+midsection (cell assembly),including*,lamination
+midsection (cell assembly),including*,welding
+midsection (cell assembly),containing*,liquid injection
+rear segment (chemical capacity),including*,chemical / fractional volume
+post-segment (chemical component capacity),containing*,detection
+the latter segment (chemical composition),including*,pack
+pilot intelligent<gs>,layout*,front section
+pilot intelligent<gs>,layout*,midsection
+pilot intelligent<gs>,layout*,rear section
+yinghe technology<gs>,layout*,front section
+yinghe technology<gs>,layout*,middle section
+yinghe technology<gs>,layout*,rear section
+hangke technology<gs>,layout*,rear section
+nebulas shares<gs>,layout*,rear section
+gold galaxy<gs>,layout*,front section
+golden galaxy<gs>,layout*,midsection
+keheng shares<gs>,layout*,front paragraph
+keheng shares<gs>,layout*,middle section
+han's laser<gs>,layout*,front section
+han's laser<gs>,layout*,midsection
+han's laser<gs>,layout*,rear section
+lee won-hyung<gs>,layout*,front section
+lee won-hyung<gs>,layout*,middle section
+lee won-hyung<gs>,layout*,rear section
+third-party professional manufacturers,features*,many participants
+automakers,characteristics*,master core technology
+power battery manufacturers,features*,cost and efficiency advantages are obvious
+drive motor<cp>,market mainstream*,permanent magnet synchronous motor
+drive motors<cp>,suppliers*,vehicle manufacturers
+drive motor<cp>,suppliers*,parts companies
+oems,features*,integration of upstream
+automakers,characteristics*,master core technologies
+automakers,with their own characteristics*,produce and sell themselves
+third-party integrator,features*,specializing in the development of motor assemblies
+third-party integrators,features*,cost advantages
+third-party integrator,features*,can dock multiple manufacturers
+boss miles<gs>,main products*,image display processing<cp>
+baoman li<gs>,main products*,image acquisition and analysis<cp>
+wanliyang<gs>,main products*,transmission<cp>
+wanliyang<gs>,main products*,interior parts<cp>
+wanliyang<gs>,main products*,transfer case<cp>
+tuopu group<gs>,main products*,rubber shock absorption products<cp>
+tuopu group<gs>,main products*,sound insulation products<cp>
+tuopu group<gs>,main products*,forged aluminum controller<cp>
+ortega<gs>,main products*,compressors<cp>
+aotega<gs>,main products*,automotive air conditioning systems<cp>
+dongling international<gs>,main products*,sea freight services<yw>
+dongling international<gs>,main products*,basic logistics<yw>
+asia pacific<gs>,main products*,disc brakes<cp>
+asia pacific shares<gs>,main products*,abs<cp>
+sanlux<gs>,main products*,v-belt<cp>
+vie technology<gs>,main products*,pneumatic brake system<cp>
+vie technology<gs>,main products*,hydraulic brake system<cp>
+vie technology<gs>,main products*,suspension system<cp>
+vie technology<gs>,main products*,force and manipulation system<cp>
+dunan environment<gs>,main products*,refrigeration accessories<cp>
+dunan environment<gs>,main products*,refrigeration equipment<cp>
+asia-pacific technology<gs>,main products*,pipes<cp>
+asia pacific technology<gs>,main products*,profiles<cp>
+asia-pacific technology<gs>,main products*,bar<cp>
+asia-pacific technology<gs>,main products*,cast rod<cp>
+double ring drive<gs>,main products*,gear<cp>
+double ring drive<gs>,main products*,steel<cp>
+dulwich new material<gs>,main products*,xlpe material<cp>
+dulwich new material<gs>,main products*,pvc material<cp>
+haiyuan machinery<gs>,main products*,hydroforming equipment<cp>
+yi'an technology<gs>,main products*,magnesium products<cp>
+yi'an technology<gs>,main products*,aluminum products<cp>
+yi'an technology<gs>,main products*,zinc products<cp>
+yi'an technology<gs>,main products*,liquid metal<cp>
+partner advantage,cooperation*,nvidia<gs>
+partner advantage,cooperation*,desay sv<gs>
+team management advantages,integration*,traditional car<ly>
+team management advantages,integration*,internet<ly>
+team management advantage,integration*,brand retail<ly>
+product price,cost reduction*,material cost
+product prices,cost reductions*,technology improvements
+product price,cost reduction*,energy density
+range anxiety,range*,ternary high nickel<js>
+range anxiety,range*,pouch battery<js>
+range anxiety,range*,thermal management<js>
+four key materials,cathode materials*,rongbai technology<gs>
+four key materials,cathode materials*,dangsheng technology<gs>
+four key materials,anode materials*,berrett<gs>
+four key materials,anode materials*,shanshan co.
+four key materials,anode materials*,zhongke electric<gs>
+four key materials,diaphragm materials*,enjie shares<gs>
+four key materials,electrolyte*,tianci materials<gs>
+four key materials,electrolyte*,new zhoubang<gs>
+snowman shares<gs>,shareholding*,opcon ab<gs>
+foton<gs>,supply*,car new energy car rental company<gs>
+suppliers,oems*,byd<gs>
+suppliers,oems*,tesla<gs>
+suppliers,oems*,bjev<gs>
+suppliers,vehicle enterprises*,zhengzhou yutong<gs>
+suppliers,oems*,beiqi foton<gs>
+suppliers,parts companies*,shanghai electric drive<gs>
+suppliers,parts enterprises*,suzhou huichuan<gs>
+suppliers,parts companies*,dayang electric<gs>
+suppliers,parts companies*,jingjin electric
+suppliers,parts companies*,founder motor
+suppliers,parts enterprises*,anhui juyi<gs>
+suppliers,parts companies*,united automotive electronics<gs>
+suppliers,parts enterprises*,shandong deyang electronics
+suppliers,parts companies*,shanghai dajun control technology<gs>
+sic devices,immature process*,low yield
+cathode materials,rongbai technology<gs>*,lithium battery cathode materials research and development
+cathode material,dangsheng technology<gs>*,lithium battery cathode material supply<yw>
+cathode material,material type*,lithium cobalt oxide
+cathode material,material type*,ternary lithium
+cathode material,material type*,lithium iron phosphate
+cathode material,material type*,lithium manganate
+cathode material,material type*,aluminum foil
+anode materials,barrett<gs>*,materials research and development for lithium-ion secondary batteries<yw>
+anode material,shanshan shares<gs>*,lithium-ion capacitor<yw>
+anode material,shanshan shares<gs>*,battery pack<yw>
+anode material,zhongke electric<gs>*,electromagnetic metallurgy solution<yw>
+anode material,zhongke electric<gs>*,metallurgical electromagnetic stirring complete system<cp>
+anode material,zhongke electric<gs>*,lifting magnetic complete set of equipment<cp>
+anode material,zhongke electric<gs>*,magnetic iron remover<cp>
+anode material,zhongke electric<gs>*,high voltage inverter<cp>
+anode material,zhongke electric<gs>*,wireless remote terminal<cp>
+anode material,material type*,natural graphite
+anode material,material type*,artificial graphite
+anode material,material type*,lithium titanate
+anode material,material type*,graphene
+diaphragm material,type of material*,polyolefin
+electrolyte,tianci material<gs>*,lithium-ion battery material<cp>
+electrolyte,tianci materials<gs>*,personal care functional materials<cp>
+electrolyte,tianci material<gs>*,silicone called material<cp>
+electrolyte,new zhoubang<gs>*,lithium battery chemicals<cp>
+electrolytes,new zhoubang<gs>*,capacitor chemicals<cp>
+electrolytes,neo-zhubang<gs>*,organofluorine chemicals<cp>
+electrolytes,new zhoubang<gs>*,semiconductor chemicals<cp>
+electrolyte,type of material*,lithium hexafluorophosphate
+lithium iron phosphate battery,application*,domestic plug-in electric vehicle
+lithium manganate battery,application*,nissan motor
+lithium manganate battery,*,mitsubishi motors
+permanent magnet synchronous motor,mainly composed of*,permanent magnet
+permanent magnet synchronous motor,mainly composed of*,stator core
+permanent magnet synchronous motor,main composition*,shell
+permanent magnet synchronous motor,mainly composed of*,rotor
+permanent magnet synchronous motor,mainly composed of*,stator winding
+permanent magnet synchronous motor,mainly composed of*,drive shaft
+permanent magnet synchronous motor,mainly composed of*,butt belt
+dangsheng technology<gs>,supply*,high-end lithium battery customers in china
+nickel-cobalt aluminum,applications*,tesla products
+byd<gs>,supply*,great wall<gs>
+byd<gs>,supply*,denza<gs>
+tesla<gs>,supply*,tesla<gs>
+bjev<gs>,supply*,bjev<gs>
+bjev<gs>,supply*,changhe automobile<gs>
+zhengzhou yutong<gs>,supply*,yutong<gs>
+zhengzhou yutong<gs>,supply*,dayun<gs>
+beiqi foton<gs>,supply*,beiqi foton<gs>
+shanghai electric drive<gs>,supply*,changan automobile<gs>
+shanghai electric drive<gs>,supply*,chery automobile<gs>
+shanghai electric drive<gs>,supply*,faw<gs>
+suzhou huichuan<gs>,supply*,changhe automobile<gs>
+suzhou huichuan<gs>,supply*,faw jiefang<gs>
+suzhou huichuan<gs>,supply*,chery commercial vehicle<gs>
+dayang electric<gs>,supply*,hanteng<gs>
+dayang electric<gs>,supply*,gangnam<gs>
+dayang electric<gs>,supply*,zto<gs>
+jingjin electric,supply*,ankai<gs>
+jingjin electric,supply*,dongfeng<gs>
+jingjin electric,supply*,great wall<gs>
+jingjin electric,supply*,geely<gs>
+jingjin electric,supply*,gac<gs>
+jingjin electric,supply*,faw<gs>
+founder motor,supply*,wuling<gs>
+founder motor,supply*,dongfeng<gs>
+founder motor,supply*,changfan<gs>
+anhui juyi<gs>,supply*,jac<gs>
+anhui juyi<gs>,supply*,faw<gs>
+anhui juyi<gs>,supply*,dongfeng nissan<gs>
+anhui juyi<gs>,supply*,chery<gs>
+anhui juyi<gs>,supply*,gac<gs>
+anhui juyi<gs>,supply*,lifan<gs>
+anhui juyi<gs>,supply*,ankai<gs>
+anhui juyi<gs>,supply*,nanjing golden dragon<gs>
+anhui juyi<gs>,supply*,xiamen golden dragon<gs>
+united automotive electronics<gs>,supply*,saic<gs>
+united automotive electronics<gs>,supply*,saic-gm<gs>
+united automotive electronics<gs>,supply*,faw-volkswagen<gs>
+united automotive electronics<gs>,supply*,great wall<gs>
+united automotive electronics<gs>,supply*,baic<gs>
+united automotive electronics<gs>,supply*,geely<gs>
+united automotive electronics<gs>,supply*,byd<gs>
+united automotive electronics<gs>,supply*,lifan<gs>
+shanghai electric drive<gs>,supply*,chery<gs>
+shanghai electric drive<gs>,supply*,saic<gs>
+shanghai electric drive<gs>,supply*,dongfeng<gs>
+shanghai electric drive<gs>,supply*,geely<gs>
+shanghai electric drive<gs>,supply*,gac<gs>
+shanghai electric drive<gs>,supply*,zto<gs>
+shanghai electric drive<gs>,supply*,yutong<gs>
+shanghai electric drive<gs>,supply*,sunwo<gs>
+shanghai electric drive<gs>,supply*,suzhou golden dragon<gs>
+shanghai electric drive<gs>,supply*,southeast motor<gs>
+shandong deyang electronics,supply*,kandi<gs>
+shandong deyang electronics,supply*,zhidou<gs>
+shanghai dajun control technology<gs>,supply*,baic<gs>
+shanghai dajun control technology<gs>,supply*,dongfeng<gs>
+shanghai dajun control technology<gs>,supply*,saic<gs>
+shanghai dajun control technology<gs>,supply*,gac<gs>
+shanghai dajun control technology<gs>,supply*,changan<gs>
+shanghai dajun control technology<gs>,supply*,xiamen golden dragon<gs>
+shanghai dajun control technology<gs>,supply*,shenzhen wuzhou long<gs>

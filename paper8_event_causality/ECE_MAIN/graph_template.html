@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>因果关系有向图</title>
+  <style>
+    :root { color-scheme: light; font-family: "Microsoft YaHei", "PingFang SC", sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f5f7fa; color: #17212d; }
+    header { padding: 22px 28px 16px; background: #fff; border-bottom: 1px solid #dce3eb; }
+    h1 { margin: 0 0 6px; font-size: 24px; font-weight: 680; }
+    .sub { color: #536477; font-size: 13px; line-height: 1.5; }
+    .tag { display: inline-block; padding: 4px 9px; margin-left: 10px; border-radius: 16px; color: #17516c; background: #dceef7; font-size: 12px; vertical-align: middle; }
+    main { display: grid; grid-template-columns: minmax(0, 1fr) 340px; height: calc(100vh - 92px); min-height: 580px; }
+    .left { display: flex; flex-direction: column; min-width: 0; }
+    .toolbar { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; padding: 12px 18px; }
+    input { min-width: 230px; flex: 1; max-width: 410px; padding: 9px 12px; border: 1px solid #bccbd9; border-radius: 8px; background: #fff; font: inherit; font-size: 14px; }
+    button { padding: 9px 12px; border: 1px solid #bccbd9; border-radius: 8px; background: #fff; color: #213c53; font: inherit; font-size: 13px; }
+    button:hover { background: #e9f3f8; }
+    .count { margin-left: auto; color: #536477; font-size: 13px; }
+    .graph-wrap { flex: 1; min-height: 0; padding: 0 18px 18px; }
+    svg { display: block; width: 100%; height: 100%; min-height: 460px; background: #fff; border: 1px solid #dce3eb; border-radius: 12px; touch-action: none; }
+    .edge { fill: none; stroke: #8ba4b7; stroke-width: 1.8; opacity: .72; }
+    .edge.focus { stroke: #d35c31; stroke-width: 3.2; opacity: 1; }
+    .node { fill: #78b4d4; stroke: #25739a; stroke-width: 1.5; }
+    .node.focus { fill: #f5a76f; stroke: #bd542d; stroke-width: 2.8; }
+    .dim { opacity: .12 !important; }
+    .node-label { fill: #223448; font-size: 13px; paint-order: stroke; stroke: #fff; stroke-width: 4px; stroke-linejoin: round; pointer-events: none; }
+    .node-label.dim { opacity: .1; }
+    aside { overflow: auto; padding: 20px 22px; background: #fff; border-left: 1px solid #dce3eb; }
+    aside h2 { font-size: 17px; line-height: 1.45; margin: 0 0 8px; }
+    aside h3 { margin: 24px 0 8px; font-size: 13px; color: #597085; letter-spacing: .04em; }
+    .hint { color: #607287; line-height: 1.7; font-size: 13px; }
+    .relation { border-top: 1px solid #e6ebf0; padding: 10px 0; font-size: 13px; line-height: 1.5; }
+    .relation strong { display: block; font-weight: 620; }
+    .evidence { color: #607287; font-size: 12px; overflow-wrap: anywhere; }
+    @media (max-width: 900px) { main { display: block; height: auto; } .graph-wrap { height: 65vh; min-height: 470px; } aside { border-left: 0; border-top: 1px solid #dce3eb; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>因果关系有向图 <span class="tag" id="provenance"></span></h1>
+    <div class="sub">箭头表示原因 → 结果。点击节点查看相邻事件与原文 ID；拖动空白处平移，滚轮缩放。</div>
+  </header>
+  <main>
+    <section class="left" aria-label="有向图">
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="搜索事件类型、产品或地区" aria-label="搜索事件">
+        <button id="reset" type="button">重置视图</button>
+        <span class="count" id="count"></span>
+      </div>
+      <div class="graph-wrap"><svg id="graph" viewBox="0 0 1000 700" role="img" aria-label="事件因果关系有向图">
+        <defs><marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8ba4b7"></path></marker><marker id="arrow-focus" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#d35c31"></path></marker></defs>
+        <g id="edges"></g><g id="nodes"></g>
+      </svg></div>
+    </section>
+    <aside id="details" aria-live="polite"><h2>选择一个事件</h2><p class="hint">查看它导致的结果、形成它的原因，以及每条关系对应的原文 ID。</p></aside>
+  </main>
+  <script id="graph-data" type="application/json">__GRAPH_DATA__</script>
+  <script>
+    (() => {
+      const data = JSON.parse(document.getElementById('graph-data').textContent);
+      const svg = document.getElementById('graph');
+      const edgesLayer = document.getElementById('edges');
+      const nodesLayer = document.getElementById('nodes');
+      const details = document.getElementById('details');
+      const search = document.getElementById('search');
+      const byId = new Map(data.nodes.map(n => [n.id, n]));
+      let selected = null;
+      let view = {x: 0, y: 0, w: 1000, h: 700};
+      let drag = null;
+      const ns = 'http://www.w3.org/2000/svg';
+      document.getElementById('count').textContent = `${data.nodes.length} 个事件 · ${data.edges.length} 条因果边`;
+      document.getElementById('provenance').textContent = data.provenance;
+      if (data.nodes.length === 0) {
+        details.innerHTML = '<h2>暂无预测因果关系</h2><p class="hint">该测试集上模型没有输出因果事件对。</p>';
+      }
+      function element(tag, attrs, parent) {
+        const el = document.createElementNS(ns, tag);
+        for (const [key, val] of Object.entries(attrs)) el.setAttribute(key, val);
+        parent.appendChild(el);
+        return el;
+      }
+      for (const e of data.edges) {
+        const a = byId.get(e.source), b = byId.get(e.target);
+        const dx = b.x - a.x, dy = b.y - a.y, len = Math.hypot(dx, dy) || 1;
+        const pad = 19;
+        const line = e.source === e.target
+          ? element('path', {d:`M ${a.x+12} ${a.y-12} C ${a.x+56} ${a.y-85}, ${a.x-56} ${a.y-85}, ${a.x-12} ${a.y-12}`,
+              class:'edge', 'marker-end':'url(#arrow)'}, edgesLayer)
+          : element('line', {x1:a.x+dx/len*pad, y1:a.y+dy/len*pad,
+              x2:b.x-dx/len*pad, y2:b.y-dy/len*pad, class:'edge', 'marker-end':'url(#arrow)'}, edgesLayer);
+        e.element = line;
+        const title = element('title', {}, line);
+        title.textContent = `${a.label} → ${b.label}\n原文 ID: ${e.evidence}`;
+      }
+      for (const n of data.nodes) {
+        const group = element('g', {tabindex:'0', role:'button', 'aria-label':n.label}, nodesLayer);
+        n.group = group;
+        n.circle = element('circle', {cx:n.x, cy:n.y, r:17, class:'node'}, group);
+        const title = element('title', {}, n.circle); title.textContent = n.label;
+        if (data.nodes.length <= 45) {
+          n.text = element('text', {x:n.x+21, y:n.y+4, class:'node-label'}, group);
+          n.text.textContent = n.label.length > 12 ? n.label.slice(0,12)+'…' : n.label;
+        }
+        group.addEventListener('click', ev => {ev.stopPropagation(); select(n.id);});
+        group.addEventListener('keydown', ev => {if(ev.key==='Enter' || ev.key===' ') {ev.preventDefault();select(n.id);}});
+      }
+      function addRelation(parent, arrow, label, evidence) {
+        const div = document.createElement('div'); div.className = 'relation';
+        const strong = document.createElement('strong'); strong.textContent = `${arrow} ${label}`;
+        const small = document.createElement('div'); small.className = 'evidence'; small.textContent = `原文 ID：${evidence}`;
+        div.append(strong, small); parent.appendChild(div);
+      }
+      function select(id) {
+        selected = id;
+        const n = byId.get(id);
+        details.replaceChildren();
+        if (!n) {
+          const h = document.createElement('h2'); h.textContent = '选择一个事件';
+          const p = document.createElement('p'); p.className='hint'; p.textContent='查看因果方向和对应的原文 ID。';
+          details.append(h,p);
+        } else {
+          const h = document.createElement('h2'); h.textContent = n.label; details.appendChild(h);
+          const outgoing = data.edges.filter(e => e.source === id);
+          const incoming = data.edges.filter(e => e.target === id);
+          for (const [title, list, arrow, other] of [['导致的结果',outgoing,'→','target'],['形成它的原因',incoming,'←','source']]) {
+            const heading = document.createElement('h3'); heading.textContent = `${title} · ${list.length}`; details.appendChild(heading);
+            if (!list.length) {const p=document.createElement('p'); p.className='hint'; p.textContent='暂无'; details.appendChild(p);}
+            for (const e of list) addRelation(details,arrow,byId.get(e[other]).label,e.evidence);
+          }
+        }
+        updateFocus();
+      }
+      function updateFocus() {
+        const term = search.value.trim().toLowerCase();
+        const matched = new Set(data.nodes.filter(n => n.label.toLowerCase().includes(term)).map(n => n.id));
+        const linked = new Set(selected ? [selected] : []);
+        if (selected) for (const e of data.edges) if(e.source===selected || e.target===selected) {linked.add(e.source); linked.add(e.target);}
+        for (const n of data.nodes) {
+          const dim = (term && !matched.has(n.id)) || (selected && !linked.has(n.id));
+          n.circle.classList.toggle('dim', !!dim);
+          n.circle.classList.toggle('focus', n.id === selected || (!!term && matched.has(n.id)));
+          if(n.text) n.text.classList.toggle('dim', !!dim);
+        }
+        for (const e of data.edges) {
+          const focus = selected && (e.source===selected || e.target===selected);
+          const dim = (selected && !focus) || (term && !matched.has(e.source) && !matched.has(e.target));
+          e.element.classList.toggle('dim', !!dim);
+          e.element.classList.toggle('focus', !!focus);
+          e.element.setAttribute('marker-end', focus ? 'url(#arrow-focus)' : 'url(#arrow)');
+        }
+      }
+      function setView() {svg.setAttribute('viewBox', `${view.x} ${view.y} ${view.w} ${view.h}`);}
+      search.addEventListener('input', updateFocus);
+      document.getElementById('reset').addEventListener('click', () => {search.value=''; view={x:0,y:0,w:1000,h:700};setView();select(null);});
+      svg.addEventListener('click', () => select(null));
+      svg.addEventListener('pointerdown', ev => {if(ev.target.closest('g[role="button"]')) return; drag={x:ev.clientX,y:ev.clientY,view:{...view}};svg.setPointerCapture(ev.pointerId);});
+      svg.addEventListener('pointermove', ev => {if(!drag) return; const r=svg.getBoundingClientRect(); view.x=drag.view.x-(ev.clientX-drag.x)*view.w/r.width;view.y=drag.view.y-(ev.clientY-drag.y)*view.h/r.height;setView();});
+      svg.addEventListener('pointerup', () => drag=null);
+      svg.addEventListener('pointercancel', () => drag=null);
+      svg.addEventListener('wheel', ev => {ev.preventDefault();const k=ev.deltaY<0?0.88:1.12;const w=Math.max(200,Math.min(2400,view.w*k));const h=w*0.7;view.x+=(view.w-w)/2;view.y+=(view.h-h)/2;view.w=w;view.h=h;setView();},{passive:false});
+    })();
+  </script>
+</body>
+</html>

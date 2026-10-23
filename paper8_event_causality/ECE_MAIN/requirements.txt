@@ -1,0 +1,7 @@
+# Python 3.11；PyTorch 请按设备单独安装，沿用本机已验证的 CUDA 构建。
+# 本机实验使用 torch 2.10.0.dev20251124+cu128；此处不覆盖它。
+numpy
+transformers==5.12.1
+safetensors==0.8.0
+networkx
+matplotlib

@@ -1,0 +1,569 @@
+servo drive equipment<cp>
+fanucrobot r-30ia<cp>
+plastics<ly>
+shipbuilding<ly>
+bsnmedical<gs>
+articulated arm
+brushless dc motor<cp>
+servo system manufacturer
+material forming technology<js>
+guangzhou cnc<gs>
+shinsung<gs>
+parallel robots<cp>
+fanuc<gs>
+ruiqi co.
+planetary gearbox<cp>
+and transmits action instructions
+integrated<yw>
+system integration manufacturers
+semiconductor<ly>
+gomtec collaborative robot business<yw>
+hamonaco<gs>
+trajectory planning<js>
+hwacheon<gs>
+canop<gs>
+packaging
+medium-sized power products
+are huge
+signal feedback
+laser cutting<ly>
+material molding technology<js>
+euclidlabs srl<gs>
+industrial robots<yw>
+controller chip hardware<js>
+scara robot<cp>
+computer general platform
+rigid wheel
+chemical<ly>
+fast build speed
+huachangda<gs>
+comau<gs>
+assembly<ly>
+abb<gs>
+servo system<cp>
+mechanics<ly>
+qinchuan machine tools<gs>
+automotive manufacturing<ly>
+the whole industry chain manufacturer
+military industry<ly>
+process automation<ly>
+sorting<ly>
+medium power products
+controller<cp>
+hagong intelligent<gs>
+panasonic<gs>
+six-axis multi-joint robot
+robot forearm
+bosch rexroth<gs>
+discrete automation<ly>
+mechanical time constant
+shanghai huanyan<gs>
+product consistency
+today the international<gs>
+omron<gs>
+chemical industry<ly>
+seymour electric<gs>
+jasic technology<gs>
+yawei co.
+torsional stiffness
+strong system versatility
+construction machinery<ly>
+get the order
+lenze<gs>
+controller software algorithm<js>
+the core components
+china's national conditions
+loading and unloading<ly>
+energy<ly>
+siasun robot<gs>
+shenzhen nitto<gs>
+pc/xt/at computer
+siason<gs>
+biochemistry<ly>
+ball bearings
+tobacco<ly>
+mergers and acquisitions downstream integration<yw>
+jin zitianzheng<gs>
+the upper position module<js>
+robot shoulder
+robot boom
+solar wheel
+huichuan technology<gs>
+metal<ly>
+asynchronous dc motor<cp>
+domestic companies are generally established late
+machine tools<ly>
+robotics<ly>
+praxair motors<gs>
+poor anti-interference ability
+actuator
+serving customers
+according to different application scenarios and uses
+servo control<js>
+arc welding<ly>
+articulated robot
+porsche<gs>
+avg robotics<cp>
+new time up to<gs>
+material chemical element control<js>
+logistics and warehousing automation complete equipment<yw>
+krc4 system architecture<cp>
+spindle motor<cp>
+engineer dividend
+nabotesque<gs>
+computer integrated industrial control system
+multi-articulated robot
+our national conditions
+nano<gs>
+offering motion control oem products<yw>
+intelligent automation solutions<yw>
+huge economic volume
+elevator<ly>
+reducer<cp>
+transfer load
+small size
+automotive<ly>
+machine tool numerical control system<cp>
+drivetrain positioning
+ph.d.<gs>
+car wheel installation
+hand grip opening and closing<js>
+assembly
+marvie<cp>
+average life
+ccr series<cp>
+yongchuang intelligent<gs>
+changying precision<gs>
+nuoli shares<gs>
+electronics<ly>
+eston<gs>
+kuka<gs>
+handling
+smc606<cp>
+the servo system<cp>
+manufacturers of the whole industry chain
+reliability
+ac motors<cp>
+dongfang precision<gs>
+man-machine interface<js>
+input section
+electronic and electrical<ly>
+cartesian coordinate robot
+dx/ma<cp>
+acs<gs>
+wave generator
+invt<gs>
+teco<gs>
+magnetic encoder<cp>
+intelligent service robot<cp>
+response speed
+packaging<ly>
+and the lower position communication<js>
+stator winding heat dissipation is convenient
+wasu ii control system<cp>
+kemotion 5000<cp>
+rb03a1 series<cp>
+robot wrist
+cnc systems<cp>
+transmission type
+ontology manufacturing<js>
+ge industrial systems business<yw>
+print<ly>
+servo interpolation<js>
+the robot body
+siason national team
+flexible wheel
+crp-s80<cp>
+other modules
+imc100 controller<cp>
+image processing module
+return to zero<js>
+the controller software<js>
+layout form
+motor construction
+lowest technical barriers
+keba<gs>
+crack co.
+cixing co.
+trio<gs>
+and perfect industrial chain layout can become bigger and stronger
+ontology design<js>
+3c<ly>
+budweiser<gs>
+oil leakage
+servo motors<cp>
+efort<gs>
+the hardware gap is small
+motion controller
+small inertia
+wire
+china replaced japan as the largest consumer market for industrial robots
+food industry<ly>
+transmission accuracy
+saixiang technology<gs>
+power change rate
+controller software compatibility<js>
+nanjing panda<gs>
+imp series<cp>
+astar<gs>
+special robot<cp>
+reduction gears<cp>
+main signal
+metal processing
+galil<gs>
+light-emitting diode
+st?ubli<gs>
+boshi co.
+domestic brand gap is still there
+ad/da capture card
+shaft
+downstream integration<yw>
+cycloid pin wheel
+lower position motion control<js>
+scara robots<cp>
+cartesian robots<cp>
+hkust intelligent<gs>
+aerotech<gs>
+the range of action of each degree of freedom
+delta robot
+surface heat treatment<js>
+robot base
+cargo loading
+real-time software system
+harmonic reducer manufacturer
+drive and control system equipment supply<yw>
+metal cutting processing
+moment of inertia
+for zero signal
+multi-joint robot<cp>
+easy to generate electromagnetic interference
+topstar<gs>
+the lack of high-power products
+han's laser<gs>
+huge and rapid growth in demand
+loading and unloading
+lectra precision<gs>
+cloos<gs>
+saiteng co.
+reducer manufacturer
+beijing zhongji kemei<gs>
+infranor<gs>
+coating<ly>
+cnc machine tools<cp>
+hongxun technology<gs>
+walmart<gs>
+strong anti-interference ability
+with localized service competitive advantage
+siasun<gs>
+single-chip microcomputer as the core
+dc inverters<cp>
+automated assembly and inspection production line integration<yw>
+server<cp>
+servo motor<cp>
+giant wheel intelligent<gs>
+upstream integration<yw>
+plastic<ly>
+industrial robots<cp>
+noli shares<gs>
+articulated robots<cp>
+chemical<>
+spring washer
+3d simulation<js>
+qianjiang motorcycle<gs>
+brushed dc motor<cp>
+and power
+huichuan<gs>
+input shaft
+top ten motion control brands
+otc<gs>
+encoded disc
+drop molding
+double ring drive<gs>
+cnc<yw>
+can meet complex motion requirements
+whole industry chain manufacturer
+logistics<ly>
+textiles<ly>
+servo motor manufacturer
+vacuum clean handling<ly>
+ontology manufactures<js>
+linear platform control<ly>
+the upper machine position module<js>
+reduced accuracy
+motion controllers
+ball support
+and the miniaturization is not enough
+ferrari<gs>
+barrett<gs>
+the reducer<cp>
+output part
+semiconductor testing<ly>
+guc series<cp>
+and the signal connector is unstable
+audi<gs>
+shanghai hugong<gs>
+yaskawa<gs>
+xinjie electric<gs>
+dispensing
+shanghai shanghai industrial<gs>
+clean robot<cp>
+backlash
+microelectronics
+the core advantage of system integrators lies in talent and industry accumulation
+schematic design
+robotics<gs>
+competitors in the same industry
+polar coordinate robot<cp>
+motion control<ly>
+light-receiving element
+core components
+can not meet multi-axis linkage and other complex conditions
+kawasaki heavy industries<gs>
+siasun-grc<cp>
+resai intelligent<gs>
+brusk<gs>
+equipment manufacturers
+controller software<js>
+performance is lower than experimental data
+large power products
+system integrator manufacturers
+degrees of freedom of motion
+harmonic reducer<cp>
+small power products
+brushless and commutator
+lanying equipment<gs>
+servo drives<cp>
+power grid<ly>
+involute cylindrical gear
+shanghai electromechanical<gs>
+yellow river cyclone<gs>
+schneider<gs>
+top 10 motion control brands
+low cost
+transmission efficiency
+robot ontology manufacturer
+epson<gs>
+semiconductor design and manufacturing<js>
+total solution<cp>
+relatively fragmented
+system integrators in other industries
+laifu harmonics<gs>
+collaborative robots
+robot ontology
+bronte<gs>
+bmw<gs>
+clearance
+shaoneng co.
+high performance machine control<yw>
+planetary reducer<cp>
+system integrator manufacturer
+shenzhen zhongweixing<gs>
+gsk-rc<cp>
+dc motor<cp>
+scara robotics<cp>
+patent restrictions
+power products and systems<ly>
+the single-chip microcomputer is the core
+mechanical drives<cp>
+logistics and transportation<ly>
+zhongda de<gs>
+pcb
+project engineers
+baldor<gs>
+nantong zhenkang<gs>
+yuanda intelligent<gs>
+softcontrol shares<gs>
+ipc+ motion controller
+hs><hs technology
+siemens ag<gs>
+terminal applications
+synchronous dc motor<cp>
+bront?<gs>
+polar coordinate robots<cp>
+housing
+the speed of movement of each degree of freedom
+strong openness
+system integrators
+sorting
+and functions implement<js>
+dodge
+main products
+polar robot<cp>
+multi-joint robot
+project engineer
+welding
+rv reducer manufacturer
+number of transmission stages
+boxing
+b&r<gs>
+sumitomo<gs>
+the density slightly exceeds the global level
+low-voltage products<ly>
+servo interruption<js>
+pharmaceutical<ly>
+reducer manufacturers
+ac drives<cp>
+cnc equipment<cp>
+food<ly>
+high precision
+driver<cp>
+unsound product range
+cycloidal pinwheel<cp>
+lcd<ly>
+abb
+teaching<js>
+kollmorgen<gs>
+smart songde<gs>
+medical<ly>
+japanese dominance
+robot<ly>
+and the lack of high-precision encoders
+machine base
+guangzhou cnc
+home appliance manufacturing<ly>
+robot body
+electrical time constant
+nuclear power<ly>
+ac servo system<co>
+service industry
+high-performance positioning systems<cp>
+carnop<gs>
+yangzhou shuguang<gs>
+ac motor<cp>
+scara robot
+stator
+everwin precision<gs>
+external ring gear
+high-performance motion control systems<cp>
+siasung<gs>
+rated load
+servo drive<cp>
+independent research and development<yw>
+and upper position communication<js>
+salesperson
+machine tool<ly>
+avg robot<cp>
+motor<cp>
+googoo hi-tech<gs>
+central china cnc<gs>
+bathroom<ly>
+keyuan co.
+beichao servo<gs>
+installation and commissioning
+balls
+automatic control technology
+machining<ly>
+planetary gear
+magnet
+ryan electric<gs>
+lightweight
+rapoo technology<gs>
+zhiyun co.
+plc system as the core
+mobile robot<cp>
+forward and reverse motion mathematical operations<js>
+robot hand
+accuracy
+coordinate mode
+petroleum<ly>
+spraying
+industrial motors<cp>
+rv reducer<cp>
+application field
+coil
+foss<gs>
+spinea<gs>
+to ensure accuracy
+welding<ly>
+green harmonic<gs>
+indexing ruler
+gootech<gs>
+mitsubishi<gs>
+ac servo motor<cp>
+nachi bujiyue<gs>
+hall sensor
+handling<ly>
+high reliability
+filter gear<cp>
+pharmaceuticals<ly>
+rotor
+overload kinematic capacity
+food<>
+injection molding<ly>
+servo drive
+glue sealing
+offer microprocessor-based precision motion controllers<yw>
+lower camera motion control<js>
+salespeople
+coating
+precision machining and assembly technology<js>
+price advantages
+product series is not perfect
+traffic automation system<yw>
+cycloidal pin wheel<cp>
+input/output power
+cartesian robot<cp>
+functional units<cp>
+high corresponding performance
+svia<gs>
+sensors<cp>
+reduction ratio
+rmd series<cp>
+parker hannifin<gs>
+coca-cola<gs>
+electro-hydraulic servo system<cp>
+does not support advanced
+parallel robot<cp>
+and issues action commands
+high stiffness
+back cover
+channel advantages
+deceleration section
+textile<ly>
+general-purpose i/o
+suitable for high torque environments
+robot<gs>
+standard hardware
+luster<gs>
+delta<gs>
+high heat capacity
+unloading
+sanyo<gs>
+transport equipment<ly>
+robotr-30ia<cp>
+semiconductor manufacturing<ly>
+huazhong cnc<gs>
+lesser intelligent<gs>
+xinshida<gs>
+metalworking<ly>
+delta tau<gs>
+servo systems<cp>
+upper position module<js>
+heating time constant
+gasket
+japan shinbao<gs>
+irc5 controller<cp>
+rb series<cp>
+siemens<gs>
+braking
+cylindrical coordinate robot<cp>
+current servo systems<cp>
+a single chip
+the controller<cp>
+kuka
+system integration
+expansion module
+on-site installation and commissioning personnel
+ford<gs>
+cartesian coordinate robot<cp>
+whole industry chain manufacturers
+more than 85% of the global market share is occupied by japanese manufacturers
+end applications
+spraying<ly>
+transmission error
+multi-joint robots<cp>
+four major family monopolies
+chutian technology<gs>
+optical encoder<cp>
+the top ten motion control brands
+encoder<cp>
