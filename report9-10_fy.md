@@ -1,6 +1,8 @@
 # 1. 第九篇：融合多粒度子结构的高维图表征方法复现
 
 > 代码、运行命令与结果见 [`paper9_sagnn_substructure/README.md`](paper9_sagnn_substructure/README.md)。
+>
+> Word 版：[`reports/SAGNN复现报告.docx`](reports/SAGNN复现报告.docx)。
 
 ## 1.1 简介
 
@@ -112,6 +114,8 @@ ZINC 的差异主要来自训练配置。原代码使用 MSE、100 epochs，本�
 # 2. 第十篇：面向领域文本的元素子结构持续学习与抽取复现
 
 > 代码、运行命令与结果见 [`paper10_domain_kg_extraction/README.md`](paper10_domain_kg_extraction/README.md)。
+>
+> Word 版：[`reports/领域知识抽取复现报告.docx`](reports/领域知识抽取复现报告.docx)。
 
 ## 2.1 简介
 

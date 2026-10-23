@@ -4239,6 +4239,36 @@
       "submitted": "requirements-kg.txt",
       "source_sha256": "c8bacaeb226cc3e03fa898fc0ce0a72494b77c51def96e230a078a1003670ad8",
       "submitted_sha256": "c8bacaeb226cc3e03fa898fc0ce0a72494b77c51def96e230a078a1003670ad8"
+    },
+    {
+      "source": "新增",
+      "submitted": "reports/SAGNN复现报告.docx",
+      "source_sha256": "091b845ffaef3a17fb5209aa3b64fc1ff977eeb97a851ffe20039742b175393e",
+      "submitted_sha256": "091b845ffaef3a17fb5209aa3b64fc1ff977eeb97a851ffe20039742b175393e"
+    },
+    {
+      "source": "新增",
+      "submitted": "reports/领域知识抽取复现报告.docx",
+      "source_sha256": "d7e5c7c41140740e38cb8ed67620f70adfc0890d7f120b4a8686d9167424d163",
+      "submitted_sha256": "d7e5c7c41140740e38cb8ed67620f70adfc0890d7f120b4a8686d9167424d163"
+    },
+    {
+      "source": "新增",
+      "submitted": "docs/代码与注释说明.docx",
+      "source_sha256": "92e223ec68a28ce52767016b38c0f9ccf79e4e3a1d5ad7a7ce40e26695e40df1",
+      "submitted_sha256": "92e223ec68a28ce52767016b38c0f9ccf79e4e3a1d5ad7a7ce40e26695e40df1"
+    },
+    {
+      "source": "新增",
+      "submitted": "report9-10_fy.md",
+      "source_sha256": "1cc4c06a1a64c5b4a53bb69ef38910a118308d90616f881bd5e29105771ce923",
+      "submitted_sha256": "1cc4c06a1a64c5b4a53bb69ef38910a118308d90616f881bd5e29105771ce923"
+    },
+    {
+      "source": "新增",
+      "submitted": "README.md",
+      "source_sha256": "90cf8c42490cf0ffe9ef17c210248a100267a15661c242a0f5f9fdcacb3b19f4",
+      "submitted_sha256": "90cf8c42490cf0ffe9ef17c210248a100267a15661c242a0f5f9fdcacb3b19f4"
     }
   ],
   "note": "提交版增加中文注释、正则默认路径迁移、首次日志目录创建、无 Git 的 AMR 启动及 Unix 脚本换行规范化；legacy Cookie 已移除。大资源按各论文 assets_manifest.json 另行准备。 补充 paper9/paper10 的源码、报告与附件。",
@@ -4853,7 +4883,7 @@
     "paper8_event_causality/reference_inputs/bert_pairs.jsonl": "d9a344a50d57889770de4a9fbb5fecd11bb56ba7b250e38d4145f3fe781df581",
     "paper8_event_causality/reference_inputs/regex_pairs.jsonl": "3c96dc6a86356c202908ede188770aad1be690e96089d38ff9238314e467f917",
     "paper8_event_causality/VALIDATION.md": "b6d9a82e719f99ee3a677e28dd3c7477138046a5888b40a1c0e038848bcccc96",
-    "README.md": "1b131777fc38aa82948ed2671bbc3ae2e8b2d84fc21146833ddd42548a0f9bf4",
+    "README.md": "90cf8c42490cf0ffe9ef17c210248a100267a15661c242a0f5f9fdcacb3b19f4",
     "report7-8_lzc.md": "b46d0c91cfc69564921a13a31cae9e043848303f7b7fbd64d4612bbc5aa9a079",
     "verify_submission.py": "5cdee895b13bed18f6ecd2da2458a0b5f8670c8121381f8c07f688a919a7092d",
     "paper9_sagnn_substructure/assets_manifest.json": "4a25ff067992e52d99f6a0e518b4da51c2da75139b6a905de3fd40ba482a4c30",
@@ -4974,8 +5004,11 @@
     "attachments/mutag_10fold_dgl.csv": "8015636931b7045e0eb4d5eb55588905821fccf5cc75b4f03ea4c01f2fd114af",
     "attachments/mutag_10fold_pyg.csv": "5f6aca8cf4e4cca809d6aca5e7718c5267a9baef3e60d28b149c7fbbe7953350",
     "attachments/zinc_sagnn.csv": "1b43830b6c7a799f7252ca98591be792dc1762b008e5dce06d2b3adb2f953fc9",
-    "report9-10_fy.md": "5a2e765023d879e2cfa2baed8ea773468cd8e44c52b3b105fa2ccb8e04ac42e6",
+    "report9-10_fy.md": "1cc4c06a1a64c5b4a53bb69ef38910a118308d90616f881bd5e29105771ce923",
     "requirements-sagnn.txt": "6503829f96b8ad8eee0595ae79484a4ef8d880f8f1d670533f115a1e9cdc2bf1",
-    "requirements-kg.txt": "c8bacaeb226cc3e03fa898fc0ce0a72494b77c51def96e230a078a1003670ad8"
+    "requirements-kg.txt": "c8bacaeb226cc3e03fa898fc0ce0a72494b77c51def96e230a078a1003670ad8",
+    "reports/SAGNN复现报告.docx": "091b845ffaef3a17fb5209aa3b64fc1ff977eeb97a851ffe20039742b175393e",
+    "reports/领域知识抽取复现报告.docx": "d7e5c7c41140740e38cb8ed67620f70adfc0890d7f120b4a8686d9167424d163",
+    "docs/代码与注释说明.docx": "92e223ec68a28ce52767016b38c0f9ccf79e4e3a1d5ad7a7ce40e26695e40df1"
   }
 }

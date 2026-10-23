@@ -14,7 +14,9 @@
 
 - `paper9_sagnn_substructure/`：SAGNN 的 DGL 原管线、PyG 重写版、MUTAG/ZINC 训练脚本。
 - `paper10_domain_kg_extraction/`：领域知识抽取的爬虫、标注、LoRA + EWC + 回放训练与 Flask 系统。
-- `report9-10_fy.md`：第九、十篇的合并报告。
+- `report9-10_fy.md`：第九、十篇的合并 Markdown 报告。
+- `reports/`：两份 Word 版报告（`SAGNN复现报告.docx`、`领域知识抽取复现报告.docx`）。
+- `docs/代码与注释说明.docx`：代码结构、注释规范与提交说明。
 - `attachments/`：MUTAG/ZINC 与知识抽取的结果文件。
 - `source_manifest.json`：源码与附录原文件的 SHA-256 对应关系。
 
